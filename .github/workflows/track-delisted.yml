@@ -1,0 +1,38 @@
+name: Track Steam Delisted Apps
+
+on:
+  schedule:
+    # Run every day at 06:17 UTC
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Fetch and parse delisted apps
+        run: python scripts/parse_delisted.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add games_list.txt README.md
+          git diff --cached --quiet && echo "No changes" || \
+            git commit -m "chore: update delisted games list $(date -u +%Y-%m-%d)" && \
+            git push
