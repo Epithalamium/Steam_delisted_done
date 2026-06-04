@@ -55,11 +55,11 @@ def parse_html(html: str) -> dict[str, str]:
 
         appid = row["data-appid"]
         tds = row.find_all("td", recursive=False)
-        if len(tds) < 2:
+        if len(tds) < 3:
             continue
-        link = tds[1].find("a")
-        if link:
-            games[appid] = link.get_text(strip=True)
+        links = tds[2].find_all("a")
+        if links:
+            games[appid] = links[-1].get_text(strip=True)
 
     return games
 
@@ -92,11 +92,6 @@ def update_readme(current: dict[str, str], new_appids: set[str]) -> None:
     else:
         new_section = "## Newly Added Since Last Check\n\n_(No new entries this run)_"
 
-    all_lines = [
-        f"- [{name}](https://store.steampowered.com/app/{appid}/) (AppID: {appid})"
-        for appid, name in sorted(current.items(), key=lambda x: int(x[0]))
-    ]
-
     readme = f"""\
 # Steam Delisted Games Tracker
 
@@ -116,7 +111,7 @@ Updated every 2 days via GitHub Actions. Last updated: **{now}**
 
 ## Full List
 
-{chr(10).join(all_lines)}
+The complete list of tracked delisted apps can be found in [games_list.txt](./games_list.txt).
 """
     README_FILE.write_text(readme, encoding="utf-8")
 
