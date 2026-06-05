@@ -90,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -959,7 +959,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -2787,6 +2787,7 @@
 674650	Sound Balling 3
 674690	Project Xandata
 674890	Mechsprofit: Mech Tycoon Simulator
+675120	Crusader Crash
 675230	Secondhand Lands
 675360	Forbidden Love
 675560	NAVYFIELD
@@ -5227,6 +5228,7 @@
 1197870	UnderWorld
 1197930	人工灭绝
 1198120	Coma Simulator 2020 VR
+1198290	Space Block Buster
 1198430	Delusion
 1198550	Moderium
 1198890	Remuage - MeltySensation
@@ -5802,6 +5804,7 @@
 1351280	Killing Stream
 1351470	Chroma Chronicles
 1351580	Hillmain Hotel
+1352230	1917 : The Prologue
 1352380	Guts 'N Goals: Preseason
 1352480	Spell Karts
 1353100	SCP: The Foundation
@@ -6116,6 +6119,7 @@
 1433410	Tetracosm
 1433440	Requiescat
 1433540	Death Circus
+1434010	Beyond The Thaw
 1434220	Sunshine Manor Prologue
 1434250	Horse Shelter 2022
 1434330	Blaze and the Monster Machines: Axle City Racers
@@ -6903,6 +6907,7 @@
 1686890	Terragon: Symbol Of Magic
 1687660	你姐姐
 1687760	Exos Heroes
+1688150	Our Life On Water
 1688570	V.I.L.E.: Viral Infection Level Event
 1688720	HypeSquad
 1688880	End Up
@@ -7996,6 +8001,7 @@
 2130210	Steam Mobile App
 2130480	Cursed Mansion: Confined Between Time and Space
 2131000	Five Nights With Firearms
+2131280	Ancient
 2131990	Seeking Asylum: Revelations
 2132440	少侠传说
 2133130	PenguINN
@@ -8306,6 +8312,7 @@
 2255930	魔女の館
 2256040	For The Freedom!
 2256150	Racing Tracks: Hot Stunt Toy Wheels Drive Drift Car Games Simulator
+2256240	Vivid Tale
 2256720	Elder Trial：Prologue
 2256910	Shapes & Shots
 2257540	Gunslinger Moon
@@ -8441,6 +8448,7 @@
 2321580	StormEdge: Wind of Change
 2321610	北荒纪
 2321620	Mysterious Voyage
+2323730	Shelltered
 2324000	Mocaverse
 2325080	Windosill: Steam Deck Edition
 2325330	삼국지: 패왕
@@ -8509,6 +8517,7 @@
 2351780	Brutal Puzzle
 2351870	- Isekai Junior Manager - ハズレ転生:最底辺から始める異世界経営
 2353170	Homelander
+2353280	FANTAVISION 202X
 2353450	少女战场
 2353490	至尊龙图
 2353860	Umbra
@@ -8754,6 +8763,7 @@
 2452090	Greed is Good
 2452750	Medical Record Sheet
 2454870	Rock Scissor Paper
+2456960	The 7th Guest VR
 2457040	Thyria: Step Into Dreams
 2457060	Mearcair/System Pulse - Prologue
 2458120	Mononeko
@@ -8893,6 +8903,7 @@
 2522870	LoveArena
 2522980	Drowned God
 2524680	Akatori: Сhapter One
+2525990	Quad Battle
 2526720	Extremely Powerful Capybaras: Training Grounds
 2527350	水母之夜
 2528070	Pixelment TD
@@ -9373,6 +9384,7 @@
 2803310	The Detractor
 2803570	Necro Siege
 2803890	Exiled into darkness
+2804200	Martial arts-God of War
 2805960	Bumper Balls
 2807380	Metal Mayhem
 2807900	Cyrus The Virus
@@ -10483,6 +10495,7 @@
 3720640	Arisa | Psychological Horror Game
 3721300	Banner of wonders
 3724110	Hardly Workin'
+3725850	封神传奇
 3727840	Game Together
 3728810	Cop Rush
 3729650	Cats Hidden in Chang'an
@@ -10602,6 +10615,7 @@
 3964960	DOTscape
 3966330	Paper Department
 3966450	Cookie of Desire
+3967270	侠义九州之武林传奇
 3972930	末日战姬ol
 3973900	What Was Home
 3977830	The Cowardly Pig
@@ -10651,6 +10665,7 @@
 4081270	Shattered Vault
 4086490	Beneath their Names
 4113570	Scarface™: The World Is Yours (2006)
+4116530	赤月传奇
 4118960	弈棋·三国志
 4120500	Lewd Network
 4124950	Ashes of Creation
@@ -10694,6 +10709,7 @@
 4231100	Bird Game 4
 4234770	巅峰传奇
 4237330	Kula Collection
+4240660	HANGAR 51: Classified Investigation
 4241590	King's Mug
 4241850	Dreadmyst
 4248050	The True King
@@ -10738,6 +10754,7 @@
 4436480	Rabbit Scare
 4439210	Crucifier
 4450410	Lust Frontiers
+4451900	热血屠龙
 4474950	LIFE EFFECT Survival
 4479680	ValveTestApp4479680
 4482700	Kogama
@@ -10745,9 +10762,11 @@
 4492810	WHOREHAMMER 69 000
 4495510	Plantation Simulator
 4500830	Mirolin: The Big Show
+4501240	帝王霸业
 4501400	A one-day romance
 4503180	TapeSurfer
 4508480	Finisher
+4511760	龙城传奇
 4512200	Spirit Demon Tribulation
 4516820	Tintoria
 4533440	Locks 'n' Leaps
