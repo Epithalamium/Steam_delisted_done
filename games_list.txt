@@ -251,7 +251,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -959,7 +959,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -4808,6 +4808,7 @@
 1091100	Devil_catching_bees
 1091410	Invisible
 1091620	Beat Monsters
+1091690	Timeless
 1091730	Survival&Simulator
 1091970	Medicalholodeck Pro Free Trial
 1092500	AQUARYOUNS World
@@ -6559,6 +6560,7 @@
 1564850	Bed Survival!
 1565230	End of Days
 1565290	Survival Horror #8,436
+1565440	Timeless Dual
 1565700	Vumka
 1565810	One Spirit
 1566720	仙路志异
@@ -7655,6 +7657,7 @@
 1970370	Samurai Qrsento
 1970670	Conditus
 1970720	SCP: Intrusion
+1970910	Escape Jump
 1971360	Fruit farmer
 1971690	The Orb of Darkness
 1971900	ATOMIC TITANS: Light Violence
@@ -8102,6 +8105,7 @@
 2177620	Ruza
 2179050	Relic Hunters Legend Friends & Family Alpha
 2179410	Elasti'Carts 走って転んで引っぱって
+2180250	Survive The Fog
 2180300	Void Sols: Prologue
 2180530	Ragnarok: Fallen Legends
 2180640	Western Settlers
@@ -8893,6 +8897,7 @@
 2517270	Toads of the Bayou: Prologue
 2517690	Adultartambassador's erotic jigsaw puzzle stories
 2518420	Mortie College
+2519340	INSECT
 2519910	Creature Rumble
 2520450	Project
 2520480	Ghost Lift & The Dead Detectives
@@ -10263,6 +10268,7 @@
 3452140	Wiffleball Legends
 3453240	Witchwood
 3454440	Interactive Sex - Incest Twins - Bath
+3457450	Reave
 3459040	Karson
 3460150	Mighty Wars
 3460530	Forsaken Island
@@ -10394,6 +10400,7 @@
 3589560	To Get There
 3591550	Hunter Roulette
 3591760	Interactive Sex - Daddy Daughter Incest BDSM
+3591890	CombatBox
 3594670	Ranman
 3595570	Ballmaster
 3596390	Dragon-Slaying War God
@@ -10570,6 +10577,7 @@
 3859140	Lurker
 3862560	Snowfield Passion
 3865030	霓渊之城：爱神觉醒
+3865120	The Backrooms : Noclipped
 3866880	Dominated by: Yandere Goth Delinquent Sister
 3869390	Ronald Rump - Fake Assassin Simulator: SAVE AMERICA AGAIN
 3872210	Ariana's Perverted Diary
@@ -10697,6 +10705,7 @@
 4179610	SteamRandomPicker
 4180580	Project Cats & Gigs
 4188050	Treasurer
+4191340	ZEROLIMIT
 4197600	Blossaria
 4199540	Summer Delicious Simulator: Prologue
 4200140	The Lost Experiment
@@ -10769,7 +10778,9 @@
 4511760	龙城传奇
 4512200	Spirit Demon Tribulation
 4516820	Tintoria
+4520140	Cinder City
 4533440	Locks 'n' Leaps
+4533910	Malware.exe
 4536290	Last Draft
 4539590	Wax Rogue
 4550580	Achivement Hunter
