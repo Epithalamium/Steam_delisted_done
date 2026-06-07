@@ -90,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max 201: Ice Station Santa
+8260	Sam & Max: Season Two
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -959,7 +959,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -9874,7 +9874,7 @@
 3101820	Prove It and Move It
 3101890	Hentai Senpai: Cum Carnival
 3102040	Supercells
-3104160	Celestials Door
+3104160	Celestials Door Demo
 3104340	Fool House
 3106120	Twisted To The Roots
 3107220	Troy: The Red Winged Hero
