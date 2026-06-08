@@ -2,17 +2,17 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-06-07 09:41 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-06-08 11:22 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 10804 apps
+**Total tracked:** 10805 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-_(No new entries this run)_
+- [EL PASO, NIGHTMARE](https://store.steampowered.com/app/2154820/) (AppID: 2154820)
 
 ---
 
