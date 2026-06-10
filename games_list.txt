@@ -251,7 +251,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -382,20 +382,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classic
+36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans
+36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
-36150	Westward
+36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania
+36180	Cake Mania Collection
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Granny in Paradise
+36270	Super Granny Collection
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -1849,6 +1849,7 @@
 421650	Breach
 421900	Shadowrun Chronicles: INFECTED Director's Cut
 421910	PANOPTES
+422010	Eczema Angel Orifice
 422270	City Play
 422420	Godus Wars
 422590	Wacky Wheels HD
@@ -5853,6 +5854,7 @@
 1364000	Hanefield Asylum
 1364020	Boundary
 1364280	The Kalalau Trail
+1364350	Crate Wars
 1364460	Keizudo
 1364890	Increase World
 1364900	Farming Life: Early Harvest
@@ -6610,6 +6612,7 @@
 1582620	Mega Man X DiVE
 1582790	Frail Faces
 1583030	Dissociation
+1583590	BLACKOUT
 1584520	Monster Dungeon
 1584560	Idle Poker
 1584780	Mummy Candies
@@ -7297,6 +7300,7 @@
 1833810	Last Days of Lazarus - Prologue
 1834340	Unmetaverse
 1834500	做了个魔塔
+1835040	Pangaroids
 1835160	FSTEST
 1835250	Escape
 1835770	我的奇妙冒险
@@ -8172,6 +8176,7 @@
 2201790	Don't Kill the Cat
 2201860	STRONG FORTRESS
 2202760	Rogue Valley
+2202850	Boulder Escape
 2202990	万仙萌
 2203030	Girl Fantasy
 2203050	Endless Politician Killer 2023
@@ -8792,6 +8797,7 @@
 2464320	BallX
 2464400	The Wagadu Chronicles
 2468330	Enigma Playground
+2468730	Dungeon Stalkers
 2468830	How !?
 2468850	Home In Alien
 2468900	Upside The Backrooms
@@ -10693,6 +10699,7 @@
 4152910	完美传奇
 4152920	帝王传奇
 4154550	Cheong-un: Indigo Cloud
+4156110	Deskop Buddy
 4158670	Blast Blade
 4159120	Mommy don't hurt me mommy don't hurt me mommy don't hurt me
 4161660	DOPAmine Overdrive
@@ -10740,6 +10747,7 @@
 4314280	Faehnor Online
 4319070	Street Legal
 4324850	Solheart: The Hollow Sun
+4325590	Hello, Runa!
 4326660	Nancy Drew: The Missing Crowley Will
 4329650	Rooftop Garden
 4330460	屠龙归来
@@ -10798,6 +10806,7 @@
 4653840	Trapped in the Backrooms
 4659290	Let Me Free!
 4660290	100 Hidden ASCII Cats: Colors
+4668790	欲都戰姬
 4672690	马场大亨Online国际版
 4697420	SwordRequiem Crack
 4706530	沙雕之路最终章
