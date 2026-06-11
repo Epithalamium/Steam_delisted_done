@@ -959,7 +959,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -3570,6 +3570,7 @@
 838150	Falling Slime
 838330	Warlords Awakening
 838370	Green General
+838380	DEAD OR ALIVE 6
 838420	Longboard Stunts and Tricks
 838430	Galaxy Ball
 838510	Find & Destroy: Tank Strategy
@@ -5574,6 +5575,7 @@
 1279450	SOL DIVIDE -SWORD OF DARKNESS-
 1279580	FortressV2
 1279910	Nerf Legends
+1280570	Toasty: Ashes of Dusk
 1280710	Sons of Ra Beta
 1280880	Unlock
 1281050	Deep Despair Remastered
@@ -8620,6 +8622,7 @@
 2389310	Love Sex & Fitness
 2389490	Coin Chase
 2390140	Phoenix Springs: Prologue
+2390780	1984
 2391350	Soul of Butterflies: Incubation
 2391380	Life Of Pi
 2391450	Heart.HalfHalf
@@ -8773,7 +8776,6 @@
 2452090	Greed is Good
 2452750	Medical Record Sheet
 2454870	Rock Scissor Paper
-2456960	The 7th Guest VR
 2457040	Thyria: Step Into Dreams
 2457060	Mearcair/System Pulse - Prologue
 2458120	Mononeko
@@ -9045,6 +9047,7 @@
 2595310	Pathless Woods: Prologue
 2596620	Kingdom Wars 4 - Prologue
 2596640	Medieval Kingdom Wars Story
+2596860	Nectar
 2597490	I Think I Wanna Have Your Baby
 2597670	TD Designer
 2598330	Cosmogelica
@@ -9418,6 +9421,7 @@
 2816120	Mazelit
 2817260	Cookthulhu
 2818030	Lost Group
+2818670	Challenges of the Cursed Island
 2819690	City Super Battlefield
 2820120	Ultimate shifumi championship
 2822580	157
@@ -10577,6 +10581,7 @@
 3853060	拟态残响-HollowEcho
 3853900	Battle of Aces
 3855290	求生者：活着
+3855550	Celestial Wardens
 3856640	Poison of the Five Crevices
 3856680	STARGAZING
 3857340	Hentai Drone Simulator
@@ -10652,6 +10657,7 @@
 4014470	BLEEDOUT
 4015400	2Hours
 4017150	Pure Exsotic - Story Simulator
+4025370	MyPlaceDiary
 4028560	Mongol 2
 4029030	Hollow VR
 4029450	Resizer
@@ -10694,6 +10700,7 @@
 4141830	Protocol: Bullet Hell
 4142220	CESW: Jump Royale
 4142450	ASTEROIDS
+4146270	8-Second Records
 4146720	DO NOT MINIMIZE THIS WINDOW
 4149540	Rift Investigations
 4152910	完美传奇
@@ -10714,6 +10721,7 @@
 4180580	Project Cats & Gigs
 4188050	Treasurer
 4191340	ZEROLIMIT
+4192880	Football Tactics Field
 4197600	Blossaria
 4199540	Summer Delicious Simulator: Prologue
 4200140	The Lost Experiment
@@ -10722,6 +10730,7 @@
 4204150	Endless Nightbreak: Blood Horde
 4215830	疯狂传奇
 4226400	冰雪传奇
+4228420	King's Hand
 4230540	SECOND WIND
 4231100	Bird Game 4
 4234770	巅峰传奇
@@ -10746,6 +10755,7 @@
 4309020	Neo Lobby Arcade™
 4314280	Faehnor Online
 4319070	Street Legal
+4321890	Coral Social Club
 4324850	Solheart: The Hollow Sun
 4325590	Hello, Runa!
 4326660	Nancy Drew: The Missing Crowley Will
@@ -10773,6 +10783,7 @@
 4439210	Crucifier
 4450410	Lust Frontiers
 4451900	热血屠龙
+4456530	Deprivation
 4474950	LIFE EFFECT Survival
 4479680	ValveTestApp4479680
 4482700	Kogama
@@ -10786,8 +10797,10 @@
 4508480	Finisher
 4511760	龙城传奇
 4512200	Spirit Demon Tribulation
+4512840	Break The Bank
 4516820	Tintoria
 4520140	Cinder City
+4532270	VStarsCenter
 4533440	Locks 'n' Leaps
 4533910	Malware.exe
 4536290	Last Draft
@@ -10810,5 +10823,6 @@
 4672690	马场大亨Online国际版
 4697420	SwordRequiem Crack
 4706530	沙雕之路最终章
+4707140	彭罗斯游戏
 4725200	Femboy Pirates
 4746690	Audio vibration sample bluetooth ps5 controller
