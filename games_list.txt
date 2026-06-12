@@ -8517,6 +8517,7 @@
 2345530	Escape The Matrix
 2346110	Conflux: Prologue
 2347110	Quasimorph: End of Dream
+2347340	Slidemagi
 2347450	Heroes Stand Tall: M.E.T.A
 2348460	Scarlet Lake (Old Page)
 2349250	Violations Will Be Punished
@@ -10205,6 +10206,7 @@
 3386270	Barrenny
 3386890	灵剑奇缘
 3388130	Sex Adventures - Naughty Sisters - Episode 2
+3388340	Laundromat Manager Simulator
 3389300	Canvas Corridor
 3389330	Pathologic 3: Quarantine
 3389850	Alijia Qiqihar Barbecue
@@ -10798,7 +10800,6 @@
 4511760	龙城传奇
 4512200	Spirit Demon Tribulation
 4512840	Break The Bank
-4516820	Tintoria
 4520140	Cinder City
 4532270	VStarsCenter
 4533440	Locks 'n' Leaps
