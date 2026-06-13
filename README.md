@@ -2,18 +2,18 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-06-12 10:41 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-06-13 09:37 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 10829 apps
+**Total tracked:** 10830 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Slidemagi](https://store.steampowered.com/app/2347340/) (AppID: 2347340)
-- [Laundromat Manager Simulator](https://store.steampowered.com/app/3388340/) (AppID: 3388340)
+- [Just Slash](https://store.steampowered.com/app/3807820/) (AppID: 3807820)
+- [Creations : a visual novel](https://store.steampowered.com/app/4743240/) (AppID: 4743240)
 
 ---
 

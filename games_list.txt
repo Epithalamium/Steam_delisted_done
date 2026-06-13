@@ -959,7 +959,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -10561,6 +10561,7 @@
 3801450	Interactive Sex - Futanari Incest - Episode 4
 3807280	Tales of Aradia: Idle RPG
 3807620	Brian's Redemption
+3807820	Just Slash
 3810490	Dominated by: Yandere Goth Mommy
 3810880	THE CUBE, SAVE US
 3816140	Interactive Sex - Incest Twins - Episode 4
@@ -10709,7 +10710,6 @@
 4152920	帝王传奇
 4154550	Cheong-un: Indigo Cloud
 4156110	Deskop Buddy
-4158670	Blast Blade
 4159120	Mommy don't hurt me mommy don't hurt me mommy don't hurt me
 4161660	DOPAmine Overdrive
 4163990	Culck By DayLight
@@ -10826,4 +10826,5 @@
 4706530	沙雕之路最终章
 4707140	彭罗斯游戏
 4725200	Femboy Pirates
+4743240	Creations : a visual novel
 4746690	Audio vibration sample bluetooth ps5 controller
