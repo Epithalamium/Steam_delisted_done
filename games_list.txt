@@ -51,7 +51,6 @@
 4790	SEGA Rally Revo
 4830	S.T.A.L.K.E.R.: Shadow of Chernobyl
 6090	Armed and Dangerous
-6100	Eets
 6290	Alien Shooter: Vengeance
 6330	Age of Conan: Hyborian Adventures
 6340	Age of Conan: Hyborian Adventures
@@ -90,7 +89,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -959,7 +958,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -2066,6 +2065,7 @@
 475990	MTB Downhill Simulator
 476360	Strike Vector EX
 476930	FourChords Guitar Karaoke
+477140	SparkDimension
 477270	Lightblade VR
 477970	Bloodstained: Ritual of the Night
 478020	Old School 8-in-1 bundle
@@ -4156,6 +4156,7 @@
 951170	Lethal Running: Prologue
 951230	Exive
 951680	Dream Home
+951760	Full Body Workout
 952090	Grand Strategy
 952130	Origin of Decay
 952440	OVERKILL's The Walking Dead - BETA
@@ -4822,6 +4823,7 @@
 1093390	Profane
 1093820	Mondo Museum
 1093860	Dear My Friend
+1094000	Survive the Ocean
 1094100	The Lost Game
 1094620	Ninja Run!
 1094710	Royal Crown
@@ -6701,6 +6703,7 @@
 1610250	Zombie Total War
 1611460	Hide and Run
 1611510	Ball Adventure Ball Simulator
+1611970	Grundlewhack
 1612250	Feudal Lands
 1612280	Mayhem in Single Valley: Prologue
 1614600	VR Balloon Flying over Tokyo and Hokkaido
@@ -8057,7 +8060,6 @@
 2153740	Code Red
 2153990	LandBox
 2154060	Suicide Guy VR Deluxe
-2154820	EL PASO, NIGHTMARE
 2154890	Survival Academy
 2156070	Degen Royale
 2156260	Asian Cargo Sim
