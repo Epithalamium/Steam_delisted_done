@@ -4856,6 +4856,7 @@
 1101380	LOGistICAL 2: Indonesia (FREE as L2 DLC)
 1101840	WBTR
 1101910	Warriors: Rise to Glory! Online Multiplayer Open Beta
+1101960	WREN
 1102230	Lost In Sweets
 1102280	Cult Of The Abyss
 1102730	Lost Action Hero
@@ -7087,6 +7088,7 @@
 1746010	学霸的星期天
 1746110	人中怪物多人版
 1746240	An Embered Expedition
+1747020	SCP: Hellworks
 1747660	Mother of All Secrets
 1748180	Unsung Empires: The Cholas
 1749330	Provenance: Room 226
@@ -10630,6 +10632,7 @@
 3938980	BrownDust2
 3943910	狂斩天下：万劫成皇
 3944540	GODSTEEL
+3944840	Dark Signal
 3947100	Your Waifu
 3947570	You suck and I hate you: part 2
 3948070	GrimmVeil
@@ -10751,6 +10754,7 @@
 4257250	1000 SCORE: 2D Platformer
 4273260	Master Poker
 4282380	Detective Necro
+4285970	图灵证言 Turing Testimony
 4286540	Fun World
 4290600	Ironsphere
 4290860	Vivi's Adventure
