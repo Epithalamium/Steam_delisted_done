@@ -89,7 +89,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -250,7 +250,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -389,7 +389,7 @@
 36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania Collection
+36180	Cake Mania
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
@@ -958,7 +958,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -2011,6 +2011,7 @@
 460570	Starfall Online
 460590	Nanotris
 461000	Totem City
+461040	PICO PARK:Classic Edition
 461490	Kaboom Monsters
 461680	FPV Air Tracks
 461870	Police Simulator: Patrol Duty
@@ -2147,6 +2148,7 @@
 503300	Super Star
 503410	Zombie Camp
 503530	The Fallen Kingdom
+503730	Saving Harmony
 503920	Structure
 504050	Planet Nomads
 504240	Graveyard Smash
@@ -4821,6 +4823,7 @@
 1093170	Monstrum 2
 1093270	Double Dragon - 双龙会
 1093390	Profane
+1093690	Couch Storm: Battle Royale
 1093820	Mondo Museum
 1093860	Dear My Friend
 1094000	Survive the Ocean
@@ -6900,6 +6903,7 @@
 1681460	Dark Edges
 1681580	Draken
 1681610	COMICOMI VR云漫展
+1681720	My Otaku Academia
 1681860	Ultimate Sadou- tea or coffee?
 1681980	九天封神
 1682130	藏梦：序曲
@@ -8209,6 +8213,7 @@
 2209440	sim4D ATC
 2209550	Disfigure: Prologue
 2209570	Games Gallery
+2210800	Monster Racing League
 2210830	Quantum Knights
 2211940	Doge Simulator
 2212000	Rhythm Drive: Synthwave City
@@ -9718,6 +9723,7 @@
 2986410	Perfect Dark
 2987720	Shadowed Descent
 2987870	Cerebral Escape Series: Vol 1
+2991600	The Barnhouse Killer
 2992170	Dead War Rise Of Zumbies
 2992340	Fracctal Monsters
 2992800	JNZ: Nightmare Girls
@@ -10319,6 +10325,7 @@
 3490080	Iron Rift
 3492070	BuildAndExtract
 3492440	Those Who Know
+3492480	Playrooms
 3492620	President Coin
 3494330	Bubblenauts
 3494420	Economic Clicker
@@ -10633,6 +10640,7 @@
 3943910	狂斩天下：万劫成皇
 3944540	GODSTEEL
 3944840	Dark Signal
+3946590	Super Epic Video Game
 3947100	Your Waifu
 3947570	You suck and I hate you: part 2
 3948070	GrimmVeil
