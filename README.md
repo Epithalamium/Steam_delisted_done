@@ -2,24 +2,26 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-06-17 11:19 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-06-18 10:49 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 10846 apps
+**Total tracked:** 10854 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [PICO PARK:Classic Edition](https://store.steampowered.com/app/461040/) (AppID: 461040)
-- [Saving Harmony](https://store.steampowered.com/app/503730/) (AppID: 503730)
-- [Couch Storm: Battle Royale](https://store.steampowered.com/app/1093690/) (AppID: 1093690)
-- [My Otaku Academia](https://store.steampowered.com/app/1681720/) (AppID: 1681720)
-- [Monster Racing League](https://store.steampowered.com/app/2210800/) (AppID: 2210800)
-- [The Barnhouse Killer](https://store.steampowered.com/app/2991600/) (AppID: 2991600)
-- [Playrooms](https://store.steampowered.com/app/3492480/) (AppID: 3492480)
-- [Super Epic Video Game](https://store.steampowered.com/app/3946590/) (AppID: 3946590)
+- [Mage Noir - Infinity](https://store.steampowered.com/app/1542140/) (AppID: 1542140)
+- [It's Better Alone](https://store.steampowered.com/app/1686490/) (AppID: 1686490)
+- [Scopaesthesia](https://store.steampowered.com/app/1813500/) (AppID: 1813500)
+- [CounterSide](https://store.steampowered.com/app/1976440/) (AppID: 1976440)
+- [Bouncy Frenzy](https://store.steampowered.com/app/2070130/) (AppID: 2070130)
+- [Turing Quest](https://store.steampowered.com/app/2080470/) (AppID: 2080470)
+- [Fulfillment Center Simulator](https://store.steampowered.com/app/3182990/) (AppID: 3182990)
+- [Deductopia Demo](https://store.steampowered.com/app/3515580/) (AppID: 3515580)
+- [Blade & Soul Heroes](https://store.steampowered.com/app/3616890/) (AppID: 3616890)
+- [SWEATING](https://store.steampowered.com/app/4150250/) (AppID: 4150250)
 
 ---
 

@@ -89,7 +89,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max 201: Ice Station Santa
+8260	Sam & Max: Season Two
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -250,7 +250,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -389,7 +389,7 @@
 36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania
+36180	Cake Mania Collection
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
@@ -958,7 +958,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -5915,7 +5915,6 @@
 1377980	RX Racing 2020 Pro
 1378010	Eyes of The Mirror
 1378620	Citres
-1378700	CRYPTEX
 1378720	When They Took Me
 1378810	The Haunted Dolls
 1379070	Rise of SamuraizerzZz
@@ -6497,6 +6496,7 @@
 1541870	天天斗地主
 1541940	Pixel Hentai Puzzle
 1542100	Wheelie King Online
+1542140	Mage Noir - Infinity
 1542890	Angry Celt Warrior
 1543360	StarFlint the BlackHole Prophecy
 1543820	PaperCraft
@@ -6920,6 +6920,7 @@
 1685530	Luminary
 1685560	Chimes
 1685700	三千大世界（Three Thousand Worlds ）
+1686490	It's Better Alone
 1686540	my fluffy life
 1686890	Terragon: Symbol Of Magic
 1687660	你姐姐
@@ -7258,6 +7259,7 @@
 1812800	Old Game
 1813150	Jack Move: I.C.E Breaker
 1813210	Help Club
+1813500	Scopaesthesia
 1813730	Outpost
 1813790	Sin Bearers Tactics
 1814640	True Bum Simulator
@@ -7684,6 +7686,7 @@
 1975840	Sovranti
 1976290	Genfanad: A Generic Fantasy Adventure
 1976350	LettersFall 110%™ - 100% FREE Word Game!
+1976440	CounterSide
 1976550	Life Happened
 1976570	Swarm the City: Full Release Prologue
 1976620	Chess, but...
@@ -7860,6 +7863,7 @@
 2069440	Pindeavor
 2069700	Western Dual Wield
 2069940	The Evil of Mutant
+2070130	Bouncy Frenzy
 2070310	抓紧最后一朵
 2070390	Spellbook Demonslayers Prologue
 2070600	FRACTURE IN SPACE
@@ -7892,6 +7896,7 @@
 2079940	机动战线
 2080310	Wakatami Village
 2080340	European Football Dynasty 23
+2080470	Turing Quest
 2080720	Ashcrown
 2081200	Haunted:Live
 2081580	Belonging
@@ -8152,7 +8157,7 @@
 2189740	Little Duty 1
 2190480	Eat Your Fucking Soup
 2190630	Mirror Amusement Park
-2191050	Life Effect
+2191050	Life Effect (Retired Version)
 2191600	Hentai Heroes
 2191750	Wildmender Alpha
 2192230	Polilaser
@@ -9536,7 +9541,6 @@
 2872860	Panda:Eats,Shoots and Leaves
 2873820	Redemption of Li Wei
 2874230	THE SHRiNK Season Two
-2875450	Coffee Mania
 2875940	Sultan Jumps
 2876590	Thor's Legacy
 2877160	失乐星图Nornium
@@ -9907,7 +9911,7 @@
 3108090	Starzelia
 3108590	WuKong Break Sky
 3108680	Ourkade
-3109230	Call Of The Deep
+3109230	Call of the Deep
 3110090	我的仙门很厉害
 3110320	The Impostor: Human or AI?
 3110330	Floor 9: Beginning
@@ -10014,7 +10018,8 @@
 3181300	Scream
 3182060	Lane Siege
 3182450	DOCAAY
-3183420	The Boring Game
+3182990	Fulfillment Center Simulator
+3183420	Terminal Bore
 3184660	GunZ: The Duel
 3185390	天道荒本纪 Chronicles of the Celestial Way
 3186180	Ninja Party
@@ -10350,6 +10355,7 @@
 3511920	haunters.net
 3514690	Yokai Survivor
 3514850	Surf 'n Turf
+3515580	Deductopia Demo
 3515770	Sex Adventures - Naughty Sisters - Episode 4
 3515780	Interactive Sex - Daddy Daughter Incest
 3518410	LATAM Hooligans
@@ -10452,6 +10458,7 @@
 3615550	Alife Virtual
 3615670	Geometry Factory
 3615830	Sex Adventures - Incest Family - Episode 7
+3616890	Blade & Soul Heroes
 3618080	Dreadfull Death
 3619270	SUPER PEOPLE
 3619340	WLRight
@@ -10721,6 +10728,7 @@
 4146270	8-Second Records
 4146720	DO NOT MINIMIZE THIS WINDOW
 4149540	Rift Investigations
+4150250	SWEATING
 4152910	完美传奇
 4152920	帝王传奇
 4154550	Cheong-un: Indigo Cloud
