@@ -2,26 +2,20 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-06-18 10:49 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-06-19 10:58 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 10854 apps
+**Total tracked:** 10858 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Mage Noir - Infinity](https://store.steampowered.com/app/1542140/) (AppID: 1542140)
-- [It's Better Alone](https://store.steampowered.com/app/1686490/) (AppID: 1686490)
-- [Scopaesthesia](https://store.steampowered.com/app/1813500/) (AppID: 1813500)
-- [CounterSide](https://store.steampowered.com/app/1976440/) (AppID: 1976440)
-- [Bouncy Frenzy](https://store.steampowered.com/app/2070130/) (AppID: 2070130)
-- [Turing Quest](https://store.steampowered.com/app/2080470/) (AppID: 2080470)
-- [Fulfillment Center Simulator](https://store.steampowered.com/app/3182990/) (AppID: 3182990)
-- [Deductopia Demo](https://store.steampowered.com/app/3515580/) (AppID: 3515580)
-- [Blade & Soul Heroes](https://store.steampowered.com/app/3616890/) (AppID: 3616890)
-- [SWEATING](https://store.steampowered.com/app/4150250/) (AppID: 4150250)
+- [守塔不能停](https://store.steampowered.com/app/2759850/) (AppID: 2759850)
+- [LoveAndComplex](https://store.steampowered.com/app/3094770/) (AppID: 3094770)
+- [Tactical2](https://store.steampowered.com/app/3822740/) (AppID: 3822740)
+- [Late Night Tales](https://store.steampowered.com/app/4213060/) (AppID: 4213060)
 
 ---
 

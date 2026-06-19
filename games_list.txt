@@ -89,7 +89,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -9349,6 +9349,7 @@
 2758210	Perfect Poses
 2758630	TELF AG
 2759540	Novark
+2759850	守塔不能停
 2759960	-
 2763090	Édgimon
 2763770	Memory Puzzle Adventure
@@ -9890,6 +9891,7 @@
 3092230	DarkSideHotel
 3094120	终末战姬
 3094130	Tales of Wind: Radiant Rebirth
+3094770	LoveAndComplex
 3095080	Together in Between: Chapter One
 3095690	A Horror Game For Cowards
 3095940	Incest
@@ -10586,6 +10588,7 @@
 3810880	THE CUBE, SAVE US
 3816140	Interactive Sex - Incest Twins - Episode 4
 3819730	Secret Spots
+3822740	Tactical2
 3822750	Gunsmith
 3823270	FALL.exe
 3823970	Nighthold: Number 1
@@ -10753,6 +10756,7 @@
 4201420	永恒传奇
 4203540	垂钓大师 Fishing Master
 4204150	Endless Nightbreak: Blood Horde
+4213060	Late Night Tales
 4215830	疯狂传奇
 4226400	冰雪传奇
 4228420	King's Hand
