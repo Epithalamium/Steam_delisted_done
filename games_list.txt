@@ -250,7 +250,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -381,20 +381,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classics
+36100	Tradewinds Classic
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans + Odyssey Pack
+36130	Tradewinds Caravans
 36140	Tradewinds Odyssey
-36150	Westward Collection
+36150	Westward
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania Collection
+36180	Cake Mania
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Super Granny Collection
+36270	Granny in Paradise
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -958,7 +958,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -4502,7 +4502,6 @@
 1025310	Money Run
 1025320	Forever Lost: Episode 2
 1025450	Forever Lost: Episode 3
-1025560	Flea Madness
 1025570	Autumn's Chorus
 1025580	Vainglory
 1026020	Zyphoid
@@ -7660,6 +7659,7 @@
 1963520	Cygnus
 1963850	SUMS
 1963980	LENDARIOS: LIMITS BREAKERS 1
+1964120	Little Astronaut
 1964880	Annum
 1965140	Puddink
 1965260	Mini Putt
@@ -9990,6 +9990,7 @@
 3156040	CalorieMate LIQUID FOR GAME CREATORS
 3156130	Dirt cheap gift
 3156400	Winter Games Collection
+3157800	Kyrie and Terra
 3159390	Blue Shutter
 3159830	我的最强女友-LSP放置RPG
 3160830	Boyfriend For Hire
@@ -10743,6 +10744,7 @@
 4165590	Stormblades Remastered
 4165840	Dark Night Endless Tales : Bitter Forest
 4167120	NextWorld2
+4172050	Wavecremental
 4173050	Beltix
 4176760	鬼ごっこ
 4179610	SteamRandomPicker
@@ -10847,6 +10849,7 @@
 4640080	Walled City of Living Will
 4653840	Trapped in the Backrooms
 4659290	Let Me Free!
+4659860	Restroom Business Simulator
 4660290	100 Hidden ASCII Cats: Colors
 4668790	欲都戰姬
 4672690	马场大亨Online国际版
@@ -10854,5 +10857,6 @@
 4706530	沙雕之路最终章
 4707140	彭罗斯游戏
 4725200	Femboy Pirates
+4736920	GAL-Chat
 4743240	Creations : a visual novel
 4746690	Audio vibration sample bluetooth ps5 controller
