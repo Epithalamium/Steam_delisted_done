@@ -2,7 +2,7 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-06-20 09:44 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-06-21 10:06 UTC**
 
 **Filters applied:** All default item types
 
@@ -12,11 +12,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-20 09:44 UTC**
 
 ## Newly Added Since Last Check
 
-- [Little Astronaut](https://store.steampowered.com/app/1964120/) (AppID: 1964120)
-- [Kyrie and Terra](https://store.steampowered.com/app/3157800/) (AppID: 3157800)
-- [Wavecremental](https://store.steampowered.com/app/4172050/) (AppID: 4172050)
-- [Restroom Business Simulator](https://store.steampowered.com/app/4659860/) (AppID: 4659860)
-- [GAL-Chat](https://store.steampowered.com/app/4736920/) (AppID: 4736920)
+_(No new entries this run)_
 
 ---
 
