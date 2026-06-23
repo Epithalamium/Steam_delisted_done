@@ -89,7 +89,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -250,7 +250,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -5661,6 +5661,7 @@
 1300380	七魄
 1300630	Meditation 2 ~ Wisdom and Christian Art
 1300680	Goblin Jargon
+1300840	SpaceCrooks: The End of Time
 1301210	Knockout City™
 1301530	暴走英雄坛
 1301970	Hentai Collection: Memory
@@ -5821,6 +5822,7 @@
 1353180	AIDA: The Beginning of the Story
 1353220	Aery - Sky Castle
 1353540	Planetary Gravity
+1353560	Beauty Shooter
 1353590	Osiann Adventures
 1353790	Neko Ghost, Jump! Prologue
 1353810	Dark Prison
@@ -7805,6 +7807,7 @@
 2024140	Cronous Online
 2024820	Deep Alchemy Dungeon
 2025460	The Police Drone VR Experiment
+2025710	Koatl the defender : The Lost Tunnels
 2025830	Brutal Japan | 猟奇の日本
 2050670	Time Tribunal
 2050690	Happy Flip Cube
@@ -9833,6 +9836,7 @@
 3059710	Project HEX
 3060310	SPACE INVADERS: Deck Commander
 3061460	Strong Fortress
+3061520	GreenGuardiansVR
 3062090	The Apple
 3062260	Monsters
 3064090	Fall of an Empire Prologue: Path to the Throne
@@ -10025,6 +10029,7 @@
 3183420	Terminal Bore
 3184660	GunZ: The Duel
 3185390	天道荒本纪 Chronicles of the Celestial Way
+3185490	BarGirls
 3186180	Ninja Party
 3186400	Floppy Dicks
 3187370	末日来袭ol
@@ -10133,6 +10138,7 @@
 3288330	The Silo 24
 3291370	NightClub Manager
 3291870	Addled Clicker
+3292300	Golf-Like
 3292680	Red Star Over America
 3293040	Crown Simulator
 3293550	New Battle of Shanghai Beach
@@ -10332,7 +10338,6 @@
 3488190	󠀡󠀡
 3490080	Iron Rift
 3492070	BuildAndExtract
-3492440	Those Who Know
 3492480	Playrooms
 3492620	President Coin
 3494330	Bubblenauts
@@ -10357,6 +10362,7 @@
 3508100	DAO
 3511920	haunters.net
 3514690	Yokai Survivor
+3514840	Legendary mobile phone store simulator
 3514850	Surf 'n Turf
 3515580	Deductopia Demo
 3515770	Sex Adventures - Naughty Sisters - Episode 4
@@ -10633,6 +10639,7 @@
 3890300	The Explorer
 3892550	Pizza Mayhem
 3892760	Reign of Legends
+3893620	Solar Knight
 3895490	Tailor Simulator: Prologue
 3896480	Raid One : 1 vs 5 Online Boss Battle
 3896860	Conquer the Tower
@@ -10672,6 +10679,7 @@
 3979000	Chrono Lock
 3981070	Alchemy Hearts
 3990590	Jabby Games Pack 1
+3992590	Backlog Buddy
 3993720	猎人与酒馆
 3994150	九霄御龙诀
 4002270	FrontWars
@@ -10855,6 +10863,7 @@
 4697420	SwordRequiem Crack
 4706530	沙雕之路最终章
 4707140	彭罗斯游戏
+4719720	Poping Aquarium
 4725200	Femboy Pirates
 4736920	GAL-Chat
 4743240	Creations : a visual novel
