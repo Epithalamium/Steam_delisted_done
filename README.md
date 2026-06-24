@@ -2,26 +2,23 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-06-23 10:04 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-06-24 09:52 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 10870 apps
+**Total tracked:** 10877 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [SpaceCrooks: The End of Time](https://store.steampowered.com/app/1300840/) (AppID: 1300840)
-- [Beauty Shooter](https://store.steampowered.com/app/1353560/) (AppID: 1353560)
-- [Koatl the defender : The Lost Tunnels](https://store.steampowered.com/app/2025710/) (AppID: 2025710)
-- [GreenGuardiansVR](https://store.steampowered.com/app/3061520/) (AppID: 3061520)
-- [BarGirls](https://store.steampowered.com/app/3185490/) (AppID: 3185490)
-- [Golf-Like](https://store.steampowered.com/app/3292300/) (AppID: 3292300)
-- [Legendary mobile phone store simulator](https://store.steampowered.com/app/3514840/) (AppID: 3514840)
-- [Solar Knight](https://store.steampowered.com/app/3893620/) (AppID: 3893620)
-- [Backlog Buddy](https://store.steampowered.com/app/3992590/) (AppID: 3992590)
-- [Poping Aquarium](https://store.steampowered.com/app/4719720/) (AppID: 4719720)
+- [The Backrooms Simulator](https://store.steampowered.com/app/1119430/) (AppID: 1119430)
+- [Wraithgate](https://store.steampowered.com/app/1623790/) (AppID: 1623790)
+- [Choppie's](https://store.steampowered.com/app/2223220/) (AppID: 2223220)
+- [3199](https://store.steampowered.com/app/3187790/) (AppID: 3187790)
+- [LAST CALL](https://store.steampowered.com/app/3503010/) (AppID: 3503010)
+- [TaVRn's Takedown - Naheulbeuk](https://store.steampowered.com/app/3601060/) (AppID: 3601060)
+- [足球大玩家](https://store.steampowered.com/app/4539450/) (AppID: 4539450)
 
 ---
 

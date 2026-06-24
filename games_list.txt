@@ -958,7 +958,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -4924,6 +4924,7 @@
 1118800	Chasing Nebula
 1118970	Moira: Fated Twins
 1119040	Cthulhu: Books of Ancients
+1119430	The Backrooms Simulator
 1119480	Dolly Wars - Auto Tactics
 1119520	HITOTSU NO MORI
 1119540	Stranger Things - Will's Side Quest
@@ -6732,6 +6733,7 @@
 1622330	DangerZone VR
 1622760	Leisure suit Liana
 1622830	Stardrytch
+1623790	Wraithgate
 1624390	Empty Title
 1624750	Aerotopia Old Sky
 1625330	Tag Hop
@@ -8262,6 +8264,7 @@
 2221700	The Backrooms: Anthology
 2221940	The Feast
 2221990	Fade Memory
+2223220	Choppie's
 2223710	Loaders
 2224240	Testimonies
 2224420	Eastern Europe Train Sim
@@ -10034,6 +10037,7 @@
 3186400	Floppy Dicks
 3187370	末日来袭ol
 3187630	Dungeon Inn Prologue: The First Hustle
+3187790	3199
 3190410	Super Bunny Woman
 3190460	Sinful Vampires
 3190550	violent car
@@ -10355,6 +10359,7 @@
 3501010	SPALG
 3501530	Date Z: Welcome to Massville High
 3502630	金瓶梅
+3503010	LAST CALL
 3506030	The Stones
 3506160	Sweatshop Simulator
 3507030	Zombie Marauders
@@ -10451,6 +10456,7 @@
 3598350	The Girl in the Dark
 3598930	Blood Gamble: Hanafuda
 3600200	Final Signature
+3601060	TaVRn's Takedown - Naheulbeuk
 3601620	Super Tetris
 3602010	Rogue Cell
 3602290	FEMBOY FUTA HOUSE
@@ -10842,6 +10848,7 @@
 4533440	Locks 'n' Leaps
 4533910	Malware.exe
 4536290	Last Draft
+4539450	足球大玩家
 4539590	Wax Rogue
 4550580	Achivement Hunter
 4550960	Punchslingers
