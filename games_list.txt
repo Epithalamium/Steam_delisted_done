@@ -250,7 +250,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -3347,6 +3347,7 @@
 788590	Voxel World
 788810	Exposure
 788910	Apartment of Love
+789130	Failure To Launch
 789150	Mask of Fury
 789240	The Day I Died
 789520	Warz: Horde
@@ -5150,7 +5151,6 @@
 1174070	Baldi's Basics Kickstarter Demo
 1174280	Cybermonk
 1174540	Adventure or Normality?
-1174690	Love Wish 2
 1174850	Way of Boy
 1174870	Roark Games: Congressman
 1176440	Math The Question
@@ -5906,6 +5906,7 @@
 1374570	VR City Exhibition - Hot Fantasy Girls
 1374900	Dental Madness: Cavity Mania
 1374910	Distant Transmission
+1375540	Omno: Prologue
 1375740	surviv.io - 2D Battle Royale
 1376310	Sci-fi builder
 1376820	The Kingdom of Gardenia
@@ -9779,7 +9780,6 @@
 3021470	Freezer Frenzy
 3021810	Tickety Boom
 3022970	Fadedlands
-3023230	Mongol
 3023390	EMPTY SHELL: THE LOOP - PROLOGUE
 3023440	Shumo: Prologue
 3023500	The Feast of Terror [Pure Edition] -A Night Hunted By Beauties-
@@ -9882,6 +9882,7 @@
 3081100	Hold My Pistaches
 3081110	Capybara
 3081700	Hawk Tuah
+3081810	J8 Hero
 3081930	Spin Hero: Prologue
 3082400	Recycling Tycoon: Junk to Gems
 3083240	Bug.Splash TD
@@ -10037,6 +10038,7 @@
 3186180	Ninja Party
 3186400	Floppy Dicks
 3187370	末日来袭ol
+3187400	Dollhouse
 3187630	Dungeon Inn Prologue: The First Hustle
 3187790	3199
 3190410	Super Bunny Woman
@@ -10569,6 +10571,7 @@
 3746400	My Hypnotized Family [Episode 2]
 3748060	雨の降る家からの脱出
 3748720	MiniCar Shop Simulator: Prologue
+3752520	Ride Up
 3753520	Tu invitada alienígena: Mika Nyanami
 3757350	Pro Soccer Online 2
 3758670	Team Fortress 2: Reborn
@@ -10596,6 +10599,7 @@
 3795540	DELETE
 3798250	The Island of Bad Women
 3801450	Interactive Sex - Futanari Incest - Episode 4
+3806230	ROTATO
 3807280	Tales of Aradia: Idle RPG
 3807620	Brian's Redemption
 3807820	Just Slash
@@ -10703,7 +10707,6 @@
 4015400	2Hours
 4017150	Pure Exsotic - Story Simulator
 4025370	MyPlaceDiary
-4028560	Mongol 2
 4029030	Hollow VR
 4029450	Resizer
 4032640	Your Wife's Pussy
@@ -10794,6 +10797,7 @@
 4282380	Detective Necro
 4285970	图灵证言 Turing Testimony
 4286540	Fun World
+4289670	Satan's Ball
 4290600	Ironsphere
 4290860	Vivi's Adventure
 4293180	天魔传奇
@@ -10827,6 +10831,7 @@
 4421890	Nancy Drew: The Hidden Staircase
 4426700	The Key to Forgotten Souls
 4435900	Yapori Dimensions 2
+4436100	PacketRunner: Digital Resistance
 4436480	Rabbit Scare
 4439210	Crucifier
 4450410	Lust Frontiers
