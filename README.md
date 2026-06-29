@@ -2,7 +2,7 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-06-28 09:34 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-06-29 11:25 UTC**
 
 **Filters applied:** All default item types
 
@@ -12,8 +12,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-06-28 09:34 UTC**
 
 ## Newly Added Since Last Check
 
-- [The Undead Files](https://store.steampowered.com/app/4020750/) (AppID: 4020750)
-- [Memory Tides](https://store.steampowered.com/app/4457250/) (AppID: 4457250)
+_(No new entries this run)_
 
 ---
 
