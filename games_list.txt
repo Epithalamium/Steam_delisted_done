@@ -89,7 +89,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -250,7 +250,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -381,20 +381,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classic
+36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans
+36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
-36150	Westward
+36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania
+36180	Cake Mania Collection
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Granny in Paradise
+36270	Super Granny Collection
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -7795,6 +7795,7 @@
 2012740	Lonely Darkness
 2015140	Overdrive
 2015480	The Lifetime
+2015760	Havenhold
 2015850	Hunnic Girl In Divided Roman Empire
 2016170	Be A Rock
 2016640	Lovers Anonymous Rehab for Romantics
@@ -8682,6 +8683,7 @@
 2402560	導白のルセン -魔王復活-
 2403160	Gates Of The Mind
 2404020	Spellfield
+2405680	LoYuno - Horror Escape
 2406050	Quarantine
 2406130	Verdict: Descent
 2406860	Nova's Cube!
@@ -9913,6 +9915,7 @@
 3101820	Prove It and Move It
 3101890	Hentai Senpai: Cum Carnival
 3102040	Supercells
+3103280	DreamWorld: Sandbox MMO
 3104160	Celestials Door
 3104340	Fool House
 3106120	Twisted To The Roots
@@ -10404,6 +10407,7 @@
 3535220	StoneStory
 3536400	Incest Story: Mother and Aunt
 3537660	Artis Impact : Meiji Spa
+3539030	Melodraw
 3541280	Isekai Mom Stories
 3542000	Floating Life
 3546320	Interactive Sex - King Princess Incest
@@ -10767,6 +10771,7 @@
 4172050	Wavecremental
 4173050	Beltix
 4176760	鬼ごっこ
+4177310	Caves of Madness
 4179610	SteamRandomPicker
 4180580	Project Cats & Gigs
 4188050	Treasurer
@@ -10801,6 +10806,7 @@
 4289670	Satan's Ball
 4290600	Ironsphere
 4290860	Vivi's Adventure
+4292050	Truck Mechanic: Dangerous Paths - First Mile
 4293180	天魔传奇
 4295130	Hurrican
 4295710	双龙传奇
@@ -10859,6 +10865,7 @@
 4536290	Last Draft
 4539450	足球大玩家
 4539590	Wax Rogue
+4548750	Entropy Protocol
 4550580	Achivement Hunter
 4550960	Punchslingers
 4552500	Dungeon Settlers: Prologue
@@ -10884,3 +10891,5 @@
 4736920	GAL-Chat
 4743240	Creations : a visual novel
 4746690	Audio vibration sample bluetooth ps5 controller
+4790440	血色末路:屍潮
+4884890	Paint Gal Adventures
