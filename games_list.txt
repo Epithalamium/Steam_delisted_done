@@ -3923,6 +3923,7 @@
 905220	Grim Earth
 905370	Game Migrated to Another Steam Page
 905450	NASCAR Heat 3
+905460	Nutrients for Life
 905530	Anew: The Distant Light
 906000	Keyhole Spy: Student Girls
 906020	Strike Cars
@@ -5912,6 +5913,7 @@
 1376820	The Kingdom of Gardenia
 1376850	Classic tanks
 1377000	Black Border
+1377010	Sanctuary Island
 1377790	异形杀手：初现 Alien Killer: Appearance
 1377930	Project:Pong
 1377940	Outbreak New Dawn
@@ -6556,6 +6558,7 @@
 1559670	Physics
 1559820	Woolly's World
 1560500	Badlanders
+1560890	Morkredd Demo
 1561400	Sylphine
 1561750	Mission in Snowdriftland - Snowlogue
 1561860	Marble Muse Arcade
@@ -6631,6 +6634,7 @@
 1584980	Warhammer Quest: Silver Tower
 1585350	Cooperative Chess
 1585520	BABYLON'S FALL Beta Version
+1585570	Workplace Rhapsody
 1586390	德州扑克-赌场大亨
 1586410	Uniform Honey
 1586590	英雄合击-至尊传奇
@@ -7991,6 +7995,7 @@
 2107830	KARIN'S DIGITAL ADVENTURE
 2107840	Grace of the Labyrinth Town
 2108960	Long Live the King!
+2109460	VillageRhapsody
 2109550	Office Racer
 2111620	凡界修仙传
 2111680	Godzilla: Omniverse
@@ -8854,6 +8859,7 @@
 2477440	Shire Scopes
 2477610	Your Personality Test
 2478100	末日沙场
+2478240	Bright Side: Riddles and Puzzles
 2479720	斗牌魂
 2480090	San Xing Dui(三星堆)
 2480450	Pesticide Not Required: Prologue
@@ -8864,6 +8870,7 @@
 2482800	Tetris-Retro
 2483560	Skibidi Battle - Toilets Attack
 2483670	Mi Espada
+2484250	ASTRA: Knights of Veda
 2484450	Edge Of Dead Prologue
 2484480	Boat Party
 2484990	Asgard's Fall: Origins
@@ -9229,7 +9236,7 @@
 2678540	Qwess
 2679890	Social Status : Life Simulator
 2680130	DB²: Disco Boogie of the Dead Beats
-2680700	MalovModernArt
+2680700	ModernArt Virtual Museum
 2681130	Cassiel
 2681390	Forged Dungeons
 2681690	Creatures
@@ -9542,6 +9549,7 @@
 2863440	GHOSTHERO: Shadow of Vengeance
 2864710	TLC Game
 2864950	Plunder Defense
+2867370	Family Secrets: Sweet Sister
 2868280	MyAIs
 2868610	Firespike
 2869220	Falls and Jumps 2
@@ -9704,6 +9712,7 @@
 2966900	Keep Runnin
 2967140	FRAY Game
 2967390	职场浮生记：入职
+2967470	Femdom Game World: Aunt
 2967560	Barako the Pirate
 2967660	The Legend of the Heroes of the Three Kingdoms - Duplicated Version (Chapter 0 & 1)
 2968010	Mafia Simulator
@@ -9880,6 +9889,7 @@
 3079660	Twin-Stick Survivors
 3079740	Mech Crusade
 3080710	Candy Factory TD: Prologue
+3080940	Femdom Game World: Mom
 3081050	Fight School Simulator: Prologue
 3081100	Hold My Pistaches
 3081110	Capybara
@@ -10009,6 +10019,7 @@
 3164240	Final Knight: Prologue
 3165030	Ice Cream Vendor Simulator
 3165170	Hentai - Ultimate Puzzle
+3165620	Bright Side: Quiz
 3167510	Ghost Clicker
 3167940	Teeny Tiny Harbors
 3168060	I wannna be The King!
@@ -10419,6 +10430,7 @@
 3551650	Waste Time Lotto
 3552600	Momochan's brain is so crazy!
 3554250	Pudding Fantasy: Tales of Go and Magic - Chapter 1
+3554990	Chinese Culinary Shop
 3555460	KILL ALL ENEMIES
 3559550	Sex Adventures - Incest Family - Episode 5
 3559710	Interactive Sex - Queen Prince Incest
@@ -10855,6 +10867,7 @@
 4501400	A one-day romance
 4503180	TapeSurfer
 4508480	Finisher
+4509000	Poisoned Path
 4511760	龙城传奇
 4512200	Spirit Demon Tribulation
 4512840	Break The Bank
@@ -10883,7 +10896,9 @@
 4660290	100 Hidden ASCII Cats: Colors
 4668790	欲都戰姬
 4672690	马场大亨Online国际版
+4681400	Nova Fighter
 4697420	SwordRequiem Crack
+4705730	Ship It
 4706530	沙雕之路最终章
 4707140	彭罗斯游戏
 4719720	Poping Aquarium
