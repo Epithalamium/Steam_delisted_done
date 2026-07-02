@@ -89,7 +89,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max 201: Ice Station Santa
+8260	Sam & Max: Season Two
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -959,7 +959,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -1974,6 +1974,7 @@
 451910	F1 2016 Closed Beta
 452540	Skylar & Plux: Adventure On Clover Island
 453000	Wave
+453480	Shadowverse
 453500	Frio- Lost in old town
 453680	MiniGolf Mania
 453800	The Document of Midnight Animal
@@ -4024,6 +4025,7 @@
 926000	Metro Simulator 2019
 926480	The Secret of Puffin Cove
 926730	Munchkin
+927120	Quantum Covenant
 927130	Romance of the Three Kingdoms : The Legend of CaoCao(Tactics)
 927340	Viktor Crysworth
 927350	Hood: Outlaws & Legends
@@ -9713,6 +9715,7 @@
 2967140	FRAY Game
 2967390	职场浮生记：入职
 2967470	Femdom Game World: Aunt
+2967480	Slutty Mommy
 2967560	Barako the Pirate
 2967660	The Legend of the Heroes of the Three Kingdoms - Duplicated Version (Chapter 0 & 1)
 2968010	Mafia Simulator
@@ -10220,6 +10223,7 @@
 3341200	Ragnaroll
 3343080	30 Year Old Virgin
 3346660	Dire Dungeon
+3347330	Realm Traveler
 3348660	Rogue Samurai: Prologue
 3349490	Quantum Soteriology
 3349570	Ballad of Bravos: Jiangchengzi 江城子
@@ -10521,6 +10525,7 @@
 3642160	Gamer Girl Adventure
 3644150	Sprinkler Co.
 3646110	Fatima's Lust
+3646490	Sala de Juegos 3D
 3650130	Clear Brightness
 3650910	Lost Spirits
 3652420	War of Reproduction: Evolution
@@ -10629,6 +10634,7 @@
 3823970	Nighthold: Number 1
 3824240	Scrapocalypse
 3826570	Red Fox: Exploration on the the Red Fox Island
+3826850	Sword Hockey
 3829870	Dark Moon: Prologue
 3831680	SCP Containment Breach
 3835930	Overtime？No Way！
