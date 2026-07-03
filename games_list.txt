@@ -89,7 +89,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -959,7 +959,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -4448,7 +4448,6 @@
 1011220	从前有个仙儿
 1011660	Totally Reliable Adventure Party
 1011780	The Adventures of Golly
-1011870	萌盟大冒险 Cute Adventure
 1012310	Cyber Racer
 1012700	Moe Reversi
 1012710	Endzeit
@@ -5056,6 +5055,7 @@
 1151690	Voxel Life Auto
 1151760	The Sinking City
 1152250	荒岛求生
+1152540	Shark Castle
 1152730	Wacky Soldiers
 1152770	Shining Diamonds
 1152780	Delivery
@@ -6012,6 +6012,7 @@
 1399650	EPEJSODION Dodgeball Defense
 1399780	Spellbreak
 1399900	Terraria 3D
+1400390	The first confrontation
 1400440	Mini Warriors: Brawler Army
 1400450	Dino Eruption
 1400510	Castle Rock Beach, West Australia
@@ -8276,6 +8277,7 @@
 2221990	Fade Memory
 2223220	Choppie's
 2223710	Loaders
+2224020	Art Metaverse
 2224240	Testimonies
 2224420	Eastern Europe Train Sim
 2224830	Ansoku
