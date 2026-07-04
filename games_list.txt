@@ -8364,6 +8364,7 @@
 2257540	Gunslinger Moon
 2258440	Medieval Dungeon
 2258870	Kingdom: The Blood
+2258950	Angkara: The Horde
 2259200	Bancroft Academy
 2260420	Mushroom Agent
 2260720	Fast Burger Simulator
@@ -8377,6 +8378,7 @@
 2264700	Infinite Mirror
 2265200	Alien Invasion: RPG Idle Space
 2266410	Drifting with Maxwell Cat: The Game
+2266530	Beanz!?
 2267350	Forkscythe
 2267410	Rift Breach
 2268800	Cockroach Simulator house of survive
@@ -9314,7 +9316,6 @@
 2725160	Legendary Road Online
 2725200	Prisoners
 2725430	Yokai City
-2725660	Survival Advanced
 2726730	Rookie Guard and the Queen
 2727530	Your wife
 2727590	Flowtris
@@ -10711,6 +10712,7 @@
 3972930	末日战姬ol
 3973900	What Was Home
 3977830	The Cowardly Pig
+3978040	Dreamlab
 3978750	Ghlobot Shift
 3979000	Chrono Lock
 3981070	Alchemy Hearts
