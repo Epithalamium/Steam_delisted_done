@@ -250,7 +250,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -381,20 +381,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classics
+36100	Tradewinds Classic
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans + Odyssey Pack
+36130	Tradewinds Caravans
 36140	Tradewinds Odyssey
-36150	Westward Collection
+36150	Westward
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania Collection
+36180	Cake Mania
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Super Granny Collection
+36270	Granny in Paradise
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -6252,6 +6252,7 @@
 1466900	Breath of the Wasteland
 1466930	Survival Quiz CITY
 1467470	SACROSANCT
+1467600	Zinuru The Great
 1469250	Rubber Bandits: Christmas Prologue
 1469320	仙镜
 1469570	Sphere III: Ira Del Devastador - Latino America
@@ -10917,4 +10918,5 @@
 4743240	Creations : a visual novel
 4746690	Audio vibration sample bluetooth ps5 controller
 4790440	血色末路:屍潮
+4873080	Nubo – Your Screen Friend
 4884890	Paint Gal Adventures
