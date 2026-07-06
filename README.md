@@ -2,7 +2,7 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-07-05 09:23 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-07-06 11:06 UTC**
 
 **Filters applied:** All default item types
 
@@ -12,8 +12,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-05 09:23 UTC**
 
 ## Newly Added Since Last Check
 
-- [Zinuru The Great](https://store.steampowered.com/app/1467600/) (AppID: 1467600)
-- [Nubo – Your Screen Friend](https://store.steampowered.com/app/4873080/) (AppID: 4873080)
+_(No new entries this run)_
 
 ---
 
