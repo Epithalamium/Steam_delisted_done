@@ -1965,6 +1965,7 @@
 449470	Atulos Online
 449830	Muv-Luv
 449840	Muv-Luv Alternative
+450050	Yon Paradox
 450670	Table Top Racing: World Tour
 450840	Robert Mensah's Sins Of The Father
 451070	Battleborn Open Beta
@@ -2289,7 +2290,6 @@
 533990	Sword and Shield: Arena VR
 534050	Depth VR
 534360	Colt Express
-534740	Icity
 534750	The Rise of Captain Longbeard
 534820	Heroes Evolved
 535010	Pen Island VR
@@ -4481,6 +4481,7 @@
 1019250	WWII TCG - World War 2: The Card Game
 1019420	Horny Girl
 1019750	Steel Circus - CAT#4 announced soon
+1019940	Race for Tuning
 1020430	Joe Jump
 1020580	Sanction 2050
 1020680	Tide
@@ -4971,6 +4972,7 @@
 1127310	HelixVision
 1127320	Railroads
 1127450	Lewd & Nude | Anime Collector
+1127460	Mod and Play
 1127890	YouTubers Test
 1127980	NASCAR Heat 4
 1128200	Ginga Kagekidan - 放課後くるーずっ！
@@ -8084,6 +8086,7 @@
 2150390	Buntasy
 2150940	Lost Sense
 2151560	Dance World
+2152100	Big Bad Futanari Wolf
 2152790	United 1944
 2152820	Akui - The Insane Cultists
 2152950	Beyond the Gate
@@ -9849,6 +9852,7 @@
 3055380	Imagine Island
 3056060	Cheese Collector
 3056880	Emoji Clicker
+3057220	Gambamba
 3057270	Seafarer's Gambit
 3057560	Tower Defence Engineer
 3057580	Tower Defence Engineer:Prologue
@@ -9942,6 +9946,7 @@
 3108090	Starzelia
 3108590	WuKong Break Sky
 3108680	Ourkade
+3108730	孤行
 3109230	Call of the Deep
 3110090	我的仙门很厉害
 3110320	The Impostor: Human or AI?
@@ -10469,6 +10474,7 @@
 3588620	Swimmer Away
 3589050	Stream Defense Protocol
 3589260	Train Molester Big-Titty Undercover Agent ~Hot and Sexy Prey~
+3589280	Zafira
 3589290	The Tumor
 3589560	To Get There
 3591550	Hunter Roulette
