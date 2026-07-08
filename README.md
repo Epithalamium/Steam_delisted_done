@@ -2,23 +2,25 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-07-07 10:02 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-07-08 08:45 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 10928 apps
+**Total tracked:** 10936 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Yon Paradox](https://store.steampowered.com/app/450050/) (AppID: 450050)
-- [Race for Tuning](https://store.steampowered.com/app/1019940/) (AppID: 1019940)
-- [Mod and Play](https://store.steampowered.com/app/1127460/) (AppID: 1127460)
-- [Big Bad Futanari Wolf](https://store.steampowered.com/app/2152100/) (AppID: 2152100)
-- [Gambamba](https://store.steampowered.com/app/3057220/) (AppID: 3057220)
-- [孤行](https://store.steampowered.com/app/3108730/) (AppID: 3108730)
-- [Zafira](https://store.steampowered.com/app/3589280/) (AppID: 3589280)
+- [Tower!3D Pro](https://store.steampowered.com/app/588190/) (AppID: 588190)
+- [New Planets](https://store.steampowered.com/app/1214990/) (AppID: 1214990)
+- [Simultaneous Control](https://store.steampowered.com/app/1918110/) (AppID: 1918110)
+- [FFA CARDS | No Pay-to-Win](https://store.steampowered.com/app/2749040/) (AppID: 2749040)
+- [Hellmate](https://store.steampowered.com/app/3225700/) (AppID: 3225700)
+- [Shoot Pro Wrestling 2](https://store.steampowered.com/app/4264870/) (AppID: 4264870)
+- [It Is For Her](https://store.steampowered.com/app/4411760/) (AppID: 4411760)
+- [Hit Streak And Brawl](https://store.steampowered.com/app/4720210/) (AppID: 4720210)
+- [Prison Cat](https://store.steampowered.com/app/4844080/) (AppID: 4844080)
 
 ---
 

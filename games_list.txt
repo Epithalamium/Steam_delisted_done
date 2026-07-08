@@ -2486,6 +2486,7 @@
 587770	4x4 Road Race
 588010	Red String of Fate
 588080	Numantia
+588190	Tower!3D Pro
 588210	HELLION
 588410	Virtual Sports
 589180	Defuser VR
@@ -5308,6 +5309,7 @@
 1214140	Butterfly Killer
 1214320	Frog X Log
 1214930	Brain vs Zombies
+1214990	New Planets
 1215480	Torchlight III (Beta)
 1215980	The Final Stand: Breakout
 1216630	古剑奇谭2
@@ -7565,6 +7567,7 @@
 1917500	美少女射击物语
 1917560	Milk Bottle And Monster Girl 2
 1917800	Parasite
+1918110	Simultaneous Control
 1918350	TactiCube
 1919590	NBA 2K23
 1919760	Maid Blade (Tsurugi)
@@ -8286,7 +8289,6 @@
 2224420	Eastern Europe Train Sim
 2224830	Ansoku
 2224860	Unholy Angel
-2225060	black idea
 2225690	HugeHead
 2225970	Short Horror Story
 2226100	The Molfar: Call of Heart
@@ -9361,6 +9363,7 @@
 2747110	iLLANG
 2747260	Wit and Dice
 2748530	Blood On The Streets
+2749040	FFA CARDS | No Pay-to-Win
 2750480	7 Minutes in Hell
 2750870	Libra Corps
 2750960	Speedway Challenge 2024
@@ -10102,6 +10105,7 @@
 3224610	妖靈傳說
 3225250	Kingdom Remastered
 3225680	Tech Market Simulator: Prologue
+3225700	Hellmate
 3226910	AICE
 3228690	Gesund essen lernen
 3229180	杀青：序章
@@ -10828,6 +10832,7 @@
 4248700	Game Torch
 4257150	Hero of Ideal
 4257250	1000 SCORE: 2D Platformer
+4264870	Shoot Pro Wrestling 2
 4273260	Master Poker
 4282380	Detective Necro
 4285970	图灵证言 Turing Testimony
@@ -10863,6 +10868,7 @@
 4397660	Ascend The Tower
 4399320	SPARTA 2035 – The Last Diamond
 4401910	TRIX
+4411760	It Is For Her
 4413590	hero and witch
 4421890	Nancy Drew: The Hidden Staircase
 4426700	The Key to Forgotten Souls
@@ -10919,10 +10925,12 @@
 4706530	沙雕之路最终章
 4707140	彭罗斯游戏
 4719720	Poping Aquarium
+4720210	Hit Streak And Brawl
 4725200	Femboy Pirates
 4736920	GAL-Chat
 4743240	Creations : a visual novel
 4746690	Audio vibration sample bluetooth ps5 controller
 4790440	血色末路:屍潮
+4844080	Prison Cat
 4873080	Nubo – Your Screen Friend
 4884890	Paint Gal Adventures
