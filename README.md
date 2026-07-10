@@ -2,25 +2,32 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-07-08 08:45 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-07-10 09:54 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 10936 apps
+**Total tracked:** 10951 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Tower!3D Pro](https://store.steampowered.com/app/588190/) (AppID: 588190)
-- [New Planets](https://store.steampowered.com/app/1214990/) (AppID: 1214990)
-- [Simultaneous Control](https://store.steampowered.com/app/1918110/) (AppID: 1918110)
-- [FFA CARDS | No Pay-to-Win](https://store.steampowered.com/app/2749040/) (AppID: 2749040)
-- [Hellmate](https://store.steampowered.com/app/3225700/) (AppID: 3225700)
-- [Shoot Pro Wrestling 2](https://store.steampowered.com/app/4264870/) (AppID: 4264870)
-- [It Is For Her](https://store.steampowered.com/app/4411760/) (AppID: 4411760)
-- [Hit Streak And Brawl](https://store.steampowered.com/app/4720210/) (AppID: 4720210)
-- [Prison Cat](https://store.steampowered.com/app/4844080/) (AppID: 4844080)
+- [Mundus - Impossible Universe](https://store.steampowered.com/app/1044640/) (AppID: 1044640)
+- [Clodhoppers](https://store.steampowered.com/app/1066420/) (AppID: 1066420)
+- [Mundus - Impossible Universe 2](https://store.steampowered.com/app/1079970/) (AppID: 1079970)
+- [Live Shiver](https://store.steampowered.com/app/2116190/) (AppID: 2116190)
+- [G9:League of Aces](https://store.steampowered.com/app/2247200/) (AppID: 2247200)
+- [Everyone's Happy Place](https://store.steampowered.com/app/2300530/) (AppID: 2300530)
+- [Package Unknown](https://store.steampowered.com/app/2673210/) (AppID: 2673210)
+- [YOU ARE SUPER MEGA LEGEND PHOENIX](https://store.steampowered.com/app/3173980/) (AppID: 3173980)
+- [The Exorcist : Gravebound Horror](https://store.steampowered.com/app/3536090/) (AppID: 3536090)
+- [Don't shoot politics](https://store.steampowered.com/app/3537530/) (AppID: 3537530)
+- [Target Dragon 2: Maze Runner](https://store.steampowered.com/app/3694770/) (AppID: 3694770)
+- [王者争雄](https://store.steampowered.com/app/4524310/) (AppID: 4524310)
+- [Flounder](https://store.steampowered.com/app/4527550/) (AppID: 4527550)
+- [失序之地](https://store.steampowered.com/app/4575900/) (AppID: 4575900)
+- [火龙传奇](https://store.steampowered.com/app/4692510/) (AppID: 4692510)
+- [Mage X Monster: The Archmage Who Wants to Lose to Mobs](https://store.steampowered.com/app/4825280/) (AppID: 4825280)
 
 ---
 

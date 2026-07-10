@@ -89,7 +89,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max 201: Ice Station Santa
+8260	Sam & Max: Season Two
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -4589,6 +4589,7 @@
 1044030	Japanese: A-N
 1044200	Wasteland Survival
 1044310	Topless Hentai Mosaic
+1044640	Mundus - Impossible Universe
 1044830	Titan Attack The Game
 1045310	Escape From Earth
 1045400	YGGDRASIL JIGSAW PUZZLE
@@ -4699,6 +4700,7 @@
 1066200	The Brink 尘与土
 1066220	Girls of Hentai Mosaic
 1066370	Grand Heist
+1066420	Clodhoppers
 1066600	Criss Cross
 1066620	Bugs 'N Boo Hags
 1066810	Forge and Fight
@@ -4763,6 +4765,7 @@
 1079650	Spark
 1079760	Colum and His Friends
 1079780	Dark Space Conqueror
+1079970	Mundus - Impossible Universe 2
 1080100	Desperados III Closed Beta
 1080110	F1 2020
 1080310	Humans 101
@@ -8015,6 +8018,7 @@
 2114000	Asteria: Fouki
 2114900	PLAYBOOK VR
 2115730	Monsterstone: Prelude
+2116190	Live Shiver
 2117050	Asteria: Dominique Fils-Aimé
 2117060	Asteria: Vincent Vallières
 2117070	Asteria: Daniel Bélanger
@@ -8169,7 +8173,6 @@
 2183540	Knight vs Giant: The Broken Excalibur Prologue
 2184680	Battle Grid: Prologue
 2184730	Prisoners Hunt
-2186460	kill or dead
 2186660	Escape: Left to die
 2187580	Neon Override
 2187660	Soccer Clubs
@@ -8337,6 +8340,7 @@
 2245470	Up Above
 2245920	Gezeichnet - Unsere Flucht 1945
 2247060	靈能哨衛
+2247200	G9:League of Aces
 2247430	Cat Fantasy
 2247560	Daydream: Prologue
 2247590	Poly Smash
@@ -8448,6 +8452,7 @@
 2299620	Core Crossing
 2299850	ERA-願想之人
 2300210	Infinitum Vitas
+2300530	Everyone's Happy Place
 2301260	AInder
 2301470	Dynamite Joe VS The Deep Sea Invasion
 2301790	三国：寻将传
@@ -9237,6 +9242,7 @@
 2670490	帝国战争：星际
 2672010	REDCALL
 2673080	Jurassic Park Classic Games Collection
+2673210	Package Unknown
 2673540	Neonexus Wars
 2673550	DEEPEST REGRET
 2674160	Have a Good Day
@@ -10047,6 +10053,7 @@
 3172500	Back to the Rooms
 3172850	My Nights at Singing Monsters
 3173000	2ME
+3173980	YOU ARE SUPER MEGA LEGEND PHOENIX
 3174020	Lana: Queen of Ancient Egypt
 3174470	RetroBlazer
 3176300	Newlywed female teacher Miri
@@ -10433,7 +10440,9 @@
 3534830	Viet Quoc Truyen Ky
 3534840	Liars Dice XX
 3535220	StoneStory
+3536090	The Exorcist : Gravebound Horror
 3536400	Incest Story: Mother and Aunt
+3537530	Don't shoot politics
 3537660	Artis Impact : Meiji Spa
 3539030	Melodraw
 3541280	Isekai Mom Stories
@@ -10573,6 +10582,7 @@
 3692970	沉默传奇
 3693090	Suduce-U
 3694620	Truck World: Australia - First Haul
+3694770	Target Dragon 2: Maze Runner
 3696140	DYSON ERA IDLE
 3697770	Kleptomaniacs
 3705110	决战万界山
@@ -10895,6 +10905,8 @@
 4512200	Spirit Demon Tribulation
 4512840	Break The Bank
 4520140	Cinder City
+4524310	王者争雄
+4527550	Flounder
 4532270	VStarsCenter
 4533440	Locks 'n' Leaps
 4533910	Malware.exe
@@ -10906,6 +10918,7 @@
 4550960	Punchslingers
 4552500	Dungeon Settlers: Prologue
 4561160	Devil's Level : The Checkpoint
+4575900	失序之地
 4578720	Orc Bastion
 4580210	iHorse G1
 4584240	Cheap Car Repair: Welcome to Nowhere
@@ -10920,6 +10933,7 @@
 4668790	欲都戰姬
 4672690	马场大亨Online国际版
 4681400	Nova Fighter
+4692510	火龙传奇
 4697420	SwordRequiem Crack
 4705730	Ship It
 4706530	沙雕之路最终章
@@ -10931,6 +10945,7 @@
 4743240	Creations : a visual novel
 4746690	Audio vibration sample bluetooth ps5 controller
 4790440	血色末路:屍潮
+4825280	Mage X Monster: The Archmage Who Wants to Lose to Mobs
 4844080	Prison Cat
 4873080	Nubo – Your Screen Friend
 4884890	Paint Gal Adventures
