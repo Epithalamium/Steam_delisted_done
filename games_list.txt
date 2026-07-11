@@ -89,7 +89,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -250,7 +250,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -4476,6 +4476,7 @@
 1017760	I'm Still Here
 1017770	Smuggle Buddies
 1018120	Walk the Fort
+1018870	VR Racing
 1018880	YOU CAN'T FUCK ON AN EMPTY STOMACH
 1018950	What The Fork
 1018980	VKT Prime System Crash
@@ -8887,6 +8888,7 @@
 2482800	Tetris-Retro
 2483560	Skibidi Battle - Toilets Attack
 2483670	Mi Espada
+2484110	FINAL FANTASY VII EVER CRISIS
 2484250	ASTRA: Knights of Veda
 2484450	Edge Of Dead Prologue
 2484480	Boat Party
@@ -10666,6 +10668,7 @@
 3838310	Deckout
 3838440	Gun Dealer Simulator
 3843310	Dovengarde Needs Delvers
+3843910	VIOLENCE DOLL バイオレンスドール
 3845160	Paddle Together
 3849150	The Dark Forest: Survival
 3850320	次元战姬
