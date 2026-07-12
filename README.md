@@ -2,19 +2,17 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-07-11 08:15 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-07-12 08:32 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 10954 apps
+**Total tracked:** 10955 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [VR Racing](https://store.steampowered.com/app/1018870/) (AppID: 1018870)
-- [FINAL FANTASY VII EVER CRISIS](https://store.steampowered.com/app/2484110/) (AppID: 2484110)
-- [VIOLENCE DOLL バイオレンスドール](https://store.steampowered.com/app/3843910/) (AppID: 3843910)
+- [Lost Tales of Altoris](https://store.steampowered.com/app/3741020/) (AppID: 3741020)
 
 ---
 
