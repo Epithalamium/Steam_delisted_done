@@ -9520,7 +9520,7 @@
 2839010	Peaches and Dreams
 2839200	Sleep Stream
 2839680	Monster Mop Up-Prologue
-2839990	Anime
+2839990	Burger girl clicker
 2840430	ZenFire
 2841220	Black constellation
 2841230	Dark Cellar Death Trial

@@ -2,7 +2,7 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-07-12 08:32 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-07-13 09:48 UTC**
 
 **Filters applied:** All default item types
 
@@ -12,7 +12,7 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-12 08:32 UTC**
 
 ## Newly Added Since Last Check
 
-- [Lost Tales of Altoris](https://store.steampowered.com/app/3741020/) (AppID: 3741020)
+_(No new entries this run)_
 
 ---
 
