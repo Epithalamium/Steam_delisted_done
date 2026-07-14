@@ -250,7 +250,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -959,7 +959,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -1937,6 +1937,7 @@
 442080	Riders of Icarus
 442110	PWI
 442180	Operation Caucasus
+442810	UFO Online: Invasion
 443080	Elite Dangerous: Arena
 443630	Chicku
 443890	BUCK: Saturday Morning Cartoon Apocalypse
@@ -5792,6 +5793,7 @@
 1339810	Slimey Champions
 1340030	Tragedy of Loneliness
 1340160	RIO - Raised In Oblivion
+1340860	灰烬行星与填鸭少女
 1341230	Super Buckyball Tournament Preseason
 1342240	GUNBARICH
 1342250	ZERO GUNNER 2-
@@ -7292,6 +7294,7 @@
 1817010	Beyond Up
 1817170	Indie Rumble
 1817240	Singularity Dungeon
+1817330	Immolation
 1817380	Erebe
 1818010	Return Alive
 1818410	Ultimate Muscle Roller Championship
@@ -8539,6 +8542,7 @@
 2335870	Trading Cat Game
 2335940	Kingless Pawns
 2337510	Second Wave
+2337860	Nubs!
 2337890	Time Survivors: Prologue
 2337960	Venus the Flytrap
 2338000	Brothel Simulator II 💋
@@ -9393,6 +9397,7 @@
 2763850	Par Party
 2764450	My Pretty Closet
 2765030	Ground Zero Hero PROLOGUE
+2765940	Polygon Hell
 2766220	Leaden Sky: Nightmares
 2767270	Let's Battle Online
 2767820	Nyan Heroes
@@ -9520,7 +9525,7 @@
 2839010	Peaches and Dreams
 2839200	Sleep Stream
 2839680	Monster Mop Up-Prologue
-2839990	Burger girl clicker
+2839990	Anime
 2840430	ZenFire
 2841220	Black constellation
 2841230	Dark Cellar Death Trial
@@ -10688,6 +10693,7 @@
 3866880	Dominated by: Yandere Goth Delinquent Sister
 3869390	Ronald Rump - Fake Assassin Simulator: SAVE AMERICA AGAIN
 3872210	Ariana's Perverted Diary
+3874210	Phantasos Now
 3874630	封神让我来
 3874800	次元战姬：霓虹对决
 3877380	No Road To PEAK: Together
@@ -10931,6 +10937,7 @@
 4615000	ValveTestApp4615000
 4640080	Walled City of Living Will
 4653840	Trapped in the Backrooms
+4657750	Hardhats : Some Survival Required
 4659290	Let Me Free!
 4659860	Restroom Business Simulator
 4660290	100 Hidden ASCII Cats: Colors
@@ -10945,6 +10952,7 @@
 4719720	Poping Aquarium
 4720210	Hit Streak And Brawl
 4725200	Femboy Pirates
+4726680	Moggmon
 4736920	GAL-Chat
 4743240	Creations : a visual novel
 4746690	Audio vibration sample bluetooth ps5 controller
