@@ -148,6 +148,7 @@
 11360	Chains
 11420	Clive Barker's Jericho
 11440	DiRT
+11480	Soldiers: Heroes of World War II - Enhanced Edition
 11500	ToCA Race Driver 3
 11510	Prisoner of War
 11520	Brian Lara International Cricket 2007
@@ -250,7 +251,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -2745,7 +2746,6 @@
 663170	Prime Shift
 663380	Tales from Candlekeep: Tomb of Annihilation
 663540	Murder...
-663670	Killer Queen Black
 663750	MineDrill
 663920	Died Of Fear
 664020	GrrImAFridge Test App
@@ -4615,6 +4615,7 @@
 1048320	都市恐怖故事
 1048550	Universal Space Station Inc.
 1048600	Stela
+1048830	Horse Riding Tales
 1048970	Crix
 1049040	Wind Force
 1049230	Gray Memory
@@ -7033,6 +7034,7 @@
 1713030	Virtual world Primus
 1713390	Appleocalypse
 1713450	Cat Jump
+1714260	Eventour
 1714540	Interactive ASMR Experience
 1714620	Blocktopia
 1714740	Swarm the City: Prologue
@@ -9627,6 +9629,7 @@
 2903650	ヤンデレリリィホリック－さっちゃんの愛情表現－
 2903680	有请祖师爷
 2904030	Donald Trump, Make RPGs Great Again!
+2904340	Pantheon Rift
 2905510	女拳异变 Touhou Female Fist Mutation
 2905840	Wings of the Skyworld
 2907150	MAD & MAX: The Best Survival game with Zombies and Dinosaurs
@@ -10420,6 +10423,7 @@
 3515580	Deductopia Demo
 3515770	Sex Adventures - Naughty Sisters - Episode 4
 3515780	Interactive Sex - Daddy Daughter Incest
+3516860	Lab 47
 3518410	LATAM Hooligans
 3520590	Yapori Minigames 2
 3520690	Eternal Warriors
@@ -10513,7 +10517,6 @@
 3601060	TaVRn's Takedown - Naheulbeuk
 3601620	Super Tetris
 3602010	Rogue Cell
-3602290	FEMBOY FUTA HOUSE
 3603520	Final Passage
 3604330	Naughty Narratives
 3604670	News Company Simulator
@@ -10714,6 +10717,7 @@
 3903630	You suck and I hate you: part 1
 3915400	GladiMaker
 3921010	War Alert
+3921310	Sphereverse
 3926280	傲世血魔
 3928060	Robinsons Simulations World
 3928870	Great Escape
@@ -10903,6 +10907,7 @@
 4479680	ValveTestApp4479680
 4482700	Kogama
 4486810	One Of Us
+4491220	Loop Tower: Prologue
 4492810	WHOREHAMMER 69 000
 4495510	Plantation Simulator
 4500830	Mirolin: The Big Show
@@ -10935,6 +10940,7 @@
 4609840	The Archmage Who Defeated the Demon King Wants to Be Ravaged by Mobs in a Peaceful World
 4612610	Graphictoria
 4615000	ValveTestApp4615000
+4632630	Hansi auf Sylt
 4640080	Walled City of Living Will
 4653840	Trapped in the Backrooms
 4657750	Hardhats : Some Survival Required
