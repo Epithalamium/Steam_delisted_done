@@ -734,6 +734,7 @@
 209340	Ride to Hell: Retribution
 209390	Dungeonbowl Knockout Edition
 209520	Mini Motor Racing EVO
+209540	Strike Suit Zero
 209710	War of the Immortals
 209870	Blacklight: Retribution
 209910	Peter Jackson's King Kong
@@ -960,7 +961,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -2509,6 +2510,7 @@
 593210	Counter Fight: Samurai Edition
 593340	Gaben Kingdom
 593590	Oxygen Not Included - ALPHA
+594550	Arma: Cold War Assault Mac/Linux
 594770	Legends of Aria
 595000	Ghostbusters VR: Firehouse
 595030	Please
@@ -6325,6 +6327,7 @@
 1489690	Bakery Magnate: Online
 1489820	Zombrio
 1490010	Phoenix Squadron
+1490620	Pray And Spray
 1490680	God Sword
 1491030	The Nomads of Dragon Storms
 1491270	The Deep
@@ -10138,6 +10141,7 @@
 3234940	Wonderland: Red Queen Protocol
 3235400	Stick Rush
 3236030	Axe Slasher: Roguelike Dungeon Crawler
+3236080	老虎机少女 Slot Girls
 3236840	生于厕所 Reborn in the toilet
 3239720	Rift Riders
 3240020	Mansion Mayhem: Shooting Assault
@@ -10510,6 +10514,7 @@
 3596630	Sex Adventures - Naughty Sisters - Episode 7
 3596640	Interactive Sex - Mom Son Incest BDSM
 3596690	Cousin's House
+3596780	Defracted
 3598350	The Girl in the Dark
 3598420	Sister Takes Two Dicks
 3598930	Blood Gamble: Hanafuda
@@ -10579,6 +10584,7 @@
 3677750	Sex Adventures - Incest Family - Episode 8
 3677760	Interactive Sex - Incest Daughters - Episode 1
 3678580	NOW LOADING SIMULATOR
+3680410	Tears of Vanfell: New Beginning
 3680620	Incendium
 3682390	Three Legions: Erosion of the Abyss
 3682520	Escape From The Island
@@ -10820,6 +10826,7 @@
 4156110	Deskop Buddy
 4159120	Mommy don't hurt me mommy don't hurt me mommy don't hurt me
 4161660	DOPAmine Overdrive
+4162600	Nuclecard
 4163990	Culck By DayLight
 4164430	【クラウドファンディング支援者限定】ズイキマスコンPRO 特別版
 4165590	Stormblades Remastered
@@ -10967,3 +10974,4 @@
 4844080	Prison Cat
 4873080	Nubo – Your Screen Friend
 4884890	Paint Gal Adventures
+4918170	Dark Realms: Hoia Baciu
