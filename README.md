@@ -2,24 +2,25 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-07-16 08:35 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-07-17 08:29 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 10977 apps
+**Total tracked:** 10985 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Strike Suit Zero](https://store.steampowered.com/app/209540/) (AppID: 209540)
-- [Arma: Cold War Assault Mac/Linux](https://store.steampowered.com/app/594550/) (AppID: 594550)
-- [Pray And Spray](https://store.steampowered.com/app/1490620/) (AppID: 1490620)
-- [老虎机少女 Slot Girls](https://store.steampowered.com/app/3236080/) (AppID: 3236080)
-- [Defracted](https://store.steampowered.com/app/3596780/) (AppID: 3596780)
-- [Tears of Vanfell: New Beginning](https://store.steampowered.com/app/3680410/) (AppID: 3680410)
-- [Nuclecard](https://store.steampowered.com/app/4162600/) (AppID: 4162600)
-- [Dark Realms: Hoia Baciu](https://store.steampowered.com/app/4918170/) (AppID: 4918170)
+- [PEOPLEDOWN](https://store.steampowered.com/app/1646230/) (AppID: 1646230)
+- [Crowd Playground](https://store.steampowered.com/app/1759820/) (AppID: 1759820)
+- [You're Fired! Revenge!](https://store.steampowered.com/app/2234320/) (AppID: 2234320)
+- [Spriters, Hopes Blooming Dawn](https://store.steampowered.com/app/2373220/) (AppID: 2373220)
+- [Culture Warz](https://store.steampowered.com/app/2534140/) (AppID: 2534140)
+- [Journey To The Wand](https://store.steampowered.com/app/2693470/) (AppID: 2693470)
+- [Culture Warz: Chess](https://store.steampowered.com/app/2789910/) (AppID: 2789910)
+- [The Era of Pioneers](https://store.steampowered.com/app/2947360/) (AppID: 2947360)
+- [Tears of Vanfell - Chapter 1](https://store.steampowered.com/app/3115290/) (AppID: 3115290)
 
 ---
 

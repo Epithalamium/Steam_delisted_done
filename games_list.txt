@@ -3115,7 +3115,6 @@
 737230	Rising Storm 2: Vietnam CTB Beta
 737500	ChioHero
 737800	F1 2018
-738090	GRIT
 738500	The Parallax Effect
 739000	Grobda Remix
 739090	Bygone Worlds: Ephesus
@@ -6828,6 +6827,7 @@
 1644260	Legend of You
 1644660	Imperfect
 1644960	NBA 2K22
+1646230	PEOPLEDOWN
 1646390	Spheriums
 1646400	Genry's parables: Scientist Story
 1646630	Hobbs Home
@@ -7156,6 +7156,7 @@
 1759270	Hentai Surprise Girls
 1759580	Tower To Heaven
 1759640	Underground Life
+1759820	Crowd Playground
 1760060	Multicolored Hentai Girls
 1760080	NSFW Studio
 1760250	Madden NFL 23
@@ -8317,6 +8318,7 @@
 2233420	Sinner's Tavern
 2233630	Ruinbound
 2234030	向往的方向
+2234320	You're Fired! Revenge!
 2235520	GalaxyVerse
 2236270	Banana Man : The Space Monkeys
 2236290	Lewd Anime Racing
@@ -8638,6 +8640,7 @@
 2372140	Fruit Jammin'
 2372360	Lovely Nurse
 2373160	D-100
+2373220	Spriters, Hopes Blooming Dawn
 2373300	Outway
 2374230	IKARO Will Not Die
 2375800	My Illegal Cafe
@@ -8993,6 +8996,7 @@
 2532160	Case Closed
 2533730	瓶中琉璃海
 2533930	Made in Hell
+2534140	Culture Warz
 2534900	TV Simulator
 2534950	OIL FILLING
 2535060	A World of Wishes
@@ -9286,6 +9290,7 @@
 2691220	Ara Ara Auntie Incest
 2691600	Unwelcome
 2693310	Harvest Knight
+2693470	Journey To The Wand
 2694560	Chrono-Shift
 2694580	닥터 P
 2695110	Infinite Forest
@@ -9441,6 +9446,7 @@
 2787970	Unheroic Misfits
 2788390	游戏已改名：《神魔决之江湖行》
 2789420	Escape from Ever After: Onboarding
+2789910	Culture Warz: Chess
 2790240	Pencilvania
 2790930	Velev
 2791240	海岛奇妙物语
@@ -9703,6 +9709,7 @@
 2945210	Daddy, Say My Name
 2946880	The Last Man Survivor: Prologue
 2946990	Gunbug
+2947360	The Era of Pioneers
 2947380	Clickout
 2947400	Klaviactor
 2947890	Guardians of the Sanctree: Early Birds
@@ -9980,6 +9987,7 @@
 3112700	초요소녀 리리나(Choyo Girl Lilina)
 3113830	Emergency Cleanup Co. - Prologue
 3115090	Sniper 3D
+3115290	Tears of Vanfell - Chapter 1
 3117040	问山海:悟空
 3119530	The Family
 3119650	The Last FARMER - Prologue
