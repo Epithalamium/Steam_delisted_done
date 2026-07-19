@@ -3429,6 +3429,7 @@
 805110	P.A.S.
 805220	Nortinium
 805280	Dead Rain - New Zombie Virus
+805890	Vitality
 807280	Cactus Canyon
 807770	Frequent Flier: A Long Distance Love Story
 807780	Mahjong Classic
@@ -4677,6 +4678,7 @@
 1060950	Island Life
 1061100	Hunter's Arena: Legends
 1061450	Laura "The Nympho"
+1061990	RelicMerge
 1062180	Marshin
 1062240	地铁：恐怖末班车
 1062920	Yiki Action RPG
@@ -8423,6 +8425,7 @@
 2280020	Lindwyrm
 2280270	炸弹魔塔 Bomb Tower
 2280530	Red Trigger Prologue Remastered
+2281150	Zaoça: Šäaiks Lagush
 2284060	Crazy Cars
 2285270	Return
 2285600	The Third
@@ -10697,6 +10700,7 @@
 3850320	次元战姬
 3853060	拟态残响-HollowEcho
 3853900	Battle of Aces
+3854300	CALYPSO
 3855290	求生者：活着
 3855550	Celestial Wardens
 3856640	Poison of the Five Crevices
@@ -10914,6 +10918,7 @@
 4435900	Yapori Dimensions 2
 4436100	PacketRunner: Digital Resistance
 4436480	Rabbit Scare
+4436720	Masterworks of Horror: The Prologue
 4439210	Crucifier
 4450410	Lust Frontiers
 4451900	热血屠龙
