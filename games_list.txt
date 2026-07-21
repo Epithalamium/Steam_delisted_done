@@ -251,7 +251,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -961,7 +961,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -9395,6 +9395,7 @@
 2752220	Train Capacity 300% 2
 2752560	Erlking
 2753820	My step family
+2754040	Fisherman'sWorld
 2754770	dont🔥red: SIM💾Trading
 2755860	Pro Wrestling Manager
 2756240	武林传奇之烈火屠龙(Kong Fu Legend: God Of War)
@@ -9748,6 +9749,7 @@
 2962740	Stealth Camping Simulator
 2963250	Taxi Rush: Prologue
 2963740	Below Level 地下
+2964030	Random Core Defense
 2964070	Escape Peng
 2964220	Whispering Age
 2966900	Keep Runnin
@@ -10612,6 +10614,7 @@
 3694770	Target Dragon 2: Maze Runner
 3696140	DYSON ERA IDLE
 3697770	Kleptomaniacs
+3698510	Kick and Hide
 3705110	决战万界山
 3707580	Interactive Sex - Incest Daughters - Episode 2
 3707590	Sex Adventures - Incest Family - Episode 9
@@ -10736,6 +10739,7 @@
 3915400	GladiMaker
 3921010	War Alert
 3921310	Sphereverse
+3924080	Spori
 3926280	傲世血魔
 3928060	Robinsons Simulations World
 3928870	Great Escape
