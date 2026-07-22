@@ -89,7 +89,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -251,7 +251,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -961,7 +961,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -1939,6 +1939,7 @@
 442080	Riders of Icarus
 442110	PWI
 442180	Operation Caucasus
+442710	Fantasy Tales Online
 442810	UFO Online: Invasion
 443080	Elite Dangerous: Arena
 443630	Chicku
@@ -6125,6 +6126,7 @@
 1426970	Boom!VR
 1427020	Sasel RPG
 1427250	Apathy
+1427510	Overdose WW2
 1427770	Rhythm 'n Bullets
 1427810	求闻手账 ～ Gensokyo Recollection
 1428070	Dungeon Scavenger 2
@@ -6331,7 +6333,6 @@
 1490620	Pray And Spray
 1490680	God Sword
 1491030	The Nomads of Dragon Storms
-1491270	The Deep
 1491290	Discover
 1491300	Fitness Center Tycoon
 1491430	Commie Killer 2069
@@ -8575,6 +8576,7 @@
 2343970	WITCH RACE Prologue
 2344170	Mystery Gates
 2344660	RizzChat
+2344800	Milky Animals
 2344830	Ethereal: Requiem of Repose
 2345530	Escape The Matrix
 2346110	Conflux: Prologue
@@ -9075,6 +9077,7 @@
 2576680	Manor of Mysteries
 2576960	Ashes of Arcanum
 2577090	The Legend of Ogorets #3: Kikimora
+2577110	Kami
 2577640	Multi Turret Academy: Prologue
 2578350	The Nights on Arcade
 2578660	Heroes of Row
@@ -9229,6 +9232,7 @@
 2654800	i am a fish Online
 2655060	Gates of Yomi
 2655320	Spellcats: Auto Card Tactics - Prologue
+2655880	Dragon Care Tarot
 2656320	Medville
 2656870	Fluffy Doki Sunshine
 2656990	Mycelium Guardians
@@ -10041,6 +10045,7 @@
 3146080	極樂宿舍
 3146110	Hit of Chernobyl
 3147120	Hot Reels
+3148880	Lord Of The Penguins
 3148920	Hentai Puzzle: Lustful Legends
 3149100	PawnShop Simulator
 3149470	Tradeforge
@@ -10284,6 +10289,7 @@
 3357030	Fingie Bandits
 3357260	Nexus M4
 3357590	Shadows of Morhaven
+3357940	Diggin’ It!
 3359630	Hazardous Hunt
 3362240	Survius
 3362290	KUKUMBER
@@ -10691,6 +10697,7 @@
 3826570	Red Fox: Exploration on the the Red Fox Island
 3826850	Sword Hockey
 3829870	Dark Moon: Prologue
+3831290	The Forgotten Past
 3831680	SCP Containment Breach
 3835930	Overtime？No Way！
 3836710	Blind Box
@@ -10760,7 +10767,6 @@
 3951010	UPGRADES & ENEMIES
 3956500	BALANCED FOOD CalorieMate FOR GAME CREATORS - JELLY MISSION -
 3957440	Nightmare Returner
-3960780	Obstacle Challenge: Platform - Action
 3961750	Goofy Lad
 3964960	DOTscape
 3966330	Paper Department
@@ -10851,7 +10857,6 @@
 4172050	Wavecremental
 4173050	Beltix
 4176760	鬼ごっこ
-4177310	Caves of Madness
 4179610	SteamRandomPicker
 4180580	Project Cats & Gigs
 4188050	Treasurer
@@ -10907,7 +10912,6 @@
 4354850	ECUMENE AZTEC: PROLOGUE
 4357020	一魂双体 他与她的奇妙之旅
 4363690	SPOOKY JOB: The wrong house
-4365740	Chrono Vanguard: Primal Survival - Dinosaur
 4369200	Hot and Lovely : May Holiday
 4371940	Dragon Arena
 4376010	Blind Nature
@@ -10991,4 +10995,5 @@
 4844080	Prison Cat
 4873080	Nubo – Your Screen Friend
 4884890	Paint Gal Adventures
+4893120	Pogo Frogo
 4918170	Dark Realms: Hoia Baciu
