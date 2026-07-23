@@ -961,7 +961,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -5118,6 +5118,7 @@
 1162910	Baaxal Yuum
 1163040	Billion Road
 1163080	SLASHED
+1163130	Oasis VR
 1163140	Shanghai Office Simulator
 1163370	Drunk Santa Simulator
 1163480	Welcome To... Chichester OVN 2 : Master Tormenter Grendel Jinx !?
@@ -5320,6 +5321,7 @@
 1214320	Frog X Log
 1214930	Brain vs Zombies
 1214990	New Planets
+1215260	Efflorescence of Lust
 1215480	Torchlight III (Beta)
 1215980	The Final Stand: Breakout
 1216630	古剑奇谭2
@@ -5824,6 +5826,7 @@
 1348480	Viking Butcher
 1348730	Blightbound Beta
 1348760	KARM
+1349120	球球少女
 1349370	Block Breaker Ninja
 1349380	Fight the Landlord
 1349840	PREPARE
@@ -7262,6 +7265,7 @@
 1801560	Electronic Universe
 1801830	Rift Sweepers
 1801890	Россия наизнанку: Новый год
+1802860	大富翁少女
 1804630	Outbreak Island: Pendulum
 1805360	Bounty game
 1805780	Looney Tunes World of Mayhem
@@ -7275,6 +7279,7 @@
 1808310	Together My Headers
 1808460	Perfect Date
 1808750	Beware Tomorrow
+1808780	祖玛少女
 1808840	Gods of Hellas VR
 1809110	Whisper Out Of Time
 1809380	Station-Z
@@ -7803,6 +7808,7 @@
 2003240	PSI Masquerade
 2003310	Wallpaper Alive
 2003510	诸神陨落
+2003640	Village Heroes
 2003810	SCP: New Operative
 2004340	Eternal
 2005500	The Minesweeper: Crew Bomber Expedition
@@ -9274,6 +9280,7 @@
 2676770	Basketball Grand Slam 2024
 2678520	The Piano That Staying Time
 2678540	Qwess
+2679200	幸存者少女/Survivor Girls
 2679890	Social Status : Life Simulator
 2680130	DB²: Disco Boogie of the Dead Beats
 2680700	ModernArt Virtual Museum
@@ -9648,7 +9655,7 @@
 2904030	Donald Trump, Make RPGs Great Again!
 2904340	Pantheon Rift
 2905510	女拳异变 Touhou Female Fist Mutation
-2905840	Wings of the Skyworld
+2905840	Lost Horizon: Sky Relics
 2907150	MAD & MAX: The Best Survival game with Zombies and Dinosaurs
 2907840	Potatoes and Aliens
 2908260	Strider-X
@@ -9691,6 +9698,7 @@
 2931370	NOMU
 2931450	Nora - Forest Nights
 2931810	ハメ堕ち人妻ナース～忘れたくても体は覚えているマゾ牝の本性～
+2931920	鑽石俱樂部-皇家尊爵
 2932040	2.5 DIMENSIONAL SEDUCTION: Angels on Stage!
 2932610	Be the Ruler: Prologue
 2932830	Wolfenstein
@@ -9745,6 +9753,7 @@
 2958660	Reator4
 2958870	Lukewarm Massacre: The Spirit of Light
 2959140	Doomsday : Unknown Journey
+2959410	Gorilla Adventure
 2960210	The Beyond Of Fears: New House
 2960690	Pigeon Ascent
 2961270	Azur Chess
@@ -9767,6 +9776,7 @@
 2969260	Lunia Z Global
 2970160	Sexy Beats
 2972690	Sunshine In WoozaVille!
+2972870	Red Ruins: VR vs. PC
 2973490	Megaloot: Prelude
 2973660	Grocery Store Simulator: Prologue
 2974560	Echo of Mobius
@@ -9804,6 +9814,7 @@
 2994330	Good & BAD DRIVER
 2995340	Dawn of Decay
 2995600	Codename: Zalidium
+2996090	源战役
 2998230	The Devil is in the Details - The Prologue
 2998640	Lotus Lantern: Rescue Mother - prologue
 2998740	神将
@@ -9888,6 +9899,7 @@
 3053710	Cuppy Coffee Sim
 3054340	Ocean Playground
 3055380	Imagine Island
+3055420	Fruit: Chain Effect
 3056060	Cheese Collector
 3056880	Emoji Clicker
 3057220	Gambamba
@@ -10291,6 +10303,8 @@
 3357590	Shadows of Morhaven
 3357940	Diggin’ It!
 3359630	Hazardous Hunt
+3360010	Tsukuyomi: The Divine Hunter
+3360690	集墨聚场™：水镜三国
 3362240	Survius
 3362290	KUKUMBER
 3363240	かいがらの夢
@@ -10906,6 +10920,7 @@
 4326660	Nancy Drew: The Missing Crowley Will
 4329650	Rooftop Garden
 4330460	屠龙归来
+4335880	Last Light Left
 4337430	烈火战神
 4337690	MEAT EATER
 4338060	Goddess of Fate: Anime RPG
@@ -10980,6 +10995,7 @@
 4681400	Nova Fighter
 4692510	火龙传奇
 4697420	SwordRequiem Crack
+4700180	LumenFall
 4705730	Ship It
 4706530	沙雕之路最终章
 4707140	彭罗斯游戏
@@ -10990,6 +11006,7 @@
 4736920	GAL-Chat
 4743240	Creations : a visual novel
 4746690	Audio vibration sample bluetooth ps5 controller
+4789260	Never Ending Hero RPG
 4790440	血色末路:屍潮
 4825280	Mage X Monster: The Archmage Who Wants to Lose to Mobs
 4844080	Prison Cat
