@@ -385,7 +385,7 @@
 36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans + Odyssey Pack
+36130	Tradewinds Caravans
 36140	Tradewinds Odyssey
 36150	Westward Collection
 36160	Westward 2
@@ -395,7 +395,7 @@
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Super Granny Collection
+36270	Granny in Paradise
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -961,7 +961,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -3527,6 +3527,7 @@
 820750	Cryptocurrency Clicker
 820890	Blood Bond - Into the Shroud
 821290	RUNE II: Decapitation Edition
+821330	Mob War
 821350	R.B.I. Baseball 20
 821790	Who Am I: The Tale of Dorothy
 821800	ADR-Labelling Game
@@ -10930,6 +10931,7 @@
 4369200	Hot and Lovely : May Holiday
 4371940	Dragon Arena
 4376010	Blind Nature
+4387560	The Last Athari
 4390360	Aftermath 1944
 4397660	Ascend The Tower
 4399320	SPARTA 2035 – The Last Diamond
@@ -10950,6 +10952,7 @@
 4479680	ValveTestApp4479680
 4482700	Kogama
 4486810	One Of Us
+4488570	Fresh Food Merge
 4491220	Loop Tower: Prologue
 4492810	WHOREHAMMER 69 000
 4495510	Plantation Simulator
@@ -10991,6 +10994,7 @@
 4659860	Restroom Business Simulator
 4660290	100 Hidden ASCII Cats: Colors
 4668790	欲都戰姬
+4671710	Valkyrie Girl
 4672690	马场大亨Online国际版
 4681400	Nova Fighter
 4692510	火龙传奇
