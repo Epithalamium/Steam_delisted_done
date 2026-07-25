@@ -89,7 +89,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max 201: Ice Station Santa
+8260	Sam & Max: Season Two
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -385,7 +385,7 @@
 36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans
+36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
 36150	Westward Collection
 36160	Westward 2
@@ -395,7 +395,7 @@
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Granny in Paradise
+36270	Super Granny Collection
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -961,7 +961,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -1614,6 +1614,7 @@
 378020	Protocol
 378120	Football Manager 2016
 378280	Pump-Action Captain
+378480	Badland Bandits
 378860	Project CARS 2
 378930	Pesadelo - Regressão
 379340	Buggy
@@ -2288,6 +2289,7 @@
 532230	Under a Porcelain Sun
 532820	Iron Fish
 532950	Hoyle Official Casino Games
+533010	Filthy Lucre
 533320	Space Trucker
 533690	Think To Die
 533930	Pit People Beta
@@ -2530,7 +2532,6 @@
 598820	Aloha Paradise Hotel
 599010	Hanse - The Hanseatic League
 599060	Age of Heroes: Conquest
-600280	Supreme Ruler The Great War
 600380	Classic Offensive
 600430	Ticket to Ride: First Journey
 600740	Land Doctrine
@@ -5151,6 +5152,7 @@
 1170660	Greed
 1170740	FightingGirl
 1171010	Infection Outbreak 感染爆发
+1171040	Eonica Chess Battle
 1171140	Countersnipe
 1171430	Maids Girls
 1171540	Kingdom of Keogth: the Arena
@@ -5364,6 +5366,7 @@
 1224110	Retired - never shipped Kingpin Reloaded
 1224130	DREAMLIVE
 1224330	P9 The GateAway
+1224700	Kingpin: Reloaded
 1224730	RACOW
 1225060	NAIRI: Rising Tide - Prologue
 1225330	NBA 2K21
@@ -8026,6 +8029,7 @@
 2107670	Warhaven
 2107830	KARIN'S DIGITAL ADVENTURE
 2107840	Grace of the Labyrinth Town
+2108330	F1® 23
 2108960	Long Live the King!
 2109460	VillageRhapsody
 2109550	Office Racer
@@ -8051,6 +8055,7 @@
 2121200	My Stepmom is a Futanari 4
 2121600	The Lightkeeper
 2121680	Steamcore
+2122070	Girl & Gem Magic
 2122510	Dream Babes
 2122690	Necroa Village
 2123260	The First Descendant FGT
@@ -8216,6 +8221,7 @@
 2194260	快穿：少女节奏
 2194640	Project Electric Sheep
 2194940	Takenoko - Tilt Five AR
+2195250	EA SPORTS FC™ 24
 2195900	Muffins on Stream
 2195920	Heavy Burden: Prologue
 2196070	Time Lock VR-episode Lumber Room
@@ -10496,6 +10502,7 @@
 3539030	Melodraw
 3541280	Isekai Mom Stories
 3542000	Floating Life
+3545220	SILO
 3546320	Interactive Sex - King Princess Incest
 3546640	CorAstral
 3546660	Dungeon Legend Party
@@ -10542,6 +10549,7 @@
 3591550	Hunter Roulette
 3591760	Interactive Sex - Daddy Daughter Incest BDSM
 3591890	CombatBox
+3592000	激情麻将
 3594670	Ranman
 3595570	Ballmaster
 3596390	Dragon-Slaying War God
@@ -10883,9 +10891,11 @@
 4201420	永恒传奇
 4203540	垂钓大师 Fishing Master
 4204150	Endless Nightbreak: Blood Horde
+4205830	Tetraverse
 4213060	Late Night Tales
 4215830	疯狂传奇
 4226400	冰雪传奇
+4227620	Eternal Collector
 4228420	King's Hand
 4230540	SECOND WIND
 4231100	Bird Game 4
@@ -10920,6 +10930,7 @@
 4325590	Hello, Runa!
 4326660	Nancy Drew: The Missing Crowley Will
 4329650	Rooftop Garden
+4329850	Turret Boy
 4330460	屠龙归来
 4335880	Last Light Left
 4337430	烈火战神
@@ -10951,6 +10962,7 @@
 4457250	Memory Tides
 4479680	ValveTestApp4479680
 4482700	Kogama
+4486430	Tragedy is approaching
 4486810	One Of Us
 4488570	Fresh Food Merge
 4491220	Loop Tower: Prologue
@@ -11013,8 +11025,11 @@
 4789260	Never Ending Hero RPG
 4790440	血色末路:屍潮
 4825280	Mage X Monster: The Archmage Who Wants to Lose to Mobs
+4842900	Crops Rebel
 4844080	Prison Cat
 4873080	Nubo – Your Screen Friend
+4881390	Rouge's Flush
 4884890	Paint Gal Adventures
 4893120	Pogo Frogo
+4915660	No Exit Protocol
 4918170	Dark Realms: Hoia Baciu
