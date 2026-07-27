@@ -2,7 +2,7 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-07-26 08:40 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-07-27 10:11 UTC**
 
 **Filters applied:** All default item types
 
