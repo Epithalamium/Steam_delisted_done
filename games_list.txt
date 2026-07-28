@@ -382,20 +382,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classic
+36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans
+36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
-36150	Westward
+36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania
+36180	Cake Mania Collection
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Granny in Paradise
+36270	Super Granny Collection
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -8444,6 +8444,7 @@
 2285270	Return
 2285600	The Third
 2286930	Ragnarock: the "Vikings On Tour" Update
+2287220	F1® Manager 2023
 2287530	MATCH3D - Adult Social
 2287640	The House In The Woods
 2287920	BATTLE CRUSH
@@ -9204,6 +9205,7 @@
 2639920	Deleted
 2641200	Whiskers of the Abyss
 2641470	Spectre Divide
+2641730	Last Man
 2641850	Retired
 2643560	Tracks n' Turrets
 2644180	Kiloparsec Uprising
@@ -9867,6 +9869,7 @@
 3025120	Punch!
 3025410	TheExit8NYC
 3025660	FactoryCapi
+3026920	Project Viper
 3028240	Battlefield Labs
 3029370	The Gallo Presidency - Prologue
 3029650	Pape Rangers - Prologue
@@ -10260,6 +10263,7 @@
 3302400	Cubic Wrestling
 3303540	Polarity Warthog
 3304710	Potion Shopkeeper Simulator
+3307770	NCORE
 3311780	Leading Picker
 3313780	Tiny House Simulator: Prologue
 3313840	Silent Investigation
@@ -10865,6 +10869,7 @@
 4146720	DO NOT MINIMIZE THIS WINDOW
 4149540	Rift Investigations
 4150250	SWEATING
+4151430	The Shadow: L.O.A.P
 4152910	完美传奇
 4152920	帝王传奇
 4154550	Cheong-un: Indigo Cloud
@@ -10944,6 +10949,7 @@
 4376010	Blind Nature
 4387560	The Last Athari
 4390360	Aftermath 1944
+4392210	Bodycam: Deadsplit
 4397660	Ascend The Tower
 4399320	SPARTA 2035 – The Last Diamond
 4401910	TRIX
@@ -10999,6 +11005,7 @@
 4612610	Graphictoria
 4615000	ValveTestApp4615000
 4632630	Hansi auf Sylt
+4639000	ValveTestApp4639000
 4640080	Walled City of Living Will
 4653840	Trapped in the Backrooms
 4657750	Hardhats : Some Survival Required
