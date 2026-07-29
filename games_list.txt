@@ -5387,6 +5387,7 @@
 1227800	Quantum League - Open Beta
 1227910	Roguelite 2
 1228330	The Last One Month
+1228630	Patched world
 1229330	Pixie Moon
 1229810	Slender: The Eight Pages REMAKE
 1230160	SKULLMASTER'S ARENA
@@ -8614,6 +8615,7 @@
 2353860	Umbra
 2354780	Together Tree: Romance 911
 2354800	none
+2355110	Dignacia
 2355610	Yet Another Hentai Puzzle
 2355640	Prompt Squad
 2355710	inziva
@@ -9038,6 +9040,7 @@
 2543090	MindXcope
 2543250	Clash Cats
 2543470	Mutagenesis
+2543920	Nameless adventure
 2544000	生者不在夜里哭泣
 2544030	Quiet on Set
 2544290	Order Us!
@@ -10641,6 +10644,7 @@
 3690820	People of Mine
 3690990	Don't Freeze
 3691020	Interactive Sex - Incest Twins - Episode 1
+3692620	Loot profit
 3692970	沉默传奇
 3693090	Suduce-U
 3694620	Truck World: Australia - First Haul
@@ -11034,6 +11038,7 @@
 4825280	Mage X Monster: The Archmage Who Wants to Lose to Mobs
 4842900	Crops Rebel
 4844080	Prison Cat
+4851270	Deadwood House
 4873080	Nubo – Your Screen Friend
 4881390	Rouge's Flush
 4884890	Paint Gal Adventures
