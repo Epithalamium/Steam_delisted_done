@@ -2,7 +2,7 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-07-29 09:11 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-07-30 09:05 UTC**
 
 **Filters applied:** All default item types
 
@@ -12,11 +12,13 @@ Updated every 2 days via GitHub Actions. Last updated: **2026-07-29 09:11 UTC**
 
 ## Newly Added Since Last Check
 
-- [Patched world](https://store.steampowered.com/app/1228630/) (AppID: 1228630)
-- [Dignacia](https://store.steampowered.com/app/2355110/) (AppID: 2355110)
-- [Nameless adventure](https://store.steampowered.com/app/2543920/) (AppID: 2543920)
-- [Loot profit](https://store.steampowered.com/app/3692620/) (AppID: 3692620)
-- [Deadwood House](https://store.steampowered.com/app/4851270/) (AppID: 4851270)
+- [One more game](https://store.steampowered.com/app/1650890/) (AppID: 1650890)
+- [Aim Lab VR](https://store.steampowered.com/app/1845630/) (AppID: 1845630)
+- [Top Alert](https://store.steampowered.com/app/3213890/) (AppID: 3213890)
+- [Third Kind](https://store.steampowered.com/app/3842340/) (AppID: 3842340)
+- [Political Run: World Leaders](https://store.steampowered.com/app/4188090/) (AppID: 4188090)
+- [Creepytape Rewind - Not From Here](https://store.steampowered.com/app/4569900/) (AppID: 4569900)
+- [Debris Zone](https://store.steampowered.com/app/4898540/) (AppID: 4898540)
 
 ---
 
