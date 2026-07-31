@@ -382,20 +382,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classics
+36100	Tradewinds Classic
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans + Odyssey Pack
+36130	Tradewinds Caravans
 36140	Tradewinds Odyssey
-36150	Westward Collection
+36150	Westward
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania Collection
+36180	Cake Mania
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Super Granny Collection
+36270	Granny in Paradise
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -6391,6 +6391,7 @@
 1503220	王国的魔法战争
 1503500	Uboat Commander
 1503950	Sin Survivor
+1504090	Ascendum
 1504140	Ninja Ming: Novice Area
 1504180	Hello Guest: Hello Neighbor Pre-Alpha
 1504220	The Penguin IQ Test
@@ -7891,6 +7892,7 @@
 2063550	Japanese TeTris
 2064580	Hausmeister
 2065090	John Brick
+2065330	Catto Pew Pew! CLASSIC
 2065430	Country Champs
 2065620	Individualand
 2066250	HBDIE: 2
@@ -8940,6 +8942,7 @@
 2491260	Space Cowboys
 2493030	Timo Boll Beats Table Tennis
 2494280	The golden girl Cloud top board
+2495050	Merge Adventure: Magic Dragons
 2496400	MiniDrift
 2496860	修仙小屋
 2497550	Summum Aeterna: Prologue
