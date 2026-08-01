@@ -251,7 +251,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -382,20 +382,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classic
+36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans
+36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
-36150	Westward
+36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania
+36180	Cake Mania Collection
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Granny in Paradise
+36270	Super Granny Collection
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -2420,6 +2420,7 @@
 565880	Frozen Drift Race
 566240	The Day After : Origins
 566980	Crashimals
+567010	Game Royale 2 - The Secret of Jannis Island
 567260	Super Death Arena
 567690	Songs of Araiah: Re-Mastered Edition
 567730	Merry Snowballs
@@ -6811,7 +6812,6 @@
 1637500	Post Stalker
 1637750	Cute Girl 2
 1637760	Men's Club Girl
-1637910	Red Algorithm
 1638060	Goddess Summoner
 1638100	​Cubeetle - Game of creation
 1638110	VR党建学习馆
@@ -7092,6 +7092,7 @@
 1729670	Busty Land
 1729700	The Emperor and State Prologue
 1729920	Wild West Z
+1730310	The Lonely Helmet
 1730610	GfG Test App
 1731590	Squadron 51 - Prologue
 1732840	Destruction Dummies
@@ -8235,6 +8236,7 @@
 2198990	Our Test Game
 2199140	横扫万界
 2199180	Sex-Loving Family
+2199230	The Winter Tower
 2199240	Sycamore Free
 2199920	Origins
 2200800	Heretic's Fork - The Prototype
@@ -8867,6 +8869,7 @@
 2459280	Ecstasy / Light / Inertia
 2459590	Beyond Inseparable
 2460430	Hired 2 Die: Prologue
+2461000	Let's Learn Lingít
 2461100	Sweet Girls
 2461370	Sisters hypnosis sex2
 2461800	Наружу
@@ -9648,6 +9651,7 @@
 2893640	Celeros
 2894130	Depths Of Deception
 2894180	Her Desire - Season 1
+2894840	NEVERLANDER: An Awfully Big Adventure
 2894940	恐龙岛 3.0
 2895660	Mage and Monsters II Prologue
 2897990	Abandoned
@@ -9725,6 +9729,7 @@
 2939830	Dungeon Done
 2939880	Hello World - Prologue
 2940750	ComplexToe
+2940920	Dreaming Blue
 2941540	null
 2942610	Mission: Mars
 2942890	Den of the Defiant
@@ -9796,6 +9801,7 @@
 2977670	Mine Make Escape
 2977700	Survive the Swarm
 2978260	Rogue Defense
+2978270	Let's Learn X̱aad Kíl
 2978570	The Shadows Within: Nightmare's Game
 2978750	DeMonkey
 2979190	Merchants Voyage
@@ -10289,6 +10295,7 @@
 3331290	SKIBIDI BATTLE MULTIPLAYER TOILETS ATTACK
 3333450	Electronic Market Simulator: Prologue
 3336040	They Follow You
+3336360	Die For Me
 3336610	Ghostly Acres
 3337780	Jump & Hook
 3337960	Cataclysm: Bright Nights
@@ -10903,7 +10910,9 @@
 4204150	Endless Nightbreak: Blood Horde
 4205830	Tetraverse
 4213060	Late Night Tales
+4214600	Forgotten Records
 4215830	疯狂传奇
+4220440	Space Aces
 4226400	冰雪传奇
 4227620	Eternal Collector
 4228420	King's Hand
@@ -10917,6 +10926,7 @@
 4248050	The True King
 4248150	Blindfold
 4248700	Game Torch
+4249970	TROX-THE REVERSAL
 4257150	Hero of Ideal
 4257250	1000 SCORE: 2D Platformer
 4264870	Shoot Pro Wrestling 2
@@ -10973,6 +10983,7 @@
 4457250	Memory Tides
 4479680	ValveTestApp4479680
 4482700	Kogama
+4482960	驱入虚空
 4486430	Tragedy is approaching
 4486810	One Of Us
 4488570	Fresh Food Merge
