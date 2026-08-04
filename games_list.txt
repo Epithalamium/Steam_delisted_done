@@ -251,7 +251,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -2286,6 +2286,7 @@
 531530	POLYGOD
 531800	Mirage: Arcane Warfare BETA
 532090	Dawn's Light 2
+532230	Under a Porcelain Sun
 532820	Iron Fish
 532950	Hoyle Official Casino Games
 533010	Filthy Lucre
@@ -5058,6 +5059,7 @@
 1148810	Tip of the Spear: Task Force Elite
 1148850	Disco Bullets
 1148860	Gnome Rampage
+1149330	Basta Ya
 1149430	KiKiMiMi2 / 听能力搜查官2
 1149560	DEATHVERSE: LET IT DIE
 1150000	Darwin Project: Test Server
@@ -5171,6 +5173,7 @@
 1174280	Cybermonk
 1174540	Adventure or Normality?
 1174850	Way of Boy
+1174870	Roark Games: Congressman
 1176440	Math The Question
 1176640	Frostpoint VR: Proving Grounds
 1176720	Music Club Manager
@@ -5972,6 +5975,7 @@
 1385460	Drifters Loot the Galaxy
 1385510	Back 4 Blood Beta
 1386000	I'm Russia
+1386080	Hikaru's Imagination Rebellion
 1386350	Infinity Nest
 1386440	B67
 1386480	Nether Garden
@@ -6685,6 +6689,7 @@
 1593920	Tombstone
 1594180	凡人修真-仙劍奇俠
 1594300	Police Monster Drift
+1594330	Calm Down, Stalin - The First Person
 1594900	A long Time
 1595260	Defiance & Mr. Good Looking
 1595380	The Durka: You will (not) die
@@ -7054,6 +7059,7 @@
 1716100	VR Chess Kingdom
 1716110	Chess Kingdom
 1716130	Dead In The Tropics
+1716460	Kapital: Sparks of Revolution - Prologue
 1716690	Click and Slay
 1717350	The Little Star Spirit
 1717390	Hentai Jigsaw Puzzle
@@ -7521,6 +7527,7 @@
 1892530	Key XiaoYou
 1892740	Deaf Wish
 1892770	Goth Dating Sim 2022
+1893850	Out For Delivery
 1895230	SUPER RUNNER VR
 1895280	MacShot
 1896210	Train Mechanic Simulator VR - Vive Edition
@@ -10373,6 +10380,7 @@
 3411560	Total Loadout
 3414060	Incest Tales: Sister And Mom
 3414350	Mana Land
+3414720	PreStrafe
 3415040	The Fate of Sir Aldric
 3415760	Reincarnation in another world going to rape All NPCs VR
 3415920	World of Dypians
@@ -10668,6 +10676,7 @@
 3713390	Gacha Girls
 3716070	Twisted Christmas
 3716300	The Wizards Arena
+3716930	Phase Cross
 3718200	FishAgain
 3720640	Arisa | Psychological Horror Game
 3721300	Banner of wonders
@@ -10861,6 +10870,7 @@
 4080880	The Cave Exit
 4081270	Shattered Vault
 4086490	Beneath their Names
+4107120	Pax Autocratica: Prologue
 4113570	Scarface™: The World Is Yours (2006)
 4116530	赤月传奇
 4118960	弈棋·三国志
@@ -10912,6 +10922,7 @@
 4213060	Late Night Tales
 4214600	Forgotten Records
 4215830	疯狂传奇
+4217080	EvilTrap: Prologue
 4220440	Space Aces
 4226400	冰雪传奇
 4227620	Eternal Collector
@@ -11051,6 +11062,7 @@
 4825280	Mage X Monster: The Archmage Who Wants to Lose to Mobs
 4842900	Crops Rebel
 4844080	Prison Cat
+4844150	HardFormer
 4851270	Deadwood House
 4873080	Nubo – Your Screen Friend
 4881390	Rouge's Flush
