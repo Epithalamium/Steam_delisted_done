@@ -961,7 +961,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -1774,6 +1774,7 @@
 404770	SUPERFIGHT
 404810	Escape from Puzzlegate
 404920	Emergency 2016
+405000	UTOPIA 9 - A Volatile Vacation
 405370	Sky Break
 405980	Legend of Dungeon: Masters
 406280	DesertLand 2115
@@ -2667,6 +2668,7 @@
 635730	Dragonia
 635760	-LOGistICAL - USA - Region 9
 636120	Sudden Strike 4 Beta
+636580	Primal Reign
 636690	Sociable Soccer
 637960	ProjectM : Dream
 638780	Reflector: Bug Hunt
@@ -5994,6 +5996,7 @@
 1389520	Cinderstone Online
 1389580	Kitty Rainbow
 1389810	Ggril Link
+1390040	Hentai Babe Buffy
 1390480	Never BreakUp Beta
 1391000	JunkYard Prologue
 1391020	Tomes and Quests: a Word RPG
@@ -8121,6 +8124,7 @@
 2149020	Doomsday 末日戰記
 2149380	Survivors
 2149790	Beautiful Mystic Survivors: Prologue
+2150070	TRAINS: Electrostorm
 2150390	Buntasy
 2150940	Lost Sense
 2151560	Dance World
@@ -8237,6 +8241,7 @@
 2197730	TAIMANIN RPG Extasy
 2197850	Van Hellswing
 2197910	Dawnlands
+2197930	Bakken - Ski Jumping
 2197950	Sweety Kitty 2
 2198620	Kingdoms Of Ereloth
 2198810	Eeeek Abyss
@@ -8445,6 +8450,7 @@
 2279730	King Arthur: Legends Rise
 2280020	Lindwyrm
 2280270	炸弹魔塔 Bomb Tower
+2280440	Ogre Chambers DX
 2280530	Red Trigger Prologue Remastered
 2281150	Zaoça: Šäaiks Lagush
 2284060	Crazy Cars
@@ -8557,6 +8563,7 @@
 2329560	Most Authentic Trench Warfare Simulator
 2329720	League Funny 遊戲大亂鬪
 2330680	Inner blade
+2331040	Kassei - Road Cycling
 2331100	War Of Castles - Prologue
 2331850	Anime Puzzle Quest
 2332100	Project O.R.C.S.
@@ -9086,6 +9093,7 @@
 2566670	Memories Unveiled
 2567830	Girlfriend=Yog-Sothoth: Cthulhu
 2569480	Monster Crawl: Warrior
+2569580	Dreams: Unlimited links
 2570150	Psychopath Hunt Chapter two
 2570520	StickManVsMagicWorld
 2572140	Tomboy: Love in Hot Forge
@@ -9268,7 +9276,6 @@
 2658710	Tinkerlands: A Shipwrecked Adventure
 2659030	Hellwatch: Prelude
 2659270	Binary Escape
-2660230	Kill The Shadow
 2660560	The Way Of Kings
 2660620	Madhouse Madness Prologue
 2661100	The Braves: Beginning
@@ -10152,6 +10159,7 @@
 3193280	Mortanum
 3193760	Mecha Force VR
 3193840	OUTLAWED
+3195450	Crony Corp
 3195970	HELLGUARD
 3196420	Warhavoc
 3196690	My little flying shop
@@ -10167,7 +10175,6 @@
 3213750	Urban Genesis VR
 3213890	Top Alert
 3216100	Decayed Evil
-3216320	Mecharashi
 3216400	project ZAKAT
 3217290	The Dark Monster Hotel
 3217990	Aim Trainer Gauntlet
@@ -10368,6 +10375,7 @@
 3396340	Em-8ER
 3398790	Interactive Sex - Incest Twins
 3398900	The Turkish Bazaar
+3399830	The Last of them
 3399990	Christmas Store: Santa's Supermarket Simulator
 3404640	Bright Past
 3405660	Night is Coming — Wrath of the Woods
@@ -10409,6 +10417,7 @@
 3439920	Icon Tower Defense
 3441060	Stone Age
 3441300	Incidente em Varginha Remastered
+3442160	Ancible Online
 3442320	AI Girlfriend: Virtual Experience
 3443020	Push³
 3444170	CodeStrike
@@ -10429,6 +10438,7 @@
 3454440	Interactive Sex - Incest Twins - Bath
 3457450	Reave
 3459040	Karson
+3460060	Bakken - Ski Jumping 2025
 3460150	Mighty Wars
 3460530	Forsaken Island
 3461880	Factory Planner
@@ -10589,7 +10599,6 @@
 3604330	Naughty Narratives
 3604670	News Company Simulator
 3607100	Rekindle
-3609170	4STORY : The Original
 3609330	Driftwood Diner
 3610580	Soul Harvester
 3612370	Youniverse: Next Horizon
@@ -10627,9 +10636,11 @@
 3644150	Sprinkler Co.
 3646110	Fatima's Lust
 3646490	Sala de Juegos 3D
+3649990	Putin Jigsaw
 3650130	Clear Brightness
 3650910	Lost Spirits
 3652420	War of Reproduction: Evolution
+3653030	Kassei - Road Cycling 2025
 3654370	PIXEL COMBAT
 3654710	Interactive Sex - Daddy Twins Incest BDSM
 3654730	Interactive Sex - Twin Sisters Incest BDSM
@@ -11057,6 +11068,7 @@
 4736920	GAL-Chat
 4743240	Creations : a visual novel
 4746690	Audio vibration sample bluetooth ps5 controller
+4779800	Unredeemable
 4789260	Never Ending Hero RPG
 4790440	血色末路:屍潮
 4825280	Mage X Monster: The Archmage Who Wants to Lose to Mobs

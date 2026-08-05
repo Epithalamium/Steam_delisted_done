@@ -2,28 +2,31 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-08-04 09:11 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-08-05 09:08 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11073 apps
+**Total tracked:** 11085 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Under a Porcelain Sun](https://store.steampowered.com/app/532230/) (AppID: 532230)
-- [Basta Ya](https://store.steampowered.com/app/1149330/) (AppID: 1149330)
-- [Roark Games: Congressman](https://store.steampowered.com/app/1174870/) (AppID: 1174870)
-- [Hikaru's Imagination Rebellion](https://store.steampowered.com/app/1386080/) (AppID: 1386080)
-- [Calm Down, Stalin - The First Person](https://store.steampowered.com/app/1594330/) (AppID: 1594330)
-- [Kapital: Sparks of Revolution - Prologue](https://store.steampowered.com/app/1716460/) (AppID: 1716460)
-- [Out For Delivery](https://store.steampowered.com/app/1893850/) (AppID: 1893850)
-- [PreStrafe](https://store.steampowered.com/app/3414720/) (AppID: 3414720)
-- [Phase Cross](https://store.steampowered.com/app/3716930/) (AppID: 3716930)
-- [Pax Autocratica: Prologue](https://store.steampowered.com/app/4107120/) (AppID: 4107120)
-- [EvilTrap: Prologue](https://store.steampowered.com/app/4217080/) (AppID: 4217080)
-- [HardFormer](https://store.steampowered.com/app/4844150/) (AppID: 4844150)
+- [UTOPIA 9 - A Volatile Vacation](https://store.steampowered.com/app/405000/) (AppID: 405000)
+- [Primal Reign](https://store.steampowered.com/app/636580/) (AppID: 636580)
+- [Hentai Babe Buffy](https://store.steampowered.com/app/1390040/) (AppID: 1390040)
+- [TRAINS: Electrostorm](https://store.steampowered.com/app/2150070/) (AppID: 2150070)
+- [Bakken - Ski Jumping](https://store.steampowered.com/app/2197930/) (AppID: 2197930)
+- [Ogre Chambers DX](https://store.steampowered.com/app/2280440/) (AppID: 2280440)
+- [Kassei - Road Cycling](https://store.steampowered.com/app/2331040/) (AppID: 2331040)
+- [Dreams: Unlimited links](https://store.steampowered.com/app/2569580/) (AppID: 2569580)
+- [Crony Corp](https://store.steampowered.com/app/3195450/) (AppID: 3195450)
+- [The Last of them](https://store.steampowered.com/app/3399830/) (AppID: 3399830)
+- [Ancible Online](https://store.steampowered.com/app/3442160/) (AppID: 3442160)
+- [Bakken - Ski Jumping 2025](https://store.steampowered.com/app/3460060/) (AppID: 3460060)
+- [Putin Jigsaw](https://store.steampowered.com/app/3649990/) (AppID: 3649990)
+- [Kassei - Road Cycling 2025](https://store.steampowered.com/app/3653030/) (AppID: 3653030)
+- [Unredeemable](https://store.steampowered.com/app/4779800/) (AppID: 4779800)
 
 ---
 
