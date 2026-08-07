@@ -251,7 +251,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -1729,6 +1729,7 @@
 396830	Strangers
 397150	Stellar Overload
 397180	Command: Northern Inferno
+397310	Looterkings
 397360	Magician's Apprentice
 397420	Hoyle Official Card Games Collection
 397530	Sword Coast Legends - Head Start Access
@@ -2124,6 +2125,7 @@
 496440	The Challenge
 496480	Vex
 496510	M.EXE
+497120	Wildcard
 497270	MIGHT
 497440	HOMEBOUND
 497560	Crimson Sword Saga: The Peloran Wars
@@ -2308,6 +2310,7 @@
 536670	Fear Of Traffic
 536900	The Last Sky
 536930	MOBIUS FINAL FANTASY
+536950	Legend of Ares
 537100	Shuffle!
 537710	VR Swing Table Tennis Oculus
 537740	Dino Dini's Kick Off Revival
@@ -2570,6 +2573,7 @@
 609990	BeeFense
 610160	Aeronautica Imperialis: Flight Command
 610480	Trailmakers Beta
+611020	CityBattle | Virtual Earth
 611220	Crimson Hills
 611260	Mad Machines
 611300	Task Force
@@ -4134,7 +4138,6 @@
 944100	Poisoner
 944110	Pocket Waifu
 944480	Boobs Puzzle 2 ~| 胸部拼图
-945530	Bohrdom
 945570	Champions of Midgard (Board Game)
 946210	Nevsky Run
 946230	friends world
@@ -4404,6 +4407,7 @@
 999210	Hentai school life / 诱惑学园
 999290	Nine Hentai Babes
 999390	Psycho Love
+999480	Hentai - Color by Number
 999540	Scroll2Read
 999730	Secret Neighbor Beta
 999750	BLASTER LiLO
@@ -5610,6 +5614,7 @@
 1279580	FortressV2
 1279910	Nerf Legends
 1280570	Toasty: Ashes of Dusk
+1280590	Race Project
 1280710	Sons of Ra Beta
 1280880	Unlock
 1281050	Deep Despair Remastered
@@ -5718,6 +5723,7 @@
 1310520	Occupy Mars: Prologue
 1310700	Booklice: Prologue
 1310720	忆恋
+1310740	MORTARMEN
 1311300	HIVE
 1311330	Pro Basketball Manager 2021
 1312150	Charlie | The Legend
@@ -5725,6 +5731,7 @@
 1312910	Spacebase Startopia - Beta
 1313560	Design girl team
 1313660	Scifyre League
+1313860	EA SPORTS™ FIFA 21
 1314070	NEKOKORO ~Last Chance~
 1314110	武林传奇
 1314160	Rover Mechanic Simulator: Training Day
@@ -9246,6 +9253,7 @@
 2650620	Ancient Stars
 2651080	MoeMoni Land
 2651300	PARADISE CLEANING - Cuckold Princess -
+2651320	Lords Mobile
 2651330	Intravenous 2: Mercenarism
 2651680	Kuudere Funk
 2651790	Wonderland
@@ -10294,6 +10302,7 @@
 3316800	Idle Heroes Clicker
 3318870	AI Interrogation Simulator
 3318940	Rocket Boots Mania: Space Train
+3319030	Elementris
 3319630	LIGHT OF MOTIRAM
 3320060	TV Simulator
 3320940	Liar's Bet
@@ -10599,6 +10608,7 @@
 3604330	Naughty Narratives
 3604670	News Company Simulator
 3607100	Rekindle
+3609170	**
 3609330	Driftwood Diner
 3610580	Soul Harvester
 3612370	Youniverse: Next Horizon
@@ -10611,7 +10621,6 @@
 3618080	Dreadfull Death
 3619270	SUPER PEOPLE
 3619340	WLRight
-3620040	Fly Cowboy Online
 3620670	Interactive Sex - Daddy Twins Incest
 3621000	HYDROPLANT Tycoon
 3622280	Black Vultures: Prey of Greed
@@ -10825,6 +10834,7 @@
 3951010	UPGRADES & ENEMIES
 3956500	BALANCED FOOD CalorieMate FOR GAME CREATORS - JELLY MISSION -
 3957440	Nightmare Returner
+3959570	Guns Cant Walk
 3961750	Goofy Lad
 3964960	DOTscape
 3966330	Paper Department
@@ -11027,7 +11037,6 @@
 4532270	VStarsCenter
 4533440	Locks 'n' Leaps
 4533910	Malware.exe
-4536290	Last Draft
 4539450	足球大玩家
 4539590	Wax Rogue
 4548750	Entropy Protocol
@@ -11077,7 +11086,6 @@
 4844150	HardFormer
 4851270	Deadwood House
 4873080	Nubo – Your Screen Friend
-4881390	Rouge's Flush
 4884890	Paint Gal Adventures
 4893120	Pogo Frogo
 4898540	Debris Zone
