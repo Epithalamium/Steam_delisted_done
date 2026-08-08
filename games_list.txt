@@ -251,7 +251,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -961,7 +961,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -1558,6 +1558,7 @@
 368800	Apocalypse: Party's Over
 368930	Mara
 368980	Force of Elements
+369080	Age of Survival
 369230	Kung Fu Panda Showdown of Legendary Legends
 369300	Adventure Time: Finn and Jake Investigations
 369390	Scourge of War: Waterloo
@@ -1658,6 +1659,7 @@
 384970	#SOHVR
 385020	AoF Chess Club 2.0
 385190	Celestial Tear: Demon's Revenge
+385270	Jet Racing Extreme
 385460	ATV GP
 385470	Railroad Lines
 385490	MiniDrivers
@@ -2418,6 +2420,7 @@
 564070	Troll and I™
 564490	Boyar
 564750	Dimension Jump
+565020	Global Adventures
 565100	Subliminal Realms: The Masterpiece Collector's Edition
 565150	Living Dark
 565410	World of Darkness Preludes: Vampire and Mage
@@ -4138,6 +4141,7 @@
 944100	Poisoner
 944110	Pocket Waifu
 944480	Boobs Puzzle 2 ~| 胸部拼图
+945530	Bohrdom
 945570	Champions of Midgard (Board Game)
 946210	Nevsky Run
 946230	friends world
@@ -8855,7 +8859,6 @@
 2442810	DC Dual Force
 2443720	Concord™
 2443850	Horror: Evil Residents
-2444620	The Hotel
 2444690	Chinese Culinary Shop
 2444970	PROJECT: OBSCURION
 2445310	Cradles
@@ -9099,6 +9102,7 @@
 2565270	The Dark Whispers
 2566670	Memories Unveiled
 2567830	Girlfriend=Yog-Sothoth: Cthulhu
+2568760	Nounishpunk
 2569480	Monster Crawl: Warrior
 2569580	Dreams: Unlimited links
 2570150	Psychopath Hunt Chapter two
@@ -9989,6 +9993,7 @@
 3079660	Twin-Stick Survivors
 3079740	Mech Crusade
 3080710	Candy Factory TD: Prologue
+3080810	Potato
 3080940	Femdom Game World: Mom
 3081050	Fight School Simulator: Prologue
 3081100	Hold My Pistaches
@@ -10035,7 +10040,6 @@
 3108090	Starzelia
 3108590	WuKong Break Sky
 3108680	Ourkade
-3108730	孤行
 3109230	Call of the Deep
 3110090	我的仙门很厉害
 3110320	The Impostor: Human or AI?
@@ -10663,6 +10667,7 @@
 3667740	Ribbit Up: Frog Climber
 3670170	Survival: Hold Your Self
 3672650	Dfiance
+3674050	Silly's Gameshow
 3676750	Moondark
 3677750	Sex Adventures - Incest Family - Episode 8
 3677760	Interactive Sex - Incest Daughters - Episode 1
@@ -10882,6 +10887,7 @@
 4065750	Silivri
 4068550	Elize the Bored Sorcerer King’s Curse
 4069020	Hong Kong 2097
+4071440	Tenshoku Maou
 4072020	Welcome To... Chichester OVN Omnibus
 4072410	Cryptic Valley
 4074870	PL
