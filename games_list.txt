@@ -2761,7 +2761,6 @@
 663380	Tales from Candlekeep: Tomb of Annihilation
 663540	Murder...
 663750	MineDrill
-663920	Died Of Fear
 664020	GrrImAFridge Test App
 664430	WWE 2K18
 664720	VRange
@@ -9777,6 +9776,7 @@
 2951130	Everyone's MOZOO
 2951210	Monsters of Moldred
 2951460	Ding Dong Dang
+2952020	Shoot To Pleasure
 2952060	Cute Puzzle - V-Girl Violet
 2952710	与芙兰朵露一起游乐园吧
 2953110	Fearless Hero
@@ -10190,7 +10190,6 @@
 3216400	project ZAKAT
 3217290	The Dark Monster Hotel
 3217990	Aim Trainer Gauntlet
-3220170	Arcane Afterfall
 3220210	Slenderman: The Unknowns
 3221050	Title Screen Simulator
 3221230	Fallen Kings
@@ -11009,6 +11008,7 @@
 4411760	It Is For Her
 4413590	hero and witch
 4421890	Nancy Drew: The Hidden Staircase
+4424030	NextDream
 4426700	The Key to Forgotten Souls
 4435900	Yapori Dimensions 2
 4436100	PacketRunner: Digital Resistance
