@@ -2,18 +2,18 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-08-09 07:18 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-08-10 08:07 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11099 apps
+**Total tracked:** 11100 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Shoot To Pleasure](https://store.steampowered.com/app/2952020/) (AppID: 2952020)
-- [NextDream](https://store.steampowered.com/app/4424030/) (AppID: 4424030)
+- [Died Of Fear](https://store.steampowered.com/app/663920/) (AppID: 663920)
+- [Wild Snap](https://store.steampowered.com/app/3380810/) (AppID: 3380810)
 
 ---
 
