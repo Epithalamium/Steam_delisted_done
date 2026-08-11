@@ -382,20 +382,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classic
+36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans
+36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
-36150	Westward
+36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania
+36180	Cake Mania Collection
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Granny in Paradise
+36270	Super Granny Collection
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -961,7 +961,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -4186,7 +4186,6 @@
 952440	OVERKILL's The Walking Dead - BETA
 952600	Fireflies
 952930	ArmZ VR
-953110	SLEIGHT - Nerve Wracking Espionage Party Game
 953250	War Machines
 953300	ART SQOOL
 953370	ZED
@@ -4799,6 +4798,7 @@
 1081900	游物语 Travel story
 1081940	Bloodia
 1082240	Taboos: Flower
+1082450	Gold Hunter
 1082640	Polities
 1083010	Old Edge III
 1083150	Scallywag's Honor
@@ -5949,6 +5949,7 @@
 1375540	Omno: Prologue
 1375740	surviv.io - 2D Battle Royale
 1376310	Sci-fi builder
+1376370	Hentai Jigsaw Emma
 1376820	The Kingdom of Gardenia
 1376850	Classic tanks
 1377000	Black Border
@@ -9817,6 +9818,7 @@
 2968010	Mafia Simulator
 2969260	Lunia Z Global
 2970160	Sexy Beats
+2971660	InTheDisorderlyCourtyard
 2972690	Sunshine In WoozaVille!
 2972870	Red Ruins: VR vs. PC
 2973490	Megaloot: Prelude
@@ -10479,6 +10481,7 @@
 3487130	Sex Adventures - Naughty Sisters - Episode 3
 3488030	Ceuswark Defenders
 3488190	󠀡󠀡
+3489710	Coin Hunter
 3490080	Iron Rift
 3492070	BuildAndExtract
 3492480	Playrooms
@@ -10594,6 +10597,7 @@
 3591760	Interactive Sex - Daddy Daughter Incest BDSM
 3591890	CombatBox
 3592000	激情麻将
+3592070	雀夢麻雀(Mahjong Dream)
 3594670	Ranman
 3595570	Ballmaster
 3596390	Dragon-Slaying War God
@@ -10705,6 +10709,7 @@
 3718200	FishAgain
 3720640	Arisa | Psychological Horror Game
 3721300	Banner of wonders
+3723610	Together in Forgotten Lands: Chapter One
 3724110	Hardly Workin'
 3725850	封神传奇
 3727840	Game Together
@@ -10898,6 +10903,7 @@
 4081270	Shattered Vault
 4086490	Beneath their Names
 4107120	Pax Autocratica: Prologue
+4111880	Räv Kafé
 4113570	Scarface™: The World Is Yours (2006)
 4116530	赤月传奇
 4118960	弈棋·三国志
@@ -10968,6 +10974,7 @@
 4257150	Hero of Ideal
 4257250	1000 SCORE: 2D Platformer
 4264870	Shoot Pro Wrestling 2
+4267660	Call of Girls-Uncensored Edition
 4273260	Master Poker
 4282380	Detective Necro
 4285970	图灵证言 Turing Testimony
@@ -10979,6 +10986,7 @@
 4293180	天魔传奇
 4295130	Hurrican
 4295710	双龙传奇
+4300830	Quality Learing Center
 4301690	Cage in my head in my cage in my head in my
 4309020	Neo Lobby Arcade™
 4314280	Faehnor Online
@@ -11029,6 +11037,7 @@
 4491220	Loop Tower: Prologue
 4492810	WHOREHAMMER 69 000
 4495510	Plantation Simulator
+4499560	Party Knights
 4500830	Mirolin: The Big Show
 4501240	帝王霸业
 4501400	A one-day romance
