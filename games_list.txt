@@ -385,7 +385,7 @@
 36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans + Odyssey Pack
+36130	Tradewinds Caravans
 36140	Tradewinds Odyssey
 36150	Westward Collection
 36160	Westward 2
@@ -395,7 +395,7 @@
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Super Granny Collection
+36270	Granny in Paradise
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -961,7 +961,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -1233,6 +1233,7 @@
 313270	Rock Path Collective Test App
 314060	Counter-Strike Nexon: Zombies Test
 314340	Chess 2: The Sequel
+314420	Company of Heroes: The Great War 1918
 314530	Aware
 314850	Haunted House: Cryptic Graves
 314860	DayBreak Online
@@ -1404,6 +1405,7 @@
 340840	The Corridor: On Behalf Of The Dead
 340990	Bolt
 341010	Pluck
+341300	Company of Heroes: Modern Combat
 341490	Undead Legions II
 341580	Figure World
 341780	Chronicles of a Dark Lord: Episode II War of The Abyss
@@ -1412,6 +1414,7 @@
 342150	Games of Glory
 342210	Torment: Tides of Numenera - Alpha Systems Test
 342280	Manyland
+342370	Company of Heroes: Europe at War
 342570	HIS (Heroes In the Sky)
 342880	NekoChan Hero - Collection
 343140	Cars Radiator Springs Adventures
@@ -1432,7 +1435,6 @@
 346320	Streets of Chaos
 346370	Into The War
 346400	Chaos Ride
-346510	Hyphen
 346610	Racecraft
 346760	ProtoMasons
 346770	Quarries of Scred
@@ -2346,6 +2348,7 @@
 546810	Chernobyl: Terrorist Attack
 546830	Police: Destruction Street
 547010	Terminal Hacker
+547180	Company of Heroes: Far East War
 547410	Peak Angle: Drift Online
 547470	Apokalypsis
 547810	Spacewing VR
@@ -7723,7 +7726,6 @@
 1963520	Cygnus
 1963850	SUMS
 1963980	LENDARIOS: LIMITS BREAKERS 1
-1964120	Little Astronaut
 1964880	Annum
 1965140	Puddink
 1965260	Mini Putt
@@ -9884,6 +9886,7 @@
 3012480	三国：我是主公-0.1折爽充版
 3012610	Wander Hero:Set sail
 3013210	Pixel Playground
+3014500	Peasants Love Magic
 3014690	Forgetting Emily
 3016170	Insects Awaken Prologue
 3016760	Gran Saga
@@ -10875,6 +10878,7 @@
 4017150	Pure Exsotic - Story Simulator
 4020750	The Undead Files
 4025370	MyPlaceDiary
+4026260	Tape Over: Night Shift
 4029030	Hollow VR
 4029450	Resizer
 4032640	Your Wife's Pussy
@@ -11047,7 +11051,9 @@
 4511760	龙城传奇
 4512200	Spirit Demon Tribulation
 4512840	Break The Bank
+4515350	Bullets & BlackJack
 4520140	Cinder City
+4523530	Will or Water
 4524310	王者争雄
 4527550	Flounder
 4532270	VStarsCenter
