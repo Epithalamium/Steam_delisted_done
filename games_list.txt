@@ -63,7 +63,7 @@
 7060	Infernal
 7250	Sherlock Holmes: The Awakened
 7400	Ricochet: Lost Worlds
-7420	Wik™ & The Fable of Souls
+7420	Wik and the Fable of Souls
 7440	Big Kahuna Reef
 7450	Ricochet Infinity
 7470	Simplz Zoo
@@ -251,7 +251,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -382,15 +382,15 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classics
+36100	Tradewinds Classic
 36110	Tradewinds 2
 36120	Tradewinds Legends
 36130	Tradewinds Caravans
 36140	Tradewinds Odyssey
-36150	Westward Collection
+36150	Westward
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania Collection
+36180	Cake Mania
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
@@ -961,7 +961,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -4764,6 +4764,7 @@
 1073230	Hentai Babes - Waifu
 1073360	Paycheck: City RPG
 1073920	BallsOut
+1074670	Trial by Teng: A Twilight Path Adventure
 1074680	Bikini Island Challenge
 1074820	Eudemons Online
 1075120	梦涯
@@ -5006,6 +5007,7 @@
 1128380	Block Tuner VERSION POOP
 1128500	Fractured Veil
 1128630	Cross Country Express - An Oddfellows Mini
+1128670	HENTAI Sliding Puzzle
 1128890	Light Trail Rush
 1128910	Magic Quest: TCG
 1129150	Thunder's Leaves
@@ -7693,7 +7695,6 @@
 1950280	Beat Invaders: Prologue
 1950320	Kidnappers!
 1950470	Rotten Apple - New York Fallen
-1950750	KAYF-LIFE: Complete Edition
 1951000	Poopoo Monster
 1951180	IAI
 1951490	Dream Catcher VR
@@ -9420,6 +9421,7 @@
 2732290	Flea Market Simulator
 2733190	Truncheon Titties
 2733430	Slot Fever
+2734370	东方崛起
 2734490	The Little Baby
 2736240	Butterfly Simulator
 2737660	Sea of Radiation
@@ -9631,7 +9633,6 @@
 2856080	Mini Airways: Prologue
 2856650	Delivery Express
 2856770	Simple Things
-2857560	Helbreath Nemesis
 2858010	Sweet Pirates
 2859900	Firesky
 2860220	Hold The Noise
@@ -10274,7 +10275,6 @@
 3288330	The Silo 24
 3291370	NightClub Manager
 3291870	Addled Clicker
-3292300	Golf-Like
 3292680	Red Star Over America
 3293040	Crown Simulator
 3293550	New Battle of Shanghai Beach
@@ -10906,6 +10906,7 @@
 4080880	The Cave Exit
 4081270	Shattered Vault
 4086490	Beneath their Names
+4090350	The Lone Boss
 4107120	Pax Autocratica: Prologue
 4111880	Räv Kafé
 4113570	Scarface™: The World Is Yours (2006)
@@ -11002,6 +11003,7 @@
 4329650	Rooftop Garden
 4329850	Turret Boy
 4330460	屠龙归来
+4332270	The Fallen Will
 4335880	Last Light Left
 4337430	烈火战神
 4337690	MEAT EATER
@@ -11009,6 +11011,7 @@
 4354850	ECUMENE AZTEC: PROLOGUE
 4357020	一魂双体 他与她的奇妙之旅
 4363690	SPOOKY JOB: The wrong house
+4365370	Marceline Richenwinnier +16 - Old Story
 4369200	Hot and Lovely : May Holiday
 4371940	Dragon Arena
 4376010	Blind Nature
@@ -11018,6 +11021,7 @@
 4397660	Ascend The Tower
 4399320	SPARTA 2035 – The Last Diamond
 4401910	TRIX
+4408430	Marceline Richenwinnier - Old Story
 4411760	It Is For Her
 4413590	hero and witch
 4421890	Nancy Drew: The Hidden Staircase

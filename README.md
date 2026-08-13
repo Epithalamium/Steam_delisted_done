@@ -2,24 +2,23 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-08-12 07:54 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-08-13 07:56 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11115 apps
+**Total tracked:** 11119 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Company of Heroes: The Great War 1918](https://store.steampowered.com/app/314420/) (AppID: 314420)
-- [Company of Heroes: Modern Combat](https://store.steampowered.com/app/341300/) (AppID: 341300)
-- [Company of Heroes: Europe at War](https://store.steampowered.com/app/342370/) (AppID: 342370)
-- [Company of Heroes: Far East War](https://store.steampowered.com/app/547180/) (AppID: 547180)
-- [Peasants Love Magic](https://store.steampowered.com/app/3014500/) (AppID: 3014500)
-- [Tape Over: Night Shift](https://store.steampowered.com/app/4026260/) (AppID: 4026260)
-- [Bullets & BlackJack](https://store.steampowered.com/app/4515350/) (AppID: 4515350)
-- [Will or Water](https://store.steampowered.com/app/4523530/) (AppID: 4523530)
+- [Trial by Teng: A Twilight Path Adventure](https://store.steampowered.com/app/1074670/) (AppID: 1074670)
+- [HENTAI Sliding Puzzle](https://store.steampowered.com/app/1128670/) (AppID: 1128670)
+- [东方崛起](https://store.steampowered.com/app/2734370/) (AppID: 2734370)
+- [The Lone Boss](https://store.steampowered.com/app/4090350/) (AppID: 4090350)
+- [The Fallen Will](https://store.steampowered.com/app/4332270/) (AppID: 4332270)
+- [Marceline Richenwinnier +16 - Old Story](https://store.steampowered.com/app/4365370/) (AppID: 4365370)
+- [Marceline Richenwinnier - Old Story](https://store.steampowered.com/app/4408430/) (AppID: 4408430)
 
 ---
 
