@@ -63,7 +63,7 @@
 7060	Infernal
 7250	Sherlock Holmes: The Awakened
 7400	Ricochet: Lost Worlds
-7420	Wik and the Fable of Souls
+7420	Wik™ & The Fable of Souls
 7440	Big Kahuna Reef
 7450	Ricochet Infinity
 7470	Simplz Zoo
@@ -251,7 +251,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -382,20 +382,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classic
+36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans
+36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
-36150	Westward
+36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania
+36180	Cake Mania Collection
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Granny in Paradise
+36270	Super Granny Collection
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -5805,6 +5805,7 @@
 1335600	Tiny T
 1335800	Don't Forget Me
 1336500	Lazy Sweet Tycoon
+1336680	Wald & Gutz: Under Rocks
 1337100	Warhammer Age of Sigmar: Tempestfall
 1337150	PMXViewerEx
 1337220	Prometheus OS
@@ -7338,6 +7339,7 @@
 1817240	Singularity Dungeon
 1817330	Immolation
 1817380	Erebe
+1817610	Battle Heroine Crisis
 1818010	Return Alive
 1818410	Ultimate Muscle Roller Championship
 1818750	MultiVersus
@@ -7433,6 +7435,7 @@
 1854340	Another Sight
 1854470	Crystal Chaos
 1855440	Submarine war
+1855690	Bessarabian Nightmares
 1855830	We Are One Prologue
 1855840	剑道飞仙
 1855860	三国纷争
@@ -7838,6 +7841,7 @@
 2003640	Village Heroes
 2003810	SCP: New Operative
 2004340	Eternal
+2004370	Sinner 97
 2005500	The Minesweeper: Crew Bomber Expedition
 2005660	Ukraine Defense Force Tactics
 2005810	Project Sundown
@@ -8057,6 +8061,7 @@
 2108960	Long Live the King!
 2109460	VillageRhapsody
 2109550	Office Racer
+2109930	From the Deep
 2111620	凡界修仙传
 2111680	Godzilla: Omniverse
 2112430	Mortie College
@@ -8121,6 +8126,7 @@
 2138910	ATHEREON™: Advent I
 2139230	BLUE PROTOCOL
 2139540	Archery Simulator
+2140070	Sinner 97: Prologue
 2140330	Madden NFL 24
 2140790	라스트 클라우디아
 2141230	人生牌
@@ -8767,6 +8773,7 @@
 2402560	導白のルセン -魔王復活-
 2403160	Gates Of The Mind
 2404020	Spellfield
+2404790	Furia de Weichafes
 2405680	LoYuno - Horror Escape
 2406050	Quarantine
 2406130	Verdict: Descent
@@ -9407,6 +9414,7 @@
 2727670	Chronicles Of Sagrea
 2727870	GrigoriNightDragon
 2728930	恋人契约
+2729350	Lamu
 2730460	One Aggressive Futa Stepsister Part 1
 2730640	Prospector: The First Contract
 2730920	Fat Lads
@@ -9555,6 +9563,7 @@
 2819690	City Super Battlefield
 2820120	Ultimate shifumi championship
 2822580	157
+2822630	Parts Unknown: International
 2823440	Descent X
 2823470	Cucumber Champion
 2823850	Worst Idea
@@ -9794,6 +9803,7 @@
 2955280	ReMix:Encore
 2956330	Gender Neutral Chess
 2956380	Space Fishing
+2957420	The Fear of The Past
 2957740	Mahjong Musou:Former army
 2958420	Troma Presents Poultrygeist
 2958660	Reator4
@@ -9945,6 +9955,7 @@
 3050470	苍之女武神
 3050710	Iridio: Prologue
 3051440	Pharmacy Simulator: Prologue
+3051720	Bloodcrave R18: Prologue
 3053510	Nordic Racing
 3053710	Cuppy Coffee Sim
 3054340	Ocean Playground
@@ -10154,6 +10165,7 @@
 3177120	Fatal Midnight
 3179000	Dog And Goblin - Prologue
 3180660	COCOA
+3180860	Blightscape
 3181040	Dream Eater Girl
 3181190	Realistic 3D Car Configurator
 3181300	Scream
@@ -10265,6 +10277,7 @@
 3278130	Fred Johnson's: Mech Simulator
 3278540	Wavering Waifus
 3279980	Dicey Tales
+3280010	VILE: Director's Cut
 3281460	Carry On
 3282140	Red Vanguard: Siege
 3282320	愛の榨汁
@@ -10336,6 +10349,7 @@
 3340280	What not coffee
 3340680	LoveR Kiss Endless Memories
 3341200	Ragnaroll
+3342760	Corebound
 3343080	30 Year Old Virgin
 3346660	Dire Dungeon
 3347330	Realm Traveler
@@ -10552,6 +10566,7 @@
 3539030	Melodraw
 3541280	Isekai Mom Stories
 3542000	Floating Life
+3543640	Mortal Cultivation Biography
 3545220	SILO
 3546320	Interactive Sex - King Princess Incest
 3546640	CorAstral
@@ -10585,6 +10600,7 @@
 3577360	DiRT 2
 3579220	红月
 3582450	Wrap House Simulator: Prologue
+3582740	Dreadhaven: The Last Colony
 3583380	Little Big Backrooms
 3585340	Flail Your Arm, Hit the Ball: Return of KUSOGAKI
 3585370	Trouble Dash
@@ -10673,6 +10689,7 @@
 3667620	Sex Love Story
 3667740	Ribbit Up: Frog Climber
 3670170	Survival: Hold Your Self
+3671370	MIDNIGHT SNACK
 3672650	Dfiance
 3674050	Silly's Gameshow
 3676750	Moondark
@@ -10687,6 +10704,7 @@
 3685550	My Sadistic Yandere Goth Mom Mercilessly Dominates Me
 3686550	Fallbound
 3686690	Dark Origins
+3686710	Gacha Idle
 3690820	People of Mine
 3690990	Don't Freeze
 3691020	Interactive Sex - Incest Twins - Episode 1
@@ -10824,7 +10842,6 @@
 3896860	Conquer the Tower
 3903630	You suck and I hate you: part 1
 3915400	GladiMaker
-3921010	War Alert
 3921310	Sphereverse
 3924080	Spori
 3926280	傲世血魔
@@ -11015,12 +11032,14 @@
 4369200	Hot and Lovely : May Holiday
 4371940	Dragon Arena
 4376010	Blind Nature
+4385310	Specter Hideout
 4387560	The Last Athari
 4390360	Aftermath 1944
 4392210	Bodycam: Deadsplit
 4397660	Ascend The Tower
 4399320	SPARTA 2035 – The Last Diamond
 4401910	TRIX
+4407780	Sparky's Sketch Quest
 4408430	Marceline Richenwinnier - Old Story
 4411760	It Is For Her
 4413590	hero and witch
@@ -11081,6 +11100,7 @@
 4632630	Hansi auf Sylt
 4639000	ValveTestApp4639000
 4640080	Walled City of Living Will
+4645490	Skrrt Racing
 4653840	Trapped in the Backrooms
 4657750	Hardhats : Some Survival Required
 4659290	Let Me Free!
