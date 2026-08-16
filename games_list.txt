@@ -961,13 +961,12 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
 248690	Total War: Rome II Review
 249380	Carmageddon: Reincarnation
-249550	NEStalgia
 250200	Cabela's African Adventures
 250240	Racing Manager 2014
 250280	Super Comboman
@@ -7880,6 +7879,7 @@
 2025460	The Police Drone VR Experiment
 2025710	Koatl the defender : The Lost Tunnels
 2025830	Brutal Japan | 猟奇の日本
+2026300	Anvillage
 2050670	Time Tribunal
 2050690	Happy Flip Cube
 2050770	Void Rush
@@ -9701,6 +9701,7 @@
 2900910	Atomic Arena
 2901560	Broadvay
 2901800	Deck Girls Hunters
+2902560	PostLife
 2902660	3Souls Parallel Edition
 2903180	DILLO GUY
 2903650	ヤンデレリリィホリック－さっちゃんの愛情表現－
