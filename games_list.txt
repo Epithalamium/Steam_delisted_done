@@ -961,7 +961,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -2713,6 +2713,7 @@
 649770	Coregrounds
 649900	Mini Guns
 650110	Princess Maker 3: Fairy Tales Come True
+650350	Machine World 2
 650580	Be Quiet!
 651150	Quantum League
 651600	Jumps VR
@@ -10019,7 +10020,6 @@
 3081110	Capybara
 3081700	Hawk Tuah
 3081810	J8 Hero
-3081930	Spin Hero: Prologue
 3082400	Recycling Tycoon: Junk to Gems
 3083240	Bug.Splash TD
 3083470	Frog Inc.
@@ -11056,6 +11056,7 @@
 4451900	热血屠龙
 4456530	Deprivation
 4457250	Memory Tides
+4465280	Catagon
 4479680	ValveTestApp4479680
 4482700	Kogama
 4482960	驱入虚空
@@ -11066,6 +11067,7 @@
 4492810	WHOREHAMMER 69 000
 4495510	Plantation Simulator
 4499560	Party Knights
+4500780	Touhou: Records of Wealth-Seeking
 4500830	Mirolin: The Big Show
 4501240	帝王霸业
 4501400	A one-day romance
