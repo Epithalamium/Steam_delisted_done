@@ -2398,6 +2398,7 @@
 558320	Among the Innocent: A Stricken Tale
 558600	Beyond Despair
 558750	Goaltender VR
+559140	Pinheads Bowling VR
 559340	Sunset Rangers
 559620	Outlaws + A Handful of Missions
 559970	Shrouded Tales: The Spellbound Land Collector's Edition
@@ -5204,7 +5205,6 @@
 1179790	Heroes Of Maidan 3
 1179840	Origin
 1179970	Rushdown Revolt PRIVATE ALPHA
-1180070	Bangers & Mash
 1180310	Comanche Open Multiplayer Beta
 1180440	Squirt☆Pew! - Secret Coaching / 城市裡的歐派
 1180630	World of Swordia
@@ -8782,7 +8782,6 @@
 2407320	NoirNet: The Neon Enigma
 2408620	Zombie Night
 2408710	Small World Of Golf
-2409130	Heavenly Badonkers Angel Bitches
 2409270	BeaureCard
 2409350	Greymarsh Redux
 2409400	Check The Room 13
@@ -9494,6 +9493,7 @@
 2778550	BioGun: Clinical Trial
 2779070	Majyo Crush
 2779850	Lukewarm Massacre: The killer who may or may not be a moron.
+2780080	Screen TRPG
 2780380	搾精錬金工房イリス～錬金術師と勇者と竜騎士と女神さまのえっちな冒険～
 2780610	Unholy Village
 2781070	Fell in love with coser
@@ -9787,6 +9787,7 @@
 2947890	Guardians of the Sanctree: Early Birds
 2948020	1000 Seconds
 2949570	Conjured Through Death
+2950260	Sun City
 2950580	Ultra Strikers
 2950720	Medieval Crafter: Blacksmith Prologue
 2951130	Everyone's MOZOO
@@ -9992,6 +9993,7 @@
 3069940	Miniko
 3071180	How We Die: Prologue
 3071230	Get Down and Buggie
+3071340	World Eternal Online
 3071890	Whispers In The Woods
 3072670	Their Secrets
 3072740	Fishing Zone
@@ -10745,6 +10747,7 @@
 3734070	Project D5
 3734100	Tenshoku Maou: 18+
 3736210	White Rose
+3737170	Guardian Zero
 3741020	Lost Tales of Altoris
 3745930	Interactive Sex - Incest Daughters - Episode 3
 3745960	Interactive Sex - Futanari Incest - Episode 3
@@ -10842,6 +10845,7 @@
 3896480	Raid One : 1 vs 5 Online Boss Battle
 3896860	Conquer the Tower
 3903630	You suck and I hate you: part 1
+3911260	Archomni
 3915400	GladiMaker
 3921310	Sphereverse
 3924080	Spori
@@ -10894,7 +10898,7 @@
 4014470	BLEEDOUT
 4015400	2Hours
 4017150	Pure Exsotic - Story Simulator
-4020750	The Undead Files
+4020750	The Quelling
 4025370	MyPlaceDiary
 4026260	Tape Over: Night Shift
 4029030	Hollow VR
@@ -10911,6 +10915,7 @@
 4054130	Squid Arrives II:Make Squid Great Again
 4055740	Icebound Secrets: The Frostwood Bane
 4060520	Don't Look!
+4064900	Party Pop Bubblyz
 4065750	Silivri
 4068550	Elize the Bored Sorcerer King’s Curse
 4069020	Hong Kong 2097
@@ -11112,6 +11117,7 @@
 4668790	欲都戰姬
 4671710	Valkyrie Girl
 4672690	马场大亨Online国际版
+4673900	SurroundedByBoys
 4681400	Nova Fighter
 4692510	火龙传奇
 4697420	SwordRequiem Crack
