@@ -251,7 +251,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -967,6 +967,7 @@
 248630	Kingdoms Rise
 248690	Total War: Rome II Review
 249380	Carmageddon: Reincarnation
+249550	NEStalgia
 250200	Cabela's African Adventures
 250240	Racing Manager 2014
 250280	Super Comboman
@@ -991,6 +992,7 @@
 253190	Kingdom Wars 2: Battles
 253470	Real World Racing
 253490	CABAL Online
+253710	theHunter Classic
 254000	East India Company Gold
 254020	Commander: Conquest of the Americas Gold
 254040	Pirates of Black Cove Gold
@@ -2543,6 +2545,7 @@
 598820	Aloha Paradise Hotel
 599010	Hanse - The Hanseatic League
 599060	Age of Heroes: Conquest
+600280	Supreme Ruler The Great War
 600380	Classic Offensive
 600430	Ticket to Ride: First Journey
 600740	Land Doctrine
@@ -3492,6 +3495,7 @@
 812180	Intro Maker
 812470	Skyscraper Climb VR
 812510	原始部落
+813000	PUBG Experimental Server
 813200	DDS (D.I.Y Drone Simulator) Demo
 813240	Grim Town: Battle Tales
 813280	Sky Hawk
@@ -5205,6 +5209,7 @@
 1179790	Heroes Of Maidan 3
 1179840	Origin
 1179970	Rushdown Revolt PRIVATE ALPHA
+1180070	Bangers & Mash
 1180310	Comanche Open Multiplayer Beta
 1180440	Squirt☆Pew! - Secret Coaching / 城市裡的歐派
 1180630	World of Swordia
@@ -7332,7 +7337,6 @@
 1815500	Schizophrenia
 1815740	The Healer
 1816670	GUNDAM EVOLUTION
-1816880	EXIT 2
 1816940	Nephilim Sagas
 1817010	Beyond Up
 1817170	Indie Rumble
@@ -7620,6 +7624,7 @@
 1917500	美少女射击物语
 1917560	Milk Bottle And Monster Girl 2
 1917800	Parasite
+1918080	Path Of Destruction
 1918110	Simultaneous Control
 1918350	TactiCube
 1919590	NBA 2K23
@@ -7906,6 +7911,7 @@
 2057420	Blade of Darkness
 2057890	Cerebrum Operation
 2057950	Blitz GT
+2058230	The Evil Furry
 2058240	TimeMelters - Challenges
 2058610	Death Slave
 2058950	Space Tail: Lost in the Sands
@@ -8533,6 +8539,7 @@
 2305790	1v1.LOL
 2305930	Limbo Revolution
 2306100	逆袭幻想传3
+2306200	Skate Horse
 2306580	The Moonflower
 2306680	Eternal Hunt
 2306730	Darfall: Prologue
@@ -10022,6 +10029,7 @@
 3081110	Capybara
 3081700	Hawk Tuah
 3081810	J8 Hero
+3081930	Spin Hero: Prologue
 3082400	Recycling Tycoon: Junk to Gems
 3083240	Bug.Splash TD
 3083470	Frog Inc.
@@ -10778,6 +10786,7 @@
 3787830	Pearls of Atlantis: Premium Version
 3788230	That Fucking Planet
 3790300	Crownless Duelist
+3791390	FOX XII
 3791720	Ice Cream You Scream
 3795540	DELETE
 3798250	The Island of Bad Women
@@ -10788,6 +10797,7 @@
 3807820	Just Slash
 3810490	Dominated by: Yandere Goth Mommy
 3810880	THE CUBE, SAVE US
+3813810	PengPong: Prologue
 3816140	Interactive Sex - Incest Twins - Episode 4
 3819730	Secret Spots
 3822740	Tactical2
@@ -10797,6 +10807,7 @@
 3824240	Scrapocalypse
 3826570	Red Fox: Exploration on the the Red Fox Island
 3826850	Sword Hockey
+3826860	There Exists
 3829870	Dark Moon: Prologue
 3831290	The Forgotten Past
 3831680	SCP Containment Breach
@@ -10881,6 +10892,7 @@
 3978040	Dreamlab
 3978750	Ghlobot Shift
 3979000	Chrono Lock
+3980870	Chhota Bheem Kitchen Adventures
 3981070	Alchemy Hearts
 3990590	Jabby Games Pack 1
 3992590	Backlog Buddy
@@ -11016,6 +11028,8 @@
 4295710	双龙传奇
 4300830	Quality Learing Center
 4301690	Cage in my head in my cage in my head in my
+4302630	9 MINUTES AND 59 SECONDS TO HEAVEN
+4308170	DVD Screensaver 2
 4309020	Neo Lobby Arcade™
 4314280	Faehnor Online
 4319070	Street Legal
@@ -11059,6 +11073,7 @@
 4439210	Crucifier
 4450410	Lust Frontiers
 4451900	热血屠龙
+4453800	Final Stance - Board Game
 4456530	Deprivation
 4457250	Memory Tides
 4465280	Catagon
