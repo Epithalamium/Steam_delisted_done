@@ -251,7 +251,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -961,7 +961,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -2545,7 +2545,6 @@
 598820	Aloha Paradise Hotel
 599010	Hanse - The Hanseatic League
 599060	Age of Heroes: Conquest
-600280	Supreme Ruler The Great War
 600380	Classic Offensive
 600430	Ticket to Ride: First Journey
 600740	Land Doctrine
@@ -10517,6 +10516,7 @@
 3494330	Bubblenauts
 3494420	Economic Clicker
 3495270	Hell Under Ice
+3495850	Burns Rally Manager
 3496470	Trade 'Em Up! TCG Empire Shop
 3496690	Wild Explorer
 3496900	Unpinned
@@ -11063,6 +11063,7 @@
 4408430	Marceline Richenwinnier - Old Story
 4411760	It Is For Her
 4413590	hero and witch
+4418400	Elegy of the Vast Land
 4421890	Nancy Drew: The Hidden Staircase
 4424030	NextDream
 4426700	The Key to Forgotten Souls
