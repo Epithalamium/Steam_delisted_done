@@ -251,7 +251,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -2185,6 +2185,7 @@
 506660	The West
 507300	Club Manager 2017
 507360	The Wizard's Lair
+508170	BlackSmith HIT
 508190	Dragon Knight
 508220	Office Freakout
 508380	Amnesia: Final Revelations
@@ -2268,6 +2269,7 @@
 526270	Adventurous Life
 526310	Silhouette
 526440	vRhythm
+526540	8infinity
 526580	Winning Post 8 2017
 526600	BoxMaker
 526680	Lifeliqe VR Museum
@@ -4542,6 +4544,7 @@
 1027140	Strip Slot Sonja
 1027200	Cold Bite
 1027210	反贼江湖
+1027970	LesLove.Club: Jessica and Ashley
 1028160	222
 1028210	Hentai Fantasy
 1028780	Warmord
@@ -5602,6 +5605,7 @@
 1274430	Human Origin
 1274450	Bear Party: Adventure
 1274540	Tomatenquark
+1274610	LesLove.Club: Emily and Sarah
 1274820	Street Hero
 1275310	Test
 1275340	Yui - The Forgotten Girl
@@ -7342,7 +7346,6 @@
 1817240	Singularity Dungeon
 1817330	Immolation
 1817380	Erebe
-1817610	Battle Heroine Crisis
 1818010	Return Alive
 1818410	Ultimate Muscle Roller Championship
 1818750	MultiVersus
@@ -8299,6 +8302,7 @@
 2206830	Crafty Survivors - Prologue
 2207170	The Outsider TD
 2207310	Project 0
+2207480	HELLCARD: Prologue
 2208160	Cursed
 2208470	Meadow Assault
 2208590	Soccer Story Beta
@@ -8690,6 +8694,7 @@
 2365550	Gagugadge
 2365940	Phantom Blade: Executioners
 2366120	Build Master: MarsVille
+2366360	Chronicles Of Errodean
 2366490	DRIFTER’S TALES: Recasted - A narrative board game
 2367980	The Witch, Wife, & the Wish
 2368340	Pixeria Online
@@ -9316,6 +9321,7 @@
 2666100	Lorenzo the Runner
 2666380	驱魔传说2
 2667780	Extraordinary: Immortal
+2668240	Tercity Life Simulator
 2668250	Dragona: Fireborne
 2668260	Elon's last chance
 2668350	Cats on Duty: Prologue
@@ -11047,6 +11053,7 @@
 4338060	Goddess of Fate: Anime RPG
 4354850	ECUMENE AZTEC: PROLOGUE
 4357020	一魂双体 他与她的奇妙之旅
+4361300	Harrow
 4363690	SPOOKY JOB: The wrong house
 4365370	Marceline Richenwinnier +16 - Old Story
 4369200	Hot and Lovely : May Holiday
@@ -11063,10 +11070,10 @@
 4408430	Marceline Richenwinnier - Old Story
 4411760	It Is For Her
 4413590	hero and witch
+4413680	This Is You
 4418400	Elegy of the Vast Land
 4421890	Nancy Drew: The Hidden Staircase
 4424030	NextDream
-4426700	The Key to Forgotten Souls
 4435900	Yapori Dimensions 2
 4436100	PacketRunner: Digital Resistance
 4436480	Rabbit Scare
@@ -11151,6 +11158,7 @@
 4779800	Unredeemable
 4789260	Never Ending Hero RPG
 4790440	血色末路:屍潮
+4800390	Absolute Territory: Duels of the Gods
 4825280	Mage X Monster: The Archmage Who Wants to Lose to Mobs
 4842900	Crops Rebel
 4844080	Prison Cat
