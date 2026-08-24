@@ -89,7 +89,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max 201: Ice Station Santa
+8260	Sam & Max: Season Two
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -7699,6 +7699,7 @@
 1945190	Heroes Rally
 1945810	Mind Diver
 1945990	Minion Raid Epic Monsters
+1948550	When Bricks Fly
 1949050	Curley Laboratory
 1949790	Elementals: Calm Skies
 1949950	Focus Find
@@ -10214,7 +10215,7 @@
 3204400	Monster DNA
 3204590	Sociable Soccer 25
 3205610	Bleak
-3205940	浮游
+3205940	永乐地
 3207720	Eat It !
 3207890	Lusty Mother
 3208830	Pixel Dungeon RPG
@@ -11155,6 +11156,7 @@
 4736920	GAL-Chat
 4743240	Creations : a visual novel
 4746690	Audio vibration sample bluetooth ps5 controller
+4779460	Shoot Together
 4779800	Unredeemable
 4789260	Never Ending Hero RPG
 4790440	血色末路:屍潮
