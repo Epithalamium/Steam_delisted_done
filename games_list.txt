@@ -89,7 +89,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -251,7 +251,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -961,7 +961,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -7096,6 +7096,7 @@
 1717930	Rogue Weapon
 1717990	Fangs
 1718130	SCP : Secret Files
+1718380	Nero's Adventure: Echoes of the Deep
 1718760	Shadow's Kiss Online Vampire RPG
 1718920	Mega Monster Party
 1719380	Happy Farm Simulator
@@ -7323,7 +7324,6 @@
 1809650	Mago: The Villain's Burger
 1809970	Dunkeep
 1810240	Do Something
-1810580	Nobody - The Turnaround
 1810860	GG
 1810930	Picross 21:M
 1811050	Bangman
@@ -11039,6 +11039,7 @@
 4308170	DVD Screensaver 2
 4309020	Neo Lobby Arcade™
 4314280	Faehnor Online
+4316960	Spirit-Sealing Tome
 4319070	Street Legal
 4321890	Coral Social Club
 4324850	Solheart: The Hollow Sun
@@ -11172,3 +11173,4 @@
 4898540	Debris Zone
 4915660	No Exit Protocol
 4918170	Dark Realms: Hoia Baciu
+5091600	Wild Legacy
