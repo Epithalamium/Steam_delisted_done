@@ -5791,6 +5791,7 @@
 1329660	LandRocker
 1330260	Welcome to Elk: The first stories
 1330610	The Last Farm
+1330830	Cannabis Farmer Strain Master
 1330840	Arcade Jukebox
 1330980	E-GIRL
 1331200	Backfire
@@ -7324,6 +7325,7 @@
 1809650	Mago: The Villain's Burger
 1809970	Dunkeep
 1810240	Do Something
+1810580	Nobody - The Turnaround
 1810860	GG
 1810930	Picross 21:M
 1811050	Bangman
@@ -7698,6 +7700,7 @@
 1945110	Astrolander
 1945190	Heroes Rally
 1945810	Mind Diver
+1945850	Dark ill
 1945990	Minion Raid Epic Monsters
 1948550	When Bricks Fly
 1949050	Curley Laboratory
@@ -7943,7 +7946,6 @@
 2067450	Droid Warfare
 2068320	2 Late 2 Evade
 2068740	Mautix: Immersive Gallery
-2068810	Solar Nations
 2069240	Little Wing
 2069440	Pindeavor
 2069700	Western Dual Wield
@@ -8398,7 +8400,6 @@
 2240860	Harry Potter: Quidditch Champions Playtest
 2241450	Mechahearts
 2241520	Click to Escape
-2241570	Legend of Edda: Pegasus
 2242570	Earth Explorer (CANCELLED DON'T WISHLIST)
 2242830	Deverse World
 2243230	NekoBellow
@@ -9487,6 +9488,7 @@
 2763850	Par Party
 2764450	My Pretty Closet
 2765030	Ground Zero Hero PROLOGUE
+2765460	Star Trek Legends
 2765940	Polygon Hell
 2766220	Leaden Sky: Nightmares
 2767270	Let's Battle Online
@@ -11124,9 +11126,11 @@
 4561160	Devil's Level : The Checkpoint
 4569900	Creepytape Rewind - Not From Here
 4575900	失序之地
+4576040	东方
 4578720	Orc Bastion
 4580210	iHorse G1
 4584240	Cheap Car Repair: Welcome to Nowhere
+4590790	Defense of Kyrath
 4609840	The Archmage Who Defeated the Demon King Wants to Be Ravaged by Mobs in a Peaceful World
 4612610	Graphictoria
 4615000	ValveTestApp4615000
@@ -11162,6 +11166,7 @@
 4789260	Never Ending Hero RPG
 4790440	血色末路:屍潮
 4800390	Absolute Territory: Duels of the Gods
+4813170	ShuriStella
 4825280	Mage X Monster: The Archmage Who Wants to Lose to Mobs
 4842900	Crops Rebel
 4844080	Prison Cat
