@@ -2607,7 +2607,6 @@
 614810	Heavy Bleakness
 614860	XAOC
 614940	The Misfits
-614970	Qbike: Cyberpunk Motorcycles
 615000	Totally Accurate Battle Zombielator
 615150	Twist of Destiny
 616030	Eventide Night
@@ -10070,6 +10069,7 @@
 3103280	DreamWorld: Sandbox MMO
 3104160	Celestials Door
 3104340	Fool House
+3105960	Astrobuilder
 3106120	Twisted To The Roots
 3107220	Troy: The Red Winged Hero
 3107700	Noroi E: Nightmares
@@ -10211,7 +10211,7 @@
 3193840	OUTLAWED
 3195450	Crony Corp
 3195970	HELLGUARD
-3196420	Warhavoc
+3196420	cancelled
 3196690	My little flying shop
 3198980	De:Lithe Last Memories
 3204400	Monster DNA
@@ -11037,7 +11037,6 @@
 4295710	双龙传奇
 4300830	Quality Learing Center
 4301690	Cage in my head in my cage in my head in my
-4302630	9 MINUTES AND 59 SECONDS TO HEAVEN
 4308170	DVD Screensaver 2
 4309020	Neo Lobby Arcade™
 4314280	Faehnor Online
