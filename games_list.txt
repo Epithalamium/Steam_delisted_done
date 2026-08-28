@@ -16,7 +16,6 @@
 2570	Vigil: Blood Bitterness
 2680	The History Channel: Civil War
 2690	Empires: Dawn of the Modern World
-2700	RollerCoaster Tycoon 3: Platinum!
 2760	Neverwinter Nights 2: Platinum
 2780	Arma: Combat Operations
 2790	Atari: 80 Classic Games in One!
@@ -387,7 +386,6 @@
 36120	Tradewinds Legends
 36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
-36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
 36180	Cake Mania Collection
@@ -1393,6 +1391,7 @@
 340120	Crazy Chicken
 340130	Crazy Chicken - Invasion
 340140	Elemental World Part 1:Rise Of The Guardians
+340220	Shadows of War
 340300	Teddy Floppy Ear - Mountain Adventure
 340310	Teddy Floppy Ear - Kayaking
 340370	Shades of Black
@@ -2607,6 +2606,7 @@
 614810	Heavy Bleakness
 614860	XAOC
 614940	The Misfits
+614970	Qbike: Cyberpunk Motorcycles
 615000	Totally Accurate Battle Zombielator
 615150	Twist of Destiny
 616030	Eventide Night
@@ -7018,6 +7018,7 @@
 1691760	Survival Escape Room
 1691990	Meister2
 1692070	CROWZ
+1692240	Fortune's Run
 1692250	F1® 22
 1692310	The Last Undead Waves: Defense TD
 1692470	The Trader

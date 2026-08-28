@@ -2,17 +2,19 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-08-27 17:40 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-08-28 18:46 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11180 apps
+**Total tracked:** 11181 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Astrobuilder](https://store.steampowered.com/app/3105960/) (AppID: 3105960)
+- [Shadows of War](https://store.steampowered.com/app/340220/) (AppID: 340220)
+- [Qbike: Cyberpunk Motorcycles](https://store.steampowered.com/app/614970/) (AppID: 614970)
+- [Fortune's Run](https://store.steampowered.com/app/1692240/) (AppID: 1692240)
 
 ---
 
