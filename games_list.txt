@@ -250,7 +250,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -10371,6 +10371,7 @@
 3341200	Ragnaroll
 3342760	Corebound
 3343080	30 Year Old Virgin
+3345530	哪吒传说
 3346660	Dire Dungeon
 3347330	Realm Traveler
 3348660	Rogue Samurai: Prologue
@@ -11006,6 +11007,7 @@
 4214600	Forgotten Records
 4215830	疯狂传奇
 4217080	EvilTrap: Prologue
+4220020	梁山传奇
 4220440	Space Aces
 4226400	冰雪传奇
 4227620	Eternal Collector
@@ -11110,10 +11112,13 @@
 4512200	Spirit Demon Tribulation
 4512840	Break The Bank
 4515350	Bullets & BlackJack
+4517350	传奇盛世
+4518440	超凡功夫之王传奇
 4520140	Cinder City
 4523530	Will or Water
 4524310	王者争雄
 4527550	Flounder
+4528240	暗黑战神
 4532270	VStarsCenter
 4533440	Locks 'n' Leaps
 4533910	Malware.exe
@@ -11148,12 +11153,14 @@
 4672690	马场大亨Online国际版
 4673900	SurroundedByBoys
 4681400	Nova Fighter
+4687470	1.76复古沉默
 4692510	火龙传奇
 4697420	SwordRequiem Crack
 4700180	LumenFall
 4705730	Ship It
 4706530	沙雕之路最终章
 4707140	彭罗斯游戏
+4714810	再战大极品+255
 4719720	Poping Aquarium
 4720210	Hit Streak And Brawl
 4725200	Femboy Pirates
@@ -11161,6 +11168,7 @@
 4736920	GAL-Chat
 4743240	Creations : a visual novel
 4746690	Audio vibration sample bluetooth ps5 controller
+4757840	战法道传奇
 4779460	Shoot Together
 4779800	Unredeemable
 4789260	Never Ending Hero RPG
@@ -11178,4 +11186,6 @@
 4898540	Debris Zone
 4915660	No Exit Protocol
 4918170	Dark Realms: Hoia Baciu
+4951370	夯犇绿色传奇
+5001500	PayBack!?Touchinv!?Acrowded train!!Mizuki ichinomiya Edition
 5091600	Wild Legacy
