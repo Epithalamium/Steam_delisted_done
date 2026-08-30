@@ -250,7 +250,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -2028,7 +2028,6 @@
 461040	PICO PARK:Classic Edition
 461490	Kaboom Monsters
 461680	FPV Air Tracks
-461870	Police Simulator: Patrol Duty
 461910	Forge of Gods (RPG)
 462440	Rokh
 462950	The East New World
@@ -7018,7 +7017,6 @@
 1691760	Survival Escape Room
 1691990	Meister2
 1692070	CROWZ
-1692240	Fortune's Run
 1692250	F1® 22
 1692310	The Last Undead Waves: Defense TD
 1692470	The Trader
@@ -9393,7 +9391,6 @@
 2709590	Anomalistic Revolution: Prelude
 2709770	The Andesia Project
 2711240	Kingdom of Bärn
-2711690	VanLife Simulator
 2712650	Bounties of Babylon
 2712660	Girls of The Tower - Prologue
 2712860	Sanity's Shroud
