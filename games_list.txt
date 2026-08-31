@@ -959,7 +959,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -4556,6 +4556,7 @@
 1030370	Sexy Witch Patchouli & the Labyrinth of Monsters
 1030410	Cryptrunner
 1030760	SteamDolls - Order Of Chaos - Free
+1031140	Warhammer Horus Heresy: Legions
 1031310	Polygon's Royale
 1031380	Long Z-Night
 1032020	Shantalia and Corali'hulu
@@ -7661,7 +7662,6 @@
 1931760	Blocks(方块收纳版)
 1932400	Heavenly Heroes of Antidomi
 1932670	NEVERLAND
-1932950	WAR OPERATION™ : Full Contact
 1933590	Trails of Illusion
 1933870	Knives Out: Extreme
 1934370	Unbridled: Horse Designer
@@ -10801,6 +10801,7 @@
 3801450	Interactive Sex - Futanari Incest - Episode 4
 3806230	ROTATO
 3807280	Tales of Aradia: Idle RPG
+3807610	Raveren: The Legend Of Etheria
 3807620	Brian's Redemption
 3807820	Just Slash
 3810490	Dominated by: Yandere Goth Mommy
