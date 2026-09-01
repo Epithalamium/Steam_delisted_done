@@ -16,6 +16,7 @@
 2570	Vigil: Blood Bitterness
 2680	The History Channel: Civil War
 2690	Empires: Dawn of the Modern World
+2700	RollerCoaster Tycoon 3: Platinum!
 2760	Neverwinter Nights 2: Platinum
 2780	Arma: Combat Operations
 2790	Atari: 80 Classic Games in One!
@@ -386,9 +387,10 @@
 36120	Tradewinds Legends
 36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
+36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania Collection
+36180	Cake Mania
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
@@ -2028,6 +2030,7 @@
 461040	PICO PARK:Classic Edition
 461490	Kaboom Monsters
 461680	FPV Air Tracks
+461870	Police Simulator: Patrol Duty
 461910	Forge of Gods (RPG)
 462440	Rokh
 462950	The East New World
@@ -7018,6 +7021,7 @@
 1691760	Survival Escape Room
 1691990	Meister2
 1692070	CROWZ
+1692240	Fortune's Run
 1692250	F1® 22
 1692310	The Last Undead Waves: Defense TD
 1692470	The Trader
@@ -7662,6 +7666,7 @@
 1931760	Blocks(方块收纳版)
 1932400	Heavenly Heroes of Antidomi
 1932670	NEVERLAND
+1932950	WAR OPERATION™ : Full Contact
 1933590	Trails of Illusion
 1933870	Knives Out: Extreme
 1934370	Unbridled: Horse Designer
@@ -8459,6 +8464,7 @@
 2265200	Alien Invasion: RPG Idle Space
 2266410	Drifting with Maxwell Cat: The Game
 2266530	Beanz!?
+2266960	One Year of Special Lessons with My Little Sister Luri
 2267350	Forkscythe
 2267410	Rift Breach
 2268800	Cockroach Simulator house of survive
@@ -9391,6 +9397,7 @@
 2709590	Anomalistic Revolution: Prelude
 2709770	The Andesia Project
 2711240	Kingdom of Bärn
+2711690	VanLife Simulator
 2712650	Bounties of Babylon
 2712660	Girls of The Tower - Prologue
 2712860	Sanity's Shroud
@@ -10108,6 +10115,7 @@
 3126070	Crazy Bike Hill Racing
 3126180	Tarisland
 3126350	末日求生
+3126650	Freezing WHAT IF...
 3127560	Cardinal
 3128100	City Bus Driver Simulator 2
 3128110	Jeep Climb Mountain
@@ -10455,6 +10463,7 @@
 3427730	你的爱人
 3429110	BlueMinded
 3429260	Food Croupier
+3430720	Third Shift
 3432830	Victory's Grave: Outflank
 3434250	SCP: Autophobia
 3435380	GIF me a break!
@@ -11187,3 +11196,4 @@
 4951370	夯犇绿色传奇
 5001500	PayBack!?Touchinv!?Acrowded train!!Mizuki ichinomiya Edition
 5091600	Wild Legacy
+5105990	Hentai Clicker: Mika is streaming
