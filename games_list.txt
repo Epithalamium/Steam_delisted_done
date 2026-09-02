@@ -89,7 +89,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max 201: Ice Station Santa
+8260	Sam & Max: Season Two
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -390,7 +390,7 @@
 36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania
+36180	Cake Mania Collection
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
@@ -4047,6 +4047,7 @@
 924810	Idle Kingdom Builder
 924830	Zether
 925000	Impossible VR Ninja
+925600	Afterlifes
 925880	Seraphims of Astraeus
 925980	Pixel Express
 926000	Metro Simulator 2019
@@ -5392,6 +5393,7 @@
 1224130	DREAMLIVE
 1224330	P9 The GateAway
 1224700	Kingpin: Reloaded
+1224720	Kowi Ishto: Battle of Akonoli
 1224730	RACOW
 1225060	NAIRI: Rising Tide - Prologue
 1225330	NBA 2K21
@@ -9281,6 +9283,7 @@
 2649100	Cuckold Princess -  Special Mini ADV Game -
 2649210	姬雀無雙
 2650210	Resurrect
+2650390	Jumping Flash 4: Return of Robbit | Playable Concept Pitch
 2650550	Immortals Revenge
 2650620	Ancient Stars
 2651080	MoeMoni Land
@@ -10700,6 +10703,7 @@
 3644150	Sprinkler Co.
 3646110	Fatima's Lust
 3646490	Sala de Juegos 3D
+3649350	My Sadistic Yandere Goth Sister and Mom Bully Me
 3649990	Putin Jigsaw
 3650130	Clear Brightness
 3650910	Lost Spirits
@@ -10837,6 +10841,7 @@
 3843310	Dovengarde Needs Delvers
 3843910	VIOLENCE DOLL バイオレンスドール
 3845160	Paddle Together
+3845590	Dominated by: Yandere Goth Idol Sister
 3849150	The Dark Forest: Survival
 3850320	次元战姬
 3853060	拟态残响-HollowEcho
@@ -11097,6 +11102,7 @@
 4453800	Final Stance - Board Game
 4456530	Deprivation
 4457250	Memory Tides
+4457970	FENRIR
 4465280	Catagon
 4479680	ValveTestApp4479680
 4482700	Kogama
