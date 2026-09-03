@@ -89,7 +89,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -1425,6 +1425,7 @@
 343750	Firefly Online Cortex
 343990	Anti-Opoly
 344180	Valiant
+344340	Front Office Football Seven
 344790	Mystery Masters: Psycho Train Deluxe Edition
 344880	In Exilium
 345790	Bridge Creator 2015
@@ -2055,6 +2056,7 @@
 467120	Rising Runner
 467430	Farming 6-in-1 bundle
 467570	TITANS: Dawn of Tribes
+467660	Paranormal Activity: The Lost Soul
 467690	My Girlfriend
 467990	Versus: Battle of the Gladiator
 468000	Impact Winter
@@ -6692,6 +6694,7 @@
 1582790	Frail Faces
 1583030	Dissociation
 1583590	BLACKOUT
+1584510	Conflict of Darkness
 1584520	Monster Dungeon
 1584560	Idle Poker
 1584780	Mummy Candies
@@ -9092,6 +9095,7 @@
 2540420	Alibi: The Dinner Party
 2542070	Home
 2542370	Dune Dasher
+2542890	Creatures By Candlelight
 2543090	MindXcope
 2543250	Clash Cats
 2543470	Mutagenesis
@@ -9137,6 +9141,7 @@
 2569580	Dreams: Unlimited links
 2570150	Psychopath Hunt Chapter two
 2570520	StickManVsMagicWorld
+2570810	Ys X: Nordics
 2572140	Tomboy: Love in Hot Forge
 2572390	Fusion different world adventure
 2572650	First Blood
@@ -10364,6 +10369,7 @@
 3325340	Train World Driver
 3325840	Hollow Space
 3326350	Restart Heart
+3329050	Velhodium Isle
 3331290	SKIBIDI BATTLE MULTIPLAYER TOILETS ATTACK
 3333450	Electronic Market Simulator: Prologue
 3336040	They Follow You
@@ -10468,6 +10474,7 @@
 3429260	Food Croupier
 3430720	Third Shift
 3432830	Victory's Grave: Outflank
+3433960	Abyss Unleashed
 3434250	SCP: Autophobia
 3435380	GIF me a break!
 3435450	Hardest
@@ -10670,6 +10677,7 @@
 3609330	Driftwood Diner
 3610580	Soul Harvester
 3612370	Youniverse: Next Horizon
+3612440	Sync And Swing
 3614650	Choque de Cultura Racing
 3615350	Rustborns
 3615550	Alife Virtual
@@ -10867,6 +10875,7 @@
 3877930	Big-Breasted Milky Mommies 3 - Sex Puzzles
 3878020	Sixyato
 3879200	美少女大戦RPG ～party～
+3879300	GAIONIN WAR don't combine
 3879980	Gloomy Clues Remake
 3886940	Focus Group - First Day
 3887650	Neon Divide
@@ -11028,6 +11037,7 @@
 4231100	Bird Game 4
 4234770	巅峰传奇
 4237330	Kula Collection
+4240130	Eliim Princes
 4240660	HANGAR 51: Classified Investigation
 4241590	King's Mug
 4241850	Dreadmyst
@@ -11184,6 +11194,7 @@
 4757840	战法道传奇
 4779460	Shoot Together
 4779800	Unredeemable
+4783780	Call of Duty®: Modern Warfare® 4 - Beta
 4789260	Never Ending Hero RPG
 4790440	血色末路:屍潮
 4800390	Absolute Territory: Duels of the Gods
@@ -11201,5 +11212,6 @@
 4918170	Dark Realms: Hoia Baciu
 4951370	夯犇绿色传奇
 5001500	PayBack!?Touchinv!?Acrowded train!!Mizuki ichinomiya Edition
+5034920	LAUNDRO
 5091600	Wild Legacy
 5105990	Hentai Clicker: Mika is streaming

@@ -2,22 +2,28 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-09-02 11:24 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-09-03 11:20 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11205 apps
+**Total tracked:** 11217 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Afterlifes](https://store.steampowered.com/app/925600/) (AppID: 925600)
-- [Kowi Ishto: Battle of Akonoli](https://store.steampowered.com/app/1224720/) (AppID: 1224720)
-- [Jumping Flash 4: Return of Robbit | Playable Concept Pitch](https://store.steampowered.com/app/2650390/) (AppID: 2650390)
-- [My Sadistic Yandere Goth Sister and Mom Bully Me](https://store.steampowered.com/app/3649350/) (AppID: 3649350)
-- [Dominated by: Yandere Goth Idol Sister](https://store.steampowered.com/app/3845590/) (AppID: 3845590)
-- [FENRIR](https://store.steampowered.com/app/4457970/) (AppID: 4457970)
+- [Front Office Football Seven](https://store.steampowered.com/app/344340/) (AppID: 344340)
+- [Paranormal Activity: The Lost Soul](https://store.steampowered.com/app/467660/) (AppID: 467660)
+- [Conflict of Darkness](https://store.steampowered.com/app/1584510/) (AppID: 1584510)
+- [Creatures By Candlelight](https://store.steampowered.com/app/2542890/) (AppID: 2542890)
+- [Ys X: Nordics](https://store.steampowered.com/app/2570810/) (AppID: 2570810)
+- [Velhodium Isle](https://store.steampowered.com/app/3329050/) (AppID: 3329050)
+- [Abyss Unleashed](https://store.steampowered.com/app/3433960/) (AppID: 3433960)
+- [Sync And Swing](https://store.steampowered.com/app/3612440/) (AppID: 3612440)
+- [GAIONIN WAR don't combine](https://store.steampowered.com/app/3879300/) (AppID: 3879300)
+- [Eliim Princes](https://store.steampowered.com/app/4240130/) (AppID: 4240130)
+- [Call of Duty®: Modern Warfare® 4 - Beta](https://store.steampowered.com/app/4783780/) (AppID: 4783780)
+- [LAUNDRO](https://store.steampowered.com/app/5034920/) (AppID: 5034920)
 
 ---
 
