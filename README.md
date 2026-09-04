@@ -2,28 +2,24 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-09-03 11:20 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-09-04 11:24 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11217 apps
+**Total tracked:** 11224 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Front Office Football Seven](https://store.steampowered.com/app/344340/) (AppID: 344340)
-- [Paranormal Activity: The Lost Soul](https://store.steampowered.com/app/467660/) (AppID: 467660)
-- [Conflict of Darkness](https://store.steampowered.com/app/1584510/) (AppID: 1584510)
-- [Creatures By Candlelight](https://store.steampowered.com/app/2542890/) (AppID: 2542890)
-- [Ys X: Nordics](https://store.steampowered.com/app/2570810/) (AppID: 2570810)
-- [Velhodium Isle](https://store.steampowered.com/app/3329050/) (AppID: 3329050)
-- [Abyss Unleashed](https://store.steampowered.com/app/3433960/) (AppID: 3433960)
-- [Sync And Swing](https://store.steampowered.com/app/3612440/) (AppID: 3612440)
-- [GAIONIN WAR don't combine](https://store.steampowered.com/app/3879300/) (AppID: 3879300)
-- [Eliim Princes](https://store.steampowered.com/app/4240130/) (AppID: 4240130)
-- [Call of Duty®: Modern Warfare® 4 - Beta](https://store.steampowered.com/app/4783780/) (AppID: 4783780)
-- [LAUNDRO](https://store.steampowered.com/app/5034920/) (AppID: 5034920)
+- [Catch Flex: AI Dance Game](https://store.steampowered.com/app/2123300/) (AppID: 2123300)
+- [100 Humans Vs Gorilla](https://store.steampowered.com/app/2360940/) (AppID: 2360940)
+- [Kingsguard](https://store.steampowered.com/app/3319240/) (AppID: 3319240)
+- [Goblins With Guns](https://store.steampowered.com/app/3425600/) (AppID: 3425600)
+- [A journey through shadow, to Reach the light.](https://store.steampowered.com/app/3615390/) (AppID: 3615390)
+- [Tale of Excalibun](https://store.steampowered.com/app/3650770/) (AppID: 3650770)
+- [TallTale Online](https://store.steampowered.com/app/4177050/) (AppID: 4177050)
+- [Idle Kingdom: Magic & Beasts](https://store.steampowered.com/app/4517960/) (AppID: 4517960)
 
 ---
 

@@ -8108,6 +8108,7 @@
 2122510	Dream Babes
 2122690	Necroa Village
 2123260	The First Descendant FGT
+2123300	Catch Flex: AI Dance Game
 2123310	洪荒
 2123780	The Alien Creature
 2123960	Grapple Cars
@@ -8272,7 +8273,6 @@
 2194260	快穿：少女节奏
 2194640	Project Electric Sheep
 2194940	Takenoko - Tilt Five AR
-2195250	EA SPORTS FC™ 24
 2195900	Muffins on Stream
 2195920	Heavy Burden: Prologue
 2196070	Time Lock VR-episode Lumber Room
@@ -8694,6 +8694,7 @@
 2360220	Rune Coliseum: Chained Warrior
 2360410	Domenation
 2360900	Cute Puzzle - V-Girl Aori
+2360940	100 Humans Vs Gorilla
 2361180	Three Kingdoms Origin
 2361400	HEAVEN SEEKER Prologue
 2361480	The RPG: My First Dungeon Smells
@@ -10357,6 +10358,7 @@
 3318870	AI Interrogation Simulator
 3318940	Rocket Boots Mania: Space Train
 3319030	Elementris
+3319240	Kingsguard
 3319630	LIGHT OF MOTIRAM
 3320060	TV Simulator
 3320940	Liar's Bet
@@ -10467,6 +10469,7 @@
 3425280	Car Grind
 3425290	Hentai Puzzle: Naughty Nurses
 3425330	Who Infected ?
+3425600	Goblins With Guns
 3426540	Get Hired
 3427510	Incest Tales: Webcam Daughter
 3427730	你的爱人
@@ -10680,6 +10683,7 @@
 3612440	Sync And Swing
 3614650	Choque de Cultura Racing
 3615350	Rustborns
+3615390	A journey through shadow, to Reach the light.
 3615550	Alife Virtual
 3615670	Geometry Factory
 3615830	Sex Adventures - Incest Family - Episode 7
@@ -10714,6 +10718,7 @@
 3649350	My Sadistic Yandere Goth Sister and Mom Bully Me
 3649990	Putin Jigsaw
 3650130	Clear Brightness
+3650770	Tale of Excalibun
 3650910	Lost Spirits
 3652420	War of Reproduction: Evolution
 3653030	Kassei - Road Cycling 2025
@@ -11011,6 +11016,7 @@
 4172050	Wavecremental
 4173050	Beltix
 4176760	鬼ごっこ
+4177050	TallTale Online
 4179610	SteamRandomPicker
 4180580	Project Cats & Gigs
 4188050	Treasurer
@@ -11136,6 +11142,7 @@
 4512840	Break The Bank
 4515350	Bullets & BlackJack
 4517350	传奇盛世
+4517960	Idle Kingdom: Magic & Beasts
 4518440	超凡功夫之王传奇
 4520140	Cinder City
 4523530	Will or Water
