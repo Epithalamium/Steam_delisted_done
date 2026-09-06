@@ -2,18 +2,18 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-09-05 10:40 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-09-06 11:02 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11226 apps
+**Total tracked:** 11228 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [ST World](https://store.steampowered.com/app/2261570/) (AppID: 2261570)
-- [SoulFeast(灵魂盛宴)](https://store.steampowered.com/app/3840290/) (AppID: 3840290)
+- [QUANTAAR](https://store.steampowered.com/app/1448350/) (AppID: 1448350)
+- [都市传奇之人在江湖当大佬](https://store.steampowered.com/app/4198900/) (AppID: 4198900)
 
 ---
 
