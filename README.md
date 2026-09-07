@@ -2,18 +2,17 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-09-06 11:02 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-09-07 12:41 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11228 apps
+**Total tracked:** 11229 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [QUANTAAR](https://store.steampowered.com/app/1448350/) (AppID: 1448350)
-- [都市传奇之人在江湖当大佬](https://store.steampowered.com/app/4198900/) (AppID: 4198900)
+- [The Outer Worlds](https://store.steampowered.com/app/578650/) (AppID: 578650)
 
 ---
 
