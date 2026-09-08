@@ -2,17 +2,20 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-09-07 12:41 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-09-08 11:24 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11229 apps
+**Total tracked:** 11233 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [The Outer Worlds](https://store.steampowered.com/app/578650/) (AppID: 578650)
+- [Faces of War](https://store.steampowered.com/app/289300/) (AppID: 289300)
+- [Open Mod](https://store.steampowered.com/app/1591680/) (AppID: 1591680)
+- [Sunset: Future Shapers](https://store.steampowered.com/app/1910140/) (AppID: 1910140)
+- [Kawaii Survivors](https://store.steampowered.com/app/4138160/) (AppID: 4138160)
 
 ---
 

@@ -89,7 +89,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max 201: Ice Station Santa
+8260	Sam & Max: Season Two
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -382,15 +382,15 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classics
+36100	Tradewinds Classic
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans + Odyssey Pack
+36130	Tradewinds Caravans
 36140	Tradewinds Odyssey
-36150	Westward Collection
+36150	Westward
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania Collection
+36180	Cake Mania
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
@@ -961,7 +961,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -1136,6 +1136,7 @@
 287860	8-Bit Commando
 288290	Super Game Jam
 288800	Infected: The Twin Vaccine
+289300	Faces of War
 289910	Ropeway Simulator 2014
 290410	Falling Skies: The Game
 290630	Eden River HD - A Virtual Reality Relaxation Experience
@@ -6722,6 +6723,7 @@
 1590900	Drova - Teaser
 1590940	Minesweeper Girl
 1591190	Experience the Energy: Take the Challenge
+1591680	Open Mod
 1592210	Open World Foreva
 1592710	Kolo
 1593860	Girl Jigsaw
@@ -7616,6 +7618,7 @@
 1908510	Star Commander - The Sentinel
 1909290	Quasimorphosis
 1910060	极速飙车
+1910140	Sunset: Future Shapers
 1910270	Stay Alive: Survival
 1910300	JoJo Siwa: Worldwide Party
 1910750	TIME TO HUNT
@@ -10997,6 +11000,7 @@
 4136960	Harvest Island: Remastered
 4137160	Donnie's Delicious Nuclear Funeral
 4137950	Beat Knight
+4138160	Kawaii Survivors
 4141830	Protocol: Bullet Hell
 4142220	CESW: Jump Royale
 4142450	ASTEROIDS
