@@ -71,6 +71,7 @@
 7740	NBA 2K9
 7780	MLB® Front Office Manager
 7810	Top Spin 2
+7830	Men of War
 7850	Cryostasis
 7870	1701 A.D.: Gold Edition
 7880	1701 A.D.: Sunken Dragon
@@ -89,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -961,7 +962,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -2484,7 +2485,6 @@
 577800	NBA 2K18
 578120	Slash Arena: Online
 578600	A Step Into Darkness
-578650	The Outer Worlds
 578820	Klaus Lee Thunder in Down Under
 579040	Defcon VR
 579800	Sniper Ghost Warrior 3 Beta
@@ -4686,7 +4686,7 @@
 1056850	NIGHTWALK
 1057040	Knights of the Silver Table
 1057120	Mahjong Infinity
-1057190	LOGistICAL 2: Vampires (FREE as L2 DLC)
+1057190	LOGistICAL 2: Vampires
 1057240	Crucible
 1057310	A five-day tour in the morgue
 1057340	I'm Hungry
@@ -4902,7 +4902,7 @@
 1100600	Football Manager 2020
 1100620	Football Manager 2020 Touch
 1100970	Dancing Girl
-1101380	LOGistICAL 2: Indonesia (FREE as L2 DLC)
+1101380	LOGistICAL 2: Indonesia
 1101840	WBTR
 1101910	Warriors: Rise to Glory! Online Multiplayer Open Beta
 1101960	WREN
@@ -7599,6 +7599,7 @@
 1901700	TRADER LIFE SIMULATOR 2
 1903520	Sexy Exile
 1903540	The Nightmare Inside
+1904030	Maze Dungeon
 1904130	次元乱斗
 1904260	Anime Manga Style Girl - Color By Number Pixel Art Coloring
 1904310	Go Ace It
@@ -8746,6 +8747,7 @@
 2381590	Only Up!
 2381780	DAR BattleVerse
 2381950	Card Age
+2382230	The Egg
 2382630	Crash Course Builder
 2382700	Rhythm Lust Girl
 2383270	Hentai Ami
@@ -9557,6 +9559,7 @@
 2793400	Magical Angel Fairy Flower_Standard
 2793990	Grand Emprise: Dyson Sphere Era
 2794180	Signal Control Simulator
+2794340	Maintenance Required
 2795400	point4point
 2795710	Aurorae
 2796130	KIBORG: Arena
@@ -10347,6 +10350,7 @@
 3299570	No Mercy
 3300170	Simple Clicker
 3301360	Undead Lust
+3301730	Art Of Evil
 3301810	Never Stop Gaming - An EPIC Video Game Store Simulation
 3302350	Jump Over It !
 3302360	Mystic Market
@@ -10922,6 +10926,7 @@
 3948070	GrimmVeil
 3950500	CallGate
 3951010	UPGRADES & ENEMIES
+3953870	인류보호회사
 3956500	BALANCED FOOD CalorieMate FOR GAME CREATORS - JELLY MISSION -
 3957440	Nightmare Returner
 3959570	Guns Cant Walk
@@ -10943,6 +10948,7 @@
 3993720	猎人与酒馆
 3994150	九霄御龙诀
 4002270	FrontWars
+4002850	Pixel Detective: Curse of the Paintings
 4003350	The Home
 4005210	Fuck with Vamps
 4005500	CRU
@@ -11052,7 +11058,6 @@
 4231100	Bird Game 4
 4234770	巅峰传奇
 4237330	Kula Collection
-4240130	Eliim Princes
 4240660	HANGAR 51: Classified Investigation
 4241590	King's Mug
 4241850	Dreadmyst
@@ -11211,9 +11216,11 @@
 4779460	Shoot Together
 4779800	Unredeemable
 4783780	Call of Duty®: Modern Warfare® 4 - Beta
+4787250	Popular Kids
 4789260	Never Ending Hero RPG
 4790440	血色末路:屍潮
 4800390	Absolute Territory: Duels of the Gods
+4805820	The Leather Maker
 4813170	ShuriStella
 4825280	Mage X Monster: The Archmage Who Wants to Lose to Mobs
 4842900	Crops Rebel
@@ -11229,5 +11236,6 @@
 4951370	夯犇绿色传奇
 5001500	PayBack!?Touchinv!?Acrowded train!!Mizuki ichinomiya Edition
 5034920	LAUNDRO
+5053500	Verilight
 5091600	Wild Legacy
 5105990	Hentai Clicker: Mika is streaming
