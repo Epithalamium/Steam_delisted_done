@@ -90,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max 201: Ice Station Santa
+8260	Sam & Max: Season Two
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -2250,6 +2250,7 @@
 518160	Abrams Tank
 518320	Soko Match
 518720	Overkill VR
+519870	0
 519930	Social Interaction Trainer
 520400	XMODULE
 520530	INTERSHELTER
@@ -2353,6 +2354,7 @@
 545240	Lost Sector Online
 545270	NBA Playgrounds
 545650	High Profits
+546170	1
 546810	Chernobyl: Terrorist Attack
 546830	Police: Destruction Street
 547010	Terminal Hacker
@@ -2980,7 +2982,6 @@
 708030	ValveTestApp708030
 708110	Smash Bash Crash
 708160	Yokai Mask
-708250	Lava Rolling Kid
 708420	Broken Ground
 708550	Skydome
 709160	Smart Junior Academy - Autumn
@@ -5935,7 +5936,6 @@
 1365520	Dwarven Forge
 1365920	神王之王者之心
 1365940	Eye of the Temple: First Steps
-1366740	Magic Chess Online
 1366780	Scrutinized
 1366840	Moon Farming
 1367020	Storybook Brawl
@@ -8055,11 +8055,14 @@
 2099100	COVID Simulation
 2099770	Starcube MMO
 2099890	江湖游侠
+2099910	Infinity Pinball
+2099920	Robot Rejects
 2099960	Tuning Champions
 2100060	TurboMania Fog Racers
 2100210	LEGENO SLAYER
 2100380	The Kraken Wakes
 2100400	Hexxen: Hunters
+2100440	System Restore
 2101000	Suicide Squad: Kill the Justice League - Closed Alpha Tech Test
 2101370	Sylvarcon 2049: A Cybersecurity Aventure
 2101460	Cuckold Princess
@@ -8208,6 +8211,7 @@
 2164320	Oathbreakers
 2165120	Pogo Rage
 2165640	NEVERMORE
+2165690	NFL Pro Era
 2166080	Impact Trial: The Lost Planet
 2166160	Cryptid Hunter
 2166320	VRrOOm
@@ -8580,6 +8584,7 @@
 2312650	Devoid Prototype
 2313230	Maveus
 2313870	PLATO'S DISCIPLE ON WALL STREET (WITH 20 PLAYPACKS)
+2313930	NFL Pro Era 2
 2314230	方糖战车
 2315330	Dungeon Manager
 2315660	Cat Boy Creator
@@ -8665,6 +8670,7 @@
 2349250	Violations Will Be Punished
 2349470	Succubus: Hellish Orgy VR
 2349680	古域Online
+2349940	Sligga Trigger
 2350180	神奇三国 Kingdoms Hegemony
 2350490	Lost In The Murk
 2350760	Holy Catch The Star Night Story
@@ -10092,7 +10098,6 @@
 3103280	DreamWorld: Sandbox MMO
 3104160	Celestials Door
 3104340	Fool House
-3105960	Astrobuilder
 3106120	Twisted To The Roots
 3107220	Troy: The Red Winged Hero
 3107700	Noroi E: Nightmares
@@ -10438,6 +10443,7 @@
 3386890	灵剑奇缘
 3388130	Sex Adventures - Naughty Sisters - Episode 2
 3388340	Laundromat Manager Simulator
+3389160	Dungeon Element Fantasy
 3389300	Canvas Corridor
 3389330	Pathologic 3: Quarantine
 3389850	Alijia Qiqihar Barbecue
@@ -10632,6 +10638,7 @@
 3555460	KILL ALL ENEMIES
 3559550	Sex Adventures - Incest Family - Episode 5
 3559710	Interactive Sex - Queen Prince Incest
+3560160	Bearly Awesome
 3561980	Sex Adventures - Naughty Sisters - Episode 6
 3562090	Fremd Wagen: Mod Chaos
 3563130	Vaifurion – Idle Waifu CCG
@@ -10754,6 +10761,7 @@
 3680410	Tears of Vanfell: New Beginning
 3680620	Incendium
 3682390	Three Legions: Erosion of the Abyss
+3682440	Othello: Battle Royale
 3682520	Escape From The Island
 3684170	Interactive Sex - Futanari Incest - Episode 1
 3685550	My Sadistic Yandere Goth Mom Mercilessly Dominates Me
@@ -10843,6 +10851,7 @@
 3810490	Dominated by: Yandere Goth Mommy
 3810880	THE CUBE, SAVE US
 3813810	PengPong: Prologue
+3813830	Mawang: Dark Lord Defense - Prologue
 3816140	Interactive Sex - Incest Twins - Episode 4
 3819730	Secret Spots
 3822740	Tactical2
@@ -10968,6 +10977,7 @@
 4032640	Your Wife's Pussy
 4037420	UtherWorld
 4038140	Out of Time
+4042230	咕的牌
 4045290	Smack The Trump
 4045850	Kallbrand
 4047580	Diamond Treasure
@@ -11183,6 +11193,7 @@
 4609840	The Archmage Who Defeated the Demon King Wants to Be Ravaged by Mobs in a Peaceful World
 4612610	Graphictoria
 4615000	ValveTestApp4615000
+4629890	SHOWHAND
 4632630	Hansi auf Sylt
 4639000	ValveTestApp4639000
 4640080	Walled City of Living Will
@@ -11234,6 +11245,7 @@
 4915660	No Exit Protocol
 4918170	Dark Realms: Hoia Baciu
 4951370	夯犇绿色传奇
+4983570	Death Paradise
 5001500	PayBack!?Touchinv!?Acrowded train!!Mizuki ichinomiya Edition
 5034920	LAUNDRO
 5053500	Verilight
