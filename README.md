@@ -2,31 +2,37 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-09-11 11:28 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-09-12 10:53 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11253 apps
+**Total tracked:** 11273 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [0](https://store.steampowered.com/app/519870/) (AppID: 519870)
-- [1](https://store.steampowered.com/app/546170/) (AppID: 546170)
-- [Infinity Pinball](https://store.steampowered.com/app/2099910/) (AppID: 2099910)
-- [Robot Rejects](https://store.steampowered.com/app/2099920/) (AppID: 2099920)
-- [System Restore](https://store.steampowered.com/app/2100440/) (AppID: 2100440)
-- [NFL Pro Era](https://store.steampowered.com/app/2165690/) (AppID: 2165690)
-- [NFL Pro Era 2](https://store.steampowered.com/app/2313930/) (AppID: 2313930)
-- [Sligga Trigger](https://store.steampowered.com/app/2349940/) (AppID: 2349940)
-- [Dungeon Element Fantasy](https://store.steampowered.com/app/3389160/) (AppID: 3389160)
-- [Bearly Awesome](https://store.steampowered.com/app/3560160/) (AppID: 3560160)
-- [Othello: Battle Royale](https://store.steampowered.com/app/3682440/) (AppID: 3682440)
-- [Mawang: Dark Lord Defense - Prologue](https://store.steampowered.com/app/3813830/) (AppID: 3813830)
-- [咕的牌](https://store.steampowered.com/app/4042230/) (AppID: 4042230)
-- [SHOWHAND](https://store.steampowered.com/app/4629890/) (AppID: 4629890)
-- [Death Paradise](https://store.steampowered.com/app/4983570/) (AppID: 4983570)
+- [Ship Simulator Extremes](https://store.steampowered.com/app/48800/) (AppID: 48800)
+- [Proto Cuckoo 64](https://store.steampowered.com/app/1357270/) (AppID: 1357270)
+- [Gladiator: about to die](https://store.steampowered.com/app/1729780/) (AppID: 1729780)
+- [Swordcery: Prologue](https://store.steampowered.com/app/1764050/) (AppID: 1764050)
+- [Mixed Feelings: While You Were Away](https://store.steampowered.com/app/1900400/) (AppID: 1900400)
+- [Vicious Star: kill All](https://store.steampowered.com/app/2485170/) (AppID: 2485170)
+- [Melting Passion](https://store.steampowered.com/app/2743020/) (AppID: 2743020)
+- [猫様の古民家からの脱出](https://store.steampowered.com/app/2779040/) (AppID: 2779040)
+- [Arcane Array Arena](https://store.steampowered.com/app/2806840/) (AppID: 2806840)
+- [Old Market Simulator: Prologue](https://store.steampowered.com/app/2878410/) (AppID: 2878410)
+- [Pastopia](https://store.steampowered.com/app/3264490/) (AppID: 3264490)
+- [Sandbox Survivors](https://store.steampowered.com/app/3351570/) (AppID: 3351570)
+- [プールクラブからの脱出](https://store.steampowered.com/app/3530000/) (AppID: 3530000)
+- [Street 42](https://store.steampowered.com/app/3947160/) (AppID: 3947160)
+- [Covert War: Afghanistan](https://store.steampowered.com/app/3991860/) (AppID: 3991860)
+- [TUNG](https://store.steampowered.com/app/4341400/) (AppID: 4341400)
+- [Runeveil: Idle PvP](https://store.steampowered.com/app/4618430/) (AppID: 4618430)
+- [Zero Hour Night](https://store.steampowered.com/app/4724610/) (AppID: 4724610)
+- [The Infinite Box](https://store.steampowered.com/app/4784540/) (AppID: 4784540)
+- [Lo-Fi with Ruka](https://store.steampowered.com/app/4983500/) (AppID: 4983500)
+- [Goddess Story](https://store.steampowered.com/app/5002180/) (AppID: 5002180)
 
 ---
 

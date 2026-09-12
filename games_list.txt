@@ -90,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -383,20 +383,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classic
+36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans
+36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
-36150	Westward
+36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania
+36180	Cake Mania Collection
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Granny in Paradise
+36270	Super Granny Collection
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -502,6 +502,7 @@
 48160	Tom Clancy's H.A.W.X. 2
 48180	Tom Clancy's H.A.W.X. 2
 48210	The Settlers 7: Paths to a Kingdom - Gold Edition
+48800	Ship Simulator Extremes
 49400	Magic: The Gathering - Duels of the Planeswalkers
 49470	Magic: The Gathering — Duels of the Planeswalkers 2012
 49700	Stargate Resistance
@@ -5902,6 +5903,7 @@
 1356470	The Rooster's Chess
 1356540	Summer Party
 1356750	Doctor Lee
+1357270	Proto Cuckoo 64
 1357350	SCP Outer Site
 1357850	Synergy of Serra
 1358300	Eco Warrior Simulator
@@ -7140,6 +7142,7 @@
 1729020	Fuzoku Frame [18+] 風俗
 1729670	Busty Land
 1729700	The Emperor and State Prologue
+1729780	Gladiator: about to die
 1729920	Wild West Z
 1730310	The Lonely Helmet
 1730610	GfG Test App
@@ -7222,6 +7225,7 @@
 1761970	iB Cricket Business Companion
 1763360	Hentai Puzzle Sim
 1763650	Clarice Clairvoyage
+1764050	Swordcery: Prologue
 1764250	Filthy Animals | Halloween Heist
 1764340	Wildflower
 1764520	门派模拟器 - Martial art simulator
@@ -7592,6 +7596,7 @@
 1900170	Vargin Road-Dirty wedding ceremony and the ring of the chapel bell-
 1900370	BLOODZ
 1900390	Fish Cymophis
+1900400	Mixed Feelings: While You Were Away
 1900500	Gowang: Clash On Demonhead
 1900710	Re;Game
 1901350	武动苍穹
@@ -8998,6 +9003,7 @@
 2484450	Edge Of Dead Prologue
 2484480	Boat Party
 2484990	Asgard's Fall: Origins
+2485170	Vicious Star: kill All
 2485640	Infection Free Zone - Prologue
 2486170	Backrooms Exploration Liminal
 2486250	GalRock Girls
@@ -9481,6 +9487,7 @@
 2742140	修真大陆
 2742250	锦鱼图
 2742820	Rec
+2743020	Melting Passion
 2743960	英雄与霸主 Heroes and Overlord :Prologue
 2744350	Tutor X Hypnosis 2
 2745530	Going Upstream
@@ -9533,6 +9540,7 @@
 2776670	Atchmo
 2777740	MOUTHOLE
 2778550	BioGun: Clinical Trial
+2779040	猫様の古民家からの脱出
 2779070	Majyo Crush
 2779850	Lukewarm Massacre: The killer who may or may not be a moron.
 2780080	Screen TRPG
@@ -9583,6 +9591,7 @@
 2803890	Exiled into darkness
 2804200	Martial arts-God of War
 2805960	Bumper Balls
+2806840	Arcane Array Arena
 2807380	Metal Mayhem
 2807900	Cyrus The Virus
 2808630	Paintball Playground
@@ -9712,6 +9721,7 @@
 2877160	失乐星图Nornium
 2877200	Uanamon: Survivor
 2877220	Auto Sale Life: Fresh Start
+2878410	Old Market Simulator: Prologue
 2878500	BlockBawks
 2878950	穿越那仙界
 2878970	chaosMetaverse2
@@ -10312,6 +10322,7 @@
 3262640	Urban Lemons
 3263390	KAMALA TALE
 3264460	Spooky Time
+3264490	Pastopia
 3266970	Orange Soul Brother
 3268430	Warriors
 3270090	Forever Epic Story
@@ -10410,6 +10421,7 @@
 3349570	Ballad of Bravos: Jiangchengzi 江城子
 3349690	大天神
 3351270	Invariant
+3351570	Sandbox Survivors
 3351960	EarthClicker
 3353150	TP2
 3353160	Forma
@@ -10606,6 +10618,7 @@
 3528400	Silent Mist
 3528870	Despair Dungeon
 3529620	Waste Time Auto Clicker
+3530000	プールクラブからの脱出
 3530760	Interactive Sex - Mom Son Incest
 3530900	Ninja Parkour
 3531200	Forever Epic Story: A Journey of Life
@@ -10930,7 +10943,7 @@
 3944540	GODSTEEL
 3944840	Dark Signal
 3946590	Super Epic Video Game
-3947100	Your Waifu
+3947160	Street 42
 3947570	You suck and I hate you: part 2
 3948070	GrimmVeil
 3950500	CallGate
@@ -10953,6 +10966,7 @@
 3980870	Chhota Bheem Kitchen Adventures
 3981070	Alchemy Hearts
 3990590	Jabby Games Pack 1
+3991860	Covert War: Afghanistan
 3992590	Backlog Buddy
 3993720	猎人与酒馆
 3994150	九霄御龙诀
@@ -11109,6 +11123,7 @@
 4337430	烈火战神
 4337690	MEAT EATER
 4338060	Goddess of Fate: Anime RPG
+4341400	TUNG
 4354850	ECUMENE AZTEC: PROLOGUE
 4357020	一魂双体 他与她的奇妙之旅
 4361300	Harrow
@@ -11193,6 +11208,7 @@
 4609840	The Archmage Who Defeated the Demon King Wants to Be Ravaged by Mobs in a Peaceful World
 4612610	Graphictoria
 4615000	ValveTestApp4615000
+4618430	Runeveil: Idle PvP
 4629890	SHOWHAND
 4632630	Hansi auf Sylt
 4639000	ValveTestApp4639000
@@ -11218,6 +11234,7 @@
 4714810	再战大极品+255
 4719720	Poping Aquarium
 4720210	Hit Streak And Brawl
+4724610	Zero Hour Night
 4725200	Femboy Pirates
 4726680	Moggmon
 4736920	GAL-Chat
@@ -11227,6 +11244,7 @@
 4779460	Shoot Together
 4779800	Unredeemable
 4783780	Call of Duty®: Modern Warfare® 4 - Beta
+4784540	The Infinite Box
 4787250	Popular Kids
 4789260	Never Ending Hero RPG
 4790440	血色末路:屍潮
@@ -11245,8 +11263,10 @@
 4915660	No Exit Protocol
 4918170	Dark Realms: Hoia Baciu
 4951370	夯犇绿色传奇
+4983500	Lo-Fi with Ruka
 4983570	Death Paradise
 5001500	PayBack!?Touchinv!?Acrowded train!!Mizuki ichinomiya Edition
+5002180	Goddess Story
 5034920	LAUNDRO
 5053500	Verilight
 5091600	Wild Legacy
