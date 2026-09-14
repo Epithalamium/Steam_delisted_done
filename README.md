@@ -2,17 +2,18 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-09-13 11:58 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-09-14 12:56 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11273 apps
+**Total tracked:** 11275 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-_(No new entries this run)_
+- [Stones Keeper: Prologue](https://store.steampowered.com/app/1735230/) (AppID: 1735230)
+- [Stones Keeper: King Aurelius](https://store.steampowered.com/app/1894790/) (AppID: 1894790)
 
 ---
 
