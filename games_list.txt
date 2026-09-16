@@ -391,7 +391,7 @@
 36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania Collection
+36180	Cake Mania
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
@@ -867,6 +867,7 @@
 226580	F1 2014
 226600	Octodad: Dadliest Catch Beta
 226760	Rugby Challenge 2
+226920	Hellraid
 226940	Dungeonland Beta
 227400	Darkfall Unholy Wars
 227480	God Mode
@@ -963,7 +964,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -4530,6 +4531,7 @@
 1023020	Slime Crunch
 1023190	Original
 1023280	Solitaire Bliss Collection
+1023370	HENTAI SUPER GIRL
 1023530	Re:Legend Backer's Alpha
 1024010	Ultimate Fishing Simulator VR
 1024380	Second Extinction™
@@ -5045,6 +5047,7 @@
 1134570	F1 2021
 1135410	Hentai Girl Slide Puzzle
 1135710	Peace Restored
+1135880	TrickShot
 1136390	Strange Passion - My Boss, My Mistress
 1137030	Shadows of Larth
 1137180	咔叽探险队 Kaki Raid
@@ -7627,6 +7630,7 @@
 1909290	Quasimorphosis
 1910060	极速飙车
 1910140	Sunset: Future Shapers
+1910230	Spirit of Shotgun
 1910270	Stay Alive: Survival
 1910300	JoJo Siwa: Worldwide Party
 1910750	TIME TO HUNT
@@ -8665,6 +8669,7 @@
 2343830	Levis Umbra
 2343970	WITCH RACE Prologue
 2344170	Mystery Gates
+2344320	Eldegarde
 2344660	RizzChat
 2344800	Milky Animals
 2344830	Ethereal: Requiem of Repose
@@ -9413,6 +9418,7 @@
 2697360	Planecraft
 2697920	Cursebane
 2698520	Cuub
+2699850	Pitch Black
 2700620	University King
 2701480	Monster Girl Campus
 2703030	The Legend of Ogorets #4: Warren
@@ -9588,6 +9594,7 @@
 2801840	Edward's Manor
 2802550	Godrop:Prologue
 2803100	Galactic Annihilation
+2803130	Assassins Unleashed: The Apocalypse
 2803310	The Detractor
 2803570	Necro Siege
 2803890	Exiled into darkness
@@ -9812,6 +9819,7 @@
 2932040	2.5 DIMENSIONAL SEDUCTION: Angels on Stage!
 2932610	Be the Ruler: Prologue
 2932830	Wolfenstein
+2932860	World of Immortals
 2933500	S.T.A.R.W.I.E.L.D
 2933510	Moonray: Battle lands
 2934840	Blood, Sweat, and Lions
@@ -9952,6 +9960,7 @@
 3010030	BlockWorld Ai
 3010210	survivor redemption
 3010330	Apocalypse Chow
+3011470	FaeTerra
 3012480	三国：我是主公-0.1折爽充版
 3012610	Wander Hero:Set sail
 3013210	Pixel Playground
@@ -10092,6 +10101,7 @@
 3091950	Sunday Morning
 3091960	Desktop Abacus
 3092230	DarkSideHotel
+3092870	Kombat Hamster
 3094120	终末战姬
 3094130	Tales of Wind: Radiant Rebirth
 3094770	LoveAndComplex
@@ -10157,6 +10167,7 @@
 3128120	Cute Candies
 3128130	Roads Construction Sim
 3130060	Move Out Manor
+3130660	Sunken Veins
 3132600	Bullet Echo
 3134600	Family Secrets: Mommy
 3134610	Slave Of The Police Officer
@@ -10476,6 +10487,7 @@
 3398900	The Turkish Bazaar
 3399830	The Last of them
 3399990	Christmas Store: Santa's Supermarket Simulator
+3401910	脱出ゲーム 森の中の迷い家からの脱出
 3404640	Bright Past
 3405660	Night is Coming — Wrath of the Woods
 3407340	Immigration Dream
@@ -10537,6 +10549,7 @@
 3451810	Staroot
 3452140	Wiffleball Legends
 3453240	Witchwood
+3453280	LoomPath
 3454440	Interactive Sex - Incest Twins - Bath
 3457450	Reave
 3459040	Karson
@@ -10856,6 +10869,7 @@
 3791390	FOX XII
 3791720	Ice Cream You Scream
 3795540	DELETE
+3797390	IlhaZ
 3798250	The Island of Bad Women
 3801450	Interactive Sex - Futanari Incest - Episode 4
 3806230	ROTATO
@@ -10931,6 +10945,7 @@
 3911260	Archomni
 3915400	GladiMaker
 3921310	Sphereverse
+3922460	Darkstar Medical Mercenary
 3924080	Spori
 3926280	傲世血魔
 3928060	Robinsons Simulations World
@@ -10981,6 +10996,7 @@
 4008190	Insurrectionist
 4009420	DiktaPunk: The PolitiKal (And SatiriKal) Fighting Game
 4010350	IT LURKS
+4012060	Leadstorm Survivors
 4012770	Megitsune (Vixen)
 4014470	BLEEDOUT
 4015400	2Hours
@@ -11093,6 +11109,7 @@
 4249970	TROX-THE REVERSAL
 4257150	Hero of Ideal
 4257250	1000 SCORE: 2D Platformer
+4262000	白纸星途:民国乱世歌姬
 4264870	Shoot Pro Wrestling 2
 4267660	Call of Girls-Uncensored Edition
 4273260	Master Poker
@@ -11127,6 +11144,7 @@
 4338060	Goddess of Fate: Anime RPG
 4341400	TUNG
 4354850	ECUMENE AZTEC: PROLOGUE
+4355620	Deliveryman Simulator
 4357020	一魂双体 他与她的奇妙之旅
 4361300	Harrow
 4363690	SPOOKY JOB: The wrong house
@@ -11134,6 +11152,7 @@
 4369200	Hot and Lovely : May Holiday
 4371940	Dragon Arena
 4376010	Blind Nature
+4379990	TonTon Galaxy
 4385310	Specter Hideout
 4387560	The Last Athari
 4390360	Aftermath 1944
@@ -11226,9 +11245,11 @@
 4672690	马场大亨Online国际版
 4673900	SurroundedByBoys
 4681400	Nova Fighter
+4686600	Death's Game
 4687470	1.76复古沉默
 4692510	火龙传奇
 4697420	SwordRequiem Crack
+4699430	The Birth Cry
 4700180	LumenFall
 4705730	Ship It
 4706530	沙雕之路最终章
@@ -11245,7 +11266,6 @@
 4757840	战法道传奇
 4779460	Shoot Together
 4779800	Unredeemable
-4783780	Call of Duty®: Modern Warfare® 4 - Beta
 4784540	The Infinite Box
 4787250	Popular Kids
 4789260	Never Ending Hero RPG
@@ -11254,6 +11274,7 @@
 4805820	The Leather Maker
 4813170	ShuriStella
 4825280	Mage X Monster: The Archmage Who Wants to Lose to Mobs
+4829840	Armed Snake
 4842900	Crops Rebel
 4844080	Prison Cat
 4844150	HardFormer
@@ -11265,6 +11286,7 @@
 4915660	No Exit Protocol
 4918170	Dark Realms: Hoia Baciu
 4951370	夯犇绿色传奇
+4963050	Corelink Protocol
 4983500	Lo-Fi with Ruka
 4983570	Death Paradise
 5001500	PayBack!?Touchinv!?Acrowded train!!Mizuki ichinomiya Edition
