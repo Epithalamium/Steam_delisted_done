@@ -383,12 +383,12 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classics
+36100	Tradewinds Classic
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans + Odyssey Pack
+36130	Tradewinds Caravans
 36140	Tradewinds Odyssey
-36150	Westward Collection
+36150	Westward
 36160	Westward 2
 36170	Westward 3
 36180	Cake Mania
@@ -396,7 +396,7 @@
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Super Granny Collection
+36270	Granny in Paradise
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -5816,6 +5816,7 @@
 1332850	Pixel Bombs
 1333240	Wanderers
 1333310	Untitled
+1333490	Dead Event
 1333520	Cancelled
 1334450	i want to be you
 1334600	This Means Warp Pre-Release Beta
@@ -8294,6 +8295,7 @@
 2194260	快穿：少女节奏
 2194640	Project Electric Sheep
 2194940	Takenoko - Tilt Five AR
+2195250	EA SPORTS FC™ 24
 2195900	Muffins on Stream
 2195920	Heavy Burden: Prologue
 2196070	Time Lock VR-episode Lumber Room
@@ -8500,6 +8502,7 @@
 2269520	Flyghts
 2270200	Simnetzero
 2271420	Abandoned drive-in | 廃ドライブイン
+2272040	Homebound
 2272850	Love Birds
 2273340	梦幻契约
 2274010	Animal portal
@@ -9368,6 +9371,7 @@
 2668260	Elon's last chance
 2668350	Cats on Duty: Prologue
 2668680	Combo Card Clashers: Prologue
+2669010	Deepophobia
 2669050	RPG Test Project
 2669110	Tales from Hazelwood Post
 2669490	Chambers: The Outlaw
@@ -10324,6 +10328,7 @@
 3251220	Magical Girl Guardians
 3253170	A Paranormal Story
 3254780	Rainerles Abenteuer
+3255950	Whispers of the Past
 3255960	Hammet P.I.
 3256070	Hat Helpers
 3256290	Honey Trap
@@ -10474,6 +10479,7 @@
 3389850	Alijia Qiqihar Barbecue
 3390840	沉默传奇
 3391030	Project DomeForge
+3391140	Cam Quest
 3391850	[ape]
 3393370	Moorhuhn VR Blast
 3393440	Diner Simulator - Horror Story
@@ -11181,6 +11187,7 @@
 4457970	FENRIR
 4465280	Catagon
 4479680	ValveTestApp4479680
+4481370	Winmon: Prologue
 4482700	Kogama
 4482960	驱入虚空
 4486430	Tragedy is approaching
@@ -11293,5 +11300,7 @@
 5002180	Goddess Story
 5034920	LAUNDRO
 5053500	Verilight
+5059600	Jumpy Mumpy
 5091600	Wild Legacy
 5105990	Hentai Clicker: Mika is streaming
+5190860	TetraCore
