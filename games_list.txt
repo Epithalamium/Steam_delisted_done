@@ -4282,6 +4282,7 @@
 970240	Dr. Schplot's Nanobots
 970360	The Last Sphinx ARG
 970370	Gala Collider
+970530	黑暗料理
 970550	Color Chain
 970610	CHECKMATE : Battle Arenas
 970620	Castle Rencounter
@@ -5611,6 +5612,7 @@
 1273150	Dry Grass
 1273270	Dingleberries
 1273390	Baby Shark VR Dancing
+1273520	The Last Day Defense VR
 1273700	Day and Night
 1273870	TCVR
 1274160	fine DUST
@@ -10440,6 +10442,7 @@
 3349570	Ballad of Bravos: Jiangchengzi 江城子
 3349690	大天神
 3351270	Invariant
+3351500	HyperCycle League
 3351570	Sandbox Survivors
 3351960	EarthClicker
 3353150	TP2
@@ -10453,6 +10456,7 @@
 3359630	Hazardous Hunt
 3360010	Tsukuyomi: The Divine Hunter
 3360690	集墨聚场™：水镜三国
+3361600	Divine Sin
 3362240	Survius
 3362290	KUKUMBER
 3363240	かいがらの夢
@@ -11088,6 +11092,7 @@
 4192880	Football Tactics Field
 4197600	Blossaria
 4198900	都市传奇之人在江湖当大佬
+4199360	Scam Center Simulator: Prologue
 4199540	Summer Delicious Simulator: Prologue
 4200140	The Lost Experiment
 4201420	永恒传奇
@@ -11227,6 +11232,7 @@
 4550960	Punchslingers
 4552500	Dungeon Settlers: Prologue
 4561160	Devil's Level : The Checkpoint
+4565190	Arcane Arena Survivors
 4569900	Creepytape Rewind - Not From Here
 4575900	失序之地
 4576040	东方
@@ -11297,11 +11303,14 @@
 4963050	Corelink Protocol
 4983500	Lo-Fi with Ruka
 4983570	Death Paradise
+4996170	Magic Fusion
 5001500	PayBack!?Touchinv!?Acrowded train!!Mizuki ichinomiya Edition
 5002180	Goddess Story
 5034920	LAUNDRO
+5036550	Office Sluts: Act 0
 5053500	Verilight
 5059600	Jumpy Mumpy
 5091600	Wild Legacy
 5105990	Hentai Clicker: Mika is streaming
+5123540	The Producer
 5190860	TetraCore
