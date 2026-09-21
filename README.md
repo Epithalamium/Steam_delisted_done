@@ -2,18 +2,17 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-09-20 11:31 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-09-21 12:55 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11318 apps
+**Total tracked:** 11319 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Emoji Tray](https://store.steampowered.com/app/4826970/) (AppID: 4826970)
-- [MOON DOOM](https://store.steampowered.com/app/4861420/) (AppID: 4861420)
+- [装甲红锋](https://store.steampowered.com/app/3027990/) (AppID: 3027990)
 
 ---
 
