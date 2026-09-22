@@ -252,7 +252,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -2821,6 +2821,7 @@
 673380	Special Force VR
 673930	Booking Revolution
 674010	Loneliness Early Acess
+674020	World War 3
 674590	WakeUp!
 674650	Sound Balling 3
 674690	Project Xandata
@@ -4659,6 +4660,7 @@
 1049490	Trysaria
 1049950	Arena Stars
 1051170	家园/HOME
+1051200	Trover Saves the Universe
 1052020	Hasty Snow
 1052050	Tower Arena
 1052120	Alternator: Tactical Stealth Operations
@@ -7438,6 +7440,7 @@
 1843420	Motorcycle Travel Simulator
 1843430	Diluvian Winds Prologue
 1844230	Malicious ReloadⅡ
+1845040	Panzers on the Steppe
 1845210	Asym Altered Axis
 1845630	Aim Lab VR
 1845870	Yukyo Station
@@ -7511,6 +7514,7 @@
 1867500	The Wakers
 1867540	Mission: Santa
 1867840	西游战棋
+1868730	Gettysburg: Fields of Valor
 1869220	DYMENSION Prologue:Scary Horror Survival Shooter
 1870270	Mirror three
 1871280	Plane boy
@@ -7873,6 +7877,7 @@
 2000420	PUTIN SURVIVOR
 2001670	BURST WITCH
 2001960	Flag Sweeper
+2002890	DEMON OF SPEED
 2003170	Spectral Keep
 2003240	PSI Masquerade
 2003310	Wallpaper Alive
@@ -10188,6 +10193,7 @@
 3139890	恐龙岛
 3141210	Words Guesser
 3141810	Valkyrie Corridor
+3142050	Warborne Above Ashes
 3143600	TunsTan:Prologue
 3143630	Escape Factory
 3143710	PUBG: BLINDSPOT
@@ -10808,6 +10814,7 @@
 3686550	Fallbound
 3686690	Dark Origins
 3686710	Gacha Idle
+3690620	Who Is Real?
 3690820	People of Mine
 3690990	Don't Freeze
 3691020	Interactive Sex - Incest Twins - Episode 1
@@ -11249,9 +11256,11 @@
 4632630	Hansi auf Sylt
 4639000	ValveTestApp4639000
 4640080	Walled City of Living Will
+4641980	Blood Mage
 4645490	Skrrt Racing
 4653840	Trapped in the Backrooms
 4657750	Hardhats : Some Survival Required
+4658670	Re:Bloom 花精霊のぽかぽか温泉郷
 4659290	Let Me Free!
 4659860	Restroom Business Simulator
 4660290	100 Hidden ASCII Cats: Colors
