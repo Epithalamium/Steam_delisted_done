@@ -2,25 +2,21 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-09-22 11:45 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-09-23 11:44 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11328 apps
+**Total tracked:** 11333 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [World War 3](https://store.steampowered.com/app/674020/) (AppID: 674020)
-- [Trover Saves the Universe](https://store.steampowered.com/app/1051200/) (AppID: 1051200)
-- [Panzers on the Steppe](https://store.steampowered.com/app/1845040/) (AppID: 1845040)
-- [Gettysburg: Fields of Valor](https://store.steampowered.com/app/1868730/) (AppID: 1868730)
-- [DEMON OF SPEED](https://store.steampowered.com/app/2002890/) (AppID: 2002890)
-- [Warborne Above Ashes](https://store.steampowered.com/app/3142050/) (AppID: 3142050)
-- [Who Is Real?](https://store.steampowered.com/app/3690620/) (AppID: 3690620)
-- [Blood Mage](https://store.steampowered.com/app/4641980/) (AppID: 4641980)
-- [Re:Bloom 花精霊のぽかぽか温泉郷](https://store.steampowered.com/app/4658670/) (AppID: 4658670)
+- [Apocalypse: Floodgates](https://store.steampowered.com/app/1838900/) (AppID: 1838900)
+- [Ship of Heroes](https://store.steampowered.com/app/1890100/) (AppID: 1890100)
+- [Protoshock](https://store.steampowered.com/app/2504900/) (AppID: 2504900)
+- [BrainBuzzParty WordLink](https://store.steampowered.com/app/3434640/) (AppID: 3434640)
+- [Rocket Cars](https://store.steampowered.com/app/4384290/) (AppID: 4384290)
 
 ---
 

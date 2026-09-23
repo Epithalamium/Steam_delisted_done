@@ -252,7 +252,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -7430,6 +7430,7 @@
 1838170	Broken
 1838300	Glam Pursuit
 1838810	Dwarffarian
+1838900	Apocalypse: Floodgates
 1839550	Paradox
 1839700	Milk Bottle And Monster Girl
 1840640	Party Maker VR
@@ -7578,6 +7579,7 @@
 1888430	10 Minutes Till Dawn
 1889670	My Destiny
 1889710	Kamigawa: A Visual Novel
+1890100	Ship of Heroes
 1890480	Lorn's Lure: Prologue
 1890590	SUPER NANARU
 1890800	Caver
@@ -9059,6 +9061,7 @@
 2504620	Match Gem 99
 2504730	A Lonesome Tale
 2504850	Museo UNIAT
+2504900	Protoshock
 2505760	プロ野球スピリッツ myBALLPARK
 2506420	Vipunk: Shield of Valhalla
 2506910	Ski Jumping PVP
@@ -10539,6 +10542,7 @@
 3432830	Victory's Grave: Outflank
 3433960	Abyss Unleashed
 3434250	SCP: Autophobia
+3434640	BrainBuzzParty WordLink
 3435380	GIF me a break!
 3435450	Hardest
 3436150	KALEIDOS - The Judgement of the Fallen Star
@@ -11173,6 +11177,7 @@
 4371940	Dragon Arena
 4376010	Blind Nature
 4379990	TonTon Galaxy
+4384290	Rocket Cars
 4385310	Specter Hideout
 4387560	The Last Athari
 4390360	Aftermath 1944
