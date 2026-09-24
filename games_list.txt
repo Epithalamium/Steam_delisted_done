@@ -252,7 +252,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -11137,6 +11137,7 @@
 4264870	Shoot Pro Wrestling 2
 4267660	Call of Girls-Uncensored Edition
 4273260	Master Poker
+4278390	My Beautiful Winter
 4282380	Detective Necro
 4285970	图灵证言 Turing Testimony
 4286540	Fun World
@@ -11223,6 +11224,7 @@
 4503180	TapeSurfer
 4508480	Finisher
 4509000	Poisoned Path
+4510770	Gun Girl Go
 4511760	龙城传奇
 4512200	Spirit Demon Tribulation
 4512840	Break The Bank
@@ -11235,6 +11237,7 @@
 4524310	王者争雄
 4527550	Flounder
 4528240	暗黑战神
+4529300	De profundis 1454
 4532270	VStarsCenter
 4533440	Locks 'n' Leaps
 4533910	Malware.exe

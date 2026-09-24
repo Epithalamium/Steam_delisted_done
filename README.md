@@ -2,21 +2,19 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-09-23 11:44 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-09-24 11:53 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11333 apps
+**Total tracked:** 11336 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Apocalypse: Floodgates](https://store.steampowered.com/app/1838900/) (AppID: 1838900)
-- [Ship of Heroes](https://store.steampowered.com/app/1890100/) (AppID: 1890100)
-- [Protoshock](https://store.steampowered.com/app/2504900/) (AppID: 2504900)
-- [BrainBuzzParty WordLink](https://store.steampowered.com/app/3434640/) (AppID: 3434640)
-- [Rocket Cars](https://store.steampowered.com/app/4384290/) (AppID: 4384290)
+- [My Beautiful Winter](https://store.steampowered.com/app/4278390/) (AppID: 4278390)
+- [Gun Girl Go](https://store.steampowered.com/app/4510770/) (AppID: 4510770)
+- [De profundis 1454](https://store.steampowered.com/app/4529300/) (AppID: 4529300)
 
 ---
 
