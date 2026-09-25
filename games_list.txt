@@ -63,7 +63,7 @@
 7060	Infernal
 7250	Sherlock Holmes: The Awakened
 7400	Ricochet: Lost Worlds
-7420	Wik™ & The Fable of Souls
+7420	Wik and the Fable of Souls
 7440	Big Kahuna Reef
 7450	Ricochet Infinity
 7470	Simplz Zoo
@@ -252,7 +252,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -383,20 +383,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classics
+36100	Tradewinds Classic
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans + Odyssey Pack
+36130	Tradewinds Caravans
 36140	Tradewinds Odyssey
-36150	Westward Collection
+36150	Westward
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania Collection
+36180	Cake Mania
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Super Granny Collection
+36270	Granny in Paradise
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -6970,6 +6970,7 @@
 1672440	ヘブンズブレイザーオンライン
 1672560	Dark Cravings
 1672660	明教风云之九阴九阳
+1673320	Survivor
 1673340	VR Skirmish on Solar System Planets: Shooting Battle
 1673450	Geisterland
 1673680	Life in Woodchester
@@ -9740,6 +9741,7 @@
 2873820	Redemption of Li Wei
 2874230	THE SHRiNK Season Two
 2875940	Sultan Jumps
+2876340	DotSec
 2876590	Thor's Legacy
 2877160	失乐星图Nornium
 2877200	Uanamon: Survivor
@@ -9970,6 +9972,7 @@
 3007670	Little Regina
 3007860	Argentum Forever
 3007980	Rosewood Farm
+3008200	PAPERHEAD EP0
 3009510	JIANGHU CHRONICLES: PROLOGUE
 3010030	BlockWorld Ai
 3010210	survivor redemption

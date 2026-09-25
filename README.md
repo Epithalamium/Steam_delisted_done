@@ -2,19 +2,19 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-09-24 11:53 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-09-25 11:56 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11336 apps
+**Total tracked:** 11339 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [My Beautiful Winter](https://store.steampowered.com/app/4278390/) (AppID: 4278390)
-- [Gun Girl Go](https://store.steampowered.com/app/4510770/) (AppID: 4510770)
-- [De profundis 1454](https://store.steampowered.com/app/4529300/) (AppID: 4529300)
+- [Survivor](https://store.steampowered.com/app/1673320/) (AppID: 1673320)
+- [DotSec](https://store.steampowered.com/app/2876340/) (AppID: 2876340)
+- [PAPERHEAD EP0](https://store.steampowered.com/app/3008200/) (AppID: 3008200)
 
 ---
 
