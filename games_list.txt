@@ -63,7 +63,7 @@
 7060	Infernal
 7250	Sherlock Holmes: The Awakened
 7400	Ricochet: Lost Worlds
-7420	Wik and the Fable of Souls
+7420	Wik™ & The Fable of Souls
 7440	Big Kahuna Reef
 7450	Ricochet Infinity
 7470	Simplz Zoo
@@ -90,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max 201: Ice Station Santa
+8260	Sam & Max: Season Two
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -252,7 +252,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -4702,6 +4702,7 @@
 1058150	Twinkle Star - 未来はすぐそこで待っている
 1058480	Bullet Harmony
 1058890	StalinGulag
+1059220	'83
 1059380	Dollhouse Open Beta
 1059750	Interworlds Academy
 1059760	Sicier's Zweck
@@ -10326,6 +10327,7 @@
 3236030	Axe Slasher: Roguelike Dungeon Crawler
 3236080	老虎机少女 Slot Girls
 3236840	生于厕所 Reborn in the toilet
+3239670	BEAST : Bio Exo Arena Suit Team
 3239720	Rift Riders
 3240020	Mansion Mayhem: Shooting Assault
 3241100	WALKING IN FOG
@@ -10795,6 +10797,7 @@
 3654370	PIXEL COMBAT
 3654710	Interactive Sex - Daddy Twins Incest BDSM
 3654730	Interactive Sex - Twin Sisters Incest BDSM
+3657130	Kinky Party
 3657390	Arvale Protocol
 3658840	Drug Race Simulator
 3661840	An Ordinary Top-Down Shooter
@@ -11329,6 +11332,7 @@
 4996170	Magic Fusion
 5001500	PayBack!?Touchinv!?Acrowded train!!Mizuki ichinomiya Edition
 5002180	Goddess Story
+5024260	Gorgeous Legion
 5034920	LAUNDRO
 5036550	Office Sluts: Act 0
 5053500	Verilight
