@@ -90,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -252,7 +252,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -383,12 +383,12 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classic
+36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans
+36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
-36150	Westward
+36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
 36180	Cake Mania
@@ -396,7 +396,7 @@
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Granny in Paradise
+36270	Super Granny Collection
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -1521,6 +1521,7 @@
 360590	Once Bitten, Twice Dead
 360610	Houston, we have a problem
 360700	With Your Destiny
+360730	Cards and Castles
 360950	Descent: Underground
 361360	Goosebumps
 361370	Deer Hunter: Reloaded
@@ -8618,7 +8619,6 @@
 2316500	Minos Station: Escape Room
 2317430	Golden Legend -Harald Quest-
 2317760	Unholy Angel 2
-2317820	Feudal Friends
 2317910	Chinese Frontiers: Prologue
 2318910	傲剑情缘
 2319050	闪客快打8武装行
@@ -10231,6 +10231,7 @@
 3157800	Kyrie and Terra
 3159390	Blue Shutter
 3159830	我的最强女友-LSP放置RPG
+3160030	Ai Love
 3160830	Boyfriend For Hire
 3164240	Final Knight: Prologue
 3165030	Ice Cream Vendor Simulator
@@ -11261,6 +11262,7 @@
 4578720	Orc Bastion
 4580210	iHorse G1
 4584240	Cheap Car Repair: Welcome to Nowhere
+4590020	Kill Source: Neon Hemorrhage
 4590790	Defense of Kyrath
 4609840	The Archmage Who Defeated the Demon King Wants to Be Ravaged by Mobs in a Peaceful World
 4612610	Graphictoria
