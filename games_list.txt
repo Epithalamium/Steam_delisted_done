@@ -383,12 +383,12 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classics
+36100	Tradewinds Classic
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans + Odyssey Pack
+36130	Tradewinds Caravans
 36140	Tradewinds Odyssey
-36150	Westward Collection
+36150	Westward
 36160	Westward 2
 36170	Westward 3
 36180	Cake Mania
@@ -396,7 +396,7 @@
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Super Granny Collection
+36270	Granny in Paradise
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -1038,6 +1038,7 @@
 261490	Bedlam
 261600	Basketball Pro Management 2014
 261880	Corporate Lifestyle Simulator
+263040	Bot Colony
 263080	Pixel Boy and the Ever Expanding Dungeon
 263260	Motor Rock
 263280	Spintires®
@@ -3094,6 +3095,7 @@
 723780	Modern Combat Versus
 724080	The Ino Chronicles: Ascension
 724340	Scavenger
+724960	Need For Seed
 725370	Doctor Who Infinity
 725400	Forest Escape
 726590	NBA 2K Playgrounds 2
@@ -3894,6 +3896,7 @@
 889040	FPV Air 2
 889210	Two Wars
 889330	Nerved
+889680	Her
 889750	BABYLON'S FALL
 890110	Deicide
 890340	Lovefield General: Back to Work
@@ -10522,6 +10525,7 @@
 3409990	Gangster Boss Simulator
 3410050	Sniper: Phantom's Resolution
 3410440	Divine Quest
+3411030	The Killer Pass: Season 1
 3411270	EA SPORTS FC™ 26 Closed Beta
 3411560	Total Loadout
 3414060	Incest Tales: Sister And Mom

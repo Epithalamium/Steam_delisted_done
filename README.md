@@ -2,19 +2,20 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-09-27 12:08 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-09-28 14:04 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11345 apps
+**Total tracked:** 11349 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Cards and Castles](https://store.steampowered.com/app/360730/) (AppID: 360730)
-- [Ai Love](https://store.steampowered.com/app/3160030/) (AppID: 3160030)
-- [Kill Source: Neon Hemorrhage](https://store.steampowered.com/app/4590020/) (AppID: 4590020)
+- [Bot Colony](https://store.steampowered.com/app/263040/) (AppID: 263040)
+- [Need For Seed](https://store.steampowered.com/app/724960/) (AppID: 724960)
+- [Her](https://store.steampowered.com/app/889680/) (AppID: 889680)
+- [The Killer Pass: Season 1](https://store.steampowered.com/app/3411030/) (AppID: 3411030)
 
 ---
 
