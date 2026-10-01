@@ -2,28 +2,23 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-09-30 12:42 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-10-01 13:25 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11373 apps
+**Total tracked:** 11378 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Counter-Strike Nexon](https://store.steampowered.com/app/273110/) (AppID: 273110)
-- [Toy Story 3](https://store.steampowered.com/app/300820/) (AppID: 300820)
-- [Plunger Boyz](https://store.steampowered.com/app/1801200/) (AppID: 1801200)
-- [Mirror Spirits](https://store.steampowered.com/app/1925710/) (AppID: 1925710)
-- [モノマギア](https://store.steampowered.com/app/2116800/) (AppID: 2116800)
-- [Dark Farm FGT](https://store.steampowered.com/app/2457940/) (AppID: 2457940)
-- [The Last Days](https://store.steampowered.com/app/3082350/) (AppID: 3082350)
-- [Jumper](https://store.steampowered.com/app/3337070/) (AppID: 3337070)
-- [Noxcode](https://store.steampowered.com/app/3369490/) (AppID: 3369490)
-- [Outpost Market Simulator](https://store.steampowered.com/app/4152400/) (AppID: 4152400)
-- [Holy Crap](https://store.steampowered.com/app/4492390/) (AppID: 4492390)
-- [Packpunk](https://store.steampowered.com/app/5081690/) (AppID: 5081690)
+- [Dawn of Magic 2](https://store.steampowered.com/app/33549/) (AppID: 33549)
+- [Phaeton: Chapter I](https://store.steampowered.com/app/221750/) (AppID: 221750)
+- [Daraney - Guardian's Rise](https://store.steampowered.com/app/1166680/) (AppID: 1166680)
+- [The Braves](https://store.steampowered.com/app/2479830/) (AppID: 2479830)
+- [Better Me Tree: Boot Camp](https://store.steampowered.com/app/3092150/) (AppID: 3092150)
+- [漢字でGO! 集英社マンガ祭](https://store.steampowered.com/app/3350140/) (AppID: 3350140)
+- [米姆米姆哈](https://store.steampowered.com/app/3447000/) (AppID: 3447000)
 
 ---
 

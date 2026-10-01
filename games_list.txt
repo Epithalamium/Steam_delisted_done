@@ -90,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max 201: Ice Station Santa
+8260	Sam & Max: Season Two
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -363,6 +363,7 @@
 33440	Driver San Francisco
 33500	Hired Guns: The Jagged Edge
 33510	Officers: World War II
+33549	Dawn of Magic 2
 33740	John Deere: Drive Green
 33750	Prison Tycoon 4: Supermax
 33900	Arma 2
@@ -830,6 +831,7 @@
 221360	Wizardry Online
 221430	Pro Evolution Soccer 2013
 221560	Windborne
+221750	Phaeton: Chapter I
 221940	F1 Race Stars Preview
 221960	F1 Race Stars Review
 222260	Europa Universalis IV - BETA
@@ -5183,6 +5185,7 @@
 1166050	零下记忆
 1166160	Touhou Hakanai Cards / 东方幻灵录
 1166630	SONG OF HORROR One Shot
+1166680	Daraney - Guardian's Rise
 1166960	Last Labyrinth Closed Demo
 1167760	4islands
 1167890	Yes, Your Grace Beta
@@ -9023,6 +9026,7 @@
 2478100	末日沙场
 2478240	Bright Side: Riddles and Puzzles
 2479720	斗牌魂
+2479830	The Braves
 2480090	San Xing Dui(三星堆)
 2480450	Pesticide Not Required: Prologue
 2481000	Omega Tower
@@ -10135,6 +10139,7 @@
 3091750	Poly Ego
 3091950	Sunday Morning
 3091960	Desktop Abacus
+3092150	Better Me Tree: Boot Camp
 3092230	DarkSideHotel
 3092870	Kombat Hamster
 3094120	终末战姬
@@ -10475,6 +10480,7 @@
 3349490	Quantum Soteriology
 3349570	Ballad of Bravos: Jiangchengzi 江城子
 3349690	大天神
+3350140	漢字でGO! 集英社マンガ祭
 3351270	Invariant
 3351500	HyperCycle League
 3351570	Sandbox Survivors
@@ -10587,6 +10593,7 @@
 3444880	FOE:Remains
 3445280	Soar: Prologue
 3446810	Slime Bros. Maker
+3447000	米姆米姆哈
 3448230	The Bygone Days of Her and the Flowers
 3448980	Settlement Odyssey
 3449750	The Red One: OCCULTATION
@@ -11311,7 +11318,6 @@
 4687470	1.76复古沉默
 4692510	火龙传奇
 4697420	SwordRequiem Crack
-4699430	The Birth Cry
 4700180	LumenFall
 4705730	Ship It
 4706530	沙雕之路最终章
@@ -11370,4 +11376,3 @@
 5123540	The Producer
 5150620	Scan N Go: Store Simulator
 5190860	TetraCore
-5204330	夏梦
