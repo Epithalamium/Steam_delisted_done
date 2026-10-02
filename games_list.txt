@@ -90,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -252,7 +252,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -363,7 +363,6 @@
 33440	Driver San Francisco
 33500	Hired Guns: The Jagged Edge
 33510	Officers: World War II
-33549	Dawn of Magic 2
 33740	John Deere: Drive Green
 33750	Prison Tycoon 4: Supermax
 33900	Arma 2
@@ -385,20 +384,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classic
+36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans
+36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
 36150	Westward
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania
+36180	Cake Mania Collection
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Granny in Paradise
+36270	Super Granny Collection
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -6735,6 +6734,7 @@
 1587470	Fairy And Devil
 1587690	EZ2ON REBOOT : R (Test Server)
 1587750	Fat Fritz 2.0 Steam Edition
+1588010	PGA TOUR 2K23
 1588170	Yuppy's Adventure
 1588650	Factory Manager Simulator
 1588690	Moonlight Princess
@@ -7648,7 +7648,6 @@
 1905880	Battleship Lolita
 1906620	DOOM II: Bethesda.net Edition
 1906920	Link Girls
-1907430	HuangGaoLe's Game Collection
 1907890	Whalefall
 1908470	Dreaming Rainbow
 1908510	Star Commander - The Sentinel
@@ -9917,6 +9916,7 @@
 2962070	Aquelarre
 2962230	Wizard Pulse
 2962740	Stealth Camping Simulator
+2963080	Slice Adventure
 2963250	Taxi Rush: Prologue
 2963740	Below Level 地下
 2964030	Random Core Defense
@@ -10688,6 +10688,7 @@
 3528400	Silent Mist
 3528870	Despair Dungeon
 3529620	Waste Time Auto Clicker
+3529820	Uworld
 3530000	プールクラブからの脱出
 3530760	Interactive Sex - Mom Son Incest
 3530900	Ninja Parkour
@@ -10894,6 +10895,7 @@
 3736210	White Rose
 3737170	Guardian Zero
 3741020	Lost Tales of Altoris
+3744910	黄色猫片：爆射
 3745930	Interactive Sex - Incest Daughters - Episode 3
 3745960	Interactive Sex - Futanari Incest - Episode 3
 3746400	My Hypnotized Family [Episode 2]
@@ -11145,6 +11147,7 @@
 4201420	永恒传奇
 4203540	垂钓大师 Fishing Master
 4204150	Endless Nightbreak: Blood Horde
+4205600	StimDock
 4205830	Tetraverse
 4213060	Late Night Tales
 4214600	Forgotten Records
@@ -11349,6 +11352,7 @@
 4844080	Prison Cat
 4844150	HardFormer
 4851270	Deadwood House
+4853530	Sweet Lake
 4861420	MOON DOOM
 4873080	Nubo – Your Screen Friend
 4884890	Paint Gal Adventures

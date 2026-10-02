@@ -2,23 +2,22 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-10-01 13:25 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-10-02 12:43 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11378 apps
+**Total tracked:** 11382 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Dawn of Magic 2](https://store.steampowered.com/app/33549/) (AppID: 33549)
-- [Phaeton: Chapter I](https://store.steampowered.com/app/221750/) (AppID: 221750)
-- [Daraney - Guardian's Rise](https://store.steampowered.com/app/1166680/) (AppID: 1166680)
-- [The Braves](https://store.steampowered.com/app/2479830/) (AppID: 2479830)
-- [Better Me Tree: Boot Camp](https://store.steampowered.com/app/3092150/) (AppID: 3092150)
-- [漢字でGO! 集英社マンガ祭](https://store.steampowered.com/app/3350140/) (AppID: 3350140)
-- [米姆米姆哈](https://store.steampowered.com/app/3447000/) (AppID: 3447000)
+- [PGA TOUR 2K23](https://store.steampowered.com/app/1588010/) (AppID: 1588010)
+- [Slice Adventure](https://store.steampowered.com/app/2963080/) (AppID: 2963080)
+- [Uworld](https://store.steampowered.com/app/3529820/) (AppID: 3529820)
+- [黄色猫片：爆射](https://store.steampowered.com/app/3744910/) (AppID: 3744910)
+- [StimDock](https://store.steampowered.com/app/4205600/) (AppID: 4205600)
+- [Sweet Lake](https://store.steampowered.com/app/4853530/) (AppID: 4853530)
 
 ---
 
