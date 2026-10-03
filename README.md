@@ -2,22 +2,24 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-10-02 12:43 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-10-03 11:44 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11382 apps
+**Total tracked:** 11389 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [PGA TOUR 2K23](https://store.steampowered.com/app/1588010/) (AppID: 1588010)
-- [Slice Adventure](https://store.steampowered.com/app/2963080/) (AppID: 2963080)
-- [Uworld](https://store.steampowered.com/app/3529820/) (AppID: 3529820)
-- [黄色猫片：爆射](https://store.steampowered.com/app/3744910/) (AppID: 3744910)
-- [StimDock](https://store.steampowered.com/app/4205600/) (AppID: 4205600)
-- [Sweet Lake](https://store.steampowered.com/app/4853530/) (AppID: 4853530)
+- [Portal 2 In Motion](https://store.steampowered.com/app/211480/) (AppID: 211480)
+- [Aerena](https://store.steampowered.com/app/247830/) (AppID: 247830)
+- [Forgotten Lore](https://store.steampowered.com/app/391240/) (AppID: 391240)
+- [METAL GEAR SOLID MASTER COLLECTION Vol.2 BONUS CONTENT](https://store.steampowered.com/app/3036720/) (AppID: 3036720)
+- [Labyris](https://store.steampowered.com/app/3659010/) (AppID: 3659010)
+- [Ragnarok X: Next Generation](https://store.steampowered.com/app/4279820/) (AppID: 4279820)
+- [TV Show: Home MakeOver](https://store.steampowered.com/app/4522250/) (AppID: 4522250)
+- [O2Jam Flower](https://store.steampowered.com/app/5252130/) (AppID: 5252130)
 
 ---
 

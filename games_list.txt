@@ -252,7 +252,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -384,20 +384,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classics
+36100	Tradewinds Classic
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans + Odyssey Pack
+36130	Tradewinds Caravans
 36140	Tradewinds Odyssey
 36150	Westward
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania Collection
+36180	Cake Mania
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Super Granny Collection
+36270	Granny in Paradise
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -757,6 +757,7 @@
 211300	Dishonored Test App
 211380	Shoot Many Robots: Arena Kings
 211420	DARK SOULS™: Prepare To Die Edition
+211480	Portal 2 In Motion
 211670	007™ Legends
 211840	DiRT Showdown Review
 211860	Edgeworld
@@ -966,6 +967,7 @@
 247580	Magicka: Wizards of the Square Tablet
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
+247830	Aerena
 248250	Survive
 248270	Songs2See Game
 248410	Legends of Aethereus
@@ -1711,6 +1713,7 @@
 390910	Collisions
 390960	The Last Sunshine (Deprecated)
 391040	F1 2016
+391240	Forgotten Lore
 391530	Blast Out
 391630	Necromonads
 392040	War Blade
@@ -6040,7 +6043,6 @@
 1386840	An Evil Existence
 1386880	Werewolf: The Apocalypse - Heart of the Forest BETA
 1387060	Tale of an Apocalypse
-1387510	Last Mortem
 1388050	Big Brother: The Game
 1388090	Line Dots
 1388290	Colony Antares
@@ -10036,6 +10038,7 @@
 3034320	Ragnarok age of heroes
 3034510	Starfell
 3034540	TNYN
+3036720	METAL GEAR SOLID MASTER COLLECTION Vol.2 BONUS CONTENT
 3037050	Latens
 3037110	Rule & Expand
 3038200	Pigeon Ascent
@@ -10829,6 +10832,7 @@
 3657130	Kinky Party
 3657390	Arvale Protocol
 3658840	Drug Race Simulator
+3659010	Labyris
 3661840	An Ordinary Top-Down Shooter
 3663960	Sex Adventures - Naughty Sisters - Episode 9
 3664600	GLORB
@@ -11176,6 +11180,7 @@
 4267660	Call of Girls-Uncensored Edition
 4273260	Master Poker
 4278390	My Beautiful Winter
+4279820	Ragnarok X: Next Generation
 4282380	Detective Necro
 4285970	图灵证言 Turing Testimony
 4286540	Fun World
@@ -11272,6 +11277,7 @@
 4517960	Idle Kingdom: Magic & Beasts
 4518440	超凡功夫之王传奇
 4520140	Cinder City
+4522250	TV Show: Home MakeOver
 4523530	Will or Water
 4524310	王者争雄
 4527550	Flounder
@@ -11380,3 +11386,4 @@
 5123540	The Producer
 5150620	Scan N Go: Store Simulator
 5190860	TetraCore
+5252130	O2Jam Flower
