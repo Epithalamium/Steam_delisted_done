@@ -90,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max 201: Ice Station Santa
+8260	Sam & Max: Season Two
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -967,7 +967,6 @@
 247580	Magicka: Wizards of the Square Tablet
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
-247830	Aerena
 248250	Survive
 248270	Songs2See Game
 248410	Legends of Aethereus
@@ -1713,7 +1712,6 @@
 390910	Collisions
 390960	The Last Sunshine (Deprecated)
 391040	F1 2016
-391240	Forgotten Lore
 391530	Blast Out
 391630	Necromonads
 392040	War Blade
@@ -5607,6 +5605,7 @@
 1268150	Low Poly Forces
 1268670	SOVIET GIRL: HENTAI PUZZLE GAME
 1268810	Doors of Insanity
+1269260	Artifact Foundry
 1269320	Saving Stages
 1269600	Adventure Field™ 3 Definitive Edition
 1269720	还我河山HeroRagingFire
@@ -10038,7 +10037,6 @@
 3034320	Ragnarok age of heroes
 3034510	Starfell
 3034540	TNYN
-3036720	METAL GEAR SOLID MASTER COLLECTION Vol.2 BONUS CONTENT
 3037050	Latens
 3037110	Rule & Expand
 3038200	Pigeon Ascent
@@ -11115,6 +11113,7 @@
 4141830	Protocol: Bullet Hell
 4142220	CESW: Jump Royale
 4142450	ASTEROIDS
+4146000	GANG OF DRAGON
 4146270	8-Second Records
 4146720	DO NOT MINIMIZE THIS WINDOW
 4149540	Rift Investigations
@@ -11180,7 +11179,6 @@
 4267660	Call of Girls-Uncensored Edition
 4273260	Master Poker
 4278390	My Beautiful Winter
-4279820	Ragnarok X: Next Generation
 4282380	Detective Necro
 4285970	图灵证言 Turing Testimony
 4286540	Fun World
@@ -11229,6 +11227,7 @@
 4397660	Ascend The Tower
 4399320	SPARTA 2035 – The Last Diamond
 4401910	TRIX
+4404090	Rapid Fire Girls - AwaAngel -
 4407780	Sparky's Sketch Quest
 4408430	Marceline Richenwinnier - Old Story
 4411760	It Is For Her
@@ -11241,6 +11240,7 @@
 4436100	PacketRunner: Digital Resistance
 4436480	Rabbit Scare
 4436720	Masterworks of Horror: The Prologue
+4438430	Rapid Fire Girls - AwaAngel 2 -
 4439210	Crucifier
 4450410	Lust Frontiers
 4451900	热血屠龙
@@ -11266,6 +11266,7 @@
 4501240	帝王霸业
 4501400	A one-day romance
 4503180	TapeSurfer
+4506130	Rapid Fire Girls - BeachQueen -
 4508480	Finisher
 4509000	Poisoned Path
 4510770	Gun Girl Go
@@ -11343,6 +11344,7 @@
 4746690	Audio vibration sample bluetooth ps5 controller
 4757840	战法道传奇
 4779460	Shoot Together
+4779520	Moe Mekuri Beauty and the Beast
 4779800	Unredeemable
 4784540	The Infinite Box
 4787250	Popular Kids
@@ -11357,6 +11359,7 @@
 4842900	Crops Rebel
 4844080	Prison Cat
 4844150	HardFormer
+4850770	Moe Mekuri Beauty and the Beast 2
 4851270	Deadwood House
 4853530	Sweet Lake
 4861420	MOON DOOM

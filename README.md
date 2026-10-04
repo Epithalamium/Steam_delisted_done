@@ -2,24 +2,23 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-10-03 11:44 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-10-04 12:27 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11389 apps
+**Total tracked:** 11392 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Portal 2 In Motion](https://store.steampowered.com/app/211480/) (AppID: 211480)
-- [Aerena](https://store.steampowered.com/app/247830/) (AppID: 247830)
-- [Forgotten Lore](https://store.steampowered.com/app/391240/) (AppID: 391240)
-- [METAL GEAR SOLID MASTER COLLECTION Vol.2 BONUS CONTENT](https://store.steampowered.com/app/3036720/) (AppID: 3036720)
-- [Labyris](https://store.steampowered.com/app/3659010/) (AppID: 3659010)
-- [Ragnarok X: Next Generation](https://store.steampowered.com/app/4279820/) (AppID: 4279820)
-- [TV Show: Home MakeOver](https://store.steampowered.com/app/4522250/) (AppID: 4522250)
-- [O2Jam Flower](https://store.steampowered.com/app/5252130/) (AppID: 5252130)
+- [Artifact Foundry](https://store.steampowered.com/app/1269260/) (AppID: 1269260)
+- [GANG OF DRAGON](https://store.steampowered.com/app/4146000/) (AppID: 4146000)
+- [Rapid Fire Girls - AwaAngel -](https://store.steampowered.com/app/4404090/) (AppID: 4404090)
+- [Rapid Fire Girls - AwaAngel 2 -](https://store.steampowered.com/app/4438430/) (AppID: 4438430)
+- [Rapid Fire Girls - BeachQueen -](https://store.steampowered.com/app/4506130/) (AppID: 4506130)
+- [Moe Mekuri Beauty and the Beast](https://store.steampowered.com/app/4779520/) (AppID: 4779520)
+- [Moe Mekuri Beauty and the Beast 2](https://store.steampowered.com/app/4850770/) (AppID: 4850770)
 
 ---
 
