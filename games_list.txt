@@ -90,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -384,20 +384,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classic
+36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans
+36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
-36150	Westward
+36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania
+36180	Cake Mania Collection
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Granny in Paradise
+36270	Super Granny Collection
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -5605,7 +5605,6 @@
 1268150	Low Poly Forces
 1268670	SOVIET GIRL: HENTAI PUZZLE GAME
 1268810	Doors of Insanity
-1269260	Artifact Foundry
 1269320	Saving Stages
 1269600	Adventure Field™ 3 Definitive Edition
 1269720	还我河山HeroRagingFire
@@ -10827,6 +10826,7 @@
 3654370	PIXEL COMBAT
 3654710	Interactive Sex - Daddy Twins Incest BDSM
 3654730	Interactive Sex - Twin Sisters Incest BDSM
+3656270	Touchdown Poker
 3657130	Kinky Party
 3657390	Arvale Protocol
 3658840	Drug Race Simulator
@@ -11048,7 +11048,6 @@
 3992590	Backlog Buddy
 3993720	猎人与酒馆
 3994150	九霄御龙诀
-4002270	FrontWars
 4002850	Pixel Detective: Curse of the Paintings
 4003350	The Home
 4005210	Fuck with Vamps
@@ -11249,7 +11248,9 @@
 4457250	Memory Tides
 4457970	FENRIR
 4465280	Catagon
+4479510	ValveTestApp4479510
 4479680	ValveTestApp4479680
+4479710	ValveTestApp4479710
 4481370	Winmon: Prologue
 4482700	Kogama
 4482960	驱入虚空
