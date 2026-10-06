@@ -384,20 +384,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classics
+36100	Tradewinds Classic
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans + Odyssey Pack
+36130	Tradewinds Caravans
 36140	Tradewinds Odyssey
-36150	Westward Collection
+36150	Westward
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania Collection
+36180	Cake Mania
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Super Granny Collection
+36270	Granny in Paradise
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -1827,6 +1827,7 @@
 412720	SMASH+GRAB
 412790	Adventure Time: Magic Man's Head Games
 412860	Zombie Office Politics
+412940	Back to Dinosaur Island
 413110	Hero's Song
 413170	Metal Assault
 413460	Draft Day Sports College Basketball 3
@@ -2407,7 +2408,6 @@
 554940	VR Apocalypse
 555070	Overload Multiplayer Beta
 555340	Bitlogic
-555440	Deathgarden: BLOODHARVEST
 556440	Vicious Circle
 556480	Rugby League Live 4
 556550	The Horus Heresy: Betrayal At Calth
@@ -9869,7 +9869,6 @@
 2940750	ComplexToe
 2940920	Dreaming Blue
 2941540	null
-2942610	Mission: Mars
 2942890	Den of the Defiant
 2944060	Illuminati Online
 2944120	CYBORG FORCE
@@ -11069,6 +11068,7 @@
 4032640	Your Wife's Pussy
 4037420	UtherWorld
 4038140	Out of Time
+4039320	KICK BUDS
 4042230	咕的牌
 4045290	Smack The Trump
 4045850	Kallbrand
@@ -11207,7 +11207,6 @@
 4337430	烈火战神
 4337690	MEAT EATER
 4338060	Goddess of Fate: Anime RPG
-4341400	TUNG
 4354850	ECUMENE AZTEC: PROLOGUE
 4355620	Deliveryman Simulator
 4357020	一魂双体 他与她的奇妙之旅
@@ -11234,6 +11233,7 @@
 4413680	This Is You
 4418400	Elegy of the Vast Land
 4421890	Nancy Drew: The Hidden Staircase
+4422080	AetherRift
 4424030	NextDream
 4435900	Yapori Dimensions 2
 4436100	PacketRunner: Digital Resistance
@@ -11389,5 +11389,6 @@
 5105990	Hentai Clicker: Mika is streaming
 5123540	The Producer
 5150620	Scan N Go: Store Simulator
+5176270	Roadside Odyssey
 5190860	TetraCore
 5252130	O2Jam Flower

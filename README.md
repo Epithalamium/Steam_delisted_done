@@ -2,19 +2,20 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-10-05 14:49 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-10-06 13:23 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11393 apps
+**Total tracked:** 11394 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Touchdown Poker](https://store.steampowered.com/app/3656270/) (AppID: 3656270)
-- [ValveTestApp4479510](https://store.steampowered.com/app/4479510/) (AppID: 4479510)
-- [ValveTestApp4479710](https://store.steampowered.com/app/4479710/) (AppID: 4479710)
+- [Back to Dinosaur Island](https://store.steampowered.com/app/412940/) (AppID: 412940)
+- [KICK BUDS](https://store.steampowered.com/app/4039320/) (AppID: 4039320)
+- [AetherRift](https://store.steampowered.com/app/4422080/) (AppID: 4422080)
+- [Roadside Odyssey](https://store.steampowered.com/app/5176270/) (AppID: 5176270)
 
 ---
 
