@@ -90,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max 201: Ice Station Santa
+8260	Sam & Max: Season Two
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -222,6 +222,7 @@
 17450	Dragon Age: Origins
 17590	Dystopia Beta
 17600	Out of the Park Baseball 9
+17770	Firearms: Source
 17800	SpellForce 2: Shadow Wars
 17810	SpellForce 2: Dragon Storm
 18100	Shattered Horizon: Arconauts
@@ -252,7 +253,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -363,6 +364,7 @@
 33440	Driver San Francisco
 33500	Hired Guns: The Jagged Edge
 33510	Officers: World War II
+33549	Dawn of Magic 2
 33740	John Deere: Drive Green
 33750	Prison Tycoon 4: Supermax
 33900	Arma 2
@@ -384,20 +386,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classic
+36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans
+36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
-36150	Westward
+36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania
+36180	Cake Mania Collection
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Granny in Paradise
+36270	Super Granny Collection
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -456,6 +458,7 @@
 42640	Blur
 42650	Transformers: War for Cybertron
 42660	Shrek Forever After
+42710	Call of Duty: Black Ops - Multiplayer
 42730	James Bond: Blood Stone
 42830	Achtung Panzer - Kharkov 1943
 42870	Rise of Prussia
@@ -769,6 +772,7 @@
 212580	The Amazing Spider-Man
 212740	TERA
 212820	Painkiller Hell & Damnation Preview
+212910	Call of Duty: Black Ops II - Zombies
 213050	Starvoid Beta
 213120	Transformers: Fall of Cybertron
 213290	Max Payne 3 PR
@@ -904,6 +908,7 @@
 232810	Godus
 233250	Planetary Annihilation
 233390	Cart Life
+233630	Ascend: Hand of Kul
 234000	Superfrog HD
 234060	Timelines: Assault on America
 234100	Scrabble
@@ -1159,11 +1164,11 @@
 292180	X-Plane 10 Global - 64 Bit
 292680	Princess Isabella - Rise of an Heir
 293010	Caribbean!
-293220	H-Hour: World's Elite
 293280	Wander
 293300	Level 22
 293360	Second Chance Heroes
 293400	Epic Space: Online
+293500	Amazing World
 293520	Carnivores: Dinosaur Hunter Reborn
 293540	Guns and Robots
 293820	Us and the Game Industry (2014)
@@ -1827,7 +1832,6 @@
 412720	SMASH+GRAB
 412790	Adventure Time: Magic Man's Head Games
 412860	Zombie Office Politics
-412940	Back to Dinosaur Island
 413110	Hero's Song
 413170	Metal Assault
 413460	Draft Day Sports College Basketball 3
@@ -1891,6 +1895,7 @@
 426250	Periodonica
 426750	Yooka-Laylee - Toybox
 427040	Pitstop Challenge
+427270	Orcs Must Die! Unchained
 427480	FritzChess 15
 427840	Unturned II
 427920	FNaF World
@@ -3571,6 +3576,7 @@
 821800	ADR-Labelling Game
 821890	Steven Universe: Save the Light
 822230	Dragon
+822240	Animal Jam
 822360	The Bard's Tale IV - Alpha
 822770	TSOTF
 823490	The Greedy MaxCoon
@@ -7810,7 +7816,6 @@
 1970910	Escape Jump
 1971360	Fruit farmer
 1971690	The Orb of Darkness
-1971900	ATOMIC TITANS: Light Violence
 1972590	M87
 1972910	修仙者黎明
 1975660	Space Tail: Every Journey Leads Home
@@ -8835,6 +8840,7 @@
 2395080	Dream of Echo
 2395320	Windy Waltz
 2396900	Enspell
+2396910	吞食天地2：誕生
 2397080	Explorer：Golden Empire
 2397100	Particle life on AI illust for Adult 1
 2397720	Racer
@@ -9109,7 +9115,6 @@
 2517270	Toads of the Bayou: Prologue
 2517690	Adultartambassador's erotic jigsaw puzzle stories
 2518420	Mortie College
-2519340	INSECT
 2519910	Creature Rumble
 2520450	Project
 2520480	Ghost Lift & The Dead Detectives
@@ -11175,6 +11180,7 @@
 4257250	1000 SCORE: 2D Platformer
 4262000	白纸星途:民国乱世歌姬
 4264870	Shoot Pro Wrestling 2
+4266640	Rest & Reel
 4267660	Call of Girls-Uncensored Edition
 4273260	Master Poker
 4278390	My Beautiful Winter
@@ -11248,6 +11254,8 @@
 4457250	Memory Tides
 4457970	FENRIR
 4465280	Catagon
+4465480	Counter-Strike:Global Offensive
+4478180	ValveTestApp4478180
 4479510	ValveTestApp4479510
 4479680	ValveTestApp4479680
 4479710	ValveTestApp4479710
@@ -11299,6 +11307,7 @@
 4569900	Creepytape Rewind - Not From Here
 4575900	失序之地
 4576040	东方
+4576320	John Carpenter's Toxic Commando - Public Test Server
 4578720	Orc Bastion
 4580210	iHorse G1
 4584240	Cheap Car Repair: Welcome to Nowhere
@@ -11340,6 +11349,7 @@
 4724610	Zero Hour Night
 4725200	Femboy Pirates
 4726680	Moggmon
+4728830	I'm Not Sex King
 4736920	GAL-Chat
 4743240	Creations : a visual novel
 4746690	Audio vibration sample bluetooth ps5 controller
@@ -11371,7 +11381,9 @@
 4903440	Parasite Survivor
 4915660	No Exit Protocol
 4918170	Dark Realms: Hoia Baciu
+4939540	FreeStyle 2 Classic: Street Basketball
 4951370	夯犇绿色传奇
+4952870	Entities Detected
 4963050	Corelink Protocol
 4983500	Lo-Fi with Ruka
 4983570	Death Paradise
@@ -11379,6 +11391,7 @@
 5001500	PayBack!?Touchinv!?Acrowded train!!Mizuki ichinomiya Edition
 5002180	Goddess Story
 5024260	Gorgeous Legion
+5029070	Galaxy Adventures 3D
 5034920	LAUNDRO
 5036550	Office Sluts: Act 0
 5038410	Waifu Clicker
