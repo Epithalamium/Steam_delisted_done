@@ -90,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -222,7 +222,6 @@
 17450	Dragon Age: Origins
 17590	Dystopia Beta
 17600	Out of the Park Baseball 9
-17770	Firearms: Source
 17800	SpellForce 2: Shadow Wars
 17810	SpellForce 2: Dragon Storm
 18100	Shattered Horizon: Arconauts
@@ -394,7 +393,7 @@
 36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania Collection
+36180	Cake Mania
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
@@ -458,7 +457,6 @@
 42640	Blur
 42650	Transformers: War for Cybertron
 42660	Shrek Forever After
-42710	Call of Duty: Black Ops - Multiplayer
 42730	James Bond: Blood Stone
 42830	Achtung Panzer - Kharkov 1943
 42870	Rise of Prussia
@@ -772,7 +770,6 @@
 212580	The Amazing Spider-Man
 212740	TERA
 212820	Painkiller Hell & Damnation Preview
-212910	Call of Duty: Black Ops II - Zombies
 213050	Starvoid Beta
 213120	Transformers: Fall of Cybertron
 213290	Max Payne 3 PR
@@ -849,6 +846,7 @@
 223200	MAYHEM
 223280	Cut the Rope
 223530	Left 4 Dead 2 Beta
+223650	F.E.A.R. Online
 223670	F1 2013
 224060	Deadpool
 224220	Pressure
@@ -908,7 +906,6 @@
 232810	Godus
 233250	Planetary Annihilation
 233390	Cart Life
-233630	Ascend: Hand of Kul
 234000	Superfrog HD
 234060	Timelines: Assault on America
 234100	Scrabble
@@ -1087,6 +1084,7 @@
 270410	I Want To Be Human
 270950	Ski Region Simulator
 271310	HAWKEN TEST
+271590	Grand Theft Auto V Legacy
 271730	Light
 272350	Tom Clancy's Ghost Recon Phantoms - EU
 272490	Brick-Force (US)
@@ -1168,7 +1166,6 @@
 293300	Level 22
 293360	Second Chance Heroes
 293400	Epic Space: Online
-293500	Amazing World
 293520	Carnivores: Dinosaur Hunter Reborn
 293540	Guns and Robots
 293820	Us and the Game Industry (2014)
@@ -1516,6 +1513,7 @@
 358240	Monuments of Mars
 358280	Alien Carnage / Halloween Harry
 358330	Pharaoh's Tomb
+358370	Terminal Velocity: Legacy
 358400	Shadow Warrior (Classic)
 358420	Xenophage
 358430	Balls of Steel
@@ -1581,6 +1579,7 @@
 368930	Mara
 368980	Force of Elements
 369080	Age of Survival
+369200	Ghost in the Shell: Stand Alone Complex - First Assault Online
 369230	Kung Fu Panda Showdown of Legendary Legends
 369300	Adventure Time: Finn and Jake Investigations
 369390	Scourge of War: Waterloo
@@ -1796,6 +1795,7 @@
 404370	Tracks and Turrets
 404550	Dead Acres
 404620	The Political Machine 2016
+404730	Wasteland 2: Director's Cut
 404770	SUPERFIGHT
 404810	Escape from Puzzlegate
 404920	Emergency 2016
@@ -1895,7 +1895,6 @@
 426250	Periodonica
 426750	Yooka-Laylee - Toybox
 427040	Pitstop Challenge
-427270	Orcs Must Die! Unchained
 427480	FritzChess 15
 427840	Unturned II
 427920	FNaF World
@@ -2151,6 +2150,7 @@
 496440	The Challenge
 496480	Vex
 496510	M.EXE
+496920	Moirai
 497120	Wildcard
 497270	MIGHT
 497440	HOMEBOUND
@@ -2265,6 +2265,7 @@
 517860	Fly to KUMA MAKER
 518160	Abrams Tank
 518320	Soko Match
+518660	Zone4
 518720	Overkill VR
 519870	0
 519930	Social Interaction Trainer
@@ -2413,6 +2414,7 @@
 554940	VR Apocalypse
 555070	Overload Multiplayer Beta
 555340	Bitlogic
+555440	Deathgarden: BLOODHARVEST
 556440	Vicious Circle
 556480	Rugby League Live 4
 556550	The Horus Heresy: Betrayal At Calth
@@ -2680,6 +2682,7 @@
 626550	Prodigy Tactics
 626780	Botanica: Into the Unknown Collector's Edition
 627220	Food Truck VR
+627350	London Detective Mysteria
 628190	Heroes of Arzar
 628330	Warlocks 2: God Slayers
 628610	AIRIS
@@ -3576,7 +3579,6 @@
 821800	ADR-Labelling Game
 821890	Steven Universe: Save the Light
 822230	Dragon
-822240	Animal Jam
 822360	The Bard's Tale IV - Alpha
 822770	TSOTF
 823490	The Greedy MaxCoon
@@ -5149,6 +5151,7 @@
 1156880	IDIOT test
 1156890	MOOSE antipoo adventure
 1157180	Welfare girl
+1157250	Anomaly Zone
 1157330	烽火大秦
 1157350	Imaginator
 1157360	Life Redemption
@@ -7414,6 +7417,7 @@
 1825340	Deflector: Specimen One
 1825660	Battle Fishing Masters
 1826560	Once Upon a Time... Life: Origins
+1827240	Plague Lords: Witch Hunt
 1827430	Yum Yum Cookstar
 1827850	A Petal Among Thorns
 1828060	Builders of Egypt: First pyramid
@@ -8840,7 +8844,6 @@
 2395080	Dream of Echo
 2395320	Windy Waltz
 2396900	Enspell
-2396910	吞食天地2：誕生
 2397080	Explorer：Golden Empire
 2397100	Particle life on AI illust for Adult 1
 2397720	Racer
@@ -9076,6 +9079,7 @@
 2498450	Godforsaken
 2498460	Arcanum
 2499270	The Mobius: Apartment
+2499540	Selection Kingdom: Level 1 - Limited -
 2499760	○ △ □ -circle triangle square-
 2500040	Secret Agent: Cold War Espionage
 2500050	Super Dragon Punch Force 3
@@ -10863,6 +10867,7 @@
 3690820	People of Mine
 3690990	Don't Freeze
 3691020	Interactive Sex - Incest Twins - Episode 1
+3692250	As I Survive
 3692620	Loot profit
 3692970	沉默传奇
 3693090	Suduce-U
@@ -10911,6 +10916,7 @@
 3753520	Tu invitada alienígena: Mika Nyanami
 3757350	Pro Soccer Online 2
 3758670	Team Fortress 2: Reborn
+3758990	EyvorFPS
 3760740	英雄传奇
 3761240	Incest Daughters BDSM - Episode 2
 3764740	Interactive Sex - Incest Twins - Episode 3
@@ -10981,6 +10987,7 @@
 3857340	Hentai Drone Simulator
 3858910	Project Warfield Heroes
 3859140	Lurker
+3861100	Royal West India Company
 3862560	Snowfield Passion
 3865030	霓渊之城：爱神觉醒
 3865120	The Backrooms : Noclipped
@@ -11254,7 +11261,6 @@
 4457250	Memory Tides
 4457970	FENRIR
 4465280	Catagon
-4465480	Counter-Strike:Global Offensive
 4478180	ValveTestApp4478180
 4479510	ValveTestApp4479510
 4479680	ValveTestApp4479680
@@ -11302,6 +11308,7 @@
 4550580	Achivement Hunter
 4550960	Punchslingers
 4552500	Dungeon Settlers: Prologue
+4559320	Five Nights at Carson's
 4561160	Devil's Level : The Checkpoint
 4565190	Arcane Arena Survivors
 4569900	Creepytape Rewind - Not From Here
@@ -11381,7 +11388,6 @@
 4903440	Parasite Survivor
 4915660	No Exit Protocol
 4918170	Dark Realms: Hoia Baciu
-4939540	FreeStyle 2 Classic: Street Basketball
 4951370	夯犇绿色传奇
 4952870	Entities Detected
 4963050	Corelink Protocol
