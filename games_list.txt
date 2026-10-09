@@ -90,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max 201: Ice Station Santa
+8260	Sam & Max: Season Two
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -252,7 +252,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -385,12 +385,12 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classics
+36100	Tradewinds Classic
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans + Odyssey Pack
+36130	Tradewinds Caravans
 36140	Tradewinds Odyssey
-36150	Westward Collection
+36150	Westward
 36160	Westward 2
 36170	Westward 3
 36180	Cake Mania
@@ -398,7 +398,7 @@
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Super Granny Collection
+36270	Granny in Paradise
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -644,6 +644,7 @@
 108200	Ticket to Ride
 108210	Memoir '44 Online
 110700	Grand Theft Auto Vice City RU
+110720	Grand Theft Auto San Andreas RU
 111720	Nuclear Dawn - Beta (post release)
 111730	Nuclear Dawn - Beta: Dedicated Server (post release)
 111900	Guardians of Middle-earth
@@ -846,7 +847,6 @@
 223200	MAYHEM
 223280	Cut the Rope
 223530	Left 4 Dead 2 Beta
-223650	F.E.A.R. Online
 223670	F1 2013
 224060	Deadpool
 224220	Pressure
@@ -1084,7 +1084,6 @@
 270410	I Want To Be Human
 270950	Ski Region Simulator
 271310	HAWKEN TEST
-271590	Grand Theft Auto V Legacy
 271730	Light
 272350	Tom Clancy's Ghost Recon Phantoms - EU
 272490	Brick-Force (US)
@@ -1513,7 +1512,6 @@
 358240	Monuments of Mars
 358280	Alien Carnage / Halloween Harry
 358330	Pharaoh's Tomb
-358370	Terminal Velocity: Legacy
 358400	Shadow Warrior (Classic)
 358420	Xenophage
 358430	Balls of Steel
@@ -1579,7 +1577,6 @@
 368930	Mara
 368980	Force of Elements
 369080	Age of Survival
-369200	Ghost in the Shell: Stand Alone Complex - First Assault Online
 369230	Kung Fu Panda Showdown of Legendary Legends
 369300	Adventure Time: Finn and Jake Investigations
 369390	Scourge of War: Waterloo
@@ -1795,7 +1792,6 @@
 404370	Tracks and Turrets
 404550	Dead Acres
 404620	The Political Machine 2016
-404730	Wasteland 2: Director's Cut
 404770	SUPERFIGHT
 404810	Escape from Puzzlegate
 404920	Emergency 2016
@@ -2150,7 +2146,6 @@
 496440	The Challenge
 496480	Vex
 496510	M.EXE
-496920	Moirai
 497120	Wildcard
 497270	MIGHT
 497440	HOMEBOUND
@@ -2265,7 +2260,6 @@
 517860	Fly to KUMA MAKER
 518160	Abrams Tank
 518320	Soko Match
-518660	Zone4
 518720	Overkill VR
 519870	0
 519930	Social Interaction Trainer
@@ -2560,6 +2554,7 @@
 595270	Million to One Hero
 595360	NIGHTSTAR: Rogue Wings
 595470	Shadow Circuit
+595550	Mastema: Out of Hell
 596020	SIX SHOTS
 596370	Turn
 596650	Tap Adventure: Time Travel
@@ -3582,6 +3577,7 @@
 822360	The Bard's Tale IV - Alpha
 822770	TSOTF
 823490	The Greedy MaxCoon
+823550	Booty Calls
 823710	Who's in the Box?
 823730	Oscillatron: Alien Frequency
 823740	Freedom March: Rebel Leader
@@ -3771,6 +3767,7 @@
 864950	Space Whip
 865160	Takenoko
 865250	Phase Shift
+865570	pact with a witch
 865780	parallel pixel
 865810	Waifu Fight Dango Style
 866170	Deep Space Banana
@@ -4487,6 +4484,7 @@
 1008130	Godsend Arena
 1008290	Lucky Of Love
 1008900	Taphouse 2: The Taphousening
+1008950	Armored Front
 1009070	没猫病制作人
 1009120	Rabbit Thief (R18)
 1009160	Normal Fastfood Fantasy 2
@@ -5067,6 +5065,7 @@
 1134510	Bacchus
 1134530	Banana Invaders
 1134570	F1 2021
+1135320	VR Roof Tile
 1135410	Hentai Girl Slide Puzzle
 1135710	Peace Restored
 1135880	TrickShot
@@ -5508,6 +5507,7 @@
 1244970	Sushi girlfriend
 1245570	Circle of Football
 1245600	Obelisk
+1245610	AChat
 1245930	Flaming Friday Night
 1246110	True Survivor
 1247080	Biped: Prologue
@@ -6094,6 +6094,7 @@
 1397070	Back to the Scene
 1397220	Patricia
 1398010	Battle Ready
+1398210	Selene ~Apoptosis~
 1398280	Great Lakes Simulator
 1398320	Remalmok
 1398520	Colors of the Cube
@@ -6703,6 +6704,7 @@
 1576670	Iceland South Coast
 1576830	Fruit Sudoku
 1577130	Cybel
+1577420	Love Sucks: Night One
 1577500	Magnace: Arena
 1577560	Rogue North
 1577710	Human Guise
@@ -6860,6 +6862,7 @@
 1629470	Project Grove: Prologue
 1629510	Journey to Moonray
 1629890	Deep Insanity ASYLUM
+1630080	College Bound
 1630100	Dragon Rising
 1631250	Grimstar: Welcome to the savage planet
 1631260	Where Is My Parking Spot - Parking Reimagined
@@ -7051,7 +7054,6 @@
 1690020	凤武传奇
 1690220	iMASSAGE Gold Edition
 1690370	Twilight Tunnels
-1690400	Kula
 1690790	Hate Free Heroes: Agents of Aggro City
 1691000	Better Me Book
 1691160	WICKED AEONS
@@ -7491,6 +7493,7 @@
 1853360	Yoshitaka Amano VR Museum
 1853380	FOONDA
 1853630	Undaunted: Normandy
+1853680	Forbidden Fruit
 1854060	Deep Space Expedition 47
 1854340	Another Sight
 1854470	Crystal Chaos
@@ -7865,6 +7868,7 @@
 1987450	BYTE CATS
 1987810	Fight For It
 1988140	Crush the Orc Empire! The world's pigman project!
+1988720	Kawaii Asian Girls
 1988730	Nano Organism
 1988740	MIST
 1988790	"Space Swap 110%™" - Amazing Tribute "Tetris Attack" Game!
@@ -7952,6 +7956,7 @@
 2025710	Koatl the defender : The Lost Tunnels
 2025830	Brutal Japan | 猟奇の日本
 2026300	Anvillage
+2027360	After the Inferno
 2050670	Time Tribunal
 2050690	Happy Flip Cube
 2050770	Void Rush
@@ -8621,6 +8626,7 @@
 2308200	Evil Of Demons: Algailah
 2308350	Project Rivalsworn
 2308510	My Friend, the Catgirl
+2308870	Overlewd
 2309250	Tribefort
 2309510	Orb Raid
 2309530	Gradient
@@ -8712,6 +8718,7 @@
 2344830	Ethereal: Requiem of Repose
 2345530	Escape The Matrix
 2346110	Conflux: Prologue
+2346550	《Rise of Eros》
 2347110	Quasimorph: End of Dream
 2347340	Slidemagi
 2347450	Heroes Stand Tall: M.E.T.A
@@ -9032,6 +9039,7 @@
 2477440	Shire Scopes
 2477610	Your Personality Test
 2478100	末日沙场
+2478140	Twisted Lovestruck
 2478240	Bright Side: Riddles and Puzzles
 2479720	斗牌魂
 2479830	The Braves
@@ -9448,6 +9456,7 @@
 2690980	Fire Guardian
 2691220	Ara Ara Auntie Incest
 2691600	Unwelcome
+2692440	LoveCraft
 2693310	Harvest Knight
 2693470	Journey To The Wand
 2694560	Chrono-Shift
@@ -9647,6 +9656,7 @@
 2807900	Cyrus The Virus
 2808630	Paintball Playground
 2808850	hola
+2808930	Lust Goddess
 2809620	Seven Bullets Horror 7発の弾丸ホラー
 2809680	Henry's Scratch Pack 1.
 2810230	SUPERSTOMBIES
@@ -9812,6 +9822,7 @@
 2903180	DILLO GUY
 2903650	ヤンデレリリィホリック－さっちゃんの愛情表現－
 2903680	有请祖师爷
+2903690	Horny Villa
 2904030	Donald Trump, Make RPGs Great Again!
 2904340	Pantheon Rift
 2905510	女拳异变 Touhou Female Fist Mutation
@@ -9948,6 +9959,7 @@
 2974560	Echo of Mobius
 2975120	The Nightmare House
 2975300	不靠谱心动：序章
+2975660	Keyboard Tennis
 2975700	The Die Is Cast
 2977670	Mine Make Escape
 2977700	Survive the Swarm
@@ -10325,12 +10337,14 @@
 3207890	Lusty Mother
 3208830	Pixel Dungeon RPG
 3209910	Slender Reborn
+3209970	MudBlood Prologue
 3213750	Urban Genesis VR
 3213890	Top Alert
 3216100	Decayed Evil
 3216400	project ZAKAT
 3217290	The Dark Monster Hotel
 3217990	Aim Trainer Gauntlet
+3218710	Everlusting Life
 3220210	Slenderman: The Unknowns
 3221050	Title Screen Simulator
 3221230	Fallen Kings
@@ -10348,6 +10362,7 @@
 3230010	On And On
 3230200	Forgotten Heroes: Roguelike Turn-Based RPG
 3230460	🤡PUAL👽BLARP💀GHOUL👮COP👻
+3231090	Amarillo's Butt Slapper
 3231330	Monster Girl Puzzle
 3231560	MaPko NX
 3232230	机械纪元-专服版
@@ -10462,9 +10477,10 @@
 3325190	Descenders Next Beta for Beta Testing
 3325340	Train World Driver
 3325840	Hollow Space
+3326280	Arctic Wolves
 3326350	Restart Heart
-3328490	Airport Control 27
 3329050	Velhodium Isle
+3330500	Smutstone
 3331290	SKIBIDI BATTLE MULTIPLAYER TOILETS ATTACK
 3333450	Electronic Market Simulator: Prologue
 3336040	They Follow You
@@ -10530,6 +10546,7 @@
 3389160	Dungeon Element Fantasy
 3389300	Canvas Corridor
 3389330	Pathologic 3: Quarantine
+3389660	A Sexy Tour With Fiona
 3389850	Alijia Qiqihar Barbecue
 3390840	沉默传奇
 3391030	Project DomeForge
@@ -10611,9 +10628,11 @@
 3451020	Banker Simulator: Prologue
 3451810	Staroot
 3452140	Wiffleball Legends
+3453010	Demonfall
 3453240	Witchwood
 3453280	LoomPath
 3454440	Interactive Sex - Incest Twins - Bath
+3457380	Waifu Shop
 3457450	Reave
 3459040	Karson
 3460060	Bakken - Ski Jumping 2025
@@ -10726,6 +10745,7 @@
 3551650	Waste Time Lotto
 3552600	Momochan's brain is so crazy!
 3554250	Pudding Fantasy: Tales of Go and Magic - Chapter 1
+3554940	Slut Squad
 3554990	Chinese Culinary Shop
 3555460	KILL ALL ENEMIES
 3559550	Sex Adventures - Incest Family - Episode 5
@@ -10748,6 +10768,7 @@
 3576100	Synthetic Sex: Awakening
 3576760	Deadpool
 3577360	DiRT 2
+3578240	Passion Rift
 3579220	红月
 3582450	Wrap House Simulator: Prologue
 3582740	Dreadhaven: The Last Colony
@@ -10756,6 +10777,7 @@
 3585370	Trouble Dash
 3585620	OMNN
 3586250	Empire Game
+3587140	Ark Re:Code
 3588620	Swimmer Away
 3589050	Stream Defense Protocol
 3589260	Train Molester Big-Titty Undercover Agent ~Hot and Sexy Prey~
@@ -10806,6 +10828,7 @@
 3625560	Sex Adventures - Naughty Sisters - Episode 8
 3627920	Apartment203:HongKong
 3628370	核金风暴(GigaSlave）
+3629180	A Night With: Brazilian Waifu
 3631190	The Fisherman
 3631460	Ice Cream You Scream
 3631920	Matters Matter
@@ -11015,6 +11038,7 @@
 3896860	Conquer the Tower
 3903630	You suck and I hate you: part 1
 3911260	Archomni
+3911560	Hentai Bae Sunny
 3915400	GladiMaker
 3921310	Sphereverse
 3922460	Darkstar Medical Mercenary
@@ -11038,6 +11062,7 @@
 3950500	CallGate
 3951010	UPGRADES & ENEMIES
 3953870	인류보호회사
+3956380	Desire Inn
 3956500	BALANCED FOOD CalorieMate FOR GAME CREATORS - JELLY MISSION -
 3957440	Nightmare Returner
 3959570	Guns Cant Walk
@@ -11059,6 +11084,7 @@
 3992590	Backlog Buddy
 3993720	猎人与酒馆
 3994150	九霄御龙诀
+3994640	Click-Her
 4002850	Pixel Detective: Curse of the Paintings
 4003350	The Home
 4005210	Fuck with Vamps
@@ -11183,6 +11209,7 @@
 4248150	Blindfold
 4248700	Game Torch
 4249970	TROX-THE REVERSAL
+4253390	LustWorld
 4257150	Hero of Ideal
 4257250	1000 SCORE: 2D Platformer
 4262000	白纸星途:民国乱世歌姬
@@ -11199,6 +11226,7 @@
 4290860	Vivi's Adventure
 4292050	Truck Mechanic: Dangerous Paths - First Mile
 4293180	天魔传奇
+4293850	Wet Wealth
 4295130	Hurrican
 4295710	双龙传奇
 4300830	Quality Learing Center
@@ -11254,6 +11282,7 @@
 4436720	Masterworks of Horror: The Prologue
 4438430	Rapid Fire Girls - AwaAngel 2 -
 4439210	Crucifier
+4443180	AI修仙模拟器 - AI Cultivation World Simulator
 4450410	Lust Frontiers
 4451900	热血屠龙
 4453800	Final Stance - Board Game
@@ -11261,6 +11290,7 @@
 4457250	Memory Tides
 4457970	FENRIR
 4465280	Catagon
+4467560	Sex King: From Rags to Sexcess
 4478180	ValveTestApp4478180
 4479510	ValveTestApp4479510
 4479680	ValveTestApp4479680
@@ -11272,6 +11302,7 @@
 4486810	One Of Us
 4488570	Fresh Food Merge
 4491220	Loop Tower: Prologue
+4491690	KANTEYNIR
 4492390	Holy Crap
 4492810	WHOREHAMMER 69 000
 4495510	Plantation Simulator
@@ -11312,6 +11343,7 @@
 4561160	Devil's Level : The Checkpoint
 4565190	Arcane Arena Survivors
 4569900	Creepytape Rewind - Not From Here
+4572230	Delicious Travelings
 4575900	失序之地
 4576040	东方
 4576320	John Carpenter's Toxic Commando - Public Test Server
@@ -11326,10 +11358,12 @@
 4618430	Runeveil: Idle PvP
 4629890	SHOWHAND
 4632630	Hansi auf Sylt
+4636370	Heroes of Lust and Magic
 4639000	ValveTestApp4639000
 4640080	Walled City of Living Will
 4641980	Blood Mage
 4645490	Skrrt Racing
+4651940	Desire Empire
 4653840	Trapped in the Backrooms
 4657750	Hardhats : Some Survival Required
 4658670	Re:Bloom 花精霊のぽかぽか温泉郷
