@@ -252,7 +252,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -385,20 +385,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classic
+36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans
+36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
 36150	Westward
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania
+36180	Cake Mania Collection
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Granny in Paradise
+36270	Super Granny Collection
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -1801,7 +1801,6 @@
 406280	DesertLand 2115
 407060	AltspaceVR
 407120	Soccer Manager 2016
-407250	Pro Evolution Soccer 2016 myClub
 407510	Devilian
 407570	Superku
 407620	Indie Game Battle
@@ -7604,7 +7603,6 @@
 1890480	Lorn's Lure: Prologue
 1890590	SUPER NANARU
 1890800	Caver
-1890860	Arma Reforger Experimental
 1892320	ZZ_DO_NOT_USE Placeholder
 1892530	Key XiaoYou
 1892740	Deaf Wish
@@ -10337,6 +10335,7 @@
 3225250	Kingdom Remastered
 3225680	Tech Market Simulator: Prologue
 3225700	Hellmate
+3225930	Rotate or Die
 3226910	AICE
 3228690	Gesund essen lernen
 3229180	杀青：序章
@@ -10625,6 +10624,7 @@
 3465510	ULYANA'S SHIFT
 3468850	Godwreath: Chapter 1
 3469380	Don't Let Me Rot
+3469880	Welcome to Camp Blue Lake
 3470970	Interactive Sex - Incest Sister
 3471180	Freezer Pops 2: Little Blo's Party
 3474340	Incest Tales: Hot Sister
@@ -11345,6 +11345,7 @@
 4681400	Nova Fighter
 4686600	Death's Game
 4687470	1.76复古沉默
+4690890	Living with My Bratty Neighbor
 4692510	火龙传奇
 4697420	SwordRequiem Crack
 4700180	LumenFall
@@ -11362,6 +11363,7 @@
 4736920	GAL-Chat
 4743240	Creations : a visual novel
 4746690	Audio vibration sample bluetooth ps5 controller
+4753420	Celestia
 4757840	战法道传奇
 4779460	Shoot Together
 4779520	Moe Mekuri Beauty and the Beast
@@ -11413,3 +11415,4 @@
 5176270	Roadside Odyssey
 5190860	TetraCore
 5252130	O2Jam Flower
+5322290	ROOMKEEP
