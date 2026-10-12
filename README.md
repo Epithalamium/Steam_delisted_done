@@ -2,21 +2,18 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-10-11 12:58 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-10-12 15:36 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11418 apps
+**Total tracked:** 11420 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Rotate or Die](https://store.steampowered.com/app/3225930/) (AppID: 3225930)
-- [Welcome to Camp Blue Lake](https://store.steampowered.com/app/3469880/) (AppID: 3469880)
-- [Living with My Bratty Neighbor](https://store.steampowered.com/app/4690890/) (AppID: 4690890)
-- [Celestia](https://store.steampowered.com/app/4753420/) (AppID: 4753420)
-- [ROOMKEEP](https://store.steampowered.com/app/5322290/) (AppID: 5322290)
+- [Firefall](https://store.steampowered.com/app/227700/) (AppID: 227700)
+- [Arma Reforger Experimental](https://store.steampowered.com/app/1890860/) (AppID: 1890860)
 
 ---
 

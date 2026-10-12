@@ -390,10 +390,10 @@
 36120	Tradewinds Legends
 36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
-36150	Westward
+36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania Collection
+36180	Cake Mania
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
@@ -879,6 +879,7 @@
 227480	God Mode
 227520	Total War: Arena
 227680	StarForge
+227700	Firefall
 227800	Retrovirus
 227900	Battleship
 227920	Risk
@@ -7603,6 +7604,7 @@
 1890480	Lorn's Lure: Prologue
 1890590	SUPER NANARU
 1890800	Caver
+1890860	Arma Reforger Experimental
 1892320	ZZ_DO_NOT_USE Placeholder
 1892530	Key XiaoYou
 1892740	Deaf Wish
