@@ -252,7 +252,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -385,12 +385,12 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classics
+36100	Tradewinds Classic
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans + Odyssey Pack
+36130	Tradewinds Caravans
 36140	Tradewinds Odyssey
-36150	Westward Collection
+36150	Westward
 36160	Westward 2
 36170	Westward 3
 36180	Cake Mania
@@ -398,7 +398,7 @@
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Super Granny Collection
+36270	Granny in Paradise
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -879,7 +879,6 @@
 227480	God Mode
 227520	Total War: Arena
 227680	StarForge
-227700	Firefall
 227800	Retrovirus
 227900	Battleship
 227920	Risk
@@ -5325,6 +5324,7 @@
 1200280	Bottler3000
 1200460	Law Law Land
 1200590	The Sword
+1200710	BadLads
 1200790	Necrowarp
 1200890	OpenOSRS
 1200900	Crypto Against All Odds
@@ -7604,7 +7604,6 @@
 1890480	Lorn's Lure: Prologue
 1890590	SUPER NANARU
 1890800	Caver
-1890860	Arma Reforger Experimental
 1892320	ZZ_DO_NOT_USE Placeholder
 1892530	Key XiaoYou
 1892740	Deaf Wish
@@ -8923,6 +8922,7 @@
 2431780	Capoo Pals for MAC
 2432090	Eagle Eye: Find the Difference
 2432680	The Foretold: Exordium
+2432990	NightSpawn
 2433090	Maze Escape: The Rolling Ball
 2433650	VR TRIBES: NON-VR EDITION
 2433760	Mutrix
@@ -10501,6 +10501,7 @@
 3359630	Hazardous Hunt
 3360010	Tsukuyomi: The Divine Hunter
 3360690	集墨聚场™：水镜三国
+3361280	Sattelite
 3361600	Divine Sin
 3362240	Survius
 3362290	KUKUMBER
@@ -11060,6 +11061,7 @@
 3992590	Backlog Buddy
 3993720	猎人与酒馆
 3994150	九霄御龙诀
+3997850	GODWAY
 4002850	Pixel Detective: Curse of the Paintings
 4003350	The Home
 4005210	Fuck with Vamps
@@ -11231,6 +11233,7 @@
 4365370	Marceline Richenwinnier +16 - Old Story
 4369200	Hot and Lovely : May Holiday
 4371940	Dragon Arena
+4372700	Narco Check
 4376010	Blind Nature
 4379990	TonTon Galaxy
 4384290	Rocket Cars
@@ -11387,6 +11390,7 @@
 4851270	Deadwood House
 4853530	Sweet Lake
 4861420	MOON DOOM
+4865580	The Mandate
 4873080	Nubo – Your Screen Friend
 4884890	Paint Gal Adventures
 4893120	Pogo Frogo
