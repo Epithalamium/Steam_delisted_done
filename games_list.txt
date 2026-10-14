@@ -1,3 +1,4 @@
+92	Codename Gordon
 304	Day of Defeat: Source Press Review
 816	Dota 2 Private Beta
 841	Portal 2 Beta
@@ -222,6 +223,7 @@
 17450	Dragon Age: Origins
 17590	Dystopia Beta
 17600	Out of the Park Baseball 9
+17770	Firearms: Source
 17800	SpellForce 2: Shadow Wars
 17810	SpellForce 2: Dragon Storm
 18100	Shattered Horizon: Arconauts
@@ -385,20 +387,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classic
+36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans
+36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
-36150	Westward
+36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania
+36180	Cake Mania Collection
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Granny in Paradise
+36270	Super Granny Collection
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -771,6 +773,7 @@
 212580	The Amazing Spider-Man
 212740	TERA
 212820	Painkiller Hell & Damnation Preview
+212910	Call of Duty: Black Ops II - Zombies
 213050	Starvoid Beta
 213120	Transformers: Fall of Cybertron
 213290	Max Payne 3 PR
@@ -970,7 +973,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -1577,6 +1580,7 @@
 368930	Mara
 368980	Force of Elements
 369080	Age of Survival
+369200	Ghost in the Shell: Stand Alone Complex - First Assault Online
 369230	Kung Fu Panda Showdown of Legendary Legends
 369300	Adventure Time: Finn and Jake Investigations
 369390	Scourge of War: Waterloo
@@ -1721,6 +1725,7 @@
 392680	Jeeboman
 392700	Glück Auf
 392790	Football Manager Touch 2016
+393000	Extinction Editor (SDK)
 393230	The Youthdrainers
 393290	Motorhead
 393410	World of Soccer
@@ -3395,6 +3400,7 @@
 789150	Mask of Fury
 789240	The Day I Died
 789520	Warz: Horde
+789750	Idle Earth
 789910	Planet of the Apes: Last Frontier
 789960	DARCO - Reign of Elements
 789970	Let's Kill Zombies VR
@@ -3573,6 +3579,7 @@
 821800	ADR-Labelling Game
 821890	Steven Universe: Save the Light
 822230	Dragon
+822240	Animal Jam
 822360	The Bard's Tale IV - Alpha
 822770	TSOTF
 823490	The Greedy MaxCoon
@@ -4501,6 +4508,7 @@
 1012310	Cyber Racer
 1012700	Moe Reversi
 1012710	Endzeit
+1013100	Mage
 1013310	Peaky Blinders: Mastermind
 1013360	Feditor
 1013430	TetrotronVR
@@ -5073,7 +5081,6 @@
 1138000	Zero Day
 1138040	NTRPG-Skybride
 1138060	暗黑破坏岛/DiabloIslanD
-1138080	Landlord Girls
 1138270	Misadventures of Laura Silver: Chapter II
 1138610	What the Pho: Roguelike restaurant startup
 1138620	超级机甲战争OL
@@ -5896,7 +5903,6 @@
 1348480	Viking Butcher
 1348730	Blightbound Beta
 1348760	KARM
-1349120	球球少女
 1349370	Block Breaker Ninja
 1349380	Fight the Landlord
 1349840	PREPARE
@@ -5972,6 +5978,7 @@
 1367760	AOD: Art Of Defense
 1367890	Portal: Crossover
 1368100	Necore Warriors
+1368460	Golden Axed: A Cancelled Prototype
 1368470	Terror: Endless Night
 1368810	Factory Runner
 1368840	Battle of Hunters : Beast Zone
@@ -7359,11 +7366,11 @@
 1807210	Stray Souls
 1807390	Symbiotic (Demo)
 1807420	EPEJSODION Dodgeball Training
+1807560	Blade Walker
 1807970	金庸群侠传3D重制版
 1808310	Together My Headers
 1808460	Perfect Date
 1808750	Beware Tomorrow
-1808780	祖玛少女
 1808840	Gods of Hellas VR
 1809110	Whisper Out Of Time
 1809380	Station-Z
@@ -8209,6 +8216,7 @@
 2143950	Don't Shit On My #!$@& Roof
 2144010	Tale of Two Sardines
 2144110	Pot Breaker
+2144290	Idle Gem Quest
 2145040	When You See It
 2145550	CyberHeroes Arena
 2146520	Love Spell: Aslan's Route
@@ -8838,6 +8846,7 @@
 2395080	Dream of Echo
 2395320	Windy Waltz
 2396900	Enspell
+2396910	吞食天地2：誕生
 2397080	Explorer：Golden Empire
 2397100	Particle life on AI illust for Adult 1
 2397720	Racer
@@ -8922,7 +8931,6 @@
 2431780	Capoo Pals for MAC
 2432090	Eagle Eye: Find the Difference
 2432680	The Foretold: Exordium
-2432990	NightSpawn
 2433090	Maze Escape: The Rolling Ball
 2433650	VR TRIBES: NON-VR EDITION
 2433760	Mutrix
@@ -8973,6 +8981,7 @@
 2452030	Monster Island
 2452090	Greed is Good
 2452750	Medical Record Sheet
+2452840	Spike Schema
 2454870	Rock Scissor Paper
 2457040	Thyria: Step Into Dreams
 2457060	Mearcair/System Pulse - Prologue
@@ -9233,6 +9242,7 @@
 2581260	Songs of Everjade
 2581430	MECHA ATTACK
 2581970	Shell Runner - Prelude
+2582560	EA SPORTS™ Madden NFL 25
 2582990	Puzzle Nature
 2583290	Red Barrels Go Boom
 2583990	Dark Dive: The Last Tropic
@@ -9875,6 +9885,7 @@
 2940920	Dreaming Blue
 2941540	null
 2942890	Den of the Defiant
+2943970	Red Crew 2
 2944060	Illuminati Online
 2944120	CYBORG FORCE
 2944830	Frustration Nation
@@ -10061,6 +10072,7 @@
 3046310	Die Fast
 3048530	白荊迴廊
 3049290	Minecraft
+3049470	Echoes of Exile
 3049580	Peachy Derby
 3050470	苍之女武神
 3050710	Iridio: Prologue
@@ -10353,7 +10365,6 @@
 3234940	Wonderland: Red Queen Protocol
 3235400	Stick Rush
 3236030	Axe Slasher: Roguelike Dungeon Crawler
-3236080	老虎机少女 Slot Girls
 3236840	生于厕所 Reborn in the toilet
 3239670	BEAST : Bio Exo Arena Suit Team
 3239720	Rift Riders
@@ -10661,6 +10672,7 @@
 3498860	Interactive Sex - Futanari Incest Twins
 3499650	Sex Adventures - Incest Family - Episode 3
 3500410	󠀡󠀡?
+3500530	Optimize Man: Gymcel
 3500890	Deliver However
 3501010	SPALG
 3501530	Date Z: Welcome to Massville High
@@ -11005,6 +11017,7 @@
 3879200	美少女大戦RPG ～party～
 3879300	GAIONIN WAR don't combine
 3879980	Gloomy Clues Remake
+3882380	Algatraz
 3886940	Focus Group - First Day
 3887650	Neon Divide
 3889880	Fruit Merge Blast
@@ -11268,6 +11281,7 @@
 4457250	Memory Tides
 4457970	FENRIR
 4465280	Catagon
+4465480	Counter-Strike:Global Offensive
 4478180	ValveTestApp4478180
 4479510	ValveTestApp4479510
 4479680	ValveTestApp4479680
@@ -11322,6 +11336,7 @@
 4569900	Creepytape Rewind - Not From Here
 4575900	失序之地
 4576040	东方
+4576320	John Carpenter's Toxic Commando - Public Test Server
 4578720	Orc Bastion
 4580210	iHorse G1
 4584240	Cheap Car Repair: Welcome to Nowhere
@@ -11347,6 +11362,7 @@
 4671710	Valkyrie Girl
 4672690	马场大亨Online国际版
 4673900	SurroundedByBoys
+4678470	The Magician's Hand
 4681400	Nova Fighter
 4686600	Death's Game
 4687470	1.76复古沉默
