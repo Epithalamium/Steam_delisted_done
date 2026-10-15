@@ -1,4 +1,3 @@
-92	Codename Gordon
 304	Day of Defeat: Source Press Review
 816	Dota 2 Private Beta
 841	Portal 2 Beta
@@ -223,7 +222,6 @@
 17450	Dragon Age: Origins
 17590	Dystopia Beta
 17600	Out of the Park Baseball 9
-17770	Firearms: Source
 17800	SpellForce 2: Shadow Wars
 17810	SpellForce 2: Dragon Storm
 18100	Shattered Horizon: Arconauts
@@ -773,7 +771,6 @@
 212580	The Amazing Spider-Man
 212740	TERA
 212820	Painkiller Hell & Damnation Preview
-212910	Call of Duty: Black Ops II - Zombies
 213050	Starvoid Beta
 213120	Transformers: Fall of Cybertron
 213290	Max Payne 3 PR
@@ -973,7 +970,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -1087,6 +1084,7 @@
 270410	I Want To Be Human
 270950	Ski Region Simulator
 271310	HAWKEN TEST
+271590	Grand Theft Auto V Legacy
 271730	Light
 272350	Tom Clancy's Ghost Recon Phantoms - EU
 272490	Brick-Force (US)
@@ -1580,7 +1578,6 @@
 368930	Mara
 368980	Force of Elements
 369080	Age of Survival
-369200	Ghost in the Shell: Stand Alone Complex - First Assault Online
 369230	Kung Fu Panda Showdown of Legendary Legends
 369300	Adventure Time: Finn and Jake Investigations
 369390	Scourge of War: Waterloo
@@ -1725,7 +1722,6 @@
 392680	Jeeboman
 392700	Glück Auf
 392790	Football Manager Touch 2016
-393000	Extinction Editor (SDK)
 393230	The Youthdrainers
 393290	Motorhead
 393410	World of Soccer
@@ -5081,6 +5077,7 @@
 1138000	Zero Day
 1138040	NTRPG-Skybride
 1138060	暗黑破坏岛/DiabloIslanD
+1138080	Landlord Girls
 1138270	Misadventures of Laura Silver: Chapter II
 1138610	What the Pho: Roguelike restaurant startup
 1138620	超级机甲战争OL
@@ -5978,7 +5975,6 @@
 1367760	AOD: Art Of Defense
 1367890	Portal: Crossover
 1368100	Necore Warriors
-1368460	Golden Axed: A Cancelled Prototype
 1368470	Terror: Endless Night
 1368810	Factory Runner
 1368840	Battle of Hunters : Beast Zone
@@ -7356,7 +7352,6 @@
 1801560	Electronic Universe
 1801830	Rift Sweepers
 1801890	Россия наизнанку: Новый год
-1802860	大富翁少女
 1804630	Outbreak Island: Pendulum
 1805360	Bounty game
 1805780	Looney Tunes World of Mayhem
@@ -7366,7 +7361,6 @@
 1807210	Stray Souls
 1807390	Symbiotic (Demo)
 1807420	EPEJSODION Dodgeball Training
-1807560	Blade Walker
 1807970	金庸群侠传3D重制版
 1808310	Together My Headers
 1808460	Perfect Date
@@ -8161,7 +8155,6 @@
 2121200	My Stepmom is a Futanari 4
 2121600	The Lightkeeper
 2121680	Steamcore
-2122070	Girl & Gem Magic
 2122510	Dream Babes
 2122690	Necroa Village
 2123260	The First Descendant FGT
@@ -8846,7 +8839,6 @@
 2395080	Dream of Echo
 2395320	Windy Waltz
 2396900	Enspell
-2396910	吞食天地2：誕生
 2397080	Explorer：Golden Empire
 2397100	Particle life on AI illust for Adult 1
 2397720	Racer
@@ -9242,7 +9234,6 @@
 2581260	Songs of Everjade
 2581430	MECHA ATTACK
 2581970	Shell Runner - Prelude
-2582560	EA SPORTS™ Madden NFL 25
 2582990	Puzzle Nature
 2583290	Red Barrels Go Boom
 2583990	Dark Dive: The Last Tropic
@@ -9431,7 +9422,6 @@
 2676770	Basketball Grand Slam 2024
 2678520	The Piano That Staying Time
 2678540	Qwess
-2679200	幸存者少女/Survivor Girls
 2679890	Social Status : Life Simulator
 2680130	DB²: Disco Boogie of the Dead Beats
 2680700	ModernArt Virtual Museum
@@ -10607,6 +10597,7 @@
 3443020	Push³
 3444170	CodeStrike
 3444560	Sweet Succubus
+3444750	Most Quietly
 3444880	FOE:Remains
 3445280	Soar: Prologue
 3446810	Slime Bros. Maker
@@ -10910,6 +10901,7 @@
 3727840	Game Together
 3728810	Cop Rush
 3729650	Cats Hidden in Chang'an
+3729710	咒怨迷邸：重生
 3731560	Mommy’s Slipper
 3731840	征服者笔记本联机版
 3732330	Interactive Sex - Futanari Incest - Episode 2
@@ -11192,7 +11184,6 @@
 4230540	SECOND WIND
 4231100	Bird Game 4
 4234770	巅峰传奇
-4237330	Kula Collection
 4240660	HANGAR 51: Classified Investigation
 4241590	King's Mug
 4241850	Dreadmyst
@@ -11233,6 +11224,7 @@
 4329850	Turret Boy
 4330460	屠龙归来
 4332270	The Fallen Will
+4333080	Video Store Simulator
 4335880	Last Light Left
 4337430	烈火战神
 4337690	MEAT EATER
@@ -11281,7 +11273,6 @@
 4457250	Memory Tides
 4457970	FENRIR
 4465280	Catagon
-4465480	Counter-Strike:Global Offensive
 4478180	ValveTestApp4478180
 4479510	ValveTestApp4479510
 4479680	ValveTestApp4479680
@@ -11336,7 +11327,6 @@
 4569900	Creepytape Rewind - Not From Here
 4575900	失序之地
 4576040	东方
-4576320	John Carpenter's Toxic Commando - Public Test Server
 4578720	Orc Bastion
 4580210	iHorse G1
 4584240	Cheap Car Repair: Welcome to Nowhere
@@ -11408,6 +11398,7 @@
 4861420	MOON DOOM
 4865580	The Mandate
 4873080	Nubo – Your Screen Friend
+4882040	My City
 4884890	Paint Gal Adventures
 4893120	Pogo Frogo
 4898540	Debris Zone
@@ -11417,6 +11408,7 @@
 4951370	夯犇绿色传奇
 4952870	Entities Detected
 4963050	Corelink Protocol
+4967600	Gacha Challenge
 4983500	Lo-Fi with Ruka
 4983570	Death Paradise
 4996170	Magic Fusion
@@ -11435,6 +11427,5 @@
 5123540	The Producer
 5150620	Scan N Go: Store Simulator
 5176270	Roadside Odyssey
-5190860	TetraCore
 5252130	O2Jam Flower
 5322290	ROOMKEEP
