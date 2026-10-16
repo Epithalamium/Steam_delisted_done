@@ -2,23 +2,22 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-10-15 11:37 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-10-16 11:31 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11431 apps
+**Total tracked:** 11434 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Grand Theft Auto V Legacy](https://store.steampowered.com/app/271590/) (AppID: 271590)
-- [Landlord Girls](https://store.steampowered.com/app/1138080/) (AppID: 1138080)
-- [Most Quietly](https://store.steampowered.com/app/3444750/) (AppID: 3444750)
-- [咒怨迷邸：重生](https://store.steampowered.com/app/3729710/) (AppID: 3729710)
-- [Video Store Simulator](https://store.steampowered.com/app/4333080/) (AppID: 4333080)
-- [My City](https://store.steampowered.com/app/4882040/) (AppID: 4882040)
-- [Gacha Challenge](https://store.steampowered.com/app/4967600/) (AppID: 4967600)
+- [Cursed Mansion](https://store.steampowered.com/app/967120/) (AppID: 967120)
+- [Artifact Foundry](https://store.steampowered.com/app/1269260/) (AppID: 1269260)
+- [Nomori: Prologue](https://store.steampowered.com/app/2092190/) (AppID: 2092190)
+- [Total War: SHOGUN 2 - Complete Edition](https://store.steampowered.com/app/3846830/) (AppID: 3846830)
+- [Forgotten Haven: The First Call](https://store.steampowered.com/app/5051490/) (AppID: 5051490)
+- [Don't Get Six](https://store.steampowered.com/app/5052990/) (AppID: 5052990)
 
 ---
 

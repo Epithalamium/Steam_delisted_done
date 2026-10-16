@@ -90,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max 201: Ice Station Santa
+8260	Sam & Max: Season Two
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -1084,7 +1084,6 @@
 270410	I Want To Be Human
 270950	Ski Region Simulator
 271310	HAWKEN TEST
-271590	Grand Theft Auto V Legacy
 271730	Light
 272350	Tom Clancy's Ghost Recon Phantoms - EU
 272490	Brick-Force (US)
@@ -4282,6 +4281,7 @@
 965840	Club Lighting
 966600	Erotic Winter Sports
 966760	The Yellow Quiz
+967120	Cursed Mansion
 967180	Frozen Mystery
 967470	HENTAI Arcade: Lustful Girls
 968300	Super Chains
@@ -5615,6 +5615,7 @@
 1268150	Low Poly Forces
 1268670	SOVIET GIRL: HENTAI PUZZLE GAME
 1268810	Doors of Insanity
+1269260	Artifact Foundry
 1269320	Saving Stages
 1269600	Adventure Field™ 3 Definitive Edition
 1269720	还我河山HeroRagingFire
@@ -8070,6 +8071,7 @@
 2090950	Magic Tower & Maidens
 2091550	God Of Gamblers
 2091670	Dwarf's Trainfort
+2092190	Nomori: Prologue
 2092250	Peace for Ukraine
 2092450	Party Maker
 2092470	Kazu Adventures
@@ -9114,7 +9116,6 @@
 2516560	UR The Playtester
 2517270	Toads of the Bayou: Prologue
 2517690	Adultartambassador's erotic jigsaw puzzle stories
-2518420	Mortie College
 2519910	Creature Rumble
 2520450	Project
 2520480	Ghost Lift & The Dead Detectives
@@ -10228,7 +10229,6 @@
 3139890	恐龙岛
 3141210	Words Guesser
 3141810	Valkyrie Corridor
-3142050	Warborne Above Ashes
 3143600	TunsTan:Prologue
 3143630	Escape Factory
 3143710	PUBG: BLINDSPOT
@@ -10981,6 +10981,7 @@
 3843910	VIOLENCE DOLL バイオレンスドール
 3845160	Paddle Together
 3845590	Dominated by: Yandere Goth Idol Sister
+3846830	Total War: SHOGUN 2 - Complete Edition
 3849150	The Dark Forest: Survival
 3850320	次元战姬
 3853060	拟态残响-HollowEcho
@@ -11419,6 +11420,8 @@
 5034920	LAUNDRO
 5036550	Office Sluts: Act 0
 5038410	Waifu Clicker
+5051490	Forgotten Haven: The First Call
+5052990	Don't Get Six
 5053500	Verilight
 5059600	Jumpy Mumpy
 5081690	Packpunk
