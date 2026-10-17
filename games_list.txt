@@ -90,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -222,6 +222,7 @@
 17450	Dragon Age: Origins
 17590	Dystopia Beta
 17600	Out of the Park Baseball 9
+17770	Firearms: Source
 17800	SpellForce 2: Shadow Wars
 17810	SpellForce 2: Dragon Storm
 18100	Shattered Horizon: Arconauts
@@ -495,6 +496,7 @@
 47570	Mishap 2: An Intentional Haunting
 47730	Dragon Age: Origins - Awakening
 47800	RISK Factions
+47830	Medal of Honor(TM) Multiplayer
 47850	FIFA Manager 11
 47870	Need for Speed: Hot Pursuit
 47900	Dragon Age II (Retired)
@@ -927,6 +929,7 @@
 237590	R.I.P.D.: The Game
 237830	Take on Helicopters RU
 238130	Wargame: AirLand Battle Press
+239220	The Mighty Quest For Epic Loot
 239410	Catan
 239450	Gun Monkeys
 239490	America's Army: Proving Grounds Beta (Closed)
@@ -970,7 +973,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -2997,6 +3000,7 @@
 708160	Yokai Mask
 708420	Broken Ground
 708550	Skydome
+708720	GridIron
 709160	Smart Junior Academy - Autumn
 709280	Island Build Masters
 709440	Override
@@ -5077,7 +5081,6 @@
 1138000	Zero Day
 1138040	NTRPG-Skybride
 1138060	暗黑破坏岛/DiabloIslanD
-1138080	Landlord Girls
 1138270	Misadventures of Laura Silver: Chapter II
 1138610	What the Pho: Roguelike restaurant startup
 1138620	超级机甲战争OL
@@ -5615,7 +5618,6 @@
 1268150	Low Poly Forces
 1268670	SOVIET GIRL: HENTAI PUZZLE GAME
 1268810	Doors of Insanity
-1269260	Artifact Foundry
 1269320	Saving Stages
 1269600	Adventure Field™ 3 Definitive Edition
 1269720	还我河山HeroRagingFire
@@ -8534,6 +8536,7 @@
 2269520	Flyghts
 2270200	Simnetzero
 2271420	Abandoned drive-in | 廃ドライブイン
+2271900	Mana's Manual
 2272040	Homebound
 2272850	Love Birds
 2273340	梦幻契约
@@ -9430,6 +9433,7 @@
 2681390	Forged Dungeons
 2681690	Creatures
 2681880	Bombcapsule
+2683100	To The Hall Of The Mountain King
 2683300	兽食欲:链接
 2684490	CrimeSceneCleaners｜特殊清掃
 2685160	Ball Coin
@@ -10363,6 +10367,7 @@
 3241840	Platform: Prologue
 3242420	AWAKEN - Astral Blade: First Contact
 3243330	Youniverse
+3247150	PLAYTOWN: Genesis
 3247170	Dungeon Decks: Heroes of Herp Derp
 3247300	Tumble Track
 3247610	Otaku Miracles
@@ -10740,6 +10745,7 @@
 3565070	Cybernoir
 3566190	Need for Speed: Most Wanted
 3566610	Age of War
+3567030	The Untitled Tower
 3568560	Double Shift
 3568810	LiveTale
 3568930	Hexagon Experiments
@@ -11302,6 +11308,7 @@
 4511760	龙城传奇
 4512200	Spirit Demon Tribulation
 4512840	Break The Bank
+4514630	Lava Survival
 4515350	Bullets & BlackJack
 4517350	传奇盛世
 4517960	Idle Kingdom: Magic & Beasts
@@ -11331,6 +11338,7 @@
 4578720	Orc Bastion
 4580210	iHorse G1
 4584240	Cheap Car Repair: Welcome to Nowhere
+4589400	SUBFLOOR
 4590020	Kill Source: Neon Hemorrhage
 4590790	Defense of Kyrath
 4609840	The Archmage Who Defeated the Demon King Wants to Be Ravaged by Mobs in a Peaceful World
@@ -11416,7 +11424,6 @@
 5001500	PayBack!?Touchinv!?Acrowded train!!Mizuki ichinomiya Edition
 5002180	Goddess Story
 5024260	Gorgeous Legion
-5029070	Galaxy Adventures 3D
 5034920	LAUNDRO
 5036550	Office Sluts: Act 0
 5038410	Waifu Clicker
@@ -11432,3 +11439,4 @@
 5176270	Roadside Odyssey
 5252130	O2Jam Flower
 5322290	ROOMKEEP
+5323760	Verity's Revenge
