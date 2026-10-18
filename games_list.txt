@@ -222,7 +222,6 @@
 17450	Dragon Age: Origins
 17590	Dystopia Beta
 17600	Out of the Park Baseball 9
-17770	Firearms: Source
 17800	SpellForce 2: Shadow Wars
 17810	SpellForce 2: Dragon Storm
 18100	Shattered Horizon: Arconauts
@@ -496,7 +495,6 @@
 47570	Mishap 2: An Intentional Haunting
 47730	Dragon Age: Origins - Awakening
 47800	RISK Factions
-47830	Medal of Honor(TM) Multiplayer
 47850	FIFA Manager 11
 47870	Need for Speed: Hot Pursuit
 47900	Dragon Age II (Retired)
@@ -929,7 +927,6 @@
 237590	R.I.P.D.: The Game
 237830	Take on Helicopters RU
 238130	Wargame: AirLand Battle Press
-239220	The Mighty Quest For Epic Loot
 239410	Catan
 239450	Gun Monkeys
 239490	America's Army: Proving Grounds Beta (Closed)
@@ -3000,7 +2997,6 @@
 708160	Yokai Mask
 708420	Broken Ground
 708550	Skydome
-708720	GridIron
 709160	Smart Junior Academy - Autumn
 709280	Island Build Masters
 709440	Override
@@ -5081,6 +5077,7 @@
 1138000	Zero Day
 1138040	NTRPG-Skybride
 1138060	暗黑破坏岛/DiabloIslanD
+1138080	Landlord Girls
 1138270	Misadventures of Laura Silver: Chapter II
 1138610	What the Pho: Roguelike restaurant startup
 1138620	超级机甲战争OL
@@ -5124,6 +5121,7 @@
 1150000	Darwin Project: Test Server
 1150180	run vs body
 1150220	GOLD EXPRESS
+1150420	Junk
 1150590	Samurai Jack: Battle Through Time
 1150850	战场英雄物语
 1151520	Away From Earth: Mars 3
@@ -5259,6 +5257,7 @@
 1181450	神枪少女
 1181720	Labirint
 1182060	Heavens Tournament
+1182070	Majula Frontier: The Offense
 1182080	梦幻糖果
 1182250	Q Moe Link Up / Q萌连连看
 1182680	The Last Pixel
@@ -10337,7 +10336,7 @@
 3220210	Slenderman: The Unknowns
 3221050	Title Screen Simulator
 3221230	Fallen Kings
-3221450	My Secret: Chatting With Sister
+3221450	Snapshot!
 3221800	Hardstrike: The Fall
 3224610	妖靈傳說
 3225250	Kingdom Remastered
@@ -10902,7 +10901,6 @@
 3720640	Arisa | Psychological Horror Game
 3721300	Banner of wonders
 3723610	Together in Forgotten Lands: Chapter One
-3724110	Hardly Workin'
 3725850	封神传奇
 3727840	Game Together
 3728810	Cop Rush
@@ -11379,7 +11377,6 @@
 4724610	Zero Hour Night
 4725200	Femboy Pirates
 4726680	Moggmon
-4728830	I'm Not Sex King
 4736920	GAL-Chat
 4743240	Creations : a visual novel
 4746690	Audio vibration sample bluetooth ps5 controller
