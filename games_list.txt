@@ -90,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max 201: Ice Station Santa
+8260	Sam & Max: Season Two
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -388,7 +388,7 @@
 36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans + Odyssey Pack
+36130	Tradewinds Caravans
 36140	Tradewinds Odyssey
 36150	Westward Collection
 36160	Westward 2
@@ -398,7 +398,7 @@
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Super Granny Collection
+36270	Granny in Paradise
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -5257,7 +5257,6 @@
 1181450	神枪少女
 1181720	Labirint
 1182060	Heavens Tournament
-1182070	Majula Frontier: The Offense
 1182080	梦幻糖果
 1182250	Q Moe Link Up / Q萌连连看
 1182680	The Last Pixel
@@ -6694,6 +6693,7 @@
 1569370	Orpiment
 1569870	冰雪传奇-装备回收
 1570470	Raspberry Coast
+1571090	BEAST CRIMES
 1572440	Bakery Shop Simulator
 1573060	NejicomiSimulator Vol.1
 1573210	Desktop AI - Lily
@@ -10551,6 +10551,7 @@
 3399830	The Last of them
 3399990	Christmas Store: Santa's Supermarket Simulator
 3401910	脱出ゲーム 森の中の迷い家からの脱出
+3403310	Ever Hotter
 3404640	Bright Past
 3405660	Night is Coming — Wrath of the Woods
 3407340	Immigration Dream
@@ -10996,6 +10997,7 @@
 3856640	Poison of the Five Crevices
 3856680	STARGAZING
 3857340	Hentai Drone Simulator
+3858660	RoadCraft - Public Test Server
 3858910	Project Warfield Heroes
 3859140	Lurker
 3861100	Royal West India Company
@@ -11248,6 +11250,7 @@
 4379990	TonTon Galaxy
 4384290	Rocket Cars
 4385310	Specter Hideout
+4386980	Pro Soccer Manager 27
 4387560	The Last Athari
 4390360	Aftermath 1944
 4392210	Bodycam: Deadsplit
@@ -11400,8 +11403,6 @@
 4844150	HardFormer
 4850770	Moe Mekuri Beauty and the Beast 2
 4851270	Deadwood House
-4853530	Sweet Lake
-4861420	MOON DOOM
 4865580	The Mandate
 4873080	Nubo – Your Screen Friend
 4882040	My City

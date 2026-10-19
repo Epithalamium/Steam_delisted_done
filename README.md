@@ -2,19 +2,20 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-10-18 11:15 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-10-19 13:27 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11439 apps
+**Total tracked:** 11440 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Landlord Girls](https://store.steampowered.com/app/1138080/) (AppID: 1138080)
-- [Junk](https://store.steampowered.com/app/1150420/) (AppID: 1150420)
-- [Majula Frontier: The Offense](https://store.steampowered.com/app/1182070/) (AppID: 1182070)
+- [BEAST CRIMES](https://store.steampowered.com/app/1571090/) (AppID: 1571090)
+- [Ever Hotter](https://store.steampowered.com/app/3403310/) (AppID: 3403310)
+- [RoadCraft - Public Test Server](https://store.steampowered.com/app/3858660/) (AppID: 3858660)
+- [Pro Soccer Manager 27](https://store.steampowered.com/app/4386980/) (AppID: 4386980)
 
 ---
 
