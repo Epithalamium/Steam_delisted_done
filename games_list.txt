@@ -90,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -184,6 +184,7 @@
 12830	Operation Flashpoint: Dragon Rising
 12840	DiRT 2
 12860	Ashes Cricket 2009
+13100	America's Army Special Forces
 13120	America's Army 3 Beta
 13200	Unreal II: The Awakening
 13210	Unreal Tournament 3: Black Edition
@@ -216,6 +217,7 @@
 17080	Tribes: Ascend
 17170	Mosby's Confederacy Beta
 17200	F.E.A.R. 3 (BETA)
+17340	Crysis Wars
 17400	FIFA Manager 09
 17420	Warhammer Online: Age of Reckoning
 17430	Need for Speed: Undercover
@@ -363,6 +365,7 @@
 33440	Driver San Francisco
 33500	Hired Guns: The Jagged Edge
 33510	Officers: World War II
+33530	Tropico 2: Pirate Cove
 33549	Dawn of Magic 2
 33740	John Deere: Drive Green
 33750	Prison Tycoon 4: Supermax
@@ -375,7 +378,6 @@
 34230	Football Manager 2011 Korean
 34270	SEGA Mega Drive & Genesis Classics
 34320	Football Manager 2011 Russian
-34330	Total War: SHOGUN 2
 34650	Massive Assault Network 2
 34670	Order of War: Challenge
 34860	MotorM4X: Offroad Extreme
@@ -385,15 +387,15 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classics
+36100	Tradewinds Classic
 36110	Tradewinds 2
 36120	Tradewinds Legends
 36130	Tradewinds Caravans
 36140	Tradewinds Odyssey
-36150	Westward Collection
+36150	Westward
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania Collection
+36180	Cake Mania
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
@@ -639,6 +641,7 @@
 105400	Fable III
 105450	Age of Empires® III (2007)
 107000	Gods & Heroes: Rome Rising
+107430	Arma X: Anniversary Edition
 107800	Rochard
 108100	Adam's Venture Episode 1: The Search For The Lost Garden
 108200	Ticket to Ride
@@ -771,6 +774,7 @@
 212580	The Amazing Spider-Man
 212740	TERA
 212820	Painkiller Hell & Damnation Preview
+212910	Call of Duty: Black Ops II - Zombies
 213050	Starvoid Beta
 213120	Transformers: Fall of Cybertron
 213290	Max Payne 3 PR
@@ -806,9 +810,11 @@
 216820	Sleeping Dogs Reviewer Edition
 217060	Total War Battles: SHOGUN
 217080	Doctor Who: The Eternity Clock
+217100	Dementium II HD
 217860	Special Forces: Team X
 217880	March of the Eagles Beta
 218000	RaceRoom Racing Experience WIP
+218130	Dungeonland
 218310	Frontline Tactics
 218330	Smashmuck Champions
 218390	F1 2012 Review
@@ -970,7 +976,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -2997,6 +3003,7 @@
 708160	Yokai Mask
 708420	Broken Ground
 708550	Skydome
+708720	GridIron
 709160	Smart Junior Academy - Autumn
 709280	Island Build Masters
 709440	Override
@@ -5522,6 +5529,7 @@
 1248990	Mýrdalssandur, Iceland
 1249210	STRIDE Closed Alpha Test
 1249520	SCP: Recontainment
+1249730	Spacewalk Defender
 1250240	GOBS - Game Of Battle Simulation
 1250420	Star Seeker
 1250540	Trashpunk
@@ -5616,6 +5624,7 @@
 1268150	Low Poly Forces
 1268670	SOVIET GIRL: HENTAI PUZZLE GAME
 1268810	Doors of Insanity
+1269260	Artifact Foundry
 1269320	Saving Stages
 1269600	Adventure Field™ 3 Definitive Edition
 1269720	还我河山HeroRagingFire
@@ -6579,6 +6588,7 @@
 1535480	the office simulation
 1535970	Night Tail
 1536150	VR New York Story
+1536610	OpenTTD
 1536960	Tunnel of Doom BETA
 1537280	Kill the King
 1537500	Sam Nightmare - كابوس سام
@@ -6769,6 +6779,7 @@
 1595380	The Durka: You will (not) die
 1595770	SUFFER 2
 1595880	Card X Monster
+1595970	Vestenelon
 1596150	Talking Dogs
 1596690	OUTLIER
 1596790	Without kidney
@@ -7059,6 +7070,7 @@
 1691220	三侠五义
 1691250	原始传奇
 1691260	阴阳界
+1691280	Maximum Football
 1691340	Steel Hunters
 1691360	Hentai World: Animated Puzzle
 1691760	Survival Escape Room
@@ -7298,6 +7310,7 @@
 1780400	ASHGARD: Tone Break
 1780670	Madam's Maid
 1780930	Idle Run
+1782670	Tru Or Die: Chiraq
 1782680	Caribbean Legend: Sandbox
 1783000	Diner Runners
 1783310	Violation
@@ -7779,6 +7792,7 @@
 1954390	Tamashi Party
 1954670	Reforger
 1955170	Guns and Spurs 2
+1955800	TRANSFORMERS: EARTHSPARK - Expedition
 1955960	HAWKED
 1955990	RogueStone
 1956220	DraeAscaria
@@ -8843,6 +8857,7 @@
 2395080	Dream of Echo
 2395320	Windy Waltz
 2396900	Enspell
+2396910	吞食天地2：誕生
 2397080	Explorer：Golden Empire
 2397100	Particle life on AI illust for Adult 1
 2397720	Racer
@@ -10072,6 +10087,7 @@
 3050710	Iridio: Prologue
 3051440	Pharmacy Simulator: Prologue
 3051720	Bloodcrave R18: Prologue
+3052420	The Better Deal
 3053510	Nordic Racing
 3053710	Cuppy Coffee Sim
 3054340	Ocean Playground
@@ -10937,6 +10953,7 @@
 3774340	TSG DH ModLoader
 3776980	PixelTown 2D
 3777320	Alterchase
+3778480	OoglyBoogly
 3779020	Dominated by: Sadistic MILF Landlord
 3781380	Operation Ninurta - Eris Portal
 3781520	The Last Sip
@@ -10997,7 +11014,6 @@
 3856640	Poison of the Five Crevices
 3856680	STARGAZING
 3857340	Hentai Drone Simulator
-3858660	RoadCraft - Public Test Server
 3858910	Project Warfield Heroes
 3859140	Lurker
 3861100	Royal West India Company
@@ -11165,6 +11181,7 @@
 4177050	TallTale Online
 4179610	SteamRandomPicker
 4180580	Project Cats & Gigs
+4183250	afsdafsfasf"><h1>testset
 4188050	Treasurer
 4188090	Political Run: World Leaders
 4191340	ZEROLIMIT
@@ -11281,6 +11298,7 @@
 4457250	Memory Tides
 4457970	FENRIR
 4465280	Catagon
+4465480	Counter-Strike:Global Offensive
 4478180	ValveTestApp4478180
 4479510	ValveTestApp4479510
 4479680	ValveTestApp4479680
@@ -11288,6 +11306,7 @@
 4481370	Winmon: Prologue
 4482700	Kogama
 4482960	驱入虚空
+4483570	PegPegBall
 4486430	Tragedy is approaching
 4486810	One Of Us
 4488570	Fresh Food Merge
@@ -11398,6 +11417,7 @@
 4825280	Mage X Monster: The Archmage Who Wants to Lose to Mobs
 4826970	Emoji Tray
 4829840	Armed Snake
+4841580	エアロセイラーⅠ：雲の腕輪（Aerosailor I: Armlet of Cloud）
 4842900	Crops Rebel
 4844080	Prison Cat
 4844150	HardFormer
@@ -11412,12 +11432,15 @@
 4903440	Parasite Survivor
 4915660	No Exit Protocol
 4918170	Dark Realms: Hoia Baciu
+4922930	Santa Is Unbreakable
+4946520	FUTA FEMBOY MINESWEEPER
 4951370	夯犇绿色传奇
 4952870	Entities Detected
 4963050	Corelink Protocol
 4967600	Gacha Challenge
 4983500	Lo-Fi with Ruka
 4983570	Death Paradise
+4991340	Might & Poison Mushroom
 4996170	Magic Fusion
 5001500	PayBack!?Touchinv!?Acrowded train!!Mizuki ichinomiya Edition
 5002180	Goddess Story
@@ -11436,5 +11459,7 @@
 5150620	Scan N Go: Store Simulator
 5176270	Roadside Odyssey
 5252130	O2Jam Flower
+5321400	A Game About Needle In A Haystack
 5322290	ROOMKEEP
 5323760	Verity's Revenge
+5371410	Dead Reckoning
