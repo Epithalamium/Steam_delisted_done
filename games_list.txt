@@ -217,7 +217,6 @@
 17080	Tribes: Ascend
 17170	Mosby's Confederacy Beta
 17200	F.E.A.R. 3 (BETA)
-17340	Crysis Wars
 17400	FIFA Manager 09
 17420	Warhammer Online: Age of Reckoning
 17430	Need for Speed: Undercover
@@ -365,7 +364,6 @@
 33440	Driver San Francisco
 33500	Hired Guns: The Jagged Edge
 33510	Officers: World War II
-33530	Tropico 2: Pirate Cove
 33549	Dawn of Magic 2
 33740	John Deere: Drive Green
 33750	Prison Tycoon 4: Supermax
@@ -387,20 +385,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classic
+36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans
+36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
-36150	Westward
+36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania
+36180	Cake Mania Collection
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Granny in Paradise
+36270	Super Granny Collection
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -641,7 +639,6 @@
 105400	Fable III
 105450	Age of Empires® III (2007)
 107000	Gods & Heroes: Rome Rising
-107430	Arma X: Anniversary Edition
 107800	Rochard
 108100	Adam's Venture Episode 1: The Search For The Lost Garden
 108200	Ticket to Ride
@@ -774,7 +771,6 @@
 212580	The Amazing Spider-Man
 212740	TERA
 212820	Painkiller Hell & Damnation Preview
-212910	Call of Duty: Black Ops II - Zombies
 213050	Starvoid Beta
 213120	Transformers: Fall of Cybertron
 213290	Max Payne 3 PR
@@ -814,7 +810,6 @@
 217860	Special Forces: Team X
 217880	March of the Eagles Beta
 218000	RaceRoom Racing Experience WIP
-218130	Dungeonland
 218310	Frontline Tactics
 218330	Smashmuck Champions
 218390	F1 2012 Review
@@ -1497,6 +1492,7 @@
 351990	Riff Racer
 352080	Judge Dredd: Countdown Sector 106
 352460	Dead Realm
+352500	Task Bar Isekai
 353130	Time of Dragons
 353690	D.U.S.T.
 354480	Stars Beyond Reach
@@ -1583,6 +1579,7 @@
 368930	Mara
 368980	Force of Elements
 369080	Age of Survival
+369200	Ghost in the Shell: Stand Alone Complex - First Assault Online
 369230	Kung Fu Panda Showdown of Legendary Legends
 369300	Adventure Time: Finn and Jake Investigations
 369390	Scourge of War: Waterloo
@@ -3003,7 +3000,6 @@
 708160	Yokai Mask
 708420	Broken Ground
 708550	Skydome
-708720	GridIron
 709160	Smart Junior Academy - Autumn
 709280	Island Build Masters
 709440	Override
@@ -5624,7 +5620,6 @@
 1268150	Low Poly Forces
 1268670	SOVIET GIRL: HENTAI PUZZLE GAME
 1268810	Doors of Insanity
-1269260	Artifact Foundry
 1269320	Saving Stages
 1269600	Adventure Field™ 3 Definitive Edition
 1269720	还我河山HeroRagingFire
@@ -7070,7 +7065,6 @@
 1691220	三侠五义
 1691250	原始传奇
 1691260	阴阳界
-1691280	Maximum Football
 1691340	Steel Hunters
 1691360	Hentai World: Animated Puzzle
 1691760	Survival Escape Room
@@ -8183,6 +8177,7 @@
 2125120	Miss Kawaii
 2126210	Bone Lover - Horror Escape
 2126420	Void Scrappers Prologue
+2127390	Parking in Tight Spaces
 2127520	The Button 2!
 2128060	Zeltoid X1
 2128350	Mythic Frost Trials
@@ -8857,7 +8852,6 @@
 2395080	Dream of Echo
 2395320	Windy Waltz
 2396900	Enspell
-2396910	吞食天地2：誕生
 2397080	Explorer：Golden Empire
 2397100	Particle life on AI illust for Adult 1
 2397720	Racer
@@ -10289,6 +10283,7 @@
 3168060	I wannna be The King!
 3169430	Liminal Leap
 3169440	Cave No. 6
+3170790	Dungeon Gore: Lost Treasury
 3171000	Tokyo College Girls
 3171310	Sunstone War - Prologue
 3172150	The fate of choice
@@ -11256,6 +11251,7 @@
 4354850	ECUMENE AZTEC: PROLOGUE
 4355620	Deliveryman Simulator
 4357020	一魂双体 他与她的奇妙之旅
+4358720	Tower of Ascension
 4361300	Harrow
 4363690	SPOOKY JOB: The wrong house
 4364780	FRACTURA
@@ -11298,7 +11294,6 @@
 4457250	Memory Tides
 4457970	FENRIR
 4465280	Catagon
-4465480	Counter-Strike:Global Offensive
 4478180	ValveTestApp4478180
 4479510	ValveTestApp4479510
 4479680	ValveTestApp4479680
@@ -11402,6 +11397,7 @@
 4736920	GAL-Chat
 4743240	Creations : a visual novel
 4746690	Audio vibration sample bluetooth ps5 controller
+4749860	OH NO, NOT ANOTHER L
 4753420	Celestia
 4757840	战法道传奇
 4779460	Shoot Together
@@ -11456,6 +11452,7 @@
 5091600	Wild Legacy
 5105990	Hentai Clicker: Mika is streaming
 5123540	The Producer
+5132930	The Cauldron Eats First
 5150620	Scan N Go: Store Simulator
 5176270	Roadside Odyssey
 5252130	O2Jam Flower
