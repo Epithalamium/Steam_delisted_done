@@ -1,3 +1,4 @@
+92	Codename Gordon
 304	Day of Defeat: Source Press Review
 816	Dota 2 Private Beta
 841	Portal 2 Beta
@@ -667,6 +668,7 @@
 201760	Cities XL 2012
 201830	Jurassic Park: The Game
 202070	Choplifter HD
+202090	Magicka: Wizard Wars
 202110	Trine 2 Beta
 202270	Leviathan: Warships
 202330	The Adventures of Tintin: The Game
@@ -1185,6 +1187,7 @@
 297390	Collateral
 297660	Super Rad Raygun
 297810	Landmark
+298520	Orbital Gear
 298890	Adventure Time: The Secret Of The Nameless Kingdom
 299010	Mana Crusher
 299030	Blood: One Unit Whole Blood
@@ -1579,7 +1582,6 @@
 368930	Mara
 368980	Force of Elements
 369080	Age of Survival
-369200	Ghost in the Shell: Stand Alone Complex - First Assault Online
 369230	Kung Fu Panda Showdown of Legendary Legends
 369300	Adventure Time: Finn and Jake Investigations
 369390	Scourge of War: Waterloo
@@ -2258,6 +2260,7 @@
 517070	Might & Magic Showdown
 517110	Cards of Chaos
 517140	POLYCRUSHER
+517480	VHSoverdose
 517530	Overload PAX West Demo
 517700	Custom Town
 517860	Fly to KUMA MAKER
@@ -2511,7 +2514,7 @@
 581930	Desert Storm
 581960	Outlands Safehouse
 583740	AVATARIKA
-583750	Retired Application
+583750	Akata's Adventure
 585080	Hunting Simulator
 585290	Lifeline
 585340	SYMMETRY alpha
@@ -3281,6 +3284,7 @@
 765840	Leisure Suit Larry 2 - Looking For Love (In Several Wrong Places)
 765850	Leisure Suit Larry 3 - Passionate Patti in Pursuit of the Pulsating Pectorals
 765860	Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work
+765870	Leisure Suit Larry - Wet Dreams Don't Dry
 765890	Leisure Suit Larry 7 - Love for Sail
 765900	Leisure Suit Larry - Magna Cum Laude Uncut and Uncensored
 765910	Leisure Suit Larry 6 - Shape Up Or Slip Out
@@ -4538,6 +4542,7 @@
 1018980	VKT Prime System Crash
 1019250	WWII TCG - World War 2: The Card Game
 1019420	Horny Girl
+1019690	Ghost Buster 3D
 1019750	Steel Circus - CAT#4 announced soon
 1019940	Race for Tuning
 1020430	Joe Jump
@@ -5283,6 +5288,7 @@
 1188650	Lord of Sins
 1188680	The Political Machine 2020
 1189430	Interlude
+1189520	Street Hoop
 1189720	PLAYNE VR
 1189790	D战队-生化狂潮
 1189970	Runoveryou
@@ -5998,6 +6004,7 @@
 1373220	Live the Life
 1373270	Sakura Dimensions
 1373290	TENS!
+1373430	Leisure Suit Larry - Wet Dreams Dry Twice
 1373860	King and Country
 1374510	Odore Kanojo
 1374540	VR City Exhibition - Cute Anime Girls
@@ -6213,6 +6220,7 @@
 1427810	求闻手账 ～ Gensokyo Recollection
 1428070	Dungeon Scavenger 2
 1428640	Lonesome - Chapter 1
+1428730	BRoS - Battle Royale of Survival
 1428970	Where the Snow Settles
 1429300	The Fishery
 1429510	The Birthday
@@ -7815,6 +7823,7 @@
 1966450	MAXIM
 1966640	Song of Calamity I - Music, Paranormal Events & Sinister Fairies
 1967700	Miami Hotel Simulator Prologue
+1968570	The Quintessential Quintuplets OMOIDE VR ~ITSUKI~
 1968740	已弃用的游戏页面
 1969140	Deep
 1969180	What was
@@ -8327,6 +8336,7 @@
 2191050	Life Effect (Retired Version)
 2191600	Hentai Heroes
 2191750	Wildmender Alpha
+2191890	Ghostwage
 2192230	Polilaser
 2192390	ELDEN BLING
 2192410	Tales of Sabotage
@@ -8450,6 +8460,7 @@
 2231740	TRADER LIFE SIMULATOR 2
 2232710	UnrealGundy
 2232940	silk gu gu gu
+2233020	The Quintessential Quintuplets OMOIDE VR ~YOTSUBA~
 2233420	Sinner's Tavern
 2233630	Ruinbound
 2234030	向往的方向
@@ -8575,6 +8586,7 @@
 2288100	Time's Disillusion
 2288580	Berry Madness
 2288690	SuperCold
+2289120	Maxix Robotics
 2289280	Star Survivor - Prologue
 2289780	Unstoppable
 2290060	Retired
@@ -8735,7 +8747,6 @@
 2351780	Brutal Puzzle
 2351870	- Isekai Junior Manager - ハズレ転生:最底辺から始める異世界経営
 2353170	Homelander
-2353280	FANTAVISION 202X
 2353450	少女战场
 2353490	至尊龙图
 2353860	Umbra
@@ -9428,6 +9439,7 @@
 2673540	Neonexus Wars
 2673550	DEEPEST REGRET
 2674160	Have a Good Day
+2674310	Global Transit Manager
 2674980	Arena of Faith
 2675760	King of Kung Fu
 2676400	Fibonacci's Final Sequence
@@ -9596,6 +9608,7 @@
 2775350	No Report
 2775880	Desert Witch
 2776670	Atchmo
+2777660	RC Overdrive
 2777740	MOUTHOLE
 2778550	BioGun: Clinical Trial
 2779040	猫様の古民家からの脱出
@@ -9732,6 +9745,7 @@
 2841700	Space Psionic
 2842110	Total Rush
 2842320	STAR WARS: Hunters™
+2842410	Elfenberg
 2843370	Carlson's Ticker Simulator
 2844970	Brave Quest
 2846020	Death Scourges: Prologue
@@ -9854,6 +9868,7 @@
 2921080	Ants.io
 2922030	Pixel Hunt
 2922240	Norah's Song
+2922790	Arena of Trophies
 2923440	Genome Guardian: Prologue
 2925400	Belly Chubs: The Party Game
 2925450	Letter Lancers: Prologue
@@ -11077,6 +11092,7 @@
 3978040	Dreamlab
 3978750	Ghlobot Shift
 3979000	Chrono Lock
+3980210	Arcane Overdrive
 3980870	Chhota Bheem Kitchen Adventures
 3981070	Alchemy Hearts
 3990590	Jabby Games Pack 1
@@ -11248,6 +11264,7 @@
 4337430	烈火战神
 4337690	MEAT EATER
 4338060	Goddess of Fate: Anime RPG
+4354710	Ghost Buster:Village
 4354850	ECUMENE AZTEC: PROLOGUE
 4355620	Deliveryman Simulator
 4357020	一魂双体 他与她的奇妙之旅
@@ -11366,6 +11383,7 @@
 4640080	Walled City of Living Will
 4641980	Blood Mage
 4645490	Skrrt Racing
+4648730	ValveTestApp4648730
 4653840	Trapped in the Backrooms
 4657750	Hardhats : Some Survival Required
 4658670	Re:Bloom 花精霊のぽかぽか温泉郷
@@ -11429,6 +11447,7 @@
 4915660	No Exit Protocol
 4918170	Dark Realms: Hoia Baciu
 4922930	Santa Is Unbreakable
+4930540	Anomaly Tunnel
 4946520	FUTA FEMBOY MINESWEEPER
 4951370	夯犇绿色传奇
 4952870	Entities Detected
@@ -11440,6 +11459,7 @@
 4996170	Magic Fusion
 5001500	PayBack!?Touchinv!?Acrowded train!!Mizuki ichinomiya Edition
 5002180	Goddess Story
+5022330	Abraxas Online
 5024260	Gorgeous Legion
 5034920	LAUNDRO
 5036550	Office Sluts: Act 0
@@ -11454,9 +11474,13 @@
 5123540	The Producer
 5132930	The Cauldron Eats First
 5150620	Scan N Go: Store Simulator
+5166980	Wonderboy in Monster Land
 5176270	Roadside Odyssey
+5248540	GiGA BRAIN TACTICS
 5252130	O2Jam Flower
 5321400	A Game About Needle In A Haystack
 5322290	ROOMKEEP
 5323760	Verity's Revenge
+5370600	ACE COMBAT ZERO: THE BELKAN WAR
 5371410	Dead Reckoning
+5412040	Distorid
