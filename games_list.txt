@@ -1,4 +1,3 @@
-92	Codename Gordon
 304	Day of Defeat: Source Press Review
 816	Dota 2 Private Beta
 841	Portal 2 Beta
@@ -187,6 +186,7 @@
 12860	Ashes Cricket 2009
 13100	America's Army Special Forces
 13120	America's Army 3 Beta
+13140	America's Army 3
 13200	Unreal II: The Awakening
 13210	Unreal Tournament 3: Black Edition
 13230	Unreal Tournament 2004
@@ -668,7 +668,6 @@
 201760	Cities XL 2012
 201830	Jurassic Park: The Game
 202070	Choplifter HD
-202090	Magicka: Wizard Wars
 202110	Trine 2 Beta
 202270	Leviathan: Warships
 202330	The Adventures of Tintin: The Game
@@ -973,7 +972,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -1063,6 +1062,7 @@
 265650	Project X
 265670	Imagine Me
 265770	Cannons Lasers Rockets
+266070	City of Steam: Arkadia
 266150	Lost Saga North America
 266470	Dark Horizons: Mechanized Corps (Classic)
 266550	Spark Rising
@@ -1158,6 +1158,7 @@
 290750	Earth: Year 2066
 291090	I Get This Call Every Day
 291150	Evolution RTS
+291210	UberStrike
 291410	Duelyst
 291450	Smugglers 5
 291480	Warface: Clutch
@@ -1495,7 +1496,6 @@
 351990	Riff Racer
 352080	Judge Dredd: Countdown Sector 106
 352460	Dead Realm
-352500	Task Bar Isekai
 353130	Time of Dragons
 353690	D.U.S.T.
 354480	Stars Beyond Reach
@@ -6220,7 +6220,6 @@
 1427810	求闻手账 ～ Gensokyo Recollection
 1428070	Dungeon Scavenger 2
 1428640	Lonesome - Chapter 1
-1428730	BRoS - Battle Royale of Survival
 1428970	Where the Snow Settles
 1429300	The Fishery
 1429510	The Birthday
@@ -10383,7 +10382,7 @@
 3232890	You Make The Game
 3234940	Wonderland: Red Queen Protocol
 3235400	Stick Rush
-3236030	Axe Slasher: Roguelike Dungeon Crawler
+3236030	Axe Slasher
 3236840	生于厕所 Reborn in the toilet
 3239670	BEAST : Bio Exo Arena Suit Team
 3239720	Rift Riders
@@ -11311,6 +11310,7 @@
 4457250	Memory Tides
 4457970	FENRIR
 4465280	Catagon
+4471320	ValveTestApp4471320
 4478180	ValveTestApp4478180
 4479510	ValveTestApp4479510
 4479680	ValveTestApp4479680
