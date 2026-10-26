@@ -377,6 +377,7 @@
 34230	Football Manager 2011 Korean
 34270	SEGA Mega Drive & Genesis Classics
 34320	Football Manager 2011 Russian
+34330	Total War: SHOGUN 2
 34650	Massive Assault Network 2
 34670	Order of War: Challenge
 34860	MotorM4X: Offroad Extreme
@@ -653,6 +654,7 @@
 198578	ValveTestApp198578
 200050	Naval War: Arctic Circle
 200060	Sacred 2: Fallen Angel (EU)
+200110	Nosgoth
 200350	Starvoid
 200630	Gettysburg: Armored Warfare
 200690	Grand Theft Auto: IV (JP)
@@ -972,7 +974,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -1259,6 +1261,7 @@
 315440	TRON: Evolution
 315530	Empress of the Deep 3: Legacy of the Phoenix
 315600	Ford Racing 3
+315640	Dizzel
 315660	Trainz: A New Era
 315670	Raiden III Digital Edition
 315740	Ford Racing Off Road
@@ -2360,6 +2363,7 @@
 541960	TRI.DEFENDER
 542360	Where's the Fck*ng Light - VR
 542530	封神英杰传
+542560	Astro Boy: Edge of Time
 543280	VR Laser Harp
 543360	Relaxation balls
 543960	Rugby Challenge 4
@@ -3522,6 +3526,7 @@
 812080	Stick Fight 2 Supreme Duelist
 812120	XIII - Lost Identity
 812180	Intro Maker
+812440	Half-Life: Absolute Zero
 812470	Skyscraper Climb VR
 812510	原始部落
 813000	PUBG Experimental Server
@@ -9643,7 +9648,7 @@
 2793400	Magical Angel Fairy Flower_Standard
 2793990	Grand Emprise: Dyson Sphere Era
 2794180	Signal Control Simulator
-2794340	Maintenance Required
+2794340	SiliCorp Systems
 2795400	point4point
 2795710	Aurorae
 2796130	KIBORG: Arena
@@ -10379,10 +10384,10 @@
 3231330	Monster Girl Puzzle
 3231560	MaPko NX
 3232230	机械纪元-专服版
-3232890	You Make The Game
+3232890	Alien's Fridge
 3234940	Wonderland: Red Queen Protocol
 3235400	Stick Rush
-3236030	Axe Slasher
+3236030	Axe Slasher: Roguelike Dungeon Crawler
 3236840	生于厕所 Reborn in the toilet
 3239670	BEAST : Bio Exo Arena Suit Team
 3239720	Rift Riders
@@ -11407,6 +11412,7 @@
 4707140	彭罗斯游戏
 4714810	再战大极品+255
 4715270	Sun Ultimate War
+4718880	Цикл прошлого
 4719720	Poping Aquarium
 4720210	Hit Streak And Brawl
 4724610	Zero Hour Night
@@ -11481,6 +11487,7 @@
 5321400	A Game About Needle In A Haystack
 5322290	ROOMKEEP
 5323760	Verity's Revenge
+5354560	Adventurer Guild Master
 5370600	ACE COMBAT ZERO: THE BELKAN WAR
 5371410	Dead Reckoning
 5412040	Distorid
