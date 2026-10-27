@@ -2,23 +2,23 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-10-26 13:12 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-10-27 12:20 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11493 apps
+**Total tracked:** 11491 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Total War: SHOGUN 2](https://store.steampowered.com/app/34330/) (AppID: 34330)
-- [Nosgoth](https://store.steampowered.com/app/200110/) (AppID: 200110)
-- [Dizzel](https://store.steampowered.com/app/315640/) (AppID: 315640)
-- [Astro Boy: Edge of Time](https://store.steampowered.com/app/542560/) (AppID: 542560)
-- [Half-Life: Absolute Zero](https://store.steampowered.com/app/812440/) (AppID: 812440)
-- [Цикл прошлого](https://store.steampowered.com/app/4718880/) (AppID: 4718880)
-- [Adventurer Guild Master](https://store.steampowered.com/app/5354560/) (AppID: 5354560)
+- [Penumbra: Requiem](https://store.steampowered.com/app/22140/) (AppID: 22140)
+- [Dethroned!](https://store.steampowered.com/app/269390/) (AppID: 269390)
+- [Task Bar Isekai](https://store.steampowered.com/app/352500/) (AppID: 352500)
+- [Launch Break](https://store.steampowered.com/app/1292160/) (AppID: 1292160)
+- [Dark Investigation : Experiment](https://store.steampowered.com/app/2780600/) (AppID: 2780600)
+- [ラビィとパネルでしりとり](https://store.steampowered.com/app/3385250/) (AppID: 3385250)
+- [隐秘之潮](https://store.steampowered.com/app/4767380/) (AppID: 4767380)
 
 ---
 

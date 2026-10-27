@@ -186,7 +186,6 @@
 12860	Ashes Cricket 2009
 13100	America's Army Special Forces
 13120	America's Army 3 Beta
-13140	America's Army 3
 13200	Unreal II: The Awakening
 13210	Unreal Tournament 3: Black Edition
 13230	Unreal Tournament 2004
@@ -260,6 +259,7 @@
 21920	Wheelman
 21950	Grey's Anatomy: The Video Game
 21990	Teenage Mutant Ninja Turtles
+22140	Penumbra: Requiem
 22700	Sacred 2: Fallen Angel
 23100	Buccaneer: The Pursuit of Infamy
 23120	Droplitz
@@ -377,7 +377,6 @@
 34230	Football Manager 2011 Korean
 34270	SEGA Mega Drive & Genesis Classics
 34320	Football Manager 2011 Russian
-34330	Total War: SHOGUN 2
 34650	Massive Assault Network 2
 34670	Order of War: Challenge
 34860	MotorM4X: Offroad Extreme
@@ -654,7 +653,6 @@
 198578	ValveTestApp198578
 200050	Naval War: Arctic Circle
 200060	Sacred 2: Fallen Angel (EU)
-200110	Nosgoth
 200350	Starvoid
 200630	Gettysburg: Armored Warfare
 200690	Grand Theft Auto: IV (JP)
@@ -1064,7 +1062,6 @@
 265650	Project X
 265670	Imagine Me
 265770	Cannons Lasers Rockets
-266070	City of Steam: Arkadia
 266150	Lost Saga North America
 266470	Dark Horizons: Mechanized Corps (Classic)
 266550	Spark Rising
@@ -1082,6 +1079,7 @@
 268810	Paranormal State: Poison Spring Collector's Edition
 268830	Doctor Who: The Adventure Games
 268930	Malevolence: The Sword of Ahkranox
+269390	Dethroned!
 269530	Voice Of Pripyat
 269730	The Golf Club
 269810	Spate
@@ -1160,7 +1158,6 @@
 290750	Earth: Year 2066
 291090	I Get This Call Every Day
 291150	Evolution RTS
-291210	UberStrike
 291410	Duelyst
 291450	Smugglers 5
 291480	Warface: Clutch
@@ -1261,7 +1258,6 @@
 315440	TRON: Evolution
 315530	Empress of the Deep 3: Legacy of the Phoenix
 315600	Ford Racing 3
-315640	Dizzel
 315660	Trainz: A New Era
 315670	Raiden III Digital Edition
 315740	Ford Racing Off Road
@@ -1499,6 +1495,7 @@
 351990	Riff Racer
 352080	Judge Dredd: Countdown Sector 106
 352460	Dead Realm
+352500	Task Bar Isekai
 353130	Time of Dragons
 353690	D.U.S.T.
 354480	Stars Beyond Reach
@@ -2363,7 +2360,6 @@
 541960	TRI.DEFENDER
 542360	Where's the Fck*ng Light - VR
 542530	封神英杰传
-542560	Astro Boy: Edge of Time
 543280	VR Laser Harp
 543360	Relaxation balls
 543960	Rugby Challenge 4
@@ -3526,7 +3522,6 @@
 812080	Stick Fight 2 Supreme Duelist
 812120	XIII - Lost Identity
 812180	Intro Maker
-812440	Half-Life: Absolute Zero
 812470	Skyscraper Climb VR
 812510	原始部落
 813000	PUBG Experimental Server
@@ -5734,6 +5729,7 @@
 1291190	Each Sale I Drink a Glass of Water
 1291690	Shodō
 1292010	Missile Command: Recharged (2020)
+1292160	Launch Break
 1292220	Apoc Runner
 1292260	LANDERS: Black Moon
 1292400	Taimumari 2
@@ -9620,6 +9616,7 @@
 2779850	Lukewarm Massacre: The killer who may or may not be a moron.
 2780080	Screen TRPG
 2780380	搾精錬金工房イリス～錬金術師と勇者と竜騎士と女神さまのえっちな冒険～
+2780600	Dark Investigation : Experiment
 2780610	Unholy Village
 2781070	Fell in love with coser
 2781910	Bellumentum
@@ -10555,6 +10552,7 @@
 3380810	Wild Snap
 3382340	Aspirant of Blackfire Crypts
 3383520	Incest Story: Sister
+3385250	ラビィとパネルでしりとり
 3385740	Fishing Clicker
 3386270	Barrenny
 3386890	灵剑奇缘
@@ -11424,6 +11422,7 @@
 4749860	OH NO, NOT ANOTHER L
 4753420	Celestia
 4757840	战法道传奇
+4767380	隐秘之潮
 4779460	Shoot Together
 4779520	Moe Mekuri Beauty and the Beast
 4779800	Unredeemable
@@ -11465,7 +11464,6 @@
 4996170	Magic Fusion
 5001500	PayBack!?Touchinv!?Acrowded train!!Mizuki ichinomiya Edition
 5002180	Goddess Story
-5022330	Abraxas Online
 5024260	Gorgeous Legion
 5034920	LAUNDRO
 5036550	Office Sluts: Act 0
