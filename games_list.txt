@@ -259,7 +259,6 @@
 21920	Wheelman
 21950	Grey's Anatomy: The Video Game
 21990	Teenage Mutant Ninja Turtles
-22140	Penumbra: Requiem
 22700	Sacred 2: Fallen Angel
 23100	Buccaneer: The Pursuit of Infamy
 23120	Droplitz
@@ -735,7 +734,6 @@
 208770	Warlock Master of the Arcane Beta
 208860	Mad Riders
 209100	Resident Evil: Operation Raccoon City
-209120	Street Fighter X Tekken
 209270	Hero Academy
 209340	Ride to Hell: Retribution
 209390	Dungeonbowl Knockout Edition
@@ -772,6 +770,7 @@
 212580	The Amazing Spider-Man
 212740	TERA
 212820	Painkiller Hell & Damnation Preview
+212910	Call of Duty: Black Ops II - Zombies
 213050	Starvoid Beta
 213120	Transformers: Fall of Cybertron
 213290	Max Payne 3 PR
@@ -1079,7 +1078,6 @@
 268810	Paranormal State: Poison Spring Collector's Edition
 268830	Doctor Who: The Adventure Games
 268930	Malevolence: The Sword of Ahkranox
-269390	Dethroned!
 269530	Voice Of Pripyat
 269730	The Golf Club
 269810	Spate
@@ -1564,7 +1562,6 @@
 365980	Useless Box
 366040	Iggy's Egg Adventure
 366400	Dead Star
-366460	Pavel Quest
 366580	Fazbear Nightmare
 366600	Withstand: Apotheosis
 366810	Dungeon Hero
@@ -2151,6 +2148,7 @@
 496440	The Challenge
 496480	Vex
 496510	M.EXE
+496920	Moirai
 497120	Wildcard
 497270	MIGHT
 497440	HOMEBOUND
@@ -2362,6 +2360,7 @@
 542530	封神英杰传
 543280	VR Laser Harp
 543360	Relaxation balls
+543650	Last Days
 543960	Rugby Challenge 4
 544190	Book Series - Alice in Wonderland
 544270	The Bellows
@@ -6291,7 +6290,6 @@
 1446660	Ayu - The Dream Soul -
 1446970	RX Racing 2019 Pro
 1447290	Tactical Operations Force
-1447420	Burg Battle
 1447580	ココロクローバー パート2/Kokoro Clover Part2
 1448250	Swing Dunk (Open Beta)
 1448350	QUANTAAR
@@ -7073,6 +7071,7 @@
 1691220	三侠五义
 1691250	原始传奇
 1691260	阴阳界
+1691280	Maximum Football
 1691340	Steel Hunters
 1691360	Hentai World: Animated Puzzle
 1691760	Survival Escape Room
@@ -7807,6 +7806,7 @@
 1959860	Virtual Tokyo Tower
 1960040	High Velocity Arena
 1961170	The Great Dick Invasion
+1961460	Project Playtime
 1961800	One Way Trip
 1961810	Raven Estate
 1962110	VR ROBOT FIGHT
@@ -7944,7 +7944,6 @@
 2012160	Stranded Nightmare
 2012260	Blade Runner 2033: Labyrinth
 2012740	Lonely Darkness
-2015140	Overdrive
 2015480	The Lifetime
 2015760	Havenhold
 2015850	Hunnic Girl In Divided Roman Empire
@@ -8575,7 +8574,6 @@
 2280530	Red Trigger Prologue Remastered
 2281150	Zaoça: Šäaiks Lagush
 2284060	Crazy Cars
-2285270	Return
 2285600	The Third
 2286930	Ragnarock: the "Vikings On Tour" Update
 2287220	F1® Manager 2023
@@ -8863,6 +8861,7 @@
 2395080	Dream of Echo
 2395320	Windy Waltz
 2396900	Enspell
+2396910	吞食天地2：誕生
 2397080	Explorer：Golden Empire
 2397100	Particle life on AI illust for Adult 1
 2397720	Racer
@@ -9424,7 +9423,6 @@
 2666380	驱魔传说2
 2667780	Extraordinary: Immortal
 2668240	Tercity Life Simulator
-2668250	Dragona: Fireborne
 2668260	Elon's last chance
 2668350	Cats on Duty: Prologue
 2668680	Combo Card Clashers: Prologue
@@ -10617,6 +10615,7 @@
 3434640	BrainBuzzParty WordLink
 3435380	GIF me a break!
 3435450	Hardest
+3435840	Card Bundler: Complete Collection
 3436150	KALEIDOS - The Judgement of the Fallen Star
 3437570	Monkey Drive
 3438570	BEER
@@ -10840,6 +10839,7 @@
 3620670	Interactive Sex - Daddy Twins Incest
 3621000	HYDROPLANT Tycoon
 3622280	Black Vultures: Prey of Greed
+3624020	BULLET YEETERS
 3625560	Sex Adventures - Naughty Sisters - Episode 8
 3627920	Apartment203:HongKong
 3628370	核金风暴(GigaSlave）
@@ -11262,6 +11262,7 @@
 4330460	屠龙归来
 4332270	The Fallen Will
 4333080	Video Store Simulator
+4333480	Boss Fighter
 4335880	Last Light Left
 4337430	烈火战神
 4337690	MEAT EATER
@@ -11313,6 +11314,7 @@
 4457250	Memory Tides
 4457970	FENRIR
 4465280	Catagon
+4465480	Counter-Strike:Global Offensive
 4471320	ValveTestApp4471320
 4478180	ValveTestApp4478180
 4479510	ValveTestApp4479510
@@ -11376,6 +11378,7 @@
 4589400	SUBFLOOR
 4590020	Kill Source: Neon Hemorrhage
 4590790	Defense of Kyrath
+4598310	Uptime 99.9%: Datacenter Simulator
 4609840	The Archmage Who Defeated the Demon King Wants to Be Ravaged by Mobs in a Peaceful World
 4612610	Graphictoria
 4615000	ValveTestApp4615000
@@ -11460,6 +11463,7 @@
 4967600	Gacha Challenge
 4983500	Lo-Fi with Ruka
 4983570	Death Paradise
+4986720	Broken Front
 4991340	Might & Poison Mushroom
 4996170	Magic Fusion
 5001500	PayBack!?Touchinv!?Acrowded train!!Mizuki ichinomiya Edition
@@ -11485,7 +11489,9 @@
 5321400	A Game About Needle In A Haystack
 5322290	ROOMKEEP
 5323760	Verity's Revenge
+5326810	Beat The Cow
 5354560	Adventurer Guild Master
 5370600	ACE COMBAT ZERO: THE BELKAN WAR
 5371410	Dead Reckoning
+5393420	Elya
 5412040	Distorid

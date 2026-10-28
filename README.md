@@ -2,23 +2,30 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-10-27 12:20 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-10-28 13:04 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11491 apps
+**Total tracked:** 11497 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Penumbra: Requiem](https://store.steampowered.com/app/22140/) (AppID: 22140)
-- [Dethroned!](https://store.steampowered.com/app/269390/) (AppID: 269390)
-- [Task Bar Isekai](https://store.steampowered.com/app/352500/) (AppID: 352500)
-- [Launch Break](https://store.steampowered.com/app/1292160/) (AppID: 1292160)
-- [Dark Investigation : Experiment](https://store.steampowered.com/app/2780600/) (AppID: 2780600)
-- [ラビィとパネルでしりとり](https://store.steampowered.com/app/3385250/) (AppID: 3385250)
-- [隐秘之潮](https://store.steampowered.com/app/4767380/) (AppID: 4767380)
+- [Call of Duty: Black Ops II - Zombies](https://store.steampowered.com/app/212910/) (AppID: 212910)
+- [Moirai](https://store.steampowered.com/app/496920/) (AppID: 496920)
+- [Last Days](https://store.steampowered.com/app/543650/) (AppID: 543650)
+- [Maximum Football](https://store.steampowered.com/app/1691280/) (AppID: 1691280)
+- [Project Playtime](https://store.steampowered.com/app/1961460/) (AppID: 1961460)
+- [吞食天地2：誕生](https://store.steampowered.com/app/2396910/) (AppID: 2396910)
+- [Card Bundler: Complete Collection](https://store.steampowered.com/app/3435840/) (AppID: 3435840)
+- [BULLET YEETERS](https://store.steampowered.com/app/3624020/) (AppID: 3624020)
+- [Boss Fighter](https://store.steampowered.com/app/4333480/) (AppID: 4333480)
+- [Counter-Strike:Global Offensive](https://store.steampowered.com/app/4465480/) (AppID: 4465480)
+- [Uptime 99.9%: Datacenter Simulator](https://store.steampowered.com/app/4598310/) (AppID: 4598310)
+- [Broken Front](https://store.steampowered.com/app/4986720/) (AppID: 4986720)
+- [Beat The Cow](https://store.steampowered.com/app/5326810/) (AppID: 5326810)
+- [Elya](https://store.steampowered.com/app/5393420/) (AppID: 5393420)
 
 ---
 
