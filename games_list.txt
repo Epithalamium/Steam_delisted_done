@@ -1,3 +1,4 @@
+92	Codename Gordon
 304	Day of Defeat: Source Press Review
 816	Dota 2 Private Beta
 841	Portal 2 Beta
@@ -734,6 +735,7 @@
 208770	Warlock Master of the Arcane Beta
 208860	Mad Riders
 209100	Resident Evil: Operation Raccoon City
+209120	Street Fighter X Tekken
 209270	Hero Academy
 209340	Ride to Hell: Retribution
 209390	Dungeonbowl Knockout Edition
@@ -770,7 +772,6 @@
 212580	The Amazing Spider-Man
 212740	TERA
 212820	Painkiller Hell & Damnation Preview
-212910	Call of Duty: Black Ops II - Zombies
 213050	Starvoid Beta
 213120	Transformers: Fall of Cybertron
 213290	Max Payne 3 PR
@@ -884,6 +885,8 @@
 227900	Battleship
 227920	Risk
 227940	Heroes & Generals
+227980	Construct 2 Personal
+228000	Construct 2 Business
 228020	Spacebase DF-9 Prototype
 228040	The White Birch Prototype
 228060	Black Lake Prototype
@@ -1061,6 +1064,7 @@
 265650	Project X
 265670	Imagine Me
 265770	Cannons Lasers Rockets
+266070	City of Steam: Arkadia
 266150	Lost Saga North America
 266470	Dark Horizons: Mechanized Corps (Classic)
 266550	Spark Rising
@@ -1506,6 +1510,7 @@
 356130	Heroes of Scene
 356200	Keen Dreams
 356370	Soccer Manager 2015
+356640	Metro Conflict
 357010	The Collider 2
 357480	Frozen Free Fall: Snowball Fight
 357700	Rogue Continuum
@@ -2148,7 +2153,6 @@
 496440	The Challenge
 496480	Vex
 496510	M.EXE
-496920	Moirai
 497120	Wildcard
 497270	MIGHT
 497440	HOMEBOUND
@@ -2360,7 +2364,6 @@
 542530	封神英杰传
 543280	VR Laser Harp
 543360	Relaxation balls
-543650	Last Days
 543960	Rugby Challenge 4
 544190	Book Series - Alice in Wonderland
 544270	The Bellows
@@ -3521,6 +3524,7 @@
 812080	Stick Fight 2 Supreme Duelist
 812120	XIII - Lost Identity
 812180	Intro Maker
+812440	Half-Life: Absolute Zero
 812470	Skyscraper Climb VR
 812510	原始部落
 813000	PUBG Experimental Server
@@ -4867,6 +4871,7 @@
 1086180	Vestige of the Past
 1086220	rOt 3D
 1086360	Pay for picture Vol.02
+1086410	Golf Around!
 1086500	Sinner
 1086530	Eight Stones
 1086660	Empire of Steel and Bone
@@ -6172,7 +6177,6 @@
 1415410	Farm Manager 2021: Prologue
 1415550	Yacht Mechanic Simulator: First Contract
 1415660	TRADER LIFE SIMULATOR
-1416020	Ally Gory: The Great Mushroom Hunt
 1416080	热血战歌
 1417110	Freed Soft
 1417530	Fashion Show Makeover Mega Pack
@@ -6237,6 +6241,7 @@
 1432740	LAST LAND
 1432950	Soccerlypse
 1433100	Alchemist Adventure Prologue
+1433120	STAR WARS™: The Old Republic™ - Public Test Server
 1433200	PIXNAUTICRAFT
 1433330	Happy's Humble Burger Farm Alpha
 1433350	Happy's Humble Burger Farm Alpha 1
@@ -7071,7 +7076,6 @@
 1691220	三侠五义
 1691250	原始传奇
 1691260	阴阳界
-1691280	Maximum Football
 1691340	Steel Hunters
 1691360	Hentai World: Animated Puzzle
 1691760	Survival Escape Room
@@ -8861,7 +8865,6 @@
 2395080	Dream of Echo
 2395320	Windy Waltz
 2396900	Enspell
-2396910	吞食天地2：誕生
 2397080	Explorer：Golden Empire
 2397100	Particle life on AI illust for Adult 1
 2397720	Racer
@@ -8946,6 +8949,7 @@
 2431780	Capoo Pals for MAC
 2432090	Eagle Eye: Find the Difference
 2432680	The Foretold: Exordium
+2432990	NightSpawn
 2433090	Maze Escape: The Rolling Ball
 2433650	VR TRIBES: NON-VR EDITION
 2433760	Mutrix
@@ -10085,6 +10089,7 @@
 3042290	Gaia VN Collection
 3042670	TBA
 3042700	Million Sweetheart
+3044350	Nazi Zombies
 3045130	The Last Ramparts
 3046310	Die Fast
 3048530	白荊迴廊
@@ -11254,6 +11259,7 @@
 4316960	Spirit-Sealing Tome
 4319070	Street Legal
 4321890	Coral Social Club
+4323770	Polydangerous
 4324850	Solheart: The Hollow Sun
 4325590	Hello, Runa!
 4326660	Nancy Drew: The Missing Crowley Will
@@ -11270,6 +11276,7 @@
 4354710	Ghost Buster:Village
 4354850	ECUMENE AZTEC: PROLOGUE
 4355620	Deliveryman Simulator
+4356280	SimsalaGrimm™ – The Chaos Crystal
 4357020	一魂双体 他与她的奇妙之旅
 4358720	Tower of Ascension
 4361300	Harrow
@@ -11314,7 +11321,6 @@
 4457250	Memory Tides
 4457970	FENRIR
 4465280	Catagon
-4465480	Counter-Strike:Global Offensive
 4471320	ValveTestApp4471320
 4478180	ValveTestApp4478180
 4479510	ValveTestApp4479510
@@ -11354,6 +11360,7 @@
 4522250	TV Show: Home MakeOver
 4523530	Will or Water
 4524310	王者争雄
+4526190	Hold It In
 4527550	Flounder
 4528240	暗黑战神
 4529300	De profundis 1454
@@ -11402,6 +11409,7 @@
 4673900	SurroundedByBoys
 4678470	The Magician's Hand
 4681400	Nova Fighter
+4682910	Hide or Seek: Container Island
 4686600	Death's Game
 4687470	1.76复古沉默
 4690890	Living with My Bratty Neighbor
@@ -11477,11 +11485,13 @@
 5053500	Verilight
 5059600	Jumpy Mumpy
 5081690	Packpunk
+5089190	Price War
 5091600	Wild Legacy
 5105990	Hentai Clicker: Mika is streaming
 5123540	The Producer
 5132930	The Cauldron Eats First
 5150620	Scan N Go: Store Simulator
+5159880	the chair across the table stayed empty
 5166980	Wonderboy in Monster Land
 5176270	Roadside Odyssey
 5248540	GiGA BRAIN TACTICS
