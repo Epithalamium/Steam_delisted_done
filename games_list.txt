@@ -90,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -253,7 +253,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -388,7 +388,7 @@
 36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans
+36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
 36150	Westward Collection
 36160	Westward 2
@@ -398,7 +398,7 @@
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Granny in Paradise
+36270	Super Granny Collection
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -971,7 +971,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -10099,7 +10099,7 @@
 3050470	苍之女武神
 3050710	Iridio: Prologue
 3051440	Pharmacy Simulator: Prologue
-3051720	Bloodcrave R18: Prologue
+3051720	Bloodcrave: R18 Prologue
 3052420	The Better Deal
 3053510	Nordic Racing
 3053710	Cuppy Coffee Sim
@@ -10130,7 +10130,7 @@
 3067230	Asleep - Ato 2
 3068430	Private Military Manager: Prologue
 3068470	Pizza Hub
-3068700	ASH ECHOES
+3068700	Ash Echoes Global
 3069570	Tech Store Simulator: Prologue
 3069940	Miniko
 3071180	How We Die: Prologue
@@ -10399,7 +10399,7 @@
 3242420	AWAKEN - Astral Blade: First Contact
 3243330	Youniverse
 3247150	PLAYTOWN: Genesis
-3247170	Dungeon Decks: Heroes of Herp Derp
+3247170	Dungeon Decks
 3247300	Tumble Track
 3247610	Otaku Miracles
 3247710	Mad Miner 2
