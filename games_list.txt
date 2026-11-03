@@ -450,6 +450,7 @@
 40370	Emergency 2012
 40600	Fort Zombie
 40920	NBA 2K10
+41010	Serious Sam HD: The Second Encounter
 41610	Descent: FreeSpace - The Great War
 41750	The Rockin' Dead
 42100	Lead and Gold - Gangs of the Wild West Beta
@@ -2576,7 +2577,6 @@
 601320	Schlocks
 601400	qb
 601420	Dark Parables: Requiem for the Forgotten Shadow Collector's Edition
-601590	BattleTrucks
 601770	Sparc
 601960	Under That Rain
 602000	Uplands Motel: VR Thriller
@@ -2640,6 +2640,7 @@
 616910	The Zombiest Adventures In The Perverted Age of Enlightenment With a Pinch of Woodpunk
 617230	Trapped Within
 617350	Samurai Forge
+618200	Skylands
 618260	Endurance
 618640	The Crowded Party Game Collection
 618840	Samhain World
@@ -3126,6 +3127,7 @@
 729220	Save me Mr Tako: Tasukete Tako-San
 729330	The Girl on the Train
 729470	Stratego® Multiplayer
+729650	More Than Just Chess
 729740	JigsawMania
 729910	Sable Maze: Norwich Caves Collector's Edition
 729920	Dark Dimensions: City of Ash Collector's Edition
@@ -6739,6 +6741,7 @@
 1582790	Frail Faces
 1583030	Dissociation
 1583590	BLACKOUT
+1583820	Z-Company
 1584510	Conflict of Darkness
 1584520	Monster Dungeon
 1584560	Idle Poker
@@ -9090,6 +9093,7 @@
 2493030	Timo Boll Beats Table Tennis
 2494280	The golden girl Cloud top board
 2495050	Merge Adventure: Magic Dragons
+2496220	Spooky Bay
 2496400	MiniDrift
 2496860	修仙小屋
 2497550	Summum Aeterna: Prologue
@@ -9098,6 +9102,7 @@
 2498350	The Legend of Ogorets #1: Wrat
 2498450	Godforsaken
 2498460	Arcanum
+2498990	Achievement Display Cabinet
 2499270	The Mobius: Apartment
 2499540	Selection Kingdom: Level 1 - Limited -
 2499760	○ △ □ -circle triangle square-
@@ -9293,6 +9298,7 @@
 2598330	Cosmogelica
 2599140	Chain
 2599460	Sip Or Die
+2600670	Vanity
 2600710	Special Forces War - Zombie Attack
 2601270	Cryoterror
 2601600	Rock Star Life Simulator: Prologue
@@ -9641,6 +9647,7 @@
 2790930	Velev
 2791240	海岛奇妙物语
 2791750	Construction Simulator - Gold Edition
+2792130	StarKeeper
 2793360	RPG Survivors
 2793400	Magical Angel Fairy Flower_Standard
 2793990	Grand Emprise: Dyson Sphere Era
@@ -10399,7 +10406,7 @@
 3242420	AWAKEN - Astral Blade: First Contact
 3243330	Youniverse
 3247150	PLAYTOWN: Genesis
-3247170	Dungeon Decks
+3247170	Dungeon Decks: Heroes of Herp Derp
 3247300	Tumble Track
 3247610	Otaku Miracles
 3247710	Mad Miner 2
@@ -11095,6 +11102,7 @@
 3957440	Nightmare Returner
 3959570	Guns Cant Walk
 3961750	Goofy Lad
+3963240	Twisted Chance Online
 3964960	DOTscape
 3966330	Paper Department
 3966450	Cookie of Desire
@@ -11127,6 +11135,7 @@
 4014470	BLEEDOUT
 4015400	2Hours
 4017150	Pure Exsotic - Story Simulator
+4018590	Mutants
 4020750	The Quelling
 4025370	MyPlaceDiary
 4026260	Tape Over: Night Shift
@@ -11158,6 +11167,7 @@
 4075300	卡放KF
 4076480	Morphos
 4076620	WarBirds26
+4079420	FROGBLOCK
 4080880	The Cave Exit
 4081270	Shattered Vault
 4086490	Beneath their Names
@@ -11266,6 +11276,7 @@
 4314280	Faehnor Online
 4316960	Spirit-Sealing Tome
 4319070	Street Legal
+4319150	CZO: Ultimate Edition
 4321890	Coral Social Club
 4323770	Polydangerous
 4324850	Solheart: The Hollow Sun
@@ -11326,6 +11337,7 @@
 4453800	Final Stance - Board Game
 4456530	Deprivation
 4457250	Memory Tides
+4457660	小城茉莉
 4457970	FENRIR
 4465280	Catagon
 4471320	ValveTestApp4471320
@@ -11472,8 +11484,10 @@
 4922930	Santa Is Unbreakable
 4930540	Anomaly Tunnel
 4946520	FUTA FEMBOY MINESWEEPER
+4948290	JOIN
 4951370	夯犇绿色传奇
 4952870	Entities Detected
+4956290	Protocol - Chapter 1: Limbo
 4963050	Corelink Protocol
 4967600	Gacha Challenge
 4983500	Lo-Fi with Ruka
@@ -11509,8 +11523,10 @@
 5323760	Verity's Revenge
 5326810	Beat The Cow
 5351530	Mouthpiece Boxing Manager
-5354560	Adventurer Guild Master
+5353070	YOUR GIRLFRIEND IS LIVE 📹‼️
+5361750	Any Woman Gets SEX!
 5370600	ACE COMBAT ZERO: THE BELKAN WAR
 5371410	Dead Reckoning
 5393420	Elya
 5412040	Distorid
+5420900	Chimera Haven: Survivors
