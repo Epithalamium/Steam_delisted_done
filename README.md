@@ -2,34 +2,30 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-11-03 14:24 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-11-04 14:39 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11532 apps
+**Total tracked:** 11544 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Serious Sam HD: The Second Encounter](https://store.steampowered.com/app/41010/) (AppID: 41010)
-- [Skylands](https://store.steampowered.com/app/618200/) (AppID: 618200)
-- [More Than Just Chess](https://store.steampowered.com/app/729650/) (AppID: 729650)
-- [Z-Company](https://store.steampowered.com/app/1583820/) (AppID: 1583820)
-- [Spooky Bay](https://store.steampowered.com/app/2496220/) (AppID: 2496220)
-- [Achievement Display Cabinet](https://store.steampowered.com/app/2498990/) (AppID: 2498990)
-- [Vanity](https://store.steampowered.com/app/2600670/) (AppID: 2600670)
-- [StarKeeper](https://store.steampowered.com/app/2792130/) (AppID: 2792130)
-- [Twisted Chance Online](https://store.steampowered.com/app/3963240/) (AppID: 3963240)
-- [Mutants](https://store.steampowered.com/app/4018590/) (AppID: 4018590)
-- [FROGBLOCK](https://store.steampowered.com/app/4079420/) (AppID: 4079420)
-- [CZO: Ultimate Edition](https://store.steampowered.com/app/4319150/) (AppID: 4319150)
-- [小城茉莉](https://store.steampowered.com/app/4457660/) (AppID: 4457660)
-- [JOIN](https://store.steampowered.com/app/4948290/) (AppID: 4948290)
-- [Protocol - Chapter 1: Limbo](https://store.steampowered.com/app/4956290/) (AppID: 4956290)
-- [YOUR GIRLFRIEND IS LIVE 📹‼️](https://store.steampowered.com/app/5353070/) (AppID: 5353070)
-- [Any Woman Gets SEX!](https://store.steampowered.com/app/5361750/) (AppID: 5361750)
-- [Chimera Haven: Survivors](https://store.steampowered.com/app/5420900/) (AppID: 5420900)
+- [Martino Test App 3](https://store.steampowered.com/app/208130/) (AppID: 208130)
+- [War to the Core](https://store.steampowered.com/app/707760/) (AppID: 707760)
+- [War Trigger 2](https://store.steampowered.com/app/773850/) (AppID: 773850)
+- [Iron Side](https://store.steampowered.com/app/1979960/) (AppID: 1979960)
+- [Smash Runner](https://store.steampowered.com/app/2336340/) (AppID: 2336340)
+- [吞食天地2：誕生](https://store.steampowered.com/app/2396910/) (AppID: 2396910)
+- [The Lightless World](https://store.steampowered.com/app/2406480/) (AppID: 2406480)
+- [Coraland: the worst rescuer](https://store.steampowered.com/app/2454110/) (AppID: 2454110)
+- [FantasyHearts](https://store.steampowered.com/app/3258090/) (AppID: 3258090)
+- [The Backrooms: Reset](https://store.steampowered.com/app/3765730/) (AppID: 3765730)
+- [RoadCraft - Public Test Server](https://store.steampowered.com/app/3858660/) (AppID: 3858660)
+- [Monster Lab Simulator: Prologue](https://store.steampowered.com/app/4036850/) (AppID: 4036850)
+- [Tideborne](https://store.steampowered.com/app/4188790/) (AppID: 4188790)
+- [鬼才和你谈恋爱！](https://store.steampowered.com/app/4485970/) (AppID: 4485970)
 
 ---
 

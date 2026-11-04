@@ -253,7 +253,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -450,7 +450,6 @@
 40370	Emergency 2012
 40600	Fort Zombie
 40920	NBA 2K10
-41010	Serious Sam HD: The Second Encounter
 41610	Descent: FreeSpace - The Great War
 41750	The Rockin' Dead
 42100	Lead and Gold - Gangs of the Wild West Beta
@@ -728,6 +727,7 @@
 207890	Football Manager 2013
 207910	Football Manager 2013 Beta
 208090	Loadout
+208130	Martino Test App 3
 208250	Combat Wings: The Great Battles of World War II
 208480	Assassin's Creed® III
 208500	F1 2012
@@ -972,7 +972,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -2992,6 +2992,7 @@
 706840	Castaway VR
 707060	Beast Quest
 707680	Slapshot
+707760	War to the Core
 707780	Catistry
 707790	Dogistry
 707800	Zooistry
@@ -3324,6 +3325,7 @@
 773620	Redemption: Tyranny of Daetorem
 773750	Danger Forever
 773770	The Way of Kings: Escape the Shattered Plains!
+773850	War Trigger 2
 774211	Drive Buy
 774711	The MagiCats Best Of
 774731	Juventus VR
@@ -7860,6 +7862,7 @@
 1979550	Doorman
 1979820	Room 12
 1979950	Necrophobia
+1979960	Iron Side
 1980000	Made Beaver
 1980490	Speedway Challenge 2022
 1980560	Cryptid Kitchen
@@ -8703,6 +8706,7 @@
 2335760	Antibot
 2335870	Trading Cat Game
 2335940	Kingless Pawns
+2336340	Smash Runner
 2337510	Second Wave
 2337860	Nubs!
 2337890	Time Survivors: Prologue
@@ -8863,6 +8867,7 @@
 2395080	Dream of Echo
 2395320	Windy Waltz
 2396900	Enspell
+2396910	吞食天地2：誕生
 2397080	Explorer：Golden Empire
 2397100	Particle life on AI illust for Adult 1
 2397720	Racer
@@ -8883,6 +8888,7 @@
 2405680	LoYuno - Horror Escape
 2406050	Quarantine
 2406130	Verdict: Descent
+2406480	The Lightless World
 2406860	Nova's Cube!
 2407320	NoirNet: The Neon Enigma
 2408620	Zombie Night
@@ -9000,6 +9006,7 @@
 2452090	Greed is Good
 2452750	Medical Record Sheet
 2452840	Spike Schema
+2454110	Coraland: the worst rescuer
 2454870	Rock Scissor Paper
 2457040	Thyria: Step Into Dreams
 2457060	Mearcair/System Pulse - Prologue
@@ -10422,6 +10429,7 @@
 3255960	Hammet P.I.
 3256070	Hat Helpers
 3256290	Honey Trap
+3258090	FantasyHearts
 3258390	Undead Realm：Ego
 3258650	그 어느 여름날의 이야기 : 그래픽 리마스터 GRAPHIC REMASTERED
 3259190	Dead Dawg Delivery Co.
@@ -10978,6 +10986,7 @@
 3760740	英雄传奇
 3761240	Incest Daughters BDSM - Episode 2
 3764740	Interactive Sex - Incest Twins - Episode 3
+3765730	The Backrooms: Reset
 3767220	The Last Mage
 3767940	My Tomboy Bully Uses Me as Her Punching Bag
 3772410	Dead Air
@@ -11045,6 +11054,7 @@
 3856640	Poison of the Five Crevices
 3856680	STARGAZING
 3857340	Hentai Drone Simulator
+3858660	RoadCraft - Public Test Server
 3858910	Project Warfield Heroes
 3859140	Lurker
 3862560	Snowfield Passion
@@ -11142,6 +11152,7 @@
 4029030	Hollow VR
 4029450	Resizer
 4032640	Your Wife's Pussy
+4036850	Monster Lab Simulator: Prologue
 4037420	UtherWorld
 4038140	Out of Time
 4039320	KICK BUDS
@@ -11219,6 +11230,7 @@
 4183250	afsdafsfasf"><h1>testset
 4188050	Treasurer
 4188090	Political Run: World Leaders
+4188790	Tideborne
 4191340	ZEROLIMIT
 4192880	Football Tactics Field
 4197600	Blossaria
@@ -11349,6 +11361,7 @@
 4482700	Kogama
 4482960	驱入虚空
 4483570	PegPegBall
+4485970	鬼才和你谈恋爱！
 4486430	Tragedy is approaching
 4486810	One Of Us
 4488570	Fresh Food Merge
@@ -11519,7 +11532,6 @@
 5248540	GiGA BRAIN TACTICS
 5252130	O2Jam Flower
 5321400	A Game About Needle In A Haystack
-5322290	ROOMKEEP
 5323760	Verity's Revenge
 5326810	Beat The Cow
 5351530	Mouthpiece Boxing Manager
