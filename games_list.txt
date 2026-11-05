@@ -253,7 +253,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -972,7 +972,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -3100,6 +3100,7 @@
 721010	Newton and the Apple Tree
 721470	Snake Treasure Chest
 721550	To the Edge of the Sky: Operation Phoenix
+722030	A World Reforged
 722070	Hyperide VR
 722190	EEP 14 Basic
 722210	Smart Cube
@@ -4423,6 +4424,7 @@
 992640	Pagan: Absent Gods
 992780	Dragon Eye Online
 992820	Monster Hentai
+993210	Auto GUI Battler
 993280	Gourmet Food Wizard
 993840	Drive
 993850	Tsukumono / つくもの
@@ -8524,6 +8526,7 @@
 2254920	Temtem: Showdown
 2255000	Slave
 2255430	Colorful Dotlines
+2255670	Project Confrontation
 2255760	Parts Unknown
 2255930	魔女の館
 2256040	For The Freedom!
@@ -8867,7 +8870,6 @@
 2395080	Dream of Echo
 2395320	Windy Waltz
 2396900	Enspell
-2396910	吞食天地2：誕生
 2397080	Explorer：Golden Empire
 2397100	Particle life on AI illust for Adult 1
 2397720	Racer
@@ -10113,7 +10115,7 @@
 3050470	苍之女武神
 3050710	Iridio: Prologue
 3051440	Pharmacy Simulator: Prologue
-3051720	Bloodcrave: R18 Prologue
+3051720	Bloodcrave R18: Prologue
 3052420	The Better Deal
 3053510	Nordic Racing
 3053710	Cuppy Coffee Sim
@@ -10166,6 +10168,7 @@
 3076990	Dungeon Werewolf
 3077160	Elegy of Fate
 3077220	Tech Hustle
+3078500	The Twelve Slot Saloon
 3078910	Sisters Z Hypnosis
 3079240	A Tale of Two Flowers
 3079660	Twin-Stick Survivors
@@ -10284,6 +10287,7 @@
 3146080	極樂宿舍
 3146110	Hit of Chernobyl
 3147120	Hot Reels
+3148840	No Signal Escape Room
 3148880	Lord Of The Penguins
 3148920	Hentai Puzzle: Lustful Legends
 3149100	PawnShop Simulator
@@ -11054,7 +11058,6 @@
 3856640	Poison of the Five Crevices
 3856680	STARGAZING
 3857340	Hentai Drone Simulator
-3858660	RoadCraft - Public Test Server
 3858910	Project Warfield Heroes
 3859140	Lurker
 3862560	Snowfield Passion
@@ -11304,7 +11307,7 @@
 4337430	烈火战神
 4337690	MEAT EATER
 4338060	Goddess of Fate: Anime RPG
-4354710	Ghost Buster:Village
+4354710	Forsaken Village
 4354850	ECUMENE AZTEC: PROLOGUE
 4355620	Deliveryman Simulator
 4357020	一魂双体 他与她的奇妙之旅
@@ -11529,8 +11532,10 @@
 5159880	the chair across the table stayed empty
 5166980	Wonderboy in Monster Land
 5176270	Roadside Odyssey
+5183910	Okubo: The Dragon of Major Cases
 5248540	GiGA BRAIN TACTICS
 5252130	O2Jam Flower
+5253760	Instructions for Gary
 5321400	A Game About Needle In A Haystack
 5323760	Verity's Revenge
 5326810	Beat The Cow
