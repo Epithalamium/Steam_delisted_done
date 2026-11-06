@@ -385,20 +385,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classics
+36100	Tradewinds Classic
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans + Odyssey Pack
+36130	Tradewinds Caravans
 36140	Tradewinds Odyssey
-36150	Westward Collection
+36150	Westward
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania Collection
+36180	Cake Mania
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Super Granny Collection
+36270	Granny in Paradise
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -972,7 +972,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -1055,7 +1055,6 @@
 263840	Out of the Park Baseball 14
 264040	Conversion
 264120	Victory: The Age of Racing
-264240	CONSORTIUM 2014
 264260	Global Outbreak: Doomsday Edition
 265020	Ashes Cricket 2013
 265400	FX Football - The Manager for Every Football Fan
@@ -1157,6 +1156,7 @@
 290750	Earth: Year 2066
 291090	I Get This Call Every Day
 291150	Evolution RTS
+291210	UberStrike
 291410	Duelyst
 291450	Smugglers 5
 291480	Warface: Clutch
@@ -1895,6 +1895,7 @@
 426250	Periodonica
 426750	Yooka-Laylee - Toybox
 427040	Pitstop Challenge
+427270	Orcs Must Die! Unchained
 427480	FritzChess 15
 427840	Unturned II
 427920	FNaF World
@@ -7743,7 +7744,6 @@
 1932950	WAR OPERATION™ : Full Contact
 1933590	Trails of Illusion
 1933870	Knives Out: Extreme
-1934370	Unbridled: Horse Designer
 1934660	Super Trunko Go
 1934780	VEILED EXPERTS
 1934850	王牌对决
@@ -9120,6 +9120,7 @@
 2501310	夏之幻形
 2502350	Out of Hand
 2503080	Byte Breakers
+2503150	Coast Defender
 2504620	Match Gem 99
 2504730	A Lonesome Tale
 2504850	Museo UNIAT
@@ -9205,6 +9206,7 @@
 2544030	Quiet on Set
 2544290	Order Us!
 2544660	Rolling for Romance
+2544880	Dreamland
 2545320	KurOba
 2546910	Summer at Catmai: Fishing Purrrfected
 2547640	Clanswoman
@@ -9788,6 +9790,7 @@
 2856650	Delivery Express
 2856770	Simple Things
 2858010	Sweet Pirates
+2859350	Echoes of the Ashen
 2859900	Firesky
 2860220	Hold The Noise
 2860690	Office Survivor
@@ -9876,6 +9879,7 @@
 2913750	8Love
 2914760	Entropy Survivors: Prologue
 2915670	Pennon and Battle: Enjoy Edition
+2916840	Der Königsruf
 2917190	Dark Skies 2: Keepers of Nemansk
 2918510	Cordyceps Island
 2919290	Sheep's Symphony
@@ -10095,9 +10099,11 @@
 3038760	指尖沙场
 3038870	Fallen Princess Knight
 3039140	異世界∞異世界 ～次はどの作品を、集めよう～
+3039650	GravShift
 3039870	Camp Funtime
 3040440	Crimson Angel
 3040630	Super Chicken Flaps Back and Forth
+3040800	Hardest Game About Jumping
 3041240	Adrenaline Injection
 3041430	Madiha In The Forsaken Dungeon
 3041650	Cute-ing Gallery
@@ -10623,6 +10629,7 @@
 3415760	Reincarnation in another world going to rape All NPCs VR
 3415920	World of Dypians
 3416530	Pawn Shop: Simulator
+3417590	Warhammer 40,000: Space Marine 2 - Public Test Server
 3418180	SCP: V/H/S - Gifts
 3420590	Bob Don't Sleep!
 3420980	You Have A Delivery
@@ -11042,6 +11049,7 @@
 3838310	Deckout
 3838440	Gun Dealer Simulator
 3840290	SoulFeast(灵魂盛宴)
+3841110	Attorney Disbarment Adventure
 3842340	Third Kind
 3843310	Dovengarde Needs Delvers
 3843910	VIOLENCE DOLL バイオレンスドール
@@ -11201,6 +11209,7 @@
 4137160	Donnie's Delicious Nuclear Funeral
 4137950	Beat Knight
 4138160	Kawaii Survivors
+4139820	Project Somnus
 4141830	Protocol: Bullet Hell
 4142220	CESW: Jump Royale
 4142450	ASTEROIDS
@@ -11303,11 +11312,11 @@
 4332270	The Fallen Will
 4333080	Video Store Simulator
 4333480	Boss Fighter
+4333720	Idle Roller
 4335880	Last Light Left
 4337430	烈火战神
 4337690	MEAT EATER
 4338060	Goddess of Fate: Anime RPG
-4354710	Forsaken Village
 4354850	ECUMENE AZTEC: PROLOGUE
 4355620	Deliveryman Simulator
 4357020	一魂双体 他与她的奇妙之旅
@@ -11447,6 +11456,7 @@
 4682910	Hide or Seek: Container Island
 4686600	Death's Game
 4687470	1.76复古沉默
+4689190	NeuroKore: Requiem
 4690890	Living with My Bratty Neighbor
 4692510	火龙传奇
 4697420	SwordRequiem Crack
@@ -11498,6 +11508,7 @@
 4915660	No Exit Protocol
 4918170	Dark Realms: Hoia Baciu
 4922930	Santa Is Unbreakable
+4924590	Mumbai Chef - Junk Food Simulator
 4930540	Anomaly Tunnel
 4946520	FUTA FEMBOY MINESWEEPER
 4948290	JOIN
@@ -11539,6 +11550,7 @@
 5321400	A Game About Needle In A Haystack
 5323760	Verity's Revenge
 5326810	Beat The Cow
+5333180	Dead Ball Specialist
 5351530	Mouthpiece Boxing Manager
 5353070	YOUR GIRLFRIEND IS LIVE 📹‼️
 5361750	Any Woman Gets SEX!
