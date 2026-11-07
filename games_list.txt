@@ -393,7 +393,7 @@
 36150	Westward
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania
+36180	Cake Mania Collection
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
@@ -1156,7 +1156,6 @@
 290750	Earth: Year 2066
 291090	I Get This Call Every Day
 291150	Evolution RTS
-291210	UberStrike
 291410	Duelyst
 291450	Smugglers 5
 291480	Warface: Clutch
@@ -1783,6 +1782,7 @@
 402705	ValveTestApp402705
 402710	Osiris: New Dawn
 402800	Chunks
+402910	Undead Blackout: Reanimated Edition
 403010	The Ultimate Showdown
 403130	SCRABBLE: The Classic Word Game - Official 2016 Edition
 403170	Titan
@@ -1895,7 +1895,6 @@
 426250	Periodonica
 426750	Yooka-Laylee - Toybox
 427040	Pitstop Challenge
-427270	Orcs Must Die! Unchained
 427480	FritzChess 15
 427840	Unturned II
 427920	FNaF World
@@ -9120,7 +9119,6 @@
 2501310	夏之幻形
 2502350	Out of Hand
 2503080	Byte Breakers
-2503150	Coast Defender
 2504620	Match Gem 99
 2504730	A Lonesome Tale
 2504850	Museo UNIAT
@@ -9206,7 +9204,6 @@
 2544030	Quiet on Set
 2544290	Order Us!
 2544660	Rolling for Romance
-2544880	Dreamland
 2545320	KurOba
 2546910	Summer at Catmai: Fishing Purrrfected
 2547640	Clanswoman
@@ -9879,7 +9876,6 @@
 2913750	8Love
 2914760	Entropy Survivors: Prologue
 2915670	Pennon and Battle: Enjoy Edition
-2916840	Der Königsruf
 2917190	Dark Skies 2: Keepers of Nemansk
 2918510	Cordyceps Island
 2919290	Sheep's Symphony
@@ -10629,7 +10625,6 @@
 3415760	Reincarnation in another world going to rape All NPCs VR
 3415920	World of Dypians
 3416530	Pawn Shop: Simulator
-3417590	Warhammer 40,000: Space Marine 2 - Public Test Server
 3418180	SCP: V/H/S - Gifts
 3420590	Bob Don't Sleep!
 3420980	You Have A Delivery
@@ -10711,6 +10706,7 @@
 3484130	Sex Adventures - Incest Family - Episode 2
 3484360	Interactive Sex - Incest Daughters
 3484570	Big Bodacious Barbarians
+3485110	Witness Sickness
 3487130	Sex Adventures - Naughty Sisters - Episode 3
 3488030	Ceuswark Defenders
 3488190	󠀡󠀡
@@ -11323,6 +11319,7 @@
 4358720	Tower of Ascension
 4361300	Harrow
 4363690	SPOOKY JOB: The wrong house
+4364690	Kat Kat: The Food Truck
 4364780	FRACTURA
 4365370	Marceline Richenwinnier +16 - Old Story
 4369200	Hot and Lovely : May Holiday
@@ -11342,6 +11339,7 @@
 4404090	Rapid Fire Girls - AwaAngel -
 4407780	Sparky's Sketch Quest
 4408430	Marceline Richenwinnier - Old Story
+4408870	Snowy Heaven
 4411760	It Is For Her
 4413590	hero and witch
 4413680	This Is You
@@ -11539,6 +11537,7 @@
 5105990	Hentai Clicker: Mika is streaming
 5123540	The Producer
 5132930	The Cauldron Eats First
+5140160	Starflare Dominion
 5150620	Scan N Go: Store Simulator
 5159880	the chair across the table stayed empty
 5166980	Wonderboy in Monster Land
@@ -11556,6 +11555,8 @@
 5361750	Any Woman Gets SEX!
 5370600	ACE COMBAT ZERO: THE BELKAN WAR
 5371410	Dead Reckoning
+5373490	破铜烂铁
 5393420	Elya
 5412040	Distorid
 5420900	Chimera Haven: Survivors
+5481110	Gold Miner Online: Claw Chaos
