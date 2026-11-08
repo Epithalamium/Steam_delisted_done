@@ -90,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max 201: Ice Station Santa
+8260	Sam & Max: Season Two
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -253,7 +253,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -385,7 +385,7 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classic
+36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
 36130	Tradewinds Caravans
@@ -8976,6 +8976,7 @@
 2439610	Bucky's Grounds
 2440180	MiniLife: Tournament
 2440240	Escape Simulator VR
+2440750	Silent North
 2441250	风起苍岚
 2441570	Train Capacity 300%
 2441930	Shadow Of The Devil
@@ -9204,6 +9205,7 @@
 2544030	Quiet on Set
 2544290	Order Us!
 2544660	Rolling for Romance
+2544880	Dreamland
 2545320	KurOba
 2546910	Summer at Catmai: Fishing Purrrfected
 2547640	Clanswoman
@@ -11220,6 +11222,7 @@
 4152920	帝王传奇
 4154550	Cheong-un: Indigo Cloud
 4156110	Deskop Buddy
+4157820	Bias Brawlers
 4159120	Mommy don't hurt me mommy don't hurt me mommy don't hurt me
 4161660	DOPAmine Overdrive
 4162600	Nuclecard
@@ -11270,6 +11273,7 @@
 4248150	Blindfold
 4248700	Game Torch
 4249970	TROX-THE REVERSAL
+4256230	Roadside Store Simulator
 4257150	Hero of Ideal
 4257250	1000 SCORE: 2D Platformer
 4262000	白纸星途:民国乱世歌姬
@@ -11555,8 +11559,10 @@
 5361750	Any Woman Gets SEX!
 5370600	ACE COMBAT ZERO: THE BELKAN WAR
 5371410	Dead Reckoning
+5371940	One Must Fall 2097
 5373490	破铜烂铁
 5393420	Elya
 5412040	Distorid
 5420900	Chimera Haven: Survivors
+5462490	Storage Flipper
 5481110	Gold Miner Online: Claw Chaos

@@ -2,23 +2,22 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-11-07 13:11 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-11-08 13:32 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11562 apps
+**Total tracked:** 11568 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Undead Blackout: Reanimated Edition](https://store.steampowered.com/app/402910/) (AppID: 402910)
-- [Witness Sickness](https://store.steampowered.com/app/3485110/) (AppID: 3485110)
-- [Kat Kat: The Food Truck](https://store.steampowered.com/app/4364690/) (AppID: 4364690)
-- [Snowy Heaven](https://store.steampowered.com/app/4408870/) (AppID: 4408870)
-- [Starflare Dominion](https://store.steampowered.com/app/5140160/) (AppID: 5140160)
-- [破铜烂铁](https://store.steampowered.com/app/5373490/) (AppID: 5373490)
-- [Gold Miner Online: Claw Chaos](https://store.steampowered.com/app/5481110/) (AppID: 5481110)
+- [Silent North](https://store.steampowered.com/app/2440750/) (AppID: 2440750)
+- [Dreamland](https://store.steampowered.com/app/2544880/) (AppID: 2544880)
+- [Bias Brawlers](https://store.steampowered.com/app/4157820/) (AppID: 4157820)
+- [Roadside Store Simulator](https://store.steampowered.com/app/4256230/) (AppID: 4256230)
+- [One Must Fall 2097](https://store.steampowered.com/app/5371940/) (AppID: 5371940)
+- [Storage Flipper](https://store.steampowered.com/app/5462490/) (AppID: 5462490)
 
 ---
 
