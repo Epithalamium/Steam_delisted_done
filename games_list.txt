@@ -90,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -259,6 +259,7 @@
 21920	Wheelman
 21950	Grey's Anatomy: The Video Game
 21990	Teenage Mutant Ninja Turtles
+22140	Penumbra: Requiem
 22700	Sacred 2: Fallen Angel
 23100	Buccaneer: The Pursuit of Infamy
 23120	Droplitz
@@ -376,6 +377,7 @@
 34230	Football Manager 2011 Korean
 34270	SEGA Mega Drive & Genesis Classics
 34320	Football Manager 2011 Russian
+34330	Total War: SHOGUN 2
 34650	Massive Assault Network 2
 34670	Order of War: Challenge
 34860	MotorM4X: Offroad Extreme
@@ -388,17 +390,17 @@
 36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans
+36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
-36150	Westward
+36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania Collection
+36180	Cake Mania
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Granny in Paradise
+36270	Super Granny Collection
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -457,6 +459,7 @@
 42640	Blur
 42650	Transformers: War for Cybertron
 42660	Shrek Forever After
+42690	Call of Duty®: Modern Warfare® 3 (2011) - Multiplayer
 42730	James Bond: Blood Stone
 42830	Achtung Panzer - Kharkov 1943
 42870	Rise of Prussia
@@ -703,6 +706,7 @@
 205570	Risen 2 Beta
 205590	Legends of Pegasus
 205790	Dota 2 Test
+205890	Chronicle: RuneScape Legends
 205950	Jet Set Radio
 206180	Baldurs Gate
 206210	Gotham City Impostors: Free To Play
@@ -972,7 +976,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -992,6 +996,7 @@
 251770	Shadow Man
 251790	Steel Storm: A.M.M.O.
 251890	World of Diving
+251970	Sins of a Dark Age
 252150	Grimm
 252210	Dungeon Dashers
 252290	Elegy For A Dead World
@@ -1563,6 +1568,7 @@
 365980	Useless Box
 366040	Iggy's Egg Adventure
 366400	Dead Star
+366440	Savage Resurrection
 366580	Fazbear Nightmare
 366600	Withstand: Apotheosis
 366810	Dungeon Hero
@@ -3864,6 +3870,7 @@
 879300	Doors to the City
 879310	'90s Football Stars
 879650	Stick Arena
+880220	~Azur Ring~virgin and slave's phylacteries
 880470	Pro Basketball Manager 2019
 880700	Deep Rest
 880860	Juan v Juan
@@ -4418,6 +4425,7 @@
 990460	This is my story
 990740	The Second Chance Strip Club
 991470	Late-night Nurse Call
+991740	Era Of Newborns
 992260	牧剑(Tale Of Swords)
 992400	Summer * The Blind Spot in Mizube Park
 992630	流氓读大学
@@ -6066,6 +6074,7 @@
 1386480	Nether Garden
 1386840	An Evil Existence
 1386880	Werewolf: The Apocalypse - Heart of the Forest BETA
+1386890	Hyper Dash
 1387060	Tale of an Apocalypse
 1388050	Big Brother: The Game
 1388090	Line Dots
@@ -8398,6 +8407,7 @@
 2208470	Meadow Assault
 2208590	Soccer Story Beta
 2208670	Code Red - Unused
+2208840	Amazing Space
 2208870	Wrestling Manager 2023
 2209010	SAIVO
 2209030	Scrapbox
@@ -8458,6 +8468,7 @@
 2226860	집착의 망자 - 집으로부터의 탈출 For Visual edition
 2227240	Grassassins
 2227880	Battle Teams 2 Türkçe Test
+2229880	Command & Conquer™ Tiberian Sun™ and Firestorm™
 2230130	COLLATERAL DAMAGE
 2230240	Jingle Balls
 2230780	Timekeepers Battleground
@@ -9487,6 +9498,7 @@
 2691600	Unwelcome
 2693310	Harvest Knight
 2693470	Journey To The Wand
+2694490	Path of Exile 2
 2694560	Chrono-Shift
 2694580	닥터 P
 2695110	Infinite Forest
@@ -10467,11 +10479,13 @@
 3282320	愛の榨汁
 3282360	Doomsday Warrior
 3283060	The Legend of Emperor Tian
+3284770	Steampunk Shinobi
 3287050	Fate of the Three Kingdoms
 3287210	Starmetal KrusaderZ
 3288330	The Silo 24
 3291370	NightClub Manager
 3291870	Addled Clicker
+3292370	SUBJECTS
 3292680	Red Star Over America
 3293040	Crown Simulator
 3293550	New Battle of Shanghai Beach
@@ -10627,6 +10641,7 @@
 3415760	Reincarnation in another world going to rape All NPCs VR
 3415920	World of Dypians
 3416530	Pawn Shop: Simulator
+3417590	Warhammer 40,000: Space Marine 2 - Public Test Server
 3418180	SCP: V/H/S - Gifts
 3420590	Bob Don't Sleep!
 3420980	You Have A Delivery
@@ -10838,6 +10853,7 @@
 3591890	CombatBox
 3592000	激情麻将
 3592070	雀夢麻雀(Mahjong Dream)
+3592760	Journey's Spirit
 3594670	Ranman
 3595570	Ballmaster
 3596390	Dragon-Slaying War God
@@ -11425,6 +11441,7 @@
 4569900	Creepytape Rewind - Not From Here
 4575900	失序之地
 4576040	东方
+4576320	John Carpenter's Toxic Commando - Public Test Server
 4578720	Orc Bastion
 4580210	iHorse G1
 4584240	Cheap Car Repair: Welcome to Nowhere
