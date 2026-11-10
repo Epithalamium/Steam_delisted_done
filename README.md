@@ -2,33 +2,36 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-11-09 16:40 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-11-10 14:58 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11585 apps
+**Total tracked:** 11595 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Penumbra: Requiem](https://store.steampowered.com/app/22140/) (AppID: 22140)
-- [Total War: SHOGUN 2](https://store.steampowered.com/app/34330/) (AppID: 34330)
-- [Call of Duty®: Modern Warfare® 3 (2011) - Multiplayer](https://store.steampowered.com/app/42690/) (AppID: 42690)
-- [Chronicle: RuneScape Legends](https://store.steampowered.com/app/205890/) (AppID: 205890)
-- [Sins of a Dark Age](https://store.steampowered.com/app/251970/) (AppID: 251970)
-- [Savage Resurrection](https://store.steampowered.com/app/366440/) (AppID: 366440)
-- [~Azur Ring~virgin and slave's phylacteries](https://store.steampowered.com/app/880220/) (AppID: 880220)
-- [Era Of Newborns](https://store.steampowered.com/app/991740/) (AppID: 991740)
-- [Hyper Dash](https://store.steampowered.com/app/1386890/) (AppID: 1386890)
-- [Amazing Space](https://store.steampowered.com/app/2208840/) (AppID: 2208840)
-- [Command & Conquer™ Tiberian Sun™ and Firestorm™](https://store.steampowered.com/app/2229880/) (AppID: 2229880)
-- [Path of Exile 2](https://store.steampowered.com/app/2694490/) (AppID: 2694490)
-- [Steampunk Shinobi](https://store.steampowered.com/app/3284770/) (AppID: 3284770)
-- [SUBJECTS](https://store.steampowered.com/app/3292370/) (AppID: 3292370)
-- [Warhammer 40,000: Space Marine 2 - Public Test Server](https://store.steampowered.com/app/3417590/) (AppID: 3417590)
-- [Journey's Spirit](https://store.steampowered.com/app/3592760/) (AppID: 3592760)
-- [John Carpenter's Toxic Commando - Public Test Server](https://store.steampowered.com/app/4576320/) (AppID: 4576320)
+- [Arctic Combat](https://store.steampowered.com/app/212370/) (AppID: 212370)
+- [Strife](https://store.steampowered.com/app/339280/) (AppID: 339280)
+- [Run and Fire](https://store.steampowered.com/app/360760/) (AppID: 360760)
+- [Zone4](https://store.steampowered.com/app/518660/) (AppID: 518660)
+- [Saint Paul](https://store.steampowered.com/app/1013680/) (AppID: 1013680)
+- [Rocket Arena](https://store.steampowered.com/app/1233550/) (AppID: 1233550)
+- [The Dark Pictures Anthology: House of Ashes - Friend's Pass](https://store.steampowered.com/app/1775270/) (AppID: 1775270)
+- [Only Up!](https://store.steampowered.com/app/2562240/) (AppID: 2562240)
+- [Esteem](https://store.steampowered.com/app/2832510/) (AppID: 2832510)
+- [Rubedo: The Occult Dawn](https://store.steampowered.com/app/2972020/) (AppID: 2972020)
+- [Scolionophobia](https://store.steampowered.com/app/2972590/) (AppID: 2972590)
+- [Chicken](https://store.steampowered.com/app/3099520/) (AppID: 3099520)
+- [Only up?Climb The Tower!](https://store.steampowered.com/app/3683640/) (AppID: 3683640)
+- [100 Cats Lost in the 19th Century Find & Color](https://store.steampowered.com/app/3809500/) (AppID: 3809500)
+- [Poppidemic](https://store.steampowered.com/app/4040380/) (AppID: 4040380)
+- [Nullspace](https://store.steampowered.com/app/4147650/) (AppID: 4147650)
+- [AI Fatigue Shooter](https://store.steampowered.com/app/4493260/) (AppID: 4493260)
+- [Maintain](https://store.steampowered.com/app/4899390/) (AppID: 4899390)
+- [Drone Orbit: An Incremental Space Mining Drift](https://store.steampowered.com/app/4930800/) (AppID: 4930800)
+- [The Dictatories](https://store.steampowered.com/app/5497420/) (AppID: 5497420)
 
 ---
 

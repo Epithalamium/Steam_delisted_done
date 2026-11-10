@@ -253,13 +253,12 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
 21950	Grey's Anatomy: The Video Game
 21990	Teenage Mutant Ninja Turtles
-22140	Penumbra: Requiem
 22700	Sacred 2: Fallen Angel
 23100	Buccaneer: The Pursuit of Infamy
 23120	Droplitz
@@ -377,7 +376,6 @@
 34230	Football Manager 2011 Korean
 34270	SEGA Mega Drive & Genesis Classics
 34320	Football Manager 2011 Russian
-34330	Total War: SHOGUN 2
 34650	Massive Assault Network 2
 34670	Order of War: Challenge
 34860	MotorM4X: Offroad Extreme
@@ -395,7 +393,7 @@
 36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania
+36180	Cake Mania Collection
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
@@ -459,7 +457,6 @@
 42640	Blur
 42650	Transformers: War for Cybertron
 42660	Shrek Forever After
-42690	Call of Duty®: Modern Warfare® 3 (2011) - Multiplayer
 42730	James Bond: Blood Stone
 42830	Achtung Panzer - Kharkov 1943
 42870	Rise of Prussia
@@ -706,7 +703,6 @@
 205570	Risen 2 Beta
 205590	Legends of Pegasus
 205790	Dota 2 Test
-205890	Chronicle: RuneScape Legends
 205950	Jet Set Radio
 206180	Baldurs Gate
 206210	Gotham City Impostors: Free To Play
@@ -771,6 +767,7 @@
 211880	Bullet Run
 212090	Endless Space VIP
 212180	Combat Arms
+212370	Arctic Combat
 212390	C9
 212430	Train Simulator Alpha
 212580	The Amazing Spider-Man
@@ -976,7 +973,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -996,7 +993,6 @@
 251770	Shadow Man
 251790	Steel Storm: A.M.M.O.
 251890	World of Diving
-251970	Sins of a Dark Age
 252150	Grimm
 252210	Dungeon Dashers
 252290	Elegy For A Dead World
@@ -1403,6 +1399,7 @@
 338930	TRANSFORMERS: Devastation
 339040	Chicken Little
 339110	Plith
+339280	Strife
 339530	Factions: Origins of Malu
 339540	Artizens
 339600	VEGA Conflict
@@ -1539,6 +1536,7 @@
 360610	Houston, we have a problem
 360700	With Your Destiny
 360730	Cards and Castles
+360760	Run and Fire
 360950	Descent: Underground
 361360	Goosebumps
 361370	Deer Hunter: Reloaded
@@ -1568,7 +1566,6 @@
 365980	Useless Box
 366040	Iggy's Egg Adventure
 366400	Dead Star
-366440	Savage Resurrection
 366580	Fazbear Nightmare
 366600	Withstand: Apotheosis
 366810	Dungeon Hero
@@ -2271,6 +2268,7 @@
 517860	Fly to KUMA MAKER
 518160	Abrams Tank
 518320	Soko Match
+518660	Zone4
 518720	Overkill VR
 519870	0
 519930	Social Interaction Trainer
@@ -4528,6 +4526,7 @@
 1013360	Feditor
 1013430	TetrotronVR
 1013440	Infected Doll
+1013680	Saint Paul
 1014020	Successor of the Moon
 1014060	Kiss me
 1014390	Dashing Dodgems
@@ -5486,6 +5485,7 @@
 1232430	Counter Fight 4
 1232710	Rustler: Prologue
 1232980	Alien 911 Prologue
+1233550	Rocket Arena
 1234040	DUBIUM
 1234060	HumanBloodSandwich
 1234290	Paug
@@ -7311,6 +7311,7 @@
 1775050	Hentai Cast: Podcast Simulator
 1775060	NoExist
 1775230	Shudderhall
+1775270	The Dark Pictures Anthology: House of Ashes - Friend's Pass
 1777120	STIX: Combat Devolved
 1777670	Medieval Trader Simulator
 1777760	Soccer Manager 2022
@@ -8468,7 +8469,6 @@
 2226860	집착의 망자 - 집으로부터의 탈출 For Visual edition
 2227240	Grassassins
 2227880	Battle Teams 2 Türkçe Test
-2229880	Command & Conquer™ Tiberian Sun™ and Firestorm™
 2230130	COLLATERAL DAMAGE
 2230240	Jingle Balls
 2230780	Timekeepers Battleground
@@ -9216,7 +9216,6 @@
 2544030	Quiet on Set
 2544290	Order Us!
 2544660	Rolling for Romance
-2544880	Dreamland
 2545320	KurOba
 2546910	Summer at Catmai: Fishing Purrrfected
 2547640	Clanswoman
@@ -9242,6 +9241,7 @@
 2561150	BRAVE22 -ブレイブ22-
 2561170	HotDog TD
 2561690	eseala
+2562240	Only Up!
 2562400	DONG WU: ODYSSEY
 2562640	Petrol Station Sim
 2563870	Pieterw_2023_test_game
@@ -9498,7 +9498,6 @@
 2691600	Unwelcome
 2693310	Harvest Knight
 2693470	Journey To The Wand
-2694490	Path of Exile 2
 2694560	Chrono-Shift
 2694580	닥터 P
 2695110	Infinite Forest
@@ -9739,6 +9738,7 @@
 2830310	NSFWRoomVR
 2830710	Set Sail! Arena
 2831940	Brave Fantasy
+2832510	Esteem
 2833950	Psychometric Personality Profiler
 2834050	Escape from the Village of Lustful Rituals
 2834080	Wildsong
@@ -9999,6 +9999,8 @@
 2969260	Lunia Z Global
 2970160	Sexy Beats
 2971660	InTheDisorderlyCourtyard
+2972020	Rubedo: The Occult Dawn
+2972590	Scolionophobia
 2972690	Sunshine In WoozaVille!
 2972870	Red Ruins: VR vs. PC
 2973490	Megaloot: Prelude
@@ -10225,6 +10227,7 @@
 3097570	CHAINED
 3098720	Culture Wars
 3099020	Fast Food Simulator: Prologue
+3099520	Chicken
 3100110	School Days
 3101290	Dinos
 3101820	Prove It and Move It
@@ -10947,6 +10950,7 @@
 3682390	Three Legions: Erosion of the Abyss
 3682440	Othello: Battle Royale
 3682520	Escape From The Island
+3683640	Only up?Climb The Tower!
 3684170	Interactive Sex - Futanari Incest - Episode 1
 3685550	My Sadistic Yandere Goth Mom Mercilessly Dominates Me
 3686550	Fallbound
@@ -11041,6 +11045,7 @@
 3807610	Raveren: The Legend Of Etheria
 3807620	Brian's Redemption
 3807820	Just Slash
+3809500	100 Cats Lost in the 19th Century Find & Color
 3810490	Dominated by: Yandere Goth Mommy
 3810880	THE CUBE, SAVE US
 3813810	PengPong: Prologue
@@ -11181,6 +11186,7 @@
 4037420	UtherWorld
 4038140	Out of Time
 4039320	KICK BUDS
+4040380	Poppidemic
 4042230	咕的牌
 4045290	Smack The Trump
 4045850	Kallbrand
@@ -11230,6 +11236,7 @@
 4146000	GANG OF DRAGON
 4146270	8-Second Records
 4146720	DO NOT MINIMIZE THIS WINDOW
+4147650	Nullspace
 4149540	Rift Investigations
 4150250	SWEATING
 4151430	The Shadow: L.O.A.P
@@ -11399,6 +11406,7 @@
 4491690	KANTEYNIR
 4492390	Holy Crap
 4492810	WHOREHAMMER 69 000
+4493260	AI Fatigue Shooter
 4495510	Plantation Simulator
 4499560	Party Knights
 4500780	Touhou: Records of Wealth-Seeking
@@ -11441,7 +11449,6 @@
 4569900	Creepytape Rewind - Not From Here
 4575900	失序之地
 4576040	东方
-4576320	John Carpenter's Toxic Commando - Public Test Server
 4578720	Orc Bastion
 4580210	iHorse G1
 4584240	Cheap Car Repair: Welcome to Nowhere
@@ -11523,12 +11530,14 @@
 4884890	Paint Gal Adventures
 4893120	Pogo Frogo
 4898540	Debris Zone
+4899390	Maintain
 4903440	Parasite Survivor
 4915660	No Exit Protocol
 4918170	Dark Realms: Hoia Baciu
 4922930	Santa Is Unbreakable
 4924590	Mumbai Chef - Junk Food Simulator
 4930540	Anomaly Tunnel
+4930800	Drone Orbit: An Incremental Space Mining Drift
 4946520	FUTA FEMBOY MINESWEEPER
 4948290	JOIN
 4951370	夯犇绿色传奇
@@ -11583,3 +11592,4 @@
 5420900	Chimera Haven: Survivors
 5462490	Storage Flipper
 5481110	Gold Miner Online: Claw Chaos
+5497420	The Dictatories
