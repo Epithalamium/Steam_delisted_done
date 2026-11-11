@@ -207,6 +207,7 @@
 15310	The Settlers: Heritage of Kings
 15330	The Settlers: Rise of an Empire
 15540	1... 2... 3... KICK IT! (Drop That Beat Like an Ugly Baby)
+15640	Warhammer® 40,000™: Dawn of War® II (Press Build)
 15940	The Office
 15950	Reaxxion
 15980	Money Tree
@@ -253,7 +254,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -767,12 +768,12 @@
 211880	Bullet Run
 212090	Endless Space VIP
 212180	Combat Arms
-212370	Arctic Combat
 212390	C9
 212430	Train Simulator Alpha
 212580	The Amazing Spider-Man
 212740	TERA
 212820	Painkiller Hell & Damnation Preview
+212910	Call of Duty: Black Ops II - Zombies
 213050	Starvoid Beta
 213120	Transformers: Fall of Cybertron
 213290	Max Payne 3 PR
@@ -1399,7 +1400,6 @@
 338930	TRANSFORMERS: Devastation
 339040	Chicken Little
 339110	Plith
-339280	Strife
 339530	Factions: Origins of Malu
 339540	Artizens
 339600	VEGA Conflict
@@ -1536,7 +1536,6 @@
 360610	Houston, we have a problem
 360700	With Your Destiny
 360730	Cards and Castles
-360760	Run and Fire
 360950	Descent: Underground
 361360	Goosebumps
 361370	Deer Hunter: Reloaded
@@ -2268,7 +2267,6 @@
 517860	Fly to KUMA MAKER
 518160	Abrams Tank
 518320	Soko Match
-518660	Zone4
 518720	Overkill VR
 519870	0
 519930	Social Interaction Trainer
@@ -2417,6 +2415,7 @@
 554940	VR Apocalypse
 555070	Overload Multiplayer Beta
 555340	Bitlogic
+555440	Deathgarden: BLOODHARVEST
 556440	Vicious Circle
 556480	Rugby League Live 4
 556550	The Horus Heresy: Betrayal At Calth
@@ -2877,6 +2876,7 @@
 681660	Bless Online
 681720	BoxMaker
 681970	The Tavern
+682290	Zeus' Battlegrounds
 682420	DimensionsVS
 682620	Cosmos Invictus
 682790	Escape the Omnochronom!
@@ -4102,6 +4102,7 @@
 928600	F1 2019
 929000	Aesthetic World
 929080	Be hate Free Interactive
+929140	Tank Royale
 929330	Defending Camelot
 929390	Gladiators: The Unconquered
 929490	RAM Pressure
@@ -4526,7 +4527,6 @@
 1013360	Feditor
 1013430	TetrotronVR
 1013440	Infected Doll
-1013680	Saint Paul
 1014020	Successor of the Moon
 1014060	Kiss me
 1014390	Dashing Dodgems
@@ -5217,6 +5217,7 @@
 1166960	Last Labyrinth Closed Demo
 1167760	4islands
 1167890	Yes, Your Grace Beta
+1167920	The Dark Pictures: Man of Medan - Friend's Pass
 1167970	Will: The Beginning
 1168000	High School Otome
 1168290	TD Heroes
@@ -5725,6 +5726,7 @@
 1287240	Siebenstreich's Nerdventure
 1287290	WolfTeam: Classic
 1287340	Neurodeck Beta - NO USE ANYMORE
+1287880	In The Search For : Revenge
 1287920	Brass: Birmingham
 1287980	Eternal Vortex
 1288020	Eternal Starshine
@@ -5946,6 +5948,7 @@
 1353590	Osiann Adventures
 1353790	Neko Ghost, Jump! Prologue
 1353810	Dark Prison
+1354070	Bloodway Infinity
 1354080	The Horrors at Castle Wülhein
 1354510	Traphouse Druglord
 1354680	"Girls' civilization 2 - retired build
@@ -6489,6 +6492,7 @@
 1503220	王国的魔法战争
 1503500	Uboat Commander
 1503950	Sin Survivor
+1504010	Negative: The Way of Shinobi
 1504090	Ascendum
 1504140	Ninja Ming: Novice Area
 1504180	Hello Guest: Hello Neighbor Pre-Alpha
@@ -6604,6 +6608,7 @@
 1535970	Night Tail
 1536150	VR New York Story
 1536610	OpenTTD
+1536790	GIANTESS PLAYGROUND
 1536960	Tunnel of Doom BETA
 1537280	Kill the King
 1537500	Sam Nightmare - كابوس سام
@@ -7311,7 +7316,6 @@
 1775050	Hentai Cast: Podcast Simulator
 1775060	NoExist
 1775230	Shudderhall
-1775270	The Dark Pictures Anthology: House of Ashes - Friend's Pass
 1777120	STIX: Combat Devolved
 1777670	Medieval Trader Simulator
 1777760	Soccer Manager 2022
@@ -8880,6 +8884,7 @@
 2395080	Dream of Echo
 2395320	Windy Waltz
 2396900	Enspell
+2396910	吞食天地2：誕生
 2397080	Explorer：Golden Empire
 2397100	Particle life on AI illust for Adult 1
 2397720	Racer
@@ -9216,6 +9221,7 @@
 2544030	Quiet on Set
 2544290	Order Us!
 2544660	Rolling for Romance
+2544880	Dreamland
 2545320	KurOba
 2546910	Summer at Catmai: Fishing Purrrfected
 2547640	Clanswoman
@@ -9498,6 +9504,7 @@
 2691600	Unwelcome
 2693310	Harvest Knight
 2693470	Journey To The Wand
+2694490	Path of Exile 2
 2694560	Chrono-Shift
 2694580	닥터 P
 2695110	Infinite Forest
@@ -10644,7 +10651,6 @@
 3415760	Reincarnation in another world going to rape All NPCs VR
 3415920	World of Dypians
 3416530	Pawn Shop: Simulator
-3417590	Warhammer 40,000: Space Marine 2 - Public Test Server
 3418180	SCP: V/H/S - Gifts
 3420590	Bob Don't Sleep!
 3420980	You Have A Delivery
@@ -10753,6 +10759,7 @@
 3501530	Date Z: Welcome to Massville High
 3502630	金瓶梅
 3503010	LAST CALL
+3504700	4Wheel Challenge (Wheelchair Simulator)
 3506030	The Stones
 3506160	Sweatshop Simulator
 3507030	Zombie Marauders
@@ -11439,7 +11446,9 @@
 4533910	Malware.exe
 4539450	足球大玩家
 4539590	Wax Rogue
+4547900	DNO: Lone Courier
 4548750	Entropy Protocol
+4550090	My Coworkers Are Made Of Static
 4550580	Achivement Hunter
 4550960	Punchslingers
 4552500	Dungeon Settlers: Prologue
@@ -11504,6 +11513,7 @@
 4749860	OH NO, NOT ANOTHER L
 4753420	Celestia
 4757840	战法道传奇
+4760480	You Are Empty: Absolute Edition
 4767380	隐秘之潮
 4779460	Shoot Together
 4779520	Moe Mekuri Beauty and the Beast

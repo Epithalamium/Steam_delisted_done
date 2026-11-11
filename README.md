@@ -2,36 +2,33 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-11-10 14:58 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-11-11 14:29 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11595 apps
+**Total tracked:** 11605 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Arctic Combat](https://store.steampowered.com/app/212370/) (AppID: 212370)
-- [Strife](https://store.steampowered.com/app/339280/) (AppID: 339280)
-- [Run and Fire](https://store.steampowered.com/app/360760/) (AppID: 360760)
-- [Zone4](https://store.steampowered.com/app/518660/) (AppID: 518660)
-- [Saint Paul](https://store.steampowered.com/app/1013680/) (AppID: 1013680)
-- [Rocket Arena](https://store.steampowered.com/app/1233550/) (AppID: 1233550)
-- [The Dark Pictures Anthology: House of Ashes - Friend's Pass](https://store.steampowered.com/app/1775270/) (AppID: 1775270)
-- [Only Up!](https://store.steampowered.com/app/2562240/) (AppID: 2562240)
-- [Esteem](https://store.steampowered.com/app/2832510/) (AppID: 2832510)
-- [Rubedo: The Occult Dawn](https://store.steampowered.com/app/2972020/) (AppID: 2972020)
-- [Scolionophobia](https://store.steampowered.com/app/2972590/) (AppID: 2972590)
-- [Chicken](https://store.steampowered.com/app/3099520/) (AppID: 3099520)
-- [Only up?Climb The Tower!](https://store.steampowered.com/app/3683640/) (AppID: 3683640)
-- [100 Cats Lost in the 19th Century Find & Color](https://store.steampowered.com/app/3809500/) (AppID: 3809500)
-- [Poppidemic](https://store.steampowered.com/app/4040380/) (AppID: 4040380)
-- [Nullspace](https://store.steampowered.com/app/4147650/) (AppID: 4147650)
-- [AI Fatigue Shooter](https://store.steampowered.com/app/4493260/) (AppID: 4493260)
-- [Maintain](https://store.steampowered.com/app/4899390/) (AppID: 4899390)
-- [Drone Orbit: An Incremental Space Mining Drift](https://store.steampowered.com/app/4930800/) (AppID: 4930800)
-- [The Dictatories](https://store.steampowered.com/app/5497420/) (AppID: 5497420)
+- [Warhammer® 40,000™: Dawn of War® II (Press Build)](https://store.steampowered.com/app/15640/) (AppID: 15640)
+- [Call of Duty: Black Ops II - Zombies](https://store.steampowered.com/app/212910/) (AppID: 212910)
+- [Deathgarden: BLOODHARVEST](https://store.steampowered.com/app/555440/) (AppID: 555440)
+- [Zeus' Battlegrounds](https://store.steampowered.com/app/682290/) (AppID: 682290)
+- [Tank Royale](https://store.steampowered.com/app/929140/) (AppID: 929140)
+- [The Dark Pictures: Man of Medan - Friend's Pass](https://store.steampowered.com/app/1167920/) (AppID: 1167920)
+- [In The Search For : Revenge](https://store.steampowered.com/app/1287880/) (AppID: 1287880)
+- [Bloodway Infinity](https://store.steampowered.com/app/1354070/) (AppID: 1354070)
+- [Negative: The Way of Shinobi](https://store.steampowered.com/app/1504010/) (AppID: 1504010)
+- [GIANTESS PLAYGROUND](https://store.steampowered.com/app/1536790/) (AppID: 1536790)
+- [吞食天地2：誕生](https://store.steampowered.com/app/2396910/) (AppID: 2396910)
+- [Dreamland](https://store.steampowered.com/app/2544880/) (AppID: 2544880)
+- [Path of Exile 2](https://store.steampowered.com/app/2694490/) (AppID: 2694490)
+- [4Wheel Challenge (Wheelchair Simulator)](https://store.steampowered.com/app/3504700/) (AppID: 3504700)
+- [DNO: Lone Courier](https://store.steampowered.com/app/4547900/) (AppID: 4547900)
+- [My Coworkers Are Made Of Static](https://store.steampowered.com/app/4550090/) (AppID: 4550090)
+- [You Are Empty: Absolute Edition](https://store.steampowered.com/app/4760480/) (AppID: 4760480)
 
 ---
 
