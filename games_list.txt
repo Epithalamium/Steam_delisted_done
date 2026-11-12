@@ -13,6 +13,7 @@
 2360	Hexen: Beyond Heretic
 2370	Hexen: Deathkings of the Dark Citadel
 2390	Heretic: Shadow of the Serpent Riders
+2430	The Ship Tutorial
 2570	Vigil: Blood Bitterness
 2680	The History Channel: Civil War
 2690	Empires: Dawn of the Modern World
@@ -254,7 +255,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -386,20 +387,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classics
+36100	Tradewinds Classic
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans + Odyssey Pack
+36130	Tradewinds Caravans
 36140	Tradewinds Odyssey
-36150	Westward Collection
+36150	Westward
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania Collection
+36180	Cake Mania
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Super Granny Collection
+36270	Granny in Paradise
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -737,6 +738,7 @@
 208860	Mad Riders
 209100	Resident Evil: Operation Raccoon City
 209120	Street Fighter X Tekken
+209170	Call of Duty: Ghosts - Multiplayer
 209270	Hero Academy
 209340	Ride to Hell: Retribution
 209390	Dungeonbowl Knockout Edition
@@ -879,6 +881,7 @@
 226760	Rugby Challenge 2
 226920	Hellraid
 226940	Dungeonland Beta
+226980	Pinball FX2
 227400	Darkfall Unholy Wars
 227480	God Mode
 227520	Total War: Arena
@@ -910,6 +913,7 @@
 232810	Godus
 233250	Planetary Annihilation
 233390	Cart Life
+233630	Ascend: Hand of Kul
 234000	Superfrog HD
 234060	Timelines: Assault on America
 234100	Scrabble
@@ -1063,6 +1067,7 @@
 265650	Project X
 265670	Imagine Me
 265770	Cannons Lasers Rockets
+266070	City of Steam: Arkadia
 266150	Lost Saga North America
 266470	Dark Horizons: Mechanized Corps (Classic)
 266550	Spark Rising
@@ -2201,6 +2206,7 @@
 505670	Fire Farm VR
 505700	Anyland
 506140	Shop Heroes
+506540	Last Man Standing
 506560	A Divided Light
 506570	Going Up
 506630	Unfazed
@@ -5904,6 +5910,7 @@
 1341230	Super Buckyball Tournament Preseason
 1342240	GUNBARICH
 1342250	ZERO GUNNER 2-
+1342260	SAMURAI SHODOWN
 1342280	Story in the Dream World 2 -Water Gods and Spirits-
 1343130	The Last Bug
 1343200	Faptastic Town
@@ -6052,6 +6059,7 @@
 1379700	Halloween Escape
 1379750	Ragnarok: The Lost Memories
 1380210	Lucky Burst
+1380360	Battle Sweeper
 1380630	The Adventures of Wolf and Hood - A Jigsaw Tale
 1380940	Dragon's Prophet
 1381300	梦境实验
@@ -7387,6 +7395,7 @@
 1801560	Electronic Universe
 1801830	Rift Sweepers
 1801890	Россия наизнанку: Новый год
+1802090	Medieval Remembrance
 1804630	Outbreak Island: Pendulum
 1805360	Bounty game
 1805780	Looney Tunes World of Mayhem
@@ -8328,6 +8337,7 @@
 2180530	Ragnarok: Fallen Legends
 2180640	Western Settlers
 2180670	Dark Corridors
+2181250	SCP: Facility
 2181280	Omega Mouse
 2181390	Uncensor Quest
 2181490	Heroes City Superman Edition
@@ -8902,6 +8912,7 @@
 2403160	Gates Of The Mind
 2404020	Spellfield
 2404790	Furia de Weichafes
+2404800	Idle Medieval Tavern
 2405680	LoYuno - Horror Escape
 2406050	Quarantine
 2406130	Verdict: Descent
@@ -9969,6 +9980,7 @@
 2953110	Fearless Hero
 2953380	Death Finder
 2953990	Cosmic Consciousness
+2954030	Sadball
 2954340	AbraTabia Kingdom
 2954600	Castle of Alchemists: Prologue
 2954640	Outbreak Survivors
@@ -10818,6 +10830,7 @@
 3546740	Champions Tactics Reforged
 3550980	Night Club Simulator: Prolouge
 3551060	V圈救世主
+3551340	Football Manager 26
 3551650	Waste Time Lotto
 3552600	Momochan's brain is so crazy!
 3554250	Pudding Fantasy: Tales of Go and Magic - Chapter 1
@@ -10972,7 +10985,6 @@
 3692970	沉默传奇
 3693090	Suduce-U
 3694620	Truck World: Australia - First Haul
-3694770	Target Dragon 2: Maze Runner
 3696140	DYSON ERA IDLE
 3697770	Kleptomaniacs
 3698510	Kick and Hide
@@ -11120,6 +11132,7 @@
 3895490	Tailor Simulator: Prologue
 3896480	Raid One : 1 vs 5 Online Boss Battle
 3896860	Conquer the Tower
+3897470	ChessBoxing Championship
 3903630	You suck and I hate you: part 1
 3911260	Archomni
 3915400	GladiMaker
@@ -11396,6 +11409,7 @@
 4457660	小城茉莉
 4457970	FENRIR
 4465280	Catagon
+4465480	Counter-Strike:Global Offensive
 4471320	ValveTestApp4471320
 4478180	ValveTestApp4478180
 4479510	ValveTestApp4479510
@@ -11598,6 +11612,7 @@
 5371940	One Must Fall 2097
 5373490	破铜烂铁
 5393420	Elya
+5405700	SKEFs Night Grill
 5412040	Distorid
 5420900	Chimera Haven: Survivors
 5462490	Storage Flipper
