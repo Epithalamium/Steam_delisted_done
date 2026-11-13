@@ -225,6 +225,7 @@
 17450	Dragon Age: Origins
 17590	Dystopia Beta
 17600	Out of the Park Baseball 9
+17770	Firearms: Source
 17800	SpellForce 2: Shadow Wars
 17810	SpellForce 2: Dragon Storm
 18100	Shattered Horizon: Arconauts
@@ -261,6 +262,7 @@
 21920	Wheelman
 21950	Grey's Anatomy: The Video Game
 21990	Teenage Mutant Ninja Turtles
+22140	Penumbra: Requiem
 22700	Sacred 2: Fallen Angel
 23100	Buccaneer: The Pursuit of Infamy
 23120	Droplitz
@@ -387,20 +389,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classic
+36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans
+36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
-36150	Westward
+36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania
+36180	Cake Mania Collection
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Granny in Paradise
+36270	Super Granny Collection
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -935,6 +937,7 @@
 237590	R.I.P.D.: The Game
 237830	Take on Helicopters RU
 238130	Wargame: AirLand Battle Press
+239220	The Mighty Quest For Epic Loot
 239410	Catan
 239450	Gun Monkeys
 239490	America's Army: Proving Grounds Beta (Closed)
@@ -2223,6 +2226,7 @@
 509380	Mech Ace Combat Trainer
 509420	Riding Club Championships
 509840	El Ninja (Beta)
+510070	Shiperoids
 510190	Lazarus
 510230	Woodwork Simulator
 510330	Shotgun Raiders
@@ -2369,6 +2373,7 @@
 542530	封神英杰传
 543280	VR Laser Harp
 543360	Relaxation balls
+543650	Last Days
 543960	Rugby Challenge 4
 544190	Book Series - Alice in Wonderland
 544270	The Bellows
@@ -3754,6 +3759,7 @@
 858950	Rabbit and the moon
 859310	None
 859420	Deflection Dimension
+859570	Secret Neighbor
 859680	DEEP SPACE WAIFU: FANTASY
 859760	Boy's Love
 859860	VikingJourney
@@ -5644,6 +5650,7 @@
 1268150	Low Poly Forces
 1268670	SOVIET GIRL: HENTAI PUZZLE GAME
 1268810	Doors of Insanity
+1269260	Artifact Foundry
 1269320	Saving Stages
 1269600	Adventure Field™ 3 Definitive Edition
 1269720	还我河山HeroRagingFire
@@ -6261,6 +6268,7 @@
 1432740	LAST LAND
 1432950	Soccerlypse
 1433100	Alchemist Adventure Prologue
+1433120	STAR WARS™: The Old Republic™ - Public Test Server
 1433200	PIXNAUTICRAFT
 1433330	Happy's Humble Burger Farm Alpha
 1433350	Happy's Humble Burger Farm Alpha 1
@@ -7333,6 +7341,7 @@
 1778960	Mystery of Fortune 2 Refine
 1779490	虚幻小镇的蔷薇
 1779510	Conquicktory
+1779970	Asterism
 1780180	Miremfall
 1780330	Element Quest
 1780400	ASHGARD: Tone Break
@@ -8483,6 +8492,7 @@
 2226860	집착의 망자 - 집으로부터의 탈출 For Visual edition
 2227240	Grassassins
 2227880	Battle Teams 2 Türkçe Test
+2229880	Command & Conquer™ Tiberian Sun™ and Firestorm™
 2230130	COLLATERAL DAMAGE
 2230240	Jingle Balls
 2230780	Timekeepers Battleground
@@ -9744,6 +9754,7 @@
 2826310	Killed
 2826410	Pinbot
 2826550	No Observer
+2826570	Singularity Survivors
 2826620	Bridgelands
 2827830	TOYS FOR FURRY
 2827840	HOT NURSES
@@ -9890,6 +9901,7 @@
 2904340	Pantheon Rift
 2905510	女拳异变 Touhou Female Fist Mutation
 2905840	Lost Horizon: Sky Relics
+2906790	Homestead Online
 2907150	MAD & MAX: The Best Survival game with Zombies and Dinosaurs
 2907840	Potatoes and Aliens
 2908260	Strider-X
@@ -10041,7 +10053,7 @@
 2980220	Bot Beats
 2980560	Last Dissent : Lockdown - Day 0
 2980630	Beat Meet
-2980670	3D Blocks
+2980670	Voxifold
 2980690	哆啦A梦飞车
 2981820	The Sheng's Written-Journey of Hoo:Prologue
 2982600	Campgrounds Adventures
@@ -10124,6 +10136,7 @@
 3034320	Ragnarok age of heroes
 3034510	Starfell
 3034540	TNYN
+3036720	METAL GEAR SOLID MASTER COLLECTION Vol.2 BONUS CONTENT
 3037050	Latens
 3037110	Rule & Expand
 3038200	Pigeon Ascent
@@ -10264,6 +10277,7 @@
 3108680	Ourkade
 3109230	Call of the Deep
 3110090	我的仙门很厉害
+3110220	Haut
 3110320	The Impostor: Human or AI?
 3110330	Floor 9: Beginning
 3111040	Scary Bingo
@@ -10771,7 +10785,6 @@
 3501530	Date Z: Welcome to Massville High
 3502630	金瓶梅
 3503010	LAST CALL
-3504700	4Wheel Challenge (Wheelchair Simulator)
 3506030	The Stones
 3506160	Sweatshop Simulator
 3507030	Zombie Marauders
@@ -11122,6 +11135,7 @@
 3879300	GAIONIN WAR don't combine
 3879980	Gloomy Clues Remake
 3882380	Algatraz
+3883550	Catickle
 3886940	Focus Group - First Day
 3887650	Neon Divide
 3889880	Fruit Merge Blast
@@ -11139,6 +11153,7 @@
 3921310	Sphereverse
 3922460	Darkstar Medical Mercenary
 3924080	Spori
+3924660	The Joy of Mining
 3926280	傲世血魔
 3928060	Robinsons Simulations World
 3928870	Great Escape
@@ -11148,6 +11163,7 @@
 3933250	RayCity
 3938370	万劫不灭
 3938980	BrownDust2
+3943610	Algoremind
 3943910	狂斩天下：万劫成皇
 3944540	GODSTEEL
 3944840	Dark Signal
@@ -11181,6 +11197,7 @@
 3992590	Backlog Buddy
 3993720	猎人与酒馆
 3994150	九霄御龙诀
+3997690	FuBuBu: AI Companion
 3997850	GODWAY
 4002850	Pixel Detective: Curse of the Paintings
 4003350	The Home
@@ -11494,6 +11511,7 @@
 4657750	Hardhats : Some Survival Required
 4658670	Re:Bloom 花精霊のぽかぽか温泉郷
 4659290	Let Me Free!
+4659620	Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil
 4659860	Restroom Business Simulator
 4660290	100 Hidden ASCII Cats: Colors
 4668790	欲都戰姬
@@ -11576,6 +11594,7 @@
 4996170	Magic Fusion
 5001500	PayBack!?Touchinv!?Acrowded train!!Mizuki ichinomiya Edition
 5002180	Goddess Story
+5023720	Floorball League 2010 Remaster
 5024260	Gorgeous Legion
 5030670	Warehouse: Catastrophe
 5034920	LAUNDRO
