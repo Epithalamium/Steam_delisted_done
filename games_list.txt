@@ -13,7 +13,6 @@
 2360	Hexen: Beyond Heretic
 2370	Hexen: Deathkings of the Dark Citadel
 2390	Heretic: Shadow of the Serpent Riders
-2430	The Ship Tutorial
 2570	Vigil: Blood Bitterness
 2680	The History Channel: Civil War
 2690	Empires: Dawn of the Modern World
@@ -91,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max 201: Ice Station Santa
+8260	Sam & Max: Season Two
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -225,7 +224,6 @@
 17450	Dragon Age: Origins
 17590	Dystopia Beta
 17600	Out of the Park Baseball 9
-17770	Firearms: Source
 17800	SpellForce 2: Shadow Wars
 17810	SpellForce 2: Dragon Storm
 18100	Shattered Horizon: Arconauts
@@ -256,13 +254,12 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
 21950	Grey's Anatomy: The Video Game
 21990	Teenage Mutant Ninja Turtles
-22140	Penumbra: Requiem
 22700	Sacred 2: Fallen Angel
 23100	Buccaneer: The Pursuit of Infamy
 23120	Droplitz
@@ -740,7 +737,6 @@
 208860	Mad Riders
 209100	Resident Evil: Operation Raccoon City
 209120	Street Fighter X Tekken
-209170	Call of Duty: Ghosts - Multiplayer
 209270	Hero Academy
 209340	Ride to Hell: Retribution
 209390	Dungeonbowl Knockout Edition
@@ -777,7 +773,6 @@
 212580	The Amazing Spider-Man
 212740	TERA
 212820	Painkiller Hell & Damnation Preview
-212910	Call of Duty: Black Ops II - Zombies
 213050	Starvoid Beta
 213120	Transformers: Fall of Cybertron
 213290	Max Payne 3 PR
@@ -883,7 +878,6 @@
 226760	Rugby Challenge 2
 226920	Hellraid
 226940	Dungeonland Beta
-226980	Pinball FX2
 227400	Darkfall Unholy Wars
 227480	God Mode
 227520	Total War: Arena
@@ -915,7 +909,6 @@
 232810	Godus
 233250	Planetary Annihilation
 233390	Cart Life
-233630	Ascend: Hand of Kul
 234000	Superfrog HD
 234060	Timelines: Assault on America
 234100	Scrabble
@@ -937,7 +930,6 @@
 237590	R.I.P.D.: The Game
 237830	Take on Helicopters RU
 238130	Wargame: AirLand Battle Press
-239220	The Mighty Quest For Epic Loot
 239410	Catan
 239450	Gun Monkeys
 239490	America's Army: Proving Grounds Beta (Closed)
@@ -1070,7 +1062,6 @@
 265650	Project X
 265670	Imagine Me
 265770	Cannons Lasers Rockets
-266070	City of Steam: Arkadia
 266150	Lost Saga North America
 266470	Dark Horizons: Mechanized Corps (Classic)
 266550	Spark Rising
@@ -1903,6 +1894,7 @@
 425720	Cloudlands : VR Minigolf
 426240	Caretaker Sacrifice
 426250	Periodonica
+426560	Full Tilt Poker
 426750	Yooka-Laylee - Toybox
 427040	Pitstop Challenge
 427480	FritzChess 15
@@ -2209,7 +2201,6 @@
 505670	Fire Farm VR
 505700	Anyland
 506140	Shop Heroes
-506540	Last Man Standing
 506560	A Divided Light
 506570	Going Up
 506630	Unfazed
@@ -2373,7 +2364,6 @@
 542530	封神英杰传
 543280	VR Laser Harp
 543360	Relaxation balls
-543650	Last Days
 543960	Rugby Challenge 4
 544190	Book Series - Alice in Wonderland
 544270	The Bellows
@@ -4194,6 +4184,7 @@
 942580	An Adventurer's Tale
 942610	HENTAI SOLITAIRE
 942810	Ashes of Creation Apocalypse Open Beta
+942850	I Walk Among Zombies Vol. 1 (Adult Version)
 943130	Cattle Call: Hollywood Talent Manager
 943150	Nostos
 943490	Team Fortress 2008
@@ -4483,7 +4474,6 @@
 1000270	Hentai Sexy Girl
 1000370	SurReal Subway
 1000800	Beetle Elf
-1000870	On Target VR Darts
 1001170	Master Of Secrets: Dark Europe
 1001380	SNAILS
 1001760	Xtreme League
@@ -5229,7 +5219,6 @@
 1166960	Last Labyrinth Closed Demo
 1167760	4islands
 1167890	Yes, Your Grace Beta
-1167920	The Dark Pictures: Man of Medan - Friend's Pass
 1167970	Will: The Beginning
 1168000	High School Otome
 1168290	TD Heroes
@@ -5650,7 +5639,6 @@
 1268150	Low Poly Forces
 1268670	SOVIET GIRL: HENTAI PUZZLE GAME
 1268810	Doors of Insanity
-1269260	Artifact Foundry
 1269320	Saving Stages
 1269600	Adventure Field™ 3 Definitive Edition
 1269720	还我河山HeroRagingFire
@@ -5917,7 +5905,6 @@
 1341230	Super Buckyball Tournament Preseason
 1342240	GUNBARICH
 1342250	ZERO GUNNER 2-
-1342260	SAMURAI SHODOWN
 1342280	Story in the Dream World 2 -Water Gods and Spirits-
 1343130	The Last Bug
 1343200	Faptastic Town
@@ -6268,7 +6255,6 @@
 1432740	LAST LAND
 1432950	Soccerlypse
 1433100	Alchemist Adventure Prologue
-1433120	STAR WARS™: The Old Republic™ - Public Test Server
 1433200	PIXNAUTICRAFT
 1433330	Happy's Humble Burger Farm Alpha
 1433350	Happy's Humble Burger Farm Alpha 1
@@ -8492,7 +8478,6 @@
 2226860	집착의 망자 - 집으로부터의 탈출 For Visual edition
 2227240	Grassassins
 2227880	Battle Teams 2 Türkçe Test
-2229880	Command & Conquer™ Tiberian Sun™ and Firestorm™
 2230130	COLLATERAL DAMAGE
 2230240	Jingle Balls
 2230780	Timekeepers Battleground
@@ -9242,12 +9227,12 @@
 2544030	Quiet on Set
 2544290	Order Us!
 2544660	Rolling for Romance
-2544880	Dreamland
 2545320	KurOba
 2546910	Summer at Catmai: Fishing Purrrfected
 2547640	Clanswoman
 2547790	ClosingShift
 2549130	ASURAJANG
+2549620	MorphaVerse
 2549670	Office Fight
 2550590	Dark Decline
 2550890	Mad King: Prologue
@@ -9525,7 +9510,6 @@
 2691600	Unwelcome
 2693310	Harvest Knight
 2693470	Journey To The Wand
-2694490	Path of Exile 2
 2694560	Chrono-Shift
 2694580	닥터 P
 2695110	Infinite Forest
@@ -9767,7 +9751,6 @@
 2830310	NSFWRoomVR
 2830710	Set Sail! Arena
 2831940	Brave Fantasy
-2832510	Esteem
 2833950	Psychometric Personality Profiler
 2834050	Escape from the Village of Lustful Rituals
 2834080	Wildsong
@@ -10136,7 +10119,6 @@
 3034320	Ragnarok age of heroes
 3034510	Starfell
 3034540	TNYN
-3036720	METAL GEAR SOLID MASTER COLLECTION Vol.2 BONUS CONTENT
 3037050	Latens
 3037110	Rule & Expand
 3038200	Pigeon Ascent
@@ -10155,7 +10137,6 @@
 3042290	Gaia VN Collection
 3042670	TBA
 3042700	Million Sweetheart
-3044350	Nazi Zombies
 3045130	The Last Ramparts
 3046310	Die Fast
 3048530	白荊迴廊
@@ -10277,7 +10258,6 @@
 3108680	Ourkade
 3109230	Call of the Deep
 3110090	我的仙门很厉害
-3110220	Haut
 3110320	The Impostor: Human or AI?
 3110330	Floor 9: Beginning
 3111040	Scary Bingo
@@ -10680,6 +10660,7 @@
 3418180	SCP: V/H/S - Gifts
 3420590	Bob Don't Sleep!
 3420980	You Have A Delivery
+3421110	Forlorn Society
 3422800	Idle Airport CEO
 3425280	Car Grind
 3425290	Hentai Puzzle: Naughty Nurses
@@ -10791,6 +10772,7 @@
 3507520	Mors Memora
 3508100	DAO
 3511920	haunters.net
+3513400	Rogue Arena
 3514690	Yokai Survivor
 3514840	Legendary mobile phone store simulator
 3514850	Surf 'n Turf
@@ -11207,6 +11189,7 @@
 4008190	Insurrectionist
 4009420	DiktaPunk: The PolitiKal (And SatiriKal) Fighting Game
 4010350	IT LURKS
+4010400	Make New Yuck Great Again
 4012060	Leadstorm Survivors
 4012770	Megitsune (Vixen)
 4014470	BLEEDOUT
@@ -11339,6 +11322,7 @@
 4262000	白纸星途:民国乱世歌姬
 4262720	Vanished Puzzle Quest
 4264870	Shoot Pro Wrestling 2
+4266420	Abyss of Minds
 4266640	Rest & Reel
 4267660	Call of Girls-Uncensored Edition
 4273260	Master Poker
@@ -11426,8 +11410,8 @@
 4457660	小城茉莉
 4457970	FENRIR
 4465280	Catagon
-4465480	Counter-Strike:Global Offensive
 4471320	ValveTestApp4471320
+4478000	ValveTestApp4478000
 4478180	ValveTestApp4478180
 4479510	ValveTestApp4479510
 4479680	ValveTestApp4479680
@@ -11439,6 +11423,7 @@
 4485970	鬼才和你谈恋爱！
 4486430	Tragedy is approaching
 4486810	One Of Us
+4487960	Low Effort Romance
 4488570	Fresh Food Merge
 4491220	Loop Tower: Prologue
 4491690	KANTEYNIR
@@ -11511,7 +11496,6 @@
 4657750	Hardhats : Some Survival Required
 4658670	Re:Bloom 花精霊のぽかぽか温泉郷
 4659290	Let Me Free!
-4659620	Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil
 4659860	Restroom Business Simulator
 4660290	100 Hidden ASCII Cats: Colors
 4668790	欲都戰姬
