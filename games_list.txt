@@ -90,7 +90,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -254,7 +254,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World In Conflict
+21760	World in Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -386,20 +386,20 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classics
+36100	Tradewinds Classic
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans + Odyssey Pack
+36130	Tradewinds Caravans
 36140	Tradewinds Odyssey
-36150	Westward Collection
+36150	Westward
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania Collection
+36180	Cake Mania
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Super Granny Collection
+36270	Granny in Paradise
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -737,6 +737,7 @@
 208860	Mad Riders
 209100	Resident Evil: Operation Raccoon City
 209120	Street Fighter X Tekken
+209170	Call of Duty: Ghosts - Multiplayer
 209270	Hero Academy
 209340	Ride to Hell: Retribution
 209390	Dungeonbowl Knockout Edition
@@ -1026,6 +1027,7 @@
 257890	Frozen Hearth
 257930	Race To Mars
 258030	Earthlock: Festival of Magic
+258160	Rise of Incarnates
 258200	Talisman: Prologue
 258240	Tank Operations
 258430	Bierzerkers Alpha Test
@@ -1581,6 +1583,7 @@
 368930	Mara
 368980	Force of Elements
 369080	Age of Survival
+369200	Ghost in the Shell: Stand Alone Complex - First Assault Online
 369230	Kung Fu Panda Showdown of Legendary Legends
 369300	Adventure Time: Finn and Jake Investigations
 369390	Scourge of War: Waterloo
@@ -3315,6 +3318,7 @@
 770570	Nightmare Run Beta
 770770	Kitty Catsanova
 771040	Panzer Waltz
+771060	Iron League
 771510	Hodl: The God of Crypto
 771520	Sister's Love
 771580	Mad World MMO
@@ -6357,6 +6361,7 @@
 1460800	Super Dungeon Maker - Fink's Awakening
 1461220	Wait! Where's My Lunch?
 1461240	The Prologue to a Dream of Home
+1461320	Yami
 1462150	R.B.I. Baseball 21
 1462690	ANIQUILATION
 1462850	Wiloka
@@ -8258,6 +8263,7 @@
 2145550	CyberHeroes Arena
 2146520	Love Spell: Aslan's Route
 2147500	Kittens in Space
+2149010	Little Nightmares Enhanced Edition
 2149020	Doomsday 末日戰記
 2149380	Survivors
 2149790	Beautiful Mystic Survivors: Prologue
@@ -9227,6 +9233,7 @@
 2544030	Quiet on Set
 2544290	Order Us!
 2544660	Rolling for Romance
+2544880	Dreamland
 2545320	KurOba
 2546910	Summer at Catmai: Fishing Purrrfected
 2547640	Clanswoman
@@ -9859,6 +9866,7 @@
 2889560	Sex Academy Principal - Episode 1
 2890570	Breathless: Will you Understand Me?
 2891560	Nightshift Nightmares
+2892110	Whale Captain
 2892320	Warfield Heroes
 2893240	CyberCorp: Prologue
 2893640	Celeros
@@ -11281,6 +11289,10 @@
 4177050	TallTale Online
 4179610	SteamRandomPicker
 4180580	Project Cats & Gigs
+4182490	tinyrhythm
+4182500	tinydungeon
+4182510	tinypocket
+4182520	tinyfrog
 4183250	afsdafsfasf"><h1>testset
 4188050	Treasurer
 4188090	Political Run: World Leaders
@@ -11534,7 +11546,6 @@
 4779460	Shoot Together
 4779520	Moe Mekuri Beauty and the Beast
 4779800	Unredeemable
-4784540	The Infinite Box
 4787250	Popular Kids
 4789260	Never Ending Hero RPG
 4790440	血色末路:屍潮
@@ -11564,6 +11575,7 @@
 4924590	Mumbai Chef - Junk Food Simulator
 4930540	Anomaly Tunnel
 4930800	Drone Orbit: An Incremental Space Mining Drift
+4940360	Pomoroid
 4946520	FUTA FEMBOY MINESWEEPER
 4948290	JOIN
 4951370	夯犇绿色传奇
@@ -11588,6 +11600,7 @@
 5052990	Don't Get Six
 5053500	Verilight
 5059600	Jumpy Mumpy
+5067250	Tank: Kill Them
 5081690	Packpunk
 5089190	Price War
 5091600	Wild Legacy
