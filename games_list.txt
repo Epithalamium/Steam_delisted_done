@@ -260,6 +260,7 @@
 21920	Wheelman
 21950	Grey's Anatomy: The Video Game
 21990	Teenage Mutant Ninja Turtles
+22140	Penumbra: Requiem
 22700	Sacred 2: Fallen Angel
 23100	Buccaneer: The Pursuit of Infamy
 23120	Droplitz
@@ -377,6 +378,7 @@
 34230	Football Manager 2011 Korean
 34270	SEGA Mega Drive & Genesis Classics
 34320	Football Manager 2011 Russian
+34330	Total War: SHOGUN 2
 34650	Massive Assault Network 2
 34670	Order of War: Challenge
 34860	MotorM4X: Offroad Extreme
@@ -386,15 +388,15 @@
 35500	Cities XL - Limited Edition
 35510	Cities XL
 35900	Nullbreaker
-36100	Tradewinds Classic
+36100	Tradewinds Classics
 36110	Tradewinds 2
 36120	Tradewinds Legends
-36130	Tradewinds Caravans
+36130	Tradewinds Caravans + Odyssey Pack
 36140	Tradewinds Odyssey
-36150	Westward
+36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania
+36180	Cake Mania Collection
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
@@ -668,6 +670,7 @@
 201760	Cities XL 2012
 201830	Jurassic Park: The Game
 202070	Choplifter HD
+202090	Magicka: Wizard Wars
 202110	Trine 2 Beta
 202270	Leviathan: Warships
 202330	The Adventures of Tintin: The Game
@@ -910,6 +913,7 @@
 232810	Godus
 233250	Planetary Annihilation
 233390	Cart Life
+233630	Ascend: Hand of Kul
 234000	Superfrog HD
 234060	Timelines: Assault on America
 234100	Scrabble
@@ -1401,6 +1405,7 @@
 338930	TRANSFORMERS: Devastation
 339040	Chicken Little
 339110	Plith
+339280	Strife
 339530	Factions: Origins of Malu
 339540	Artizens
 339600	VEGA Conflict
@@ -1900,6 +1905,7 @@
 426560	Full Tilt Poker
 426750	Yooka-Laylee - Toybox
 427040	Pitstop Challenge
+427270	Orcs Must Die! Unchained
 427480	FritzChess 15
 427840	Unturned II
 427920	FNaF World
@@ -5681,6 +5687,7 @@
 1275800	Gachabots
 1275940	Vivre avec Ataxie
 1276010	X-OUT
+1276490	Cascading Failure
 1276580	Have You Washed Your Hands
 1276730	Undungeon Arena
 1277240	sea of craft test
@@ -9481,7 +9488,7 @@
 2670490	帝国战争：星际
 2672010	REDCALL
 2673080	Jurassic Park Classic Games Collection
-2673210	Package Unknown
+2673210	Dark Delivery
 2673540	Neonexus Wars
 2673550	DEEPEST REGRET
 2674160	Have a Good Day
@@ -9863,6 +9870,7 @@
 2887470	Monster Charmer Prologue
 2887910	BUMP! Superbrawl
 2888430	Ray: Part 1
+2889160	Zodchy
 2889560	Sex Academy Principal - Episode 1
 2890570	Breathless: Will you Understand Me?
 2891560	Nightshift Nightmares
@@ -10779,6 +10787,7 @@
 3507030	Zombie Marauders
 3507520	Mors Memora
 3508100	DAO
+3508970	Wake Up Kid
 3511920	haunters.net
 3513400	Rogue Arena
 3514690	Yokai Survivor
@@ -11089,6 +11098,7 @@
 3836710	Blind Box
 3838310	Deckout
 3838440	Gun Dealer Simulator
+3840260	Forgotten Playland
 3840290	SoulFeast(灵魂盛宴)
 3841110	Attorney Disbarment Adventure
 3842340	Third Kind
@@ -11365,6 +11375,7 @@
 4329650	Rooftop Garden
 4329850	Turret Boy
 4330460	屠龙归来
+4331940	TrollMaker
 4332270	The Fallen Will
 4333080	Video Store Simulator
 4333480	Boss Fighter
@@ -11613,6 +11624,7 @@
 5166980	Wonderboy in Monster Land
 5176270	Roadside Odyssey
 5183910	Okubo: The Dragon of Major Cases
+5233810	OBSIDIAN 7
 5248540	GiGA BRAIN TACTICS
 5252130	O2Jam Flower
 5253760	Instructions for Gary
