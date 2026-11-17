@@ -60,6 +60,7 @@
 6550	Devil May Cry 3: Special Edition
 6570	Onimusha 3: Demon Siege
 6820	Commandos: Strike Force
+6990	Tomb Raider: Angel of Darkness
 7060	Infernal
 7250	Sherlock Holmes: The Awakened
 7400	Ricochet: Lost Worlds
@@ -121,6 +122,7 @@
 10080	Quantum of Solace
 10160	Secret Service
 10170	Wolfenstein
+10200	Tarr Chronicles
 10400	Sega Rally
 10410	Futbol Manager 2008
 10420	Worldwide Soccer Manager 2008
@@ -156,6 +158,7 @@
 11560	Maelstrom
 11570	LMA Manager 2007
 11590	Hospital Tycoon
+11700	Lord of the Rings Online
 11900	Lumines
 11920	Lumines: Advanced Pack
 12100	Grand Theft Auto III
@@ -208,6 +211,7 @@
 15330	The Settlers: Rise of an Empire
 15540	1... 2... 3... KICK IT! (Drop That Beat Like an Ugly Baby)
 15640	Warhammer® 40,000™: Dawn of War® II (Press Build)
+15660	Warhammer® 40,000™: Dawn of War® II - BETA
 15940	The Office
 15950	Reaxxion
 15980	Money Tree
@@ -254,13 +258,12 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
 21950	Grey's Anatomy: The Video Game
 21990	Teenage Mutant Ninja Turtles
-22140	Penumbra: Requiem
 22700	Sacred 2: Fallen Angel
 23100	Buccaneer: The Pursuit of Infamy
 23120	Droplitz
@@ -378,11 +381,11 @@
 34230	Football Manager 2011 Korean
 34270	SEGA Mega Drive & Genesis Classics
 34320	Football Manager 2011 Russian
-34330	Total War: SHOGUN 2
 34650	Massive Assault Network 2
 34670	Order of War: Challenge
 34860	MotorM4X: Offroad Extreme
 35010	Batman: Arkham Asylum
+35200	A Vampyre Story
 35420	Killing Floor Mod: Defence Alliance 2
 35470	The Ball Beta
 35500	Cities XL - Limited Edition
@@ -401,7 +404,7 @@
 36200	Cake Mania 3
 36210	Monster Mash
 36240	Kuros
-36270	Granny in Paradise
+36270	Super Granny Collection
 36280	Super Granny 3
 36290	Super Granny 4
 36300	Cake Mania Main Street
@@ -442,6 +445,7 @@
 38830	CrimeCraft GangWars
 38900	Rhythm Zone
 39140	FINAL FANTASY VII (2013)
+39189	Dungeon Siege 3
 39250	FINAL FANTASY XI: Ultimate Collection - Abyssea Edition
 39260	FINAL FANTASY XI: Ultimate Collection - Abyssea Edition
 39600	Agatha Christie: And then there were None
@@ -454,6 +458,7 @@
 40600	Fort Zombie
 40920	NBA 2K10
 41610	Descent: FreeSpace - The Great War
+41620	Freespace 2
 41750	The Rockin' Dead
 42100	Lead and Gold - Gangs of the Wild West Beta
 42160	War of the Roses
@@ -508,6 +513,7 @@
 48180	Tom Clancy's H.A.W.X. 2
 48210	The Settlers 7: Paths to a Kingdom - Gold Edition
 48800	Ship Simulator Extremes
+48960	ValveTestApp48960
 49400	Magic: The Gathering - Duels of the Planeswalkers
 49470	Magic: The Gathering — Duels of the Planeswalkers 2012
 49700	Stargate Resistance
@@ -608,6 +614,7 @@
 90530	Battle for Graxia
 90800	Crasher
 91310	Dead Island
+91320	Who Wants to Be a Millionaire
 92010	Hydrophobia - Press Preview
 92200	Gundemonium Recollection
 92210	Hitogata Happa
@@ -634,6 +641,7 @@
 99890	Darkspore
 99930	[Test] Puzzle Pirates
 102210	Runespell: Overture - Press
+102300	WOT - DO NOT USE
 102500	Kingdoms of Amalur: Reckoning™
 102700	A.V.A. Alliance of Valiant Arms™
 102820	The Sims(TM) Medieval
@@ -670,12 +678,12 @@
 201760	Cities XL 2012
 201830	Jurassic Park: The Game
 202070	Choplifter HD
-202090	Magicka: Wizard Wars
 202110	Trine 2 Beta
 202270	Leviathan: Warships
 202330	The Adventures of Tintin: The Game
 202430	L.A. Noire PR
 202630	Risen 2 Preview
+202780	Dungeons & Dragons Anthology: The Master Collection
 202800	Dungeons & Dragons: Neverwinter Nights Complete
 202840	RaceRoom the Game 2
 202900	Max Payne 2 FR
@@ -740,7 +748,6 @@
 208860	Mad Riders
 209100	Resident Evil: Operation Raccoon City
 209120	Street Fighter X Tekken
-209170	Call of Duty: Ghosts - Multiplayer
 209270	Hero Academy
 209340	Ride to Hell: Retribution
 209390	Dungeonbowl Knockout Edition
@@ -766,6 +773,7 @@
 211380	Shoot Many Robots: Arena Kings
 211420	DARK SOULS™: Prepare To Die Edition
 211480	Portal 2 In Motion
+211650	Stoked – Big Air Edition
 211670	007™ Legends
 211840	DiRT Showdown Review
 211860	Edgeworld
@@ -779,6 +787,7 @@
 212820	Painkiller Hell & Damnation Preview
 213050	Starvoid Beta
 213120	Transformers: Fall of Cybertron
+213270	Blood Knights
 213290	Max Payne 3 PR
 213630	Portal 2 - Educational Version
 213760	Seven Souls Online
@@ -913,7 +922,6 @@
 232810	Godus
 233250	Planetary Annihilation
 233390	Cart Life
-233630	Ascend: Hand of Kul
 234000	Superfrog HD
 234060	Timelines: Assault on America
 234100	Scrabble
@@ -978,7 +986,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -1031,7 +1039,6 @@
 257890	Frozen Hearth
 257930	Race To Mars
 258030	Earthlock: Festival of Magic
-258160	Rise of Incarnates
 258200	Talisman: Prologue
 258240	Tank Operations
 258430	Bierzerkers Alpha Test
@@ -1405,7 +1412,6 @@
 338930	TRANSFORMERS: Devastation
 339040	Chicken Little
 339110	Plith
-339280	Strife
 339530	Factions: Origins of Malu
 339540	Artizens
 339600	VEGA Conflict
@@ -1493,6 +1499,7 @@
 350470	DOOM Open Beta
 350510	HassleHeart
 350540	Helicopter 2015: Natural Disasters
+350660	Alganon
 350840	Bonetown - The Power of Death
 350950	Hitman™ Closed Alpha
 351040	Moonrise
@@ -1515,6 +1522,7 @@
 356130	Heroes of Scene
 356200	Keen Dreams
 356370	Soccer Manager 2015
+356640	Metro Conflict
 357010	The Collider 2
 357480	Frozen Free Fall: Snowball Fight
 357700	Rogue Continuum
@@ -1588,7 +1596,6 @@
 368930	Mara
 368980	Force of Elements
 369080	Age of Survival
-369200	Ghost in the Shell: Stand Alone Complex - First Assault Online
 369230	Kung Fu Panda Showdown of Legendary Legends
 369300	Adventure Time: Finn and Jake Investigations
 369390	Scourge of War: Waterloo
@@ -1902,10 +1909,8 @@
 425720	Cloudlands : VR Minigolf
 426240	Caretaker Sacrifice
 426250	Periodonica
-426560	Full Tilt Poker
 426750	Yooka-Laylee - Toybox
 427040	Pitstop Challenge
-427270	Orcs Must Die! Unchained
 427480	FritzChess 15
 427840	Unturned II
 427920	FNaF World
@@ -2049,6 +2054,7 @@
 458190	VR0GU3
 458680	Auto Age: Standoff
 458960	Winning Putt: Golf Online
+459160	Allods Online
 459200	Immortal Truth
 459430	PLAYERUNKNOWN'S BATTLEGROUNDS (Beta)
 459440	Tower!3D
@@ -2425,7 +2431,6 @@
 554940	VR Apocalypse
 555070	Overload Multiplayer Beta
 555340	Bitlogic
-555440	Deathgarden: BLOODHARVEST
 556440	Vicious Circle
 556480	Rugby League Live 4
 556550	The Horus Heresy: Betrayal At Calth
@@ -3324,7 +3329,6 @@
 770570	Nightmare Run Beta
 770770	Kitty Catsanova
 771040	Panzer Waltz
-771060	Iron League
 771510	Hodl: The God of Crypto
 771520	Sister's Love
 771580	Mad World MMO
@@ -4384,6 +4388,7 @@
 980990	Reminder of War
 981250	C.Q.C. - Close Quarters Combat
 981320	Whale Island
+981560	Pixelbator
 981670	Agent 9
 981680	Boom Runner
 981850	BATALJ
@@ -4462,6 +4467,7 @@
 995840	Road to Guangdong
 995870	Toddler Shooter
 996170	Mage VR -Mini Version-
+996230	tia.sav
 996280	Buttle Tank
 996470	eFootball PES 2020
 996500	Hentai Sexy Puzzles
@@ -4497,6 +4503,7 @@
 1004190	Flowers in Dark
 1004320	Sick Love - An RPG Maker Novel
 1004470	Tech vs Magic
+1004520	Dog-O
 1004660	Cannibal Lottery - Dystopian Visual Novel
 1004810	Hentai Devil Puzzle
 1005100	Advent Heroes
@@ -4664,6 +4671,7 @@
 1041300	Human Sacrifice
 1041400	Fight Angel
 1041680	Wave Circles
+1041760	Brother&Sister
 1041880	MASAMUNE
 1041890	iMemory
 1042270	Juicy Hentai
@@ -6155,9 +6163,11 @@
 1401530	Project Existence - Multiplayer Sandbox
 1401810	Star Renegades Beta
 1401920	Chinatown Detective Agency: Day One
+1402290	Monochrome RPG Episode 1: The Maniacal Morning
 1402340	电竞经理
 1402390	ODDITYGIRLs: Virtual World
 1402480	NARAKA: BLADEPOINT - Test Server
+1402520	Chip's Challenge - The Original DOS Classic
 1403140	Lost Earth
 1403300	Kobold | Steam Edition
 1403640	Atomicrops: Limited Thyme Preview
@@ -6183,7 +6193,6 @@
 1409620	Heimat Defender: Rebellion
 1410050	Angry Rock
 1410110	RENEGADE
-1410410	Scram 2
 1411150	Turret Defense: Bug Invasion
 1411470	Jade Simulator: A Lunar Cycle
 1411600	Treasured
@@ -8000,7 +8009,6 @@
 2025460	The Police Drone VR Experiment
 2025710	Koatl the defender : The Lost Tunnels
 2025830	Brutal Japan | 猟奇の日本
-2026300	Anvillage
 2050670	Time Tribunal
 2050690	Happy Flip Cube
 2050770	Void Rush
@@ -8270,7 +8278,6 @@
 2145550	CyberHeroes Arena
 2146520	Love Spell: Aslan's Route
 2147500	Kittens in Space
-2149010	Little Nightmares Enhanced Edition
 2149020	Doomsday 末日戰記
 2149380	Survivors
 2149790	Beautiful Mystic Survivors: Prologue
@@ -8593,6 +8600,7 @@
 2269510	P.e.n.a.n.c.e
 2269520	Flyghts
 2270200	Simnetzero
+2270340	The Exit Strategy
 2271420	Abandoned drive-in | 廃ドライブイン
 2271900	Mana's Manual
 2272040	Homebound
@@ -8661,6 +8669,7 @@
 2302180	DESTROY Simulator VR
 2302650	Cat Girl Creator
 2302830	Sadiubus
+2303060	Film Studio Manager
 2303080	Minigolf Galaxy
 2304130	Grounded Sim: Steam Edition
 2304470	Ascension X
@@ -8902,7 +8911,6 @@
 2395080	Dream of Echo
 2395320	Windy Waltz
 2396900	Enspell
-2396910	吞食天地2：誕生
 2397080	Explorer：Golden Empire
 2397100	Particle life on AI illust for Adult 1
 2397720	Racer
@@ -8911,6 +8919,7 @@
 2399470	9th Land
 2399850	Drunk Or Dead 2: Prologue
 2399940	Atomic Picnic: Prologue
+2400100	Odoya
 2400230	EroPhone RE
 2400560	My Motel
 2400570	Unalive 010
@@ -9240,7 +9249,6 @@
 2544030	Quiet on Set
 2544290	Order Us!
 2544660	Rolling for Romance
-2544880	Dreamland
 2545320	KurOba
 2546910	Summer at Catmai: Fishing Purrrfected
 2547640	Clanswoman
@@ -10806,6 +10814,7 @@
 3521860	Wolf on Rail
 3522040	Monster Women Suvivors
 3524410	TAOQUAN
+3524620	Theater of killing
 3524770	Ski Jumping Simulator
 3525140	Platform Park
 3525530	Corpse City: Zombies FPS
@@ -11149,6 +11158,7 @@
 3897470	ChessBoxing Championship
 3903630	You suck and I hate you: part 1
 3911260	Archomni
+3911780	100 Cats Lost in Halloween Havoc
 3915400	GladiMaker
 3921310	Sphereverse
 3922460	Darkstar Medical Mercenary
@@ -11184,6 +11194,7 @@
 3966450	Cookie of Desire
 3967270	侠义九州之武林传奇
 3972930	末日战姬ol
+3973520	Contract of Ashes
 3973900	What Was Home
 3977830	The Cowardly Pig
 3978040	Dreamlab
@@ -11393,6 +11404,7 @@
 4364690	Kat Kat: The Food Truck
 4364780	FRACTURA
 4365370	Marceline Richenwinnier +16 - Old Story
+4366640	HexHell
 4369200	Hot and Lovely : May Holiday
 4371940	Dragon Arena
 4372700	Narco Check
@@ -11557,6 +11569,7 @@
 4779460	Shoot Together
 4779520	Moe Mekuri Beauty and the Beast
 4779800	Unredeemable
+4784540	The Infinite Box
 4787250	Popular Kids
 4789260	Never Ending Hero RPG
 4790440	血色末路:屍潮
@@ -11586,7 +11599,6 @@
 4924590	Mumbai Chef - Junk Food Simulator
 4930540	Anomaly Tunnel
 4930800	Drone Orbit: An Incremental Space Mining Drift
-4940360	Pomoroid
 4946520	FUTA FEMBOY MINESWEEPER
 4948290	JOIN
 4951370	夯犇绿色传奇
@@ -11611,8 +11623,8 @@
 5052990	Don't Get Six
 5053500	Verilight
 5059600	Jumpy Mumpy
-5067250	Tank: Kill Them
 5081690	Packpunk
+5088140	Phantom Line: Prologue
 5089190	Price War
 5091600	Wild Legacy
 5105990	Hentai Clicker: Mika is streaming
