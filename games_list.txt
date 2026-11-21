@@ -91,7 +91,7 @@
 8230	Sam & Max 104: Abe Lincoln Must Die!
 8240	Sam & Max 105: Reality 2.0
 8250	Sam & Max 106: Bright Side of the Moon
-8260	Sam & Max: Season Two
+8260	Sam & Max 201: Ice Station Santa
 8270	Sam & Max 202: Moai Better Blues
 8280	Sam & Max 203: Night of the Raving Dead
 8290	Sam & Max 204: Chariots of the Dogs
@@ -3759,6 +3759,7 @@
 857230	The Vrennman Case
 857330	Trainiac
 857590	Ball Fall
+858080	Spoorky
 858490	Sanctus Mortem
 858530	Cat Lady
 858590	Last Tide
@@ -7707,6 +7708,7 @@
 1899210	Mire
 1899310	Too Lewd!
 1899410	Huboo Virtual Hub Experience
+1899960	ArcanoPlay
 1900170	Vargin Road-Dirty wedding ceremony and the ring of the chapel bell-
 1900370	BLOODZ
 1900390	Fish Cymophis
@@ -8636,6 +8638,7 @@
 2276000	SUA
 2276050	Proving Grounds
 2276580	Beef Jerky
+2276840	Quiz Quest
 2276910	OliVR
 2277780	Ara and the Empty Universe
 2279580	Red Crucible Tanks
@@ -10465,6 +10468,7 @@
 3195970	HELLGUARD
 3196420	cancelled
 3196690	My little flying shop
+3197860	Infinite Idle: Online Clicker RPG
 3198980	De:Lithe Last Memories
 3202980	Z Diaries
 3204400	Monster DNA
@@ -10621,6 +10625,8 @@
 3325340	Train World Driver
 3325840	Hollow Space
 3326350	Restart Heart
+3329000	Finger Fury Clicker
+3329020	Cookie Monster Clicker
 3329050	Velhodium Isle
 3331290	SKIBIDI BATTLE MULTIPLAYER TOILETS ATTACK
 3333450	Electronic Market Simulator: Prologue
@@ -10794,6 +10800,7 @@
 3464920	Flesh and Fury
 3465400	Homaysa: Free To Play
 3465510	ULYANA'S SHIFT
+3468510	Ball Torment
 3468850	Godwreath: Chapter 1
 3469380	Don't Let Me Rot
 3469880	Welcome to Camp Blue Lake
@@ -11235,6 +11242,7 @@
 3953870	인류보호회사
 3956500	BALANCED FOOD CalorieMate FOR GAME CREATORS - JELLY MISSION -
 3957440	Nightmare Returner
+3958030	Digital Scape
 3959570	Guns Cant Walk
 3961750	Goofy Lad
 3963240	Twisted Chance Online
@@ -11420,6 +11428,8 @@
 4290600	Ironsphere
 4290860	Vivi's Adventure
 4292050	Truck Mechanic: Dangerous Paths - First Mile
+4292480	Orbfall Reclaim the Planet
+4292970	SURA: Blade of Eternity
 4293180	天魔传奇
 4295130	Hurrican
 4295710	双龙传奇
@@ -11477,6 +11487,7 @@
 4399320	SPARTA 2035 – The Last Diamond
 4401910	TRIX
 4404090	Rapid Fire Girls - AwaAngel -
+4406970	Cat Screen
 4407780	Sparky's Sketch Quest
 4408430	Marceline Richenwinnier - Old Story
 4408570	Lines Must Cross
@@ -11527,6 +11538,7 @@
 4493260	AI Fatigue Shooter
 4495510	Plantation Simulator
 4499560	Party Knights
+4500560	MugenHeart for PC
 4500780	Touhou: Records of Wealth-Seeking
 4500830	Mirolin: The Big Show
 4501240	帝王霸业
@@ -11559,6 +11571,7 @@
 4535980	Talisman Codes
 4539450	足球大玩家
 4539590	Wax Rogue
+4543030	Exploiters
 4547900	DNO: Lone Courier
 4548750	Entropy Protocol
 4550090	My Coworkers Are Made Of Static
@@ -11624,6 +11637,7 @@
 4736920	GAL-Chat
 4743240	Creations : a visual novel
 4746690	Audio vibration sample bluetooth ps5 controller
+4749420	Suck Game For Friend
 4749860	OH NO, NOT ANOTHER L
 4753420	Celestia
 4757840	战法道传奇
@@ -11658,6 +11672,7 @@
 4898540	Debris Zone
 4899390	Maintain
 4903440	Parasite Survivor
+4907980	Call the Ambulance
 4915660	No Exit Protocol
 4918170	Dark Realms: Hoia Baciu
 4922930	Santa Is Unbreakable
@@ -11727,6 +11742,8 @@
 5405700	SKEFs Night Grill
 5412040	Distorid
 5420900	Chimera Haven: Survivors
+5459820	BlackOut!
 5462490	Storage Flipper
+5477930	Boris & the Second Sun
 5481110	Gold Miner Online: Claw Chaos
 5497420	The Dictatories

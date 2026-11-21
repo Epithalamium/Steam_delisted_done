@@ -2,45 +2,33 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-11-20 15:32 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-11-21 14:44 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11732 apps
+**Total tracked:** 11749 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [NeonBall](https://store.steampowered.com/app/548280/) (AppID: 548280)
-- [SpyHack](https://store.steampowered.com/app/687340/) (AppID: 687340)
-- [.T.E.S.T: Expected Behaviour](https://store.steampowered.com/app/771710/) (AppID: 771710)
-- [Zenith: Nexus](https://store.steampowered.com/app/1403370/) (AppID: 1403370)
-- [Oscar & Gems: Puzzle Quest](https://store.steampowered.com/app/1505450/) (AppID: 1505450)
-- [Mara's Quest](https://store.steampowered.com/app/1935720/) (AppID: 1935720)
-- [Avocado Puzzle Quest](https://store.steampowered.com/app/2080070/) (AppID: 2080070)
-- [Fateel](https://store.steampowered.com/app/2206590/) (AppID: 2206590)
-- [史莱姆糯米](https://store.steampowered.com/app/2934150/) (AppID: 2934150)
-- [East Defense](https://store.steampowered.com/app/3006020/) (AppID: 3006020)
-- [PIONER](https://store.steampowered.com/app/3105890/) (AppID: 3105890)
-- [Z Diaries](https://store.steampowered.com/app/3202980/) (AppID: 3202980)
-- [Snarfles](https://store.steampowered.com/app/3404300/) (AppID: 3404300)
-- [VSky-X MMORPG](https://store.steampowered.com/app/3681590/) (AppID: 3681590)
-- [100 Cats Lost in Undersea Wonders](https://store.steampowered.com/app/3911730/) (AppID: 3911730)
-- [PUBG: Black Budget](https://store.steampowered.com/app/4077740/) (AppID: 4077740)
-- [Flask & Fury](https://store.steampowered.com/app/4284950/) (AppID: 4284950)
-- [Carly's World](https://store.steampowered.com/app/4314750/) (AppID: 4314750)
-- [Lines Must Cross](https://store.steampowered.com/app/4408570/) (AppID: 4408570)
-- [Shards of Primora](https://store.steampowered.com/app/4440150/) (AppID: 4440150)
-- [Wane’s](https://store.steampowered.com/app/4445000/) (AppID: 4445000)
-- [InnKeeper](https://store.steampowered.com/app/4506200/) (AppID: 4506200)
-- [B.E.C.C.: Dead District](https://store.steampowered.com/app/4827830/) (AppID: 4827830)
-- [GoblinGate](https://store.steampowered.com/app/4853380/) (AppID: 4853380)
-- [Arxanum Idle](https://store.steampowered.com/app/4953860/) (AppID: 4953860)
-- [Night Drive - Anomaly](https://store.steampowered.com/app/5111110/) (AppID: 5111110)
-- [Seven Sins Poker](https://store.steampowered.com/app/5125700/) (AppID: 5125700)
-- [HOLY CAPYBARA](https://store.steampowered.com/app/5196040/) (AppID: 5196040)
-- [Cardsharp Cats: Magic Card Game](https://store.steampowered.com/app/5240920/) (AppID: 5240920)
+- [Spoorky](https://store.steampowered.com/app/858080/) (AppID: 858080)
+- [ArcanoPlay](https://store.steampowered.com/app/1899960/) (AppID: 1899960)
+- [Quiz Quest](https://store.steampowered.com/app/2276840/) (AppID: 2276840)
+- [Infinite Idle: Online Clicker RPG](https://store.steampowered.com/app/3197860/) (AppID: 3197860)
+- [Finger Fury Clicker](https://store.steampowered.com/app/3329000/) (AppID: 3329000)
+- [Cookie Monster Clicker](https://store.steampowered.com/app/3329020/) (AppID: 3329020)
+- [Ball Torment](https://store.steampowered.com/app/3468510/) (AppID: 3468510)
+- [Digital Scape](https://store.steampowered.com/app/3958030/) (AppID: 3958030)
+- [Orbfall Reclaim the Planet](https://store.steampowered.com/app/4292480/) (AppID: 4292480)
+- [SURA: Blade of Eternity](https://store.steampowered.com/app/4292970/) (AppID: 4292970)
+- [Cat Screen](https://store.steampowered.com/app/4406970/) (AppID: 4406970)
+- [MugenHeart for PC](https://store.steampowered.com/app/4500560/) (AppID: 4500560)
+- [Exploiters](https://store.steampowered.com/app/4543030/) (AppID: 4543030)
+- [Suck Game For Friend](https://store.steampowered.com/app/4749420/) (AppID: 4749420)
+- [Call the Ambulance](https://store.steampowered.com/app/4907980/) (AppID: 4907980)
+- [BlackOut!](https://store.steampowered.com/app/5459820/) (AppID: 5459820)
+- [Boris & the Second Sun](https://store.steampowered.com/app/5477930/) (AppID: 5477930)
 
 ---
 
