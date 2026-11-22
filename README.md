@@ -2,33 +2,21 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-11-21 14:44 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-11-22 14:40 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11749 apps
+**Total tracked:** 11754 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Spoorky](https://store.steampowered.com/app/858080/) (AppID: 858080)
-- [ArcanoPlay](https://store.steampowered.com/app/1899960/) (AppID: 1899960)
-- [Quiz Quest](https://store.steampowered.com/app/2276840/) (AppID: 2276840)
-- [Infinite Idle: Online Clicker RPG](https://store.steampowered.com/app/3197860/) (AppID: 3197860)
-- [Finger Fury Clicker](https://store.steampowered.com/app/3329000/) (AppID: 3329000)
-- [Cookie Monster Clicker](https://store.steampowered.com/app/3329020/) (AppID: 3329020)
-- [Ball Torment](https://store.steampowered.com/app/3468510/) (AppID: 3468510)
-- [Digital Scape](https://store.steampowered.com/app/3958030/) (AppID: 3958030)
-- [Orbfall Reclaim the Planet](https://store.steampowered.com/app/4292480/) (AppID: 4292480)
-- [SURA: Blade of Eternity](https://store.steampowered.com/app/4292970/) (AppID: 4292970)
-- [Cat Screen](https://store.steampowered.com/app/4406970/) (AppID: 4406970)
-- [MugenHeart for PC](https://store.steampowered.com/app/4500560/) (AppID: 4500560)
-- [Exploiters](https://store.steampowered.com/app/4543030/) (AppID: 4543030)
-- [Suck Game For Friend](https://store.steampowered.com/app/4749420/) (AppID: 4749420)
-- [Call the Ambulance](https://store.steampowered.com/app/4907980/) (AppID: 4907980)
-- [BlackOut!](https://store.steampowered.com/app/5459820/) (AppID: 5459820)
-- [Boris & the Second Sun](https://store.steampowered.com/app/5477930/) (AppID: 5477930)
+- [Iron Grip: Marauders](https://store.steampowered.com/app/31740/) (AppID: 31740)
+- [LOLClassic](https://store.steampowered.com/app/3507440/) (AppID: 3507440)
+- [Demon Lord's Corruption Codex](https://store.steampowered.com/app/4728940/) (AppID: 4728940)
+- [新説魔法少女+](https://store.steampowered.com/app/5389360/) (AppID: 5389360)
+- [The Last Brothel Bunker](https://store.steampowered.com/app/5477290/) (AppID: 5477290)
 
 ---
 

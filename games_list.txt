@@ -341,6 +341,7 @@
 31290	Back to the Future: Ep 1 - It's About Time
 31410	Zombie Driver
 31700	Iron Grip: Warlord
+31740	Iron Grip: Marauders
 31980	Nancy Drew: Ransom of the Seven Ships
 32100	Elements
 32130	Penguins' Journey
@@ -10847,6 +10848,7 @@
 3506030	The Stones
 3506160	Sweatshop Simulator
 3507030	Zombie Marauders
+3507440	LOLClassic
 3507520	Mors Memora
 3508100	DAO
 3508970	Wake Up Kid
@@ -11634,6 +11636,7 @@
 4724610	Zero Hour Night
 4725200	Femboy Pirates
 4726680	Moggmon
+4728940	Demon Lord's Corruption Codex
 4736920	GAL-Chat
 4743240	Creations : a visual novel
 4746690	Audio vibration sample bluetooth ps5 controller
@@ -11738,12 +11741,14 @@
 5371410	Dead Reckoning
 5371940	One Must Fall 2097
 5373490	破铜烂铁
+5389360	新説魔法少女+
 5393420	Elya
 5405700	SKEFs Night Grill
 5412040	Distorid
 5420900	Chimera Haven: Survivors
 5459820	BlackOut!
 5462490	Storage Flipper
+5477290	The Last Brothel Bunker
 5477930	Boris & the Second Sun
 5481110	Gold Miner Online: Claw Chaos
 5497420	The Dictatories
