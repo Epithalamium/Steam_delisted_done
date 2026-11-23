@@ -173,6 +173,8 @@
 12240	Grand Theft Auto: Vice City
 12250	Grand Theft Auto: San Andreas
 12260	Max Payne 2 (RU)
+12270	Bully RU
+12290	Manhunt RU
 12300	Baseball Mogul 2008
 12340	Jack Keane
 12400	Baseball Mogul 2009
@@ -656,6 +658,7 @@
 108200	Ticket to Ride
 108210	Memoir '44 Online
 110700	Grand Theft Auto Vice City RU
+110710	Midnight Club 2 RU
 110720	Grand Theft Auto San Andreas RU
 111720	Nuclear Dawn - Beta (post release)
 111730	Nuclear Dawn - Beta: Dedicated Server (post release)
@@ -693,7 +696,6 @@
 203450	Isla Dorada
 203490	Star Defender
 203510	Fortune Summoners: Secret of the Elemental Stone
-203680	F1 Race Stars
 203790	War of the Roses Testing 2
 203810	Dear Esther
 203850	Microsoft Flight
@@ -1662,6 +1664,7 @@
 379380	ReLoaded
 380130	Warhawks
 380190	Pre Load App Test
+380670	Final Approach
 380700	Zombie Killtime
 380920	Boss 101
 381090	Ted by Dawn
@@ -2124,6 +2127,7 @@
 477970	Bloodstained: Ritual of the Night
 478020	Old School 8-in-1 bundle
 479020	Pirates of the Polygon Sea
+481420	Final Approach: Pilot Edition
 482730	Football Manager 2017
 482750	Football Manager Touch 2017
 483260	Rover The Dragonslayer
@@ -2162,6 +2166,7 @@
 494160	Lionheart
 494320	Wizrogue - Labyrinth of Wizardry
 494370	Orbital Strike: Arena
+494960	Twisted Arrow
 495060	Table Tennis VR
 495310	VRbloX
 495770	Free Balling
@@ -3452,6 +3457,7 @@
 793170	Seeking Dawn - Free to Play Edition
 793360	Big Crown Showdown
 793680	Fission Superstar X
+793690	Final Assault
 793950	光明大陆
 794290	Run away boy
 794710	挙式VR 鴻上大和 編 Wedding VR : Yamato
@@ -6094,6 +6100,7 @@
 1383550	Soul Dossier
 1383730	Absolutely Goode Championship
 1384150	FUTURE NOIR
+1385060	Stagehands!
 1385300	Eternal Quest
 1385460	Drifters Loot the Galaxy
 1385510	Back 4 Blood Beta
@@ -10102,7 +10109,6 @@
 2980220	Bot Beats
 2980560	Last Dissent : Lockdown - Day 0
 2980630	Beat Meet
-2980670	Voxifold
 2980690	哆啦A梦飞车
 2981820	The Sheng's Written-Journey of Hoo:Prologue
 2982600	Campgrounds Adventures
@@ -11566,6 +11572,7 @@
 4526190	Hold It In
 4527550	Flounder
 4528240	暗黑战神
+4528410	Logos Orbit
 4529300	De profundis 1454
 4532270	VStarsCenter
 4533440	Locks 'n' Leaps
@@ -11592,6 +11599,7 @@
 4589400	SUBFLOOR
 4590020	Kill Source: Neon Hemorrhage
 4590790	Defense of Kyrath
+4590990	Ouroboros Solitaire
 4598310	Uptime 99.9%: Datacenter Simulator
 4609840	The Archmage Who Defeated the Demon King Wants to Be Ravaged by Mobs in a Peaceful World
 4612610	Graphictoria
@@ -11639,6 +11647,7 @@
 4728940	Demon Lord's Corruption Codex
 4736920	GAL-Chat
 4743240	Creations : a visual novel
+4743390	Empire Together
 4746690	Audio vibration sample bluetooth ps5 controller
 4749420	Suck Game For Friend
 4749860	OH NO, NOT ANOTHER L
@@ -11690,6 +11699,7 @@
 4956290	Protocol - Chapter 1: Limbo
 4963050	Corelink Protocol
 4967600	Gacha Challenge
+4979930	Nuts Pipeline
 4983500	Lo-Fi with Ruka
 4983570	Death Paradise
 4986720	Broken Front
@@ -11720,6 +11730,7 @@
 5150620	Scan N Go: Store Simulator
 5159880	the chair across the table stayed empty
 5166980	Wonderboy in Monster Land
+5168940	Seven Nights of the Black Tide
 5176270	Roadside Odyssey
 5183910	Okubo: The Dragon of Major Cases
 5196040	HOLY CAPYBARA
@@ -11751,4 +11762,5 @@
 5477290	The Last Brothel Bunker
 5477930	Boris & the Second Sun
 5481110	Gold Miner Online: Claw Chaos
+5492210	French Protest Simulator
 5497420	The Dictatories
