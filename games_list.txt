@@ -889,7 +889,6 @@
 226320	Marvel Heroes Omega
 226340	Forge Beta
 226410	RIDGE RACER™ Driftopia
-226580	F1 2014
 226600	Octodad: Dadliest Catch Beta
 226760	Rugby Challenge 2
 226920	Hellraid
@@ -989,7 +988,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -5522,7 +5521,6 @@
 1234060	HumanBloodSandwich
 1234290	Paug
 1234300	DuelGlory
-1234460	Bernadette and the Demon Circus
 1234810	Unbound: Worlds Apart Prologue
 1235310	Exhaust
 1235940	Annihilation
@@ -7086,6 +7084,7 @@
 1680260	Dead-End Detective: The Sixpence Strangler
 1680280	Amidst The Darkness
 1680590	Coral Island Alpha
+1680700	Purgo box
 1681460	Dark Edges
 1681580	Draken
 1681610	COMICOMI VR云漫展
@@ -11288,6 +11287,7 @@
 4012060	Leadstorm Survivors
 4012770	Megitsune (Vixen)
 4014470	BLEEDOUT
+4015110	Jinagan
 4015400	2Hours
 4017150	Pure Exsotic - Story Simulator
 4018590	Mutants
@@ -11394,6 +11394,7 @@
 4199540	Summer Delicious Simulator: Prologue
 4200140	The Lost Experiment
 4201420	永恒传奇
+4201490	黑白都市的隐秘恋曲
 4203540	垂钓大师 Fishing Master
 4204150	Endless Nightbreak: Blood Horde
 4205600	StimDock
