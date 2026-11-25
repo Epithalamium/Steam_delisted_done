@@ -988,7 +988,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See Game
+248270	Songs2See
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -1123,6 +1123,7 @@
 280200	Eterium
 280440	MAV
 280460	Pulstar
+280620	Fiesta Online
 280910	T.E.C. 3001
 281130	Raven's Cry
 281690	The Legend of Korra™
@@ -7468,6 +7469,7 @@
 1813790	Sin Bearers Tactics
 1814640	True Bum Simulator
 1815500	Schizophrenia
+1815660	Dungeons Of Honor
 1815740	The Healer
 1816670	GUNDAM EVOLUTION
 1816940	Nephilim Sagas
@@ -9301,7 +9303,6 @@
 2555660	Beasts Lair
 2555750	Discarnate: Locust
 2558700	The Backrooms Deluxe
-2558860	Underground gnome
 2559680	Space Digger
 2559970	Global Transport
 2560080	Grin Zone: Fun House
@@ -9610,7 +9611,6 @@
 2713550	Cursed Dawn
 2713640	Skirmish Squad
 2713860	GRUNDER
-2713870	Infected Bunker
 2713930	Overhills
 2714660	Y'Ryando
 2714770	Cosmic Horizons: Path of the Wanderer
@@ -9641,8 +9641,6 @@
 2730640	Prospector: The First Contract
 2730920	Fat Lads
 2731000	1991
-2731080	Small Demon
-2731090	Valuable Cargo
 2731170	Inferni: Hope & Fear
 2731200	Shadowkin: Dominion
 2731310	Nsfw.Voice.Box
@@ -10496,7 +10494,7 @@
 3221230	Fallen Kings
 3221450	Snapshot!
 3221800	Hardstrike: The Fall
-3224610	妖靈傳說
+3224610	靈靈靈~妖靈傳說
 3225250	Kingdom Remastered
 3225680	Tech Market Simulator: Prologue
 3225700	Hellmate
