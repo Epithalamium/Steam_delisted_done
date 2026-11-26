@@ -7369,6 +7369,7 @@
 1778960	Mystery of Fortune 2 Refine
 1779490	虚幻小镇的蔷薇
 1779510	Conquicktory
+1779950	Goo Keeper
 1779970	Asterism
 1780180	Miremfall
 1780330	Element Quest
@@ -11216,6 +11217,7 @@
 3896480	Raid One : 1 vs 5 Online Boss Battle
 3896860	Conquer the Tower
 3897470	ChessBoxing Championship
+3901990	Apoclone
 3903630	You suck and I hate you: part 1
 3911260	Archomni
 3911730	100 Cats Lost in Undersea Wonders
@@ -11672,6 +11674,7 @@
 4842900	Crops Rebel
 4844080	Prison Cat
 4844150	HardFormer
+4846920	PropHaunt
 4850770	Moe Mekuri Beauty and the Beast 2
 4851270	Deadwood House
 4853380	GoblinGate

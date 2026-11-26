@@ -2,18 +2,19 @@
 
 Automatically tracks apps listed on [steam-tracker.com/apps/delisted](https://steam-tracker.com/apps/delisted).
 
-Updated every 2 days via GitHub Actions. Last updated: **2026-11-25 17:19 UTC**
+Updated every 2 days via GitHub Actions. Last updated: **2026-11-26 16:59 UTC**
 
 **Filters applied:** All default item types
 
-**Total tracked:** 11765 apps
+**Total tracked:** 11768 apps
 
 ---
 
 ## Newly Added Since Last Check
 
-- [Fiesta Online](https://store.steampowered.com/app/280620/) (AppID: 280620)
-- [Dungeons Of Honor](https://store.steampowered.com/app/1815660/) (AppID: 1815660)
+- [Goo Keeper](https://store.steampowered.com/app/1779950/) (AppID: 1779950)
+- [Apoclone](https://store.steampowered.com/app/3901990/) (AppID: 3901990)
+- [PropHaunt](https://store.steampowered.com/app/4846920/) (AppID: 4846920)
 
 ---
 
