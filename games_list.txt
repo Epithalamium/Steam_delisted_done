@@ -260,7 +260,7 @@
 21660	Street Fighter IV
 21730	CSI: Hard Evidence
 21750	CSI: NY - The Game
-21760	World in Conflict
+21760	World In Conflict
 21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
 21920	Wheelman
@@ -375,7 +375,6 @@
 33549	Dawn of Magic 2
 33740	John Deere: Drive Green
 33750	Prison Tycoon 4: Supermax
-33900	Arma 2
 34000	Football Manager 2010
 34020	Football Manager 2010 Korean
 34180	Vancouver 2010: The Official Video Game of the Olympic Winter Games
@@ -402,7 +401,7 @@
 36150	Westward Collection
 36160	Westward 2
 36170	Westward 3
-36180	Cake Mania Collection
+36180	Cake Mania
 36190	Cake Mania 2
 36200	Cake Mania 3
 36210	Monster Mash
@@ -629,6 +628,7 @@
 94520	Back to the Future: Ep 4 - Double Visions
 94530	Back to the Future: Ep 5 - OUTATIME
 95000	Super Splatters
+95200	Trainyard
 95500	Your Doodles Are Bugged!
 96300	Ravaged Zombie Apocalypse
 96400	Shoot Many Robots
@@ -988,7 +988,7 @@
 247730	Nether
 247770	Cabela's Big Game Hunter Pro Hunts
 248250	Survive
-248270	Songs2See
+248270	Songs2See Game
 248410	Legends of Aethereus
 248590	Black Annex
 248630	Kingdoms Rise
@@ -1202,7 +1202,6 @@
 297390	Collateral
 297660	Super Rad Raygun
 297810	Landmark
-298520	Orbital Gear
 298890	Adventure Time: The Secret Of The Nameless Kingdom
 299010	Mana Crusher
 299030	Blood: One Unit Whole Blood
@@ -3449,7 +3448,6 @@
 792280	Lingua Magicka
 792390	Red Wizard Island
 792530	The Others
-792610	King of the Dwarves: Underground City Builder
 792670	The Woods
 792920	BRIG 12
 792990	Identity
@@ -3477,6 +3475,7 @@
 796650	Frio2 - Memory of my sister
 796820	Blade Tournament
 797640	Monster RPG 3
+797660	Legend Knight
 798230	Aima Wars: Steampunk & Orcs
 798640	Olea's Messenger
 798730	rOt
@@ -6045,7 +6044,6 @@
 1371520	Red Colony Uncensored
 1372220	Medievalien
 1372680	Castle Grimholt
-1372870	game
 1372880	The Day Before
 1373050	I am Savage 她不香吗
 1373220	Live the Life
@@ -6553,6 +6551,7 @@
 1508230	Meat Lead Fire
 1508490	Commie Killer 2069
 1508730	末日血战
+1508770	Selfpolis
 1508990	PlecosKEEP
 1509110	Nympho wife
 1509140	Crosswalks
@@ -6687,6 +6686,7 @@
 1547990	Vivian's Kurse
 1548410	Boopineer
 1548510	
+1548520	DARKEST DAYS
 1548550	The Tower
 1548650	LudoNarraCon Supporter Pack featuring Cyrano
 1549000	Retro Classix: Express Raider
@@ -7715,6 +7715,7 @@
 1898320	RIFT
 1898640	The Dark Journey
 1898710	DOOM 3: Bethesda.net Edition
+1898920	War of The Worlds
 1899210	Mire
 1899310	Too Lewd!
 1899410	Huboo Virtual Hub Experience
@@ -7803,6 +7804,7 @@
 1928910	TETRIS: Flower Garden
 1929380	Caverns of Evil
 1929510	Pretty girl cube - 1
+1929980	Pogan
 1930520	Factropy
 1930610	女射圆舞曲
 1930890	SweetHex: Celestial Encounters
@@ -8534,6 +8536,7 @@
 2226860	집착의 망자 - 집으로부터의 탈출 For Visual edition
 2227240	Grassassins
 2227880	Battle Teams 2 Türkçe Test
+2229670	Lucy´s World
 2230130	COLLATERAL DAMAGE
 2230240	Jingle Balls
 2230780	Timekeepers Battleground
@@ -8559,6 +8562,7 @@
 2239440	Train Mechanic Simulator VR
 2239460	Project Backrooms
 2239560	Gardenia VR
+2239640	Earthblade
 2239720	Gardenia
 2240610	FrozenPizza
 2240680	Saboteur SiO
@@ -8876,6 +8880,7 @@
 2366120	Build Master: MarsVille
 2366360	Chronicles Of Errodean
 2366490	DRIFTER’S TALES: Recasted - A narrative board game
+2366530	Flashpoint Campaigns: Southern Storm
 2367980	The Witch, Wife, & the Wish
 2368340	Pixeria Online
 2368870	Dragon's Doom: A Skyhopper Tale
@@ -9309,7 +9314,6 @@
 2560080	Grin Zone: Fun House
 2560150	悸恐Palpitations and fears
 2560760	Classified Chaos
-2560840	Steel Aces
 2561150	BRAVE22 -ブレイブ22-
 2561170	HotDog TD
 2561690	eseala
@@ -9339,6 +9343,7 @@
 2575220	Wildkins
 2575810	After Work
 2576140	Endless Cold Journey
+2576280	Eternal Damnation
 2576530	热血指挥官
 2576680	Manor of Mysteries
 2576960	Ashes of Arcanum
@@ -9570,6 +9575,7 @@
 2687590	Sanctuary in Time
 2689250	Metaforces Bowling Center
 2689500	FishVerse - Ultimate Fishing
+2689920	WarSpawn
 2690070	Station Inc
 2690220	Cubitrix
 2690250	Back To School
@@ -9762,6 +9768,7 @@
 2800970	Shipwrecked: Lost Colony
 2801840	Edward's Manor
 2802550	Godrop:Prologue
+2802690	Farmer's Father: The Origins
 2803100	Galactic Annihilation
 2803130	Assassins Unleashed: The Apocalypse
 2803310	The Detractor
@@ -9941,6 +9948,7 @@
 2898940	Melstroy Survivor
 2899400	Under The Whisper
 2899730	圣闻志狐游传 The Sheng's Written-Journey of Hoo
+2899890	飛天歷險2024
 2900910	Atomic Arena
 2901560	Broadvay
 2901800	Deck Girls Hunters
@@ -10376,6 +10384,7 @@
 3134860	Jar
 3135560	Chasm
 3135670	Bestiary Survivors: Prologue
+3136170	E-FCC
 3136360	THE SEX CULT
 3136960	仙剑蜀山
 3139410	Elegy of Fate
@@ -10777,6 +10786,7 @@
 3444560	Sweet Succubus
 3444750	Most Quietly
 3444880	FOE:Remains
+3445230	Hellgate Reiko
 3445280	Soar: Prologue
 3446810	Slime Bros. Maker
 3447000	米姆米姆哈
@@ -11109,6 +11119,7 @@
 3748060	雨の降る家からの脱出
 3748720	MiniCar Shop Simulator: Prologue
 3752520	Ride Up
+3753050	Facility of Rizriz 2
 3753520	Tu invitada alienígena: Mika Nyanami
 3757350	Pro Soccer Online 2
 3758670	Team Fortress 2: Reborn
@@ -11192,6 +11203,7 @@
 3862560	Snowfield Passion
 3865030	霓渊之城：爱神觉醒
 3865120	The Backrooms : Noclipped
+3865250	Piggy Only Up
 3866880	Dominated by: Yandere Goth Delinquent Sister
 3869390	Ronald Rump - Fake Assassin Simulator: SAVE AMERICA AGAIN
 3872210	Ariana's Perverted Diary
@@ -11206,6 +11218,7 @@
 3879980	Gloomy Clues Remake
 3882380	Algatraz
 3883550	Catickle
+3885600	1337
 3886940	Focus Group - First Day
 3887650	Neon Divide
 3889880	Fruit Merge Blast
@@ -11526,6 +11539,7 @@
 4457970	FENRIR
 4465280	Catagon
 4471320	ValveTestApp4471320
+4477490	ValveTestApp4477490
 4478000	ValveTestApp4478000
 4478180	ValveTestApp4478180
 4479510	ValveTestApp4479510
@@ -11654,7 +11668,6 @@
 4749860	OH NO, NOT ANOTHER L
 4753420	Celestia
 4757840	战法道传奇
-4760480	You Are Empty: Absolute Edition
 4767380	隐秘之潮
 4779460	Shoot Together
 4779520	Moe Mekuri Beauty and the Beast
@@ -11727,6 +11740,7 @@
 5111110	Night Drive - Anomaly
 5123540	The Producer
 5125700	Seven Sins Poker
+5129690	Blova
 5132930	The Cauldron Eats First
 5140160	Starflare Dominion
 5150620	Scan N Go: Store Simulator
